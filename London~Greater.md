@@ -1,5 +1,8 @@
 Describes [[City~London]] and surrounding Area.
 
+## #has_/map 
+
+
 ```leaflet
 id: London
 geojsonFolder: ./London~Greater/
