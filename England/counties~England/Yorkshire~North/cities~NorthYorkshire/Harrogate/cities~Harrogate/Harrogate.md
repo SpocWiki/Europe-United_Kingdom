@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.98] 
 [name::Harrogate] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harrogate|Harrogate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harrogate.public|Harrogate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harrogate.internal|Harrogate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harrogate.protect|Harrogate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harrogate.private|Harrogate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harrogate.personal|Harrogate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harrogate.secret|Harrogate.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Harrogate|Harrogate]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Harrogate.public|Harrogate.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Harrogate.internal|Harrogate.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Harrogate.protect|Harrogate.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Harrogate.private|Harrogate.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Harrogate.personal|Harrogate.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Harrogate.secret|Harrogate.secret]] 

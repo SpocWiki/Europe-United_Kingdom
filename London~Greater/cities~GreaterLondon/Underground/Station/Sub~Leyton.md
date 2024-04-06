@@ -5,7 +5,7 @@ mapzoom: [8,15]
 mapmarker: subway 
 tags:
 - geo/station
-- Europe/United_Kingdom/City~London
+- Europe/UK/City~London
 ---
 SpocWebEntityId: 156007
 [StationSId::] 
@@ -18,7 +18,7 @@ confidential: public
 [zone::3] 
 [Num_lines::1] 
 [switch-to-Rail::0] 
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 City :: [[../../../London]]  
 
 
@@ -38,10 +38,10 @@ FROM [[]]
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Leyton|Sub~Leyton]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Leyton.public|Sub~Leyton.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Leyton.internal|Sub~Leyton.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Leyton.protect|Sub~Leyton.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Leyton.private|Sub~Leyton.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Leyton.personal|Sub~Leyton.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Leyton.secret|Sub~Leyton.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Leyton|Sub~Leyton]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Leyton.public|Sub~Leyton.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Leyton.internal|Sub~Leyton.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Leyton.protect|Sub~Leyton.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Leyton.private|Sub~Leyton.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Leyton.personal|Sub~Leyton.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Leyton.secret|Sub~Leyton.secret]] 

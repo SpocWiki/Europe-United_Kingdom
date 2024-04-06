@@ -40,11 +40,11 @@ markerFolder: ./Magherafelt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Magherafelt|Magherafelt]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Magherafelt.public|Magherafelt.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Magherafelt.internal|Magherafelt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Magherafelt.protect|Magherafelt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Magherafelt.private|Magherafelt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Magherafelt.personal|Magherafelt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Magherafelt.secret|Magherafelt.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Magherafelt|Magherafelt]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Magherafelt.public|Magherafelt.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Magherafelt.internal|Magherafelt.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Magherafelt.protect|Magherafelt.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Magherafelt.private|Magherafelt.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Magherafelt.personal|Magherafelt.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Magherafelt.secret|Magherafelt.secret]] 
 

@@ -5,7 +5,7 @@ mapzoom: [8,15]
 mapmarker: subway 
 tags:
 - geo/station
-- Europe/United_Kingdom/City~London
+- Europe/UK/City~London
 ---
 SpocWebEntityId: 155926
 [StationSId::] 
@@ -18,7 +18,7 @@ confidential: public
 [zone::3] 
 [Num_lines::1] 
 [switch-to-Rail::0] 
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 City :: [[../../../London]]  
 
 
@@ -38,10 +38,10 @@ FROM [[]]
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Cyprus|Sub~Cyprus]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Cyprus.public|Sub~Cyprus.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Cyprus.internal|Sub~Cyprus.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Cyprus.protect|Sub~Cyprus.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Cyprus.private|Sub~Cyprus.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Cyprus.personal|Sub~Cyprus.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Cyprus.secret|Sub~Cyprus.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Cyprus|Sub~Cyprus]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Cyprus.public|Sub~Cyprus.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Cyprus.internal|Sub~Cyprus.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Cyprus.protect|Sub~Cyprus.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Cyprus.private|Sub~Cyprus.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Cyprus.personal|Sub~Cyprus.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Cyprus.secret|Sub~Cyprus.secret]] 

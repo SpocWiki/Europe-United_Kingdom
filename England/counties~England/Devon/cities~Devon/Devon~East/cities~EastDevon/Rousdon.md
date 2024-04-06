@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.72] 
 [name::Rousdon] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rousdon|Rousdon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rousdon.public|Rousdon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rousdon.internal|Rousdon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rousdon.protect|Rousdon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rousdon.private|Rousdon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rousdon.personal|Rousdon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rousdon.secret|Rousdon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Rousdon|Rousdon]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Rousdon.public|Rousdon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Rousdon.internal|Rousdon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Rousdon.protect|Rousdon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Rousdon.private|Rousdon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Rousdon.personal|Rousdon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Rousdon.secret|Rousdon.secret]] 

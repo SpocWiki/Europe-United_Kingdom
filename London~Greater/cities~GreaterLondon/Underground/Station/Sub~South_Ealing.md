@@ -5,7 +5,7 @@ mapzoom: [8,15]
 mapmarker: subway 
 tags:
 - geo/station
-- Europe/United_Kingdom/City~London
+- Europe/UK/City~London
 ---
 SpocWebEntityId: 156077
 [StationSId::] 
@@ -18,7 +18,7 @@ confidential: public
 [zone::3] 
 [Num_lines::1] 
 [switch-to-Rail::0] 
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 City :: [[../../../London]]  
 
 
@@ -38,10 +38,10 @@ FROM [[]]
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~South_Ealing|Sub~South_Ealing]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~South_Ealing.public|Sub~South_Ealing.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~South_Ealing.internal|Sub~South_Ealing.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~South_Ealing.protect|Sub~South_Ealing.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~South_Ealing.private|Sub~South_Ealing.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~South_Ealing.personal|Sub~South_Ealing.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~South_Ealing.secret|Sub~South_Ealing.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Ealing|Sub~South_Ealing]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Ealing.public|Sub~South_Ealing.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Ealing.internal|Sub~South_Ealing.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Ealing.protect|Sub~South_Ealing.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Ealing.private|Sub~South_Ealing.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Ealing.personal|Sub~South_Ealing.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Ealing.secret|Sub~South_Ealing.secret]] 

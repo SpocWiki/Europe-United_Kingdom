@@ -40,11 +40,11 @@ markerFolder: ./Blaenau_Gwent/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Blaenau_Gwent|Blaenau_Gwent]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Blaenau_Gwent.public|Blaenau_Gwent.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Blaenau_Gwent.internal|Blaenau_Gwent.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Blaenau_Gwent.protect|Blaenau_Gwent.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Blaenau_Gwent.private|Blaenau_Gwent.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Blaenau_Gwent.personal|Blaenau_Gwent.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Blaenau_Gwent.secret|Blaenau_Gwent.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent|Blaenau_Gwent]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.public|Blaenau_Gwent.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.internal|Blaenau_Gwent.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.protect|Blaenau_Gwent.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.private|Blaenau_Gwent.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.personal|Blaenau_Gwent.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.secret|Blaenau_Gwent.secret]] 
 

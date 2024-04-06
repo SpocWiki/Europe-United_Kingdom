@@ -40,11 +40,11 @@ markerFolder: ./Angus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Angus|Angus]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Angus.public|Angus.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Angus.internal|Angus.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Angus.protect|Angus.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Angus.private|Angus.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Angus.personal|Angus.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Angus.secret|Angus.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Angus|Angus]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Angus.public|Angus.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Angus.internal|Angus.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Angus.protect|Angus.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Angus.private|Angus.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Angus.personal|Angus.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Angus.secret|Angus.secret]] 
 

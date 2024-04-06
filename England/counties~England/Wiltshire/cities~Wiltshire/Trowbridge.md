@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.32] 
 [name::Trowbridge] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Trowbridge|Trowbridge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Trowbridge.public|Trowbridge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Trowbridge.internal|Trowbridge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Trowbridge.protect|Trowbridge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Trowbridge.private|Trowbridge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Trowbridge.personal|Trowbridge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Trowbridge.secret|Trowbridge.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Trowbridge|Trowbridge]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.public|Trowbridge.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.internal|Trowbridge.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.protect|Trowbridge.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.private|Trowbridge.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.personal|Trowbridge.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.secret|Trowbridge.secret]] 

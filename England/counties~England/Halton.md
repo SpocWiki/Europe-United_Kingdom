@@ -40,11 +40,11 @@ markerFolder: ./Halton/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Halton|Halton]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Halton.public|Halton.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Halton.internal|Halton.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Halton.protect|Halton.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Halton.private|Halton.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Halton.personal|Halton.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Halton.secret|Halton.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Halton|Halton]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Halton.public|Halton.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Halton.internal|Halton.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Halton.protect|Halton.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Halton.private|Halton.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Halton.personal|Halton.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Halton.secret|Halton.secret]] 
 

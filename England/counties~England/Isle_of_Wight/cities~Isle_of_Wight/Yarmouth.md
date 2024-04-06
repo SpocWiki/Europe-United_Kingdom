@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.7] 
 [name::Yarmouth] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarmouth|Yarmouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarmouth.public|Yarmouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarmouth.internal|Yarmouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarmouth.protect|Yarmouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarmouth.private|Yarmouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarmouth.personal|Yarmouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarmouth.secret|Yarmouth.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Yarmouth|Yarmouth]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.public|Yarmouth.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.internal|Yarmouth.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.protect|Yarmouth.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.private|Yarmouth.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.personal|Yarmouth.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.secret|Yarmouth.secret]] 

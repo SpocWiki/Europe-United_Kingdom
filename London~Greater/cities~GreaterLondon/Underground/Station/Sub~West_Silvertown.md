@@ -5,7 +5,7 @@ mapzoom: [8,15]
 mapmarker: subway 
 tags:
 - geo/station
-- Europe/United_Kingdom/City~London
+- Europe/UK/City~London
 ---
 SpocWebEntityId: 156176
 [StationSId::] 
@@ -18,7 +18,7 @@ confidential: public
 [zone::3] 
 [Num_lines::1] 
 [switch-to-Rail::0] 
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 City :: [[../../../London]]  
 
 
@@ -38,10 +38,10 @@ FROM [[]]
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~West_Silvertown|Sub~West_Silvertown]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~West_Silvertown.public|Sub~West_Silvertown.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~West_Silvertown.internal|Sub~West_Silvertown.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~West_Silvertown.protect|Sub~West_Silvertown.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~West_Silvertown.private|Sub~West_Silvertown.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~West_Silvertown.personal|Sub~West_Silvertown.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~West_Silvertown.secret|Sub~West_Silvertown.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~West_Silvertown|Sub~West_Silvertown]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~West_Silvertown.public|Sub~West_Silvertown.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~West_Silvertown.internal|Sub~West_Silvertown.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~West_Silvertown.protect|Sub~West_Silvertown.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~West_Silvertown.private|Sub~West_Silvertown.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~West_Silvertown.personal|Sub~West_Silvertown.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~West_Silvertown.secret|Sub~West_Silvertown.secret]] 

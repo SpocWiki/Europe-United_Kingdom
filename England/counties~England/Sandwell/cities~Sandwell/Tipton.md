@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.53] 
 [name::Tipton] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tipton|Tipton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tipton.public|Tipton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tipton.internal|Tipton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tipton.protect|Tipton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tipton.private|Tipton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tipton.personal|Tipton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tipton.secret|Tipton.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tipton|Tipton]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tipton.public|Tipton.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tipton.internal|Tipton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tipton.protect|Tipton.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tipton.private|Tipton.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tipton.personal|Tipton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tipton.secret|Tipton.secret]] 

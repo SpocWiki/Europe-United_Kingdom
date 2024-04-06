@@ -40,11 +40,11 @@ markerFolder: ./Castlereagh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Castlereagh|Castlereagh]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Castlereagh.public|Castlereagh.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Castlereagh.internal|Castlereagh.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Castlereagh.protect|Castlereagh.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Castlereagh.private|Castlereagh.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Castlereagh.personal|Castlereagh.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Castlereagh.secret|Castlereagh.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Castlereagh|Castlereagh]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Castlereagh.public|Castlereagh.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Castlereagh.internal|Castlereagh.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Castlereagh.protect|Castlereagh.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Castlereagh.private|Castlereagh.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Castlereagh.personal|Castlereagh.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Castlereagh.secret|Castlereagh.secret]] 
 

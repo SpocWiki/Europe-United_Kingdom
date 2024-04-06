@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.88] 
 [name::Lasswalde] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lasswalde|Lasswalde]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lasswalde.public|Lasswalde.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lasswalde.internal|Lasswalde.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lasswalde.protect|Lasswalde.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lasswalde.private|Lasswalde.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lasswalde.personal|Lasswalde.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lasswalde.secret|Lasswalde.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lasswalde|Lasswalde]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.public|Lasswalde.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.internal|Lasswalde.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.protect|Lasswalde.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.private|Lasswalde.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.personal|Lasswalde.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.secret|Lasswalde.secret]] 

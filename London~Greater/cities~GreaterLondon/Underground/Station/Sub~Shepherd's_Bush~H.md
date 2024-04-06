@@ -5,7 +5,7 @@ mapzoom: [8,15]
 mapmarker: subway 
 tags:
 - geo/station
-- Europe/United_Kingdom/City~London
+- Europe/UK/City~London
 ---
 SpocWebEntityId: 156072
 [StationSId::] 
@@ -18,7 +18,7 @@ confidential: public
 [zone::2] 
 [Num_lines::1] 
 [switch-to-Rail::0] 
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 City :: [[../../../London]]  
 
 
@@ -38,10 +38,10 @@ FROM [[]]
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H)|Sub~Shepherd's_Bush_(H)]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).public|Sub~Shepherd's_Bush_(H).public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).internal|Sub~Shepherd's_Bush_(H).internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).protect|Sub~Shepherd's_Bush_(H).protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).private|Sub~Shepherd's_Bush_(H).private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).personal|Sub~Shepherd's_Bush_(H).personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).secret|Sub~Shepherd's_Bush_(H).secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H)|Sub~Shepherd's_Bush_(H)]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).public|Sub~Shepherd's_Bush_(H).public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).internal|Sub~Shepherd's_Bush_(H).internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).protect|Sub~Shepherd's_Bush_(H).protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).private|Sub~Shepherd's_Bush_(H).private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).personal|Sub~Shepherd's_Bush_(H).personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).secret|Sub~Shepherd's_Bush_(H).secret]] 

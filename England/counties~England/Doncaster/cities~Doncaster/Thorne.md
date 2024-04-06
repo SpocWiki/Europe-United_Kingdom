@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.62] 
 [name::Thorne] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Thorne|Thorne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Thorne.public|Thorne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Thorne.internal|Thorne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Thorne.protect|Thorne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Thorne.private|Thorne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Thorne.personal|Thorne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Thorne.secret|Thorne.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Thorne|Thorne]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Thorne.public|Thorne.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Thorne.internal|Thorne.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Thorne.protect|Thorne.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Thorne.private|Thorne.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Thorne.personal|Thorne.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Thorne.secret|Thorne.secret]] 

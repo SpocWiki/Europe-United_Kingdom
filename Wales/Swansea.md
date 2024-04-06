@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.62] 
 [name::Swansea] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Swansea|Swansea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Swansea.public|Swansea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Swansea.internal|Swansea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Swansea.protect|Swansea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Swansea.private|Swansea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Swansea.personal|Swansea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Swansea.secret|Swansea.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Swansea|Swansea]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.public|Swansea.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.internal|Swansea.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.protect|Swansea.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.private|Swansea.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.personal|Swansea.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.secret|Swansea.secret]] 

@@ -40,11 +40,11 @@ markerFolder: ./Wandsworth/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Wandsworth|Wandsworth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Wandsworth.public|Wandsworth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Wandsworth.internal|Wandsworth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Wandsworth.protect|Wandsworth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Wandsworth.private|Wandsworth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Wandsworth.personal|Wandsworth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Wandsworth.secret|Wandsworth.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Wandsworth|Wandsworth]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Wandsworth.public|Wandsworth.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Wandsworth.internal|Wandsworth.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Wandsworth.protect|Wandsworth.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Wandsworth.private|Wandsworth.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Wandsworth.personal|Wandsworth.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Wandsworth.secret|Wandsworth.secret]] 
 

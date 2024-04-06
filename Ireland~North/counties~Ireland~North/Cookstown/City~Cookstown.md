@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.65] 
 [name::Cookstown] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Cookstown|City~Cookstown]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Cookstown.internal|Cookstown.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Cookstown.protect|Cookstown.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Cookstown.private|Cookstown.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Cookstown.personal|Cookstown.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Cookstown.secret|Cookstown.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Cookstown.internal|Cookstown.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Cookstown.protect|Cookstown.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Cookstown.private|Cookstown.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Cookstown.personal|Cookstown.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Cookstown.secret|Cookstown.secret]] 

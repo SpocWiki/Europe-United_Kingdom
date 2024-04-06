@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::57.7] 
 [name::Fraserburgh] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Fraserburgh|Fraserburgh]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Fraserburgh.public|Fraserburgh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Fraserburgh.internal|Fraserburgh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Fraserburgh.protect|Fraserburgh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Fraserburgh.private|Fraserburgh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Fraserburgh.personal|Fraserburgh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Fraserburgh.secret|Fraserburgh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh|Fraserburgh]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.public|Fraserburgh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.internal|Fraserburgh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.protect|Fraserburgh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.private|Fraserburgh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.personal|Fraserburgh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.secret|Fraserburgh.secret]] 

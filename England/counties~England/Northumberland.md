@@ -40,11 +40,11 @@ markerFolder: ./Northumberland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northumberland|Northumberland]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northumberland.public|Northumberland.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northumberland.internal|Northumberland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northumberland.protect|Northumberland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northumberland.private|Northumberland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northumberland.personal|Northumberland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Northumberland.secret|Northumberland.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland|Northumberland]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.public|Northumberland.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.internal|Northumberland.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.protect|Northumberland.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.private|Northumberland.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.personal|Northumberland.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.secret|Northumberland.secret]] 
 

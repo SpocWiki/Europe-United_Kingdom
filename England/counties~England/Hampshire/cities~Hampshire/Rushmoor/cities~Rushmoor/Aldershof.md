@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.25] 
 [name::Aldershof] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldershof|Aldershof]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldershof.public|Aldershof.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldershof.internal|Aldershof.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldershof.protect|Aldershof.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldershof.private|Aldershof.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldershof.personal|Aldershof.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldershof.secret|Aldershof.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Aldershof|Aldershof]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Aldershof.public|Aldershof.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Aldershof.internal|Aldershof.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Aldershof.protect|Aldershof.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Aldershof.private|Aldershof.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Aldershof.personal|Aldershof.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Aldershof.secret|Aldershof.secret]] 

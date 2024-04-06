@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.73] 
 [name::Kidwelly] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kidwelly|Kidwelly]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kidwelly.public|Kidwelly.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kidwelly.internal|Kidwelly.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kidwelly.protect|Kidwelly.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kidwelly.private|Kidwelly.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kidwelly.personal|Kidwelly.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kidwelly.secret|Kidwelly.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Kidwelly|Kidwelly]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.public|Kidwelly.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.internal|Kidwelly.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.protect|Kidwelly.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.private|Kidwelly.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.personal|Kidwelly.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.secret|Kidwelly.secret]] 

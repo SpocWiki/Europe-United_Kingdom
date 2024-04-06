@@ -40,11 +40,11 @@ markerFolder: ./Tameside/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside|Tameside]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.public|Tameside.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.internal|Tameside.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.protect|Tameside.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.private|Tameside.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.personal|Tameside.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Tameside.secret|Tameside.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Tameside|Tameside]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Tameside.public|Tameside.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Tameside.internal|Tameside.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Tameside.protect|Tameside.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Tameside.private|Tameside.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Tameside.personal|Tameside.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Tameside.secret|Tameside.secret]] 
 

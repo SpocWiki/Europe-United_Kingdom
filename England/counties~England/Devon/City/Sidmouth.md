@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.68] 
 [name::Sidmouth] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sidmouth|Sidmouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sidmouth.public|Sidmouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sidmouth.internal|Sidmouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sidmouth.protect|Sidmouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sidmouth.private|Sidmouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sidmouth.personal|Sidmouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sidmouth.secret|Sidmouth.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sidmouth|Sidmouth]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.public|Sidmouth.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.internal|Sidmouth.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.protect|Sidmouth.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.private|Sidmouth.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.personal|Sidmouth.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.secret|Sidmouth.secret]] 

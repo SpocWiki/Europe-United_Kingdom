@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.35] 
 [name::Mildenhall] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Mildenhall|Mildenhall]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Mildenhall.public|Mildenhall.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Mildenhall.internal|Mildenhall.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Mildenhall.protect|Mildenhall.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Mildenhall.private|Mildenhall.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Mildenhall.personal|Mildenhall.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Mildenhall.secret|Mildenhall.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Mildenhall|Mildenhall]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.public|Mildenhall.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.internal|Mildenhall.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.protect|Mildenhall.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.private|Mildenhall.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.personal|Mildenhall.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.secret|Mildenhall.secret]] 

@@ -40,11 +40,11 @@ markerFolder: ./Ballymena/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymena|Ballymena]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymena.public|Ballymena.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymena.internal|Ballymena.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymena.protect|Ballymena.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymena.private|Ballymena.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymena.personal|Ballymena.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ballymena.secret|Ballymena.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena|Ballymena]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.public|Ballymena.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.internal|Ballymena.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.protect|Ballymena.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.private|Ballymena.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.personal|Ballymena.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.secret|Ballymena.secret]] 
 

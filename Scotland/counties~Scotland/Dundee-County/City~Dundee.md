@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::56.47] 
 [name::Dundee] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Dundee|City~Dundee]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Dundee.internal|Dundee.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Dundee.protect|Dundee.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Dundee.private|Dundee.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Dundee.personal|Dundee.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Dundee.secret|Dundee.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Dundee.internal|Dundee.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Dundee.protect|Dundee.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Dundee.private|Dundee.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Dundee.personal|Dundee.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Dundee.secret|Dundee.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.5] 
 [name::Kensington] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,10 +33,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kensington|Kensington]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kensington.public|Kensington.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kensington.internal|Kensington.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kensington.protect|Kensington.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kensington.private|Kensington.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kensington.personal|Kensington.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kensington.secret|Kensington.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Kensington|Kensington]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Kensington.public|Kensington.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Kensington.internal|Kensington.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Kensington.protect|Kensington.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Kensington.private|Kensington.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Kensington.personal|Kensington.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Kensington.secret|Kensington.secret]] 

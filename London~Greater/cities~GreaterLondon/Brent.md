@@ -40,11 +40,11 @@ markerFolder: ./Brent/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Brent|Brent]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Brent.public|Brent.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Brent.internal|Brent.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Brent.protect|Brent.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Brent.private|Brent.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Brent.personal|Brent.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Brent.secret|Brent.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent|Brent]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.public|Brent.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.internal|Brent.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.protect|Brent.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.private|Brent.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.personal|Brent.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.secret|Brent.secret]] 
 

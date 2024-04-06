@@ -40,11 +40,11 @@ markerFolder: ./Bath_and_North_East_Somerset/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bath_and_North_East_Somerset|Bath_and_North_East_Somerset]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bath_and_North_East_Somerset.public|Bath_and_North_East_Somerset.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bath_and_North_East_Somerset.internal|Bath_and_North_East_Somerset.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bath_and_North_East_Somerset.protect|Bath_and_North_East_Somerset.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bath_and_North_East_Somerset.private|Bath_and_North_East_Somerset.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bath_and_North_East_Somerset.personal|Bath_and_North_East_Somerset.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bath_and_North_East_Somerset.secret|Bath_and_North_East_Somerset.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset|Bath_and_North_East_Somerset]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.public|Bath_and_North_East_Somerset.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.internal|Bath_and_North_East_Somerset.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.protect|Bath_and_North_East_Somerset.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.private|Bath_and_North_East_Somerset.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.personal|Bath_and_North_East_Somerset.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.secret|Bath_and_North_East_Somerset.secret]] 
 

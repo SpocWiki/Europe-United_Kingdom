@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.3] 
 [name::Worksop] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Worksop|Worksop]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Worksop.public|Worksop.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Worksop.internal|Worksop.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Worksop.protect|Worksop.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Worksop.private|Worksop.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Worksop.personal|Worksop.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Worksop.secret|Worksop.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Worksop|Worksop]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Worksop.public|Worksop.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Worksop.internal|Worksop.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Worksop.protect|Worksop.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Worksop.private|Worksop.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Worksop.personal|Worksop.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Worksop.secret|Worksop.secret]] 

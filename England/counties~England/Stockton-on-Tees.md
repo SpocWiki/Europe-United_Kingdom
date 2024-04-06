@@ -40,11 +40,11 @@ markerFolder: ./Stockton-on-Tees/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees|Stockton-on-Tees]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.public|Stockton-on-Tees.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.internal|Stockton-on-Tees.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.protect|Stockton-on-Tees.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.private|Stockton-on-Tees.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.personal|Stockton-on-Tees.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stockton-on-Tees.secret|Stockton-on-Tees.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees|Stockton-on-Tees]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.public|Stockton-on-Tees.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.internal|Stockton-on-Tees.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.protect|Stockton-on-Tees.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.private|Stockton-on-Tees.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.personal|Stockton-on-Tees.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.secret|Stockton-on-Tees.secret]] 
 

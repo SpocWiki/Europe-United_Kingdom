@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.22] 
 [name::Andover] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Andover|Andover]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Andover.public|Andover.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Andover.internal|Andover.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Andover.protect|Andover.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Andover.private|Andover.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Andover.personal|Andover.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Andover.secret|Andover.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Andover|Andover]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Andover.public|Andover.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Andover.internal|Andover.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Andover.protect|Andover.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Andover.private|Andover.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Andover.personal|Andover.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Andover.secret|Andover.secret]] 

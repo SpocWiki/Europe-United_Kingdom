@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.07] 
 [name::Hereford] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hereford|Hereford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hereford.public|Hereford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hereford.internal|Hereford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hereford.protect|Hereford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hereford.private|Hereford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hereford.personal|Hereford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hereford.secret|Hereford.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hereford|Hereford]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hereford.public|Hereford.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hereford.internal|Hereford.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hereford.protect|Hereford.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hereford.private|Hereford.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hereford.personal|Hereford.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hereford.secret|Hereford.secret]] 

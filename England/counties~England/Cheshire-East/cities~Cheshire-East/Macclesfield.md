@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.27] 
 [name::Macclesfield] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macclesfield|Macclesfield]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macclesfield.public|Macclesfield.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macclesfield.internal|Macclesfield.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macclesfield.protect|Macclesfield.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macclesfield.private|Macclesfield.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macclesfield.personal|Macclesfield.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macclesfield.secret|Macclesfield.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Macclesfield|Macclesfield]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Macclesfield.public|Macclesfield.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Macclesfield.internal|Macclesfield.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Macclesfield.protect|Macclesfield.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Macclesfield.private|Macclesfield.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Macclesfield.personal|Macclesfield.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Macclesfield.secret|Macclesfield.secret]] 

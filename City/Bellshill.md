@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::45.82] 
 [name::Bellshill] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bellshill|Bellshill]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bellshill.public|Bellshill.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bellshill.internal|Bellshill.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bellshill.protect|Bellshill.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bellshill.private|Bellshill.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bellshill.personal|Bellshill.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bellshill.secret|Bellshill.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bellshill|Bellshill]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bellshill.public|Bellshill.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bellshill.internal|Bellshill.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bellshill.protect|Bellshill.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bellshill.private|Bellshill.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bellshill.personal|Bellshill.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bellshill.secret|Bellshill.secret]] 

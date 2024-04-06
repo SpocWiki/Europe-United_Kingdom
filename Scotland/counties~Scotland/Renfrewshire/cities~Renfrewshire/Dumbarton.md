@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.78] 
 [name::Dumbarton] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dumbarton|Dumbarton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dumbarton.public|Dumbarton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dumbarton.internal|Dumbarton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dumbarton.protect|Dumbarton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dumbarton.private|Dumbarton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dumbarton.personal|Dumbarton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dumbarton.secret|Dumbarton.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dumbarton|Dumbarton]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.public|Dumbarton.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.internal|Dumbarton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.protect|Dumbarton.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.private|Dumbarton.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.personal|Dumbarton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.secret|Dumbarton.secret]] 

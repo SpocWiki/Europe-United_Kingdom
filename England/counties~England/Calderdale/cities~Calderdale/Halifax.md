@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.75] 
 [name::Halifax] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Halifax|Halifax]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Halifax.public|Halifax.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Halifax.internal|Halifax.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Halifax.protect|Halifax.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Halifax.private|Halifax.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Halifax.personal|Halifax.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Halifax.secret|Halifax.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Halifax|Halifax]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Halifax.public|Halifax.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Halifax.internal|Halifax.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Halifax.protect|Halifax.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Halifax.private|Halifax.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Halifax.personal|Halifax.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Halifax.secret|Halifax.secret]] 

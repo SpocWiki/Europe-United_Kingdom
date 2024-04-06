@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.48] 
 [name::Lowestoft~Suffolk] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lowestoft~Suffolk|Lowestoft~Suffolk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lowestoft~Suffolk.public|Lowestoft~Suffolk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lowestoft~Suffolk.internal|Lowestoft~Suffolk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lowestoft~Suffolk.protect|Lowestoft~Suffolk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lowestoft~Suffolk.private|Lowestoft~Suffolk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lowestoft~Suffolk.personal|Lowestoft~Suffolk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lowestoft~Suffolk.secret|Lowestoft~Suffolk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk|Lowestoft~Suffolk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.public|Lowestoft~Suffolk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.internal|Lowestoft~Suffolk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.protect|Lowestoft~Suffolk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.private|Lowestoft~Suffolk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.personal|Lowestoft~Suffolk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.secret|Lowestoft~Suffolk.secret]] 

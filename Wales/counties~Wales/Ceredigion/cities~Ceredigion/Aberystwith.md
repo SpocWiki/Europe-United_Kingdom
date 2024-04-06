@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.42] 
 [name::Aberystwith] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aberystwith|Aberystwith]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aberystwith.public|Aberystwith.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aberystwith.internal|Aberystwith.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aberystwith.protect|Aberystwith.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aberystwith.private|Aberystwith.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aberystwith.personal|Aberystwith.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aberystwith.secret|Aberystwith.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Aberystwith|Aberystwith]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.public|Aberystwith.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.internal|Aberystwith.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.protect|Aberystwith.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.private|Aberystwith.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.personal|Aberystwith.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.secret|Aberystwith.secret]] 

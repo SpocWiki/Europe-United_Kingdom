@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.82] 
 [name::Waltham] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Waltham|Waltham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Waltham.public|Waltham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Waltham.internal|Waltham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Waltham.protect|Waltham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Waltham.private|Waltham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Waltham.personal|Waltham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Waltham.secret|Waltham.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Waltham|Waltham]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Waltham.public|Waltham.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Waltham.internal|Waltham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Waltham.protect|Waltham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Waltham.private|Waltham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Waltham.personal|Waltham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Waltham.secret|Waltham.secret]] 

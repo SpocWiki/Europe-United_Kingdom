@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.78] 
 [name::Lymm] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lymm|Lymm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lymm.public|Lymm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lymm.internal|Lymm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lymm.protect|Lymm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lymm.private|Lymm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lymm.personal|Lymm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lymm.secret|Lymm.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lymm|Lymm]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lymm.public|Lymm.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lymm.internal|Lymm.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lymm.protect|Lymm.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lymm.private|Lymm.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lymm.personal|Lymm.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lymm.secret|Lymm.secret]] 

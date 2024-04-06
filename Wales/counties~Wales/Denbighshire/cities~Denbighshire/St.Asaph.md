@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.25] 
 [name::St.Asaph] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Asaph|St.Asaph]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Asaph.public|St.Asaph.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Asaph.internal|St.Asaph.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Asaph.protect|St.Asaph.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Asaph.private|St.Asaph.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Asaph.personal|St.Asaph.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Asaph.secret|St.Asaph.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Asaph|St.Asaph]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.public|St.Asaph.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.internal|St.Asaph.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.protect|St.Asaph.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.private|St.Asaph.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.personal|St.Asaph.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.secret|St.Asaph.secret]] 

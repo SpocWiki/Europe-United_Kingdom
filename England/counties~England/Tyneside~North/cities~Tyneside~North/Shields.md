@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55] 
 [name::Shields] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shields|Shields]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shields.public|Shields.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shields.internal|Shields.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shields.protect|Shields.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shields.private|Shields.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shields.personal|Shields.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shields.secret|Shields.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Shields|Shields]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Shields.public|Shields.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Shields.internal|Shields.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Shields.protect|Shields.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Shields.private|Shields.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Shields.personal|Shields.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Shields.secret|Shields.secret]] 

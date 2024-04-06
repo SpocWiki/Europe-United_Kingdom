@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.53] 
 [name::Doncaster] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Doncaster|Doncaster]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Doncaster.public|Doncaster.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Doncaster.internal|Doncaster.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Doncaster.protect|Doncaster.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Doncaster.private|Doncaster.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Doncaster.personal|Doncaster.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Doncaster.secret|Doncaster.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Doncaster|Doncaster]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Doncaster.public|Doncaster.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Doncaster.internal|Doncaster.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Doncaster.protect|Doncaster.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Doncaster.private|Doncaster.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Doncaster.personal|Doncaster.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Doncaster.secret|Doncaster.secret]] 

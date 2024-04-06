@@ -40,11 +40,11 @@ markerFolder: ./Rhondda,_Cynon,_Taff/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Rhondda,_Cynon,_Taff|Rhondda,_Cynon,_Taff]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Rhondda,_Cynon,_Taff.public|Rhondda,_Cynon,_Taff.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Rhondda,_Cynon,_Taff.internal|Rhondda,_Cynon,_Taff.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Rhondda,_Cynon,_Taff.protect|Rhondda,_Cynon,_Taff.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Rhondda,_Cynon,_Taff.private|Rhondda,_Cynon,_Taff.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Rhondda,_Cynon,_Taff.personal|Rhondda,_Cynon,_Taff.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Counties/Rhondda,_Cynon,_Taff.secret|Rhondda,_Cynon,_Taff.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Rhondda,_Cynon,_Taff|Rhondda,_Cynon,_Taff]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Rhondda,_Cynon,_Taff.public|Rhondda,_Cynon,_Taff.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Rhondda,_Cynon,_Taff.internal|Rhondda,_Cynon,_Taff.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Rhondda,_Cynon,_Taff.protect|Rhondda,_Cynon,_Taff.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Rhondda,_Cynon,_Taff.private|Rhondda,_Cynon,_Taff.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Rhondda,_Cynon,_Taff.personal|Rhondda,_Cynon,_Taff.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Rhondda,_Cynon,_Taff.secret|Rhondda,_Cynon,_Taff.secret]] 
 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.58] 
 [name::Leicester] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester|Leicester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.public|Leicester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.internal|Leicester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.protect|Leicester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.private|Leicester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.personal|Leicester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leicester.secret|Leicester.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Leicester|Leicester]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Leicester.public|Leicester.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Leicester.internal|Leicester.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Leicester.protect|Leicester.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Leicester.private|Leicester.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Leicester.personal|Leicester.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Leicester.secret|Leicester.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.72] 
 [name::St.Albans] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Albans|St.Albans]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Albans.public|St.Albans.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Albans.internal|St.Albans.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Albans.protect|St.Albans.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Albans.private|St.Albans.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Albans.personal|St.Albans.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Albans.secret|St.Albans.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Albans|St.Albans]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Albans.public|St.Albans.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Albans.internal|St.Albans.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Albans.protect|St.Albans.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Albans.private|St.Albans.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Albans.personal|St.Albans.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Albans.secret|St.Albans.secret]] 

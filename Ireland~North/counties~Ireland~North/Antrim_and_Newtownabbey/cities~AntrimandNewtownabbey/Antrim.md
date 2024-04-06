@@ -40,11 +40,11 @@ markerFolder: ./Antrim/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Antrim|Antrim]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Antrim.public|Antrim.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Antrim.internal|Antrim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Antrim.protect|Antrim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Antrim.private|Antrim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Antrim.personal|Antrim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Antrim.secret|Antrim.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim|Antrim]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.public|Antrim.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.internal|Antrim.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.protect|Antrim.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.private|Antrim.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.personal|Antrim.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.secret|Antrim.secret]] 
 

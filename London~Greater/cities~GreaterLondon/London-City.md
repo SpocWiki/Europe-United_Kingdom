@@ -18,7 +18,7 @@ The City Core of the [[London~Greater|London~Greater]] Area.
 [geo-lat::51.52] 
 [name::London] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -39,8 +39,8 @@ It is surrounded by:
 
 ## Confidential Links & Embeds: 
 - [[City~London|City~London]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/City~London.internal|City~London.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/City~London.protect|London.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/City~London.private|London.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/City~London.personal|London.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/City~London.secret|London.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/City~London.internal|City~London.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/City~London.protect|London.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/City~London.private|London.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/City~London.personal|London.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/City~London.secret|London.secret]] 

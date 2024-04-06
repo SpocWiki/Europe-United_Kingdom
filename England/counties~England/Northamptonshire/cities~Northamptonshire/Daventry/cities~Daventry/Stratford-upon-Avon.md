@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.4] 
 [name::Stratford-upon-Avon] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Stratford-upon-Avon|Stratford-upon-Avon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Stratford-upon-Avon.public|Stratford-upon-Avon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Stratford-upon-Avon.internal|Stratford-upon-Avon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Stratford-upon-Avon.protect|Stratford-upon-Avon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Stratford-upon-Avon.private|Stratford-upon-Avon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Stratford-upon-Avon.personal|Stratford-upon-Avon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Stratford-upon-Avon.secret|Stratford-upon-Avon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon|Stratford-upon-Avon]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.public|Stratford-upon-Avon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.internal|Stratford-upon-Avon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.protect|Stratford-upon-Avon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.private|Stratford-upon-Avon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.personal|Stratford-upon-Avon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.secret|Stratford-upon-Avon.secret]] 

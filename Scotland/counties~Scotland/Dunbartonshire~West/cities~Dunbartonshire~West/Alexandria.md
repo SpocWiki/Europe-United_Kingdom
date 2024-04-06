@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::56] 
 [name::Alexandria] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alexandria|Alexandria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alexandria.public|Alexandria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alexandria.internal|Alexandria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alexandria.protect|Alexandria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alexandria.private|Alexandria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alexandria.personal|Alexandria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alexandria.secret|Alexandria.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Alexandria|Alexandria]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Alexandria.public|Alexandria.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Alexandria.internal|Alexandria.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Alexandria.protect|Alexandria.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Alexandria.private|Alexandria.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Alexandria.personal|Alexandria.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Alexandria.secret|Alexandria.secret]] 

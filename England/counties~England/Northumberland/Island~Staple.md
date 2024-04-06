@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.63] 
 [name::Staples] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,10 +33,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Staples|Staples]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Staples.public|Staples.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Staples.internal|Staples.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Staples.protect|Staples.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Staples.private|Staples.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Staples.personal|Staples.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Staples.secret|Staples.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Staples|Staples]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Staples.public|Staples.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Staples.internal|Staples.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Staples.protect|Staples.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Staples.private|Staples.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Staples.personal|Staples.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Staples.secret|Staples.secret]] 

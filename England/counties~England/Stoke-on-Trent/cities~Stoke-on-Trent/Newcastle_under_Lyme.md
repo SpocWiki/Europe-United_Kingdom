@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.03] 
 [name::Newcastle under Lyme] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newcastle_under_Lyme|Newcastle_under_Lyme]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newcastle_under_Lyme.public|Newcastle_under_Lyme.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newcastle_under_Lyme.internal|Newcastle_under_Lyme.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newcastle_under_Lyme.protect|Newcastle_under_Lyme.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newcastle_under_Lyme.private|Newcastle_under_Lyme.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newcastle_under_Lyme.personal|Newcastle_under_Lyme.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newcastle_under_Lyme.secret|Newcastle_under_Lyme.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme|Newcastle_under_Lyme]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.public|Newcastle_under_Lyme.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.internal|Newcastle_under_Lyme.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.protect|Newcastle_under_Lyme.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.private|Newcastle_under_Lyme.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.personal|Newcastle_under_Lyme.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.secret|Newcastle_under_Lyme.secret]] 

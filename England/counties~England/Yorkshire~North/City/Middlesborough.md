@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.9] 
 [name::Middlesborough] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Middlesborough|Middlesborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Middlesborough.public|Middlesborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Middlesborough.internal|Middlesborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Middlesborough.protect|Middlesborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Middlesborough.private|Middlesborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Middlesborough.personal|Middlesborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Middlesborough.secret|Middlesborough.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Middlesborough|Middlesborough]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.public|Middlesborough.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.internal|Middlesborough.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.protect|Middlesborough.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.private|Middlesborough.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.personal|Middlesborough.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.secret|Middlesborough.secret]] 

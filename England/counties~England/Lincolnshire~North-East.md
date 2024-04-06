@@ -40,11 +40,11 @@ markerFolder: ./Lincolnshire~North_East/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North_East|Lincolnshire~North_East]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North_East.public|Lincolnshire~North_East.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North_East.internal|Lincolnshire~North_East.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North_East.protect|Lincolnshire~North_East.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North_East.private|Lincolnshire~North_East.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North_East.personal|Lincolnshire~North_East.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Lincolnshire~North_East.secret|Lincolnshire~North_East.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North_East|Lincolnshire~North_East]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North_East.public|Lincolnshire~North_East.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North_East.internal|Lincolnshire~North_East.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North_East.protect|Lincolnshire~North_East.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North_East.private|Lincolnshire~North_East.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North_East.personal|Lincolnshire~North_East.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North_East.secret|Lincolnshire~North_East.secret]] 
 

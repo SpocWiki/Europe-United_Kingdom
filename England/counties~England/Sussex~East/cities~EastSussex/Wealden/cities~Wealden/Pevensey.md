@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.82] 
 [name::Pevensey] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pevensey|Pevensey]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pevensey.public|Pevensey.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pevensey.internal|Pevensey.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pevensey.protect|Pevensey.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pevensey.private|Pevensey.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pevensey.personal|Pevensey.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pevensey.secret|Pevensey.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Pevensey|Pevensey]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Pevensey.public|Pevensey.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Pevensey.internal|Pevensey.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Pevensey.protect|Pevensey.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Pevensey.private|Pevensey.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Pevensey.personal|Pevensey.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Pevensey.secret|Pevensey.secret]] 

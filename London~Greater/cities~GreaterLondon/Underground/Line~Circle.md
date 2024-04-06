@@ -100,10 +100,10 @@ FROM outgoing([[Sub~Circle]])
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle|Line~Circle]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.public|Line~Circle.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.internal|Line~Circle.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.protect|Line~Circle.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.private|Line~Circle.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.personal|Line~Circle.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Circle.secret|Line~Circle.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Circle|Line~Circle]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Circle.public|Line~Circle.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Circle.internal|Line~Circle.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Circle.protect|Line~Circle.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Circle.private|Line~Circle.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Circle.personal|Line~Circle.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Circle.secret|Line~Circle.secret]] 

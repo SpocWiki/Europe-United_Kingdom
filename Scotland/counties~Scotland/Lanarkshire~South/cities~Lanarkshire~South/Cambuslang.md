@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.82] 
 [name::Cambuslang] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cambuslang|Cambuslang]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cambuslang.public|Cambuslang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cambuslang.internal|Cambuslang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cambuslang.protect|Cambuslang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cambuslang.private|Cambuslang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cambuslang.personal|Cambuslang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cambuslang.secret|Cambuslang.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Cambuslang|Cambuslang]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.public|Cambuslang.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.internal|Cambuslang.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.protect|Cambuslang.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.private|Cambuslang.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.personal|Cambuslang.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.secret|Cambuslang.secret]] 

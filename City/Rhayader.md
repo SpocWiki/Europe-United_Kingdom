@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.3] 
 [name::Rhayader] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rhayader|Rhayader]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rhayader.public|Rhayader.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rhayader.internal|Rhayader.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rhayader.protect|Rhayader.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rhayader.private|Rhayader.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rhayader.personal|Rhayader.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rhayader.secret|Rhayader.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Rhayader|Rhayader]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Rhayader.public|Rhayader.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Rhayader.internal|Rhayader.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Rhayader.protect|Rhayader.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Rhayader.private|Rhayader.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Rhayader.personal|Rhayader.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Rhayader.secret|Rhayader.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.82] 
 [name::Blackpool] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackpool|Blackpool]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackpool.public|Blackpool.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackpool.internal|Blackpool.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackpool.protect|Blackpool.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackpool.private|Blackpool.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackpool.personal|Blackpool.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackpool.secret|Blackpool.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Blackpool|Blackpool]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Blackpool.public|Blackpool.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Blackpool.internal|Blackpool.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Blackpool.protect|Blackpool.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Blackpool.private|Blackpool.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Blackpool.personal|Blackpool.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Blackpool.secret|Blackpool.secret]] 

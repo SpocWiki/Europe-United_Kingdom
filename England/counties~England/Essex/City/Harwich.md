@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.95] 
 [name::Harwich] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harwich|Harwich]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harwich.public|Harwich.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harwich.internal|Harwich.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harwich.protect|Harwich.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harwich.private|Harwich.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harwich.personal|Harwich.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Harwich.secret|Harwich.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Harwich|Harwich]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Harwich.public|Harwich.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Harwich.internal|Harwich.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Harwich.protect|Harwich.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Harwich.private|Harwich.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Harwich.personal|Harwich.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Harwich.secret|Harwich.secret]] 

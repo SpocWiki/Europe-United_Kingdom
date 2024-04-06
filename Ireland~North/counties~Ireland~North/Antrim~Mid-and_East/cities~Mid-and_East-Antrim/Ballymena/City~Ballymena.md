@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.87] 
 [name::Ballymena] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Ballymena|City~Ballymena]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Ballymena.internal|Ballymena.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Ballymena.protect|Ballymena.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Ballymena.private|Ballymena.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Ballymena.personal|Ballymena.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Ballymena.secret|Ballymena.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Ballymena.internal|Ballymena.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Ballymena.protect|Ballymena.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Ballymena.private|Ballymena.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Ballymena.personal|Ballymena.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Ballymena.secret|Ballymena.secret]] 

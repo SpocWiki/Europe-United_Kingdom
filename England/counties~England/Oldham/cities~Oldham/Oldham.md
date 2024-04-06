@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.53] 
 [name::Oldham] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oldham|Oldham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oldham.public|Oldham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oldham.internal|Oldham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oldham.protect|Oldham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oldham.private|Oldham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oldham.personal|Oldham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oldham.secret|Oldham.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Oldham|Oldham]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Oldham.public|Oldham.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Oldham.internal|Oldham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Oldham.protect|Oldham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Oldham.private|Oldham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Oldham.personal|Oldham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Oldham.secret|Oldham.secret]] 

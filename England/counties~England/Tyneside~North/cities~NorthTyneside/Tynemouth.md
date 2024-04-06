@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.02] 
 [name::Tynemouth] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tynemouth|Tynemouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tynemouth.public|Tynemouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tynemouth.internal|Tynemouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tynemouth.protect|Tynemouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tynemouth.private|Tynemouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tynemouth.personal|Tynemouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tynemouth.secret|Tynemouth.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tynemouth|Tynemouth]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.public|Tynemouth.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.internal|Tynemouth.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.protect|Tynemouth.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.private|Tynemouth.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.personal|Tynemouth.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.secret|Tynemouth.secret]] 

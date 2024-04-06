@@ -14,7 +14,7 @@ confidential: public
 [geo-lat::51.42] 
 [name::Bromley] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham/Bromley|Bromley]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham/Bromley.public|Bromley.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham/Bromley.internal|Bromley.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham/Bromley.protect|Bromley.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham/Bromley.private|Bromley.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham/Bromley.personal|Bromley.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Lewisham/Bromley.secret|Bromley.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Lewisham/Bromley|Bromley]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Lewisham/Bromley.public|Bromley.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Lewisham/Bromley.internal|Bromley.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Lewisham/Bromley.protect|Bromley.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Lewisham/Bromley.private|Bromley.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Lewisham/Bromley.personal|Bromley.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Lewisham/Bromley.secret|Bromley.secret]] 

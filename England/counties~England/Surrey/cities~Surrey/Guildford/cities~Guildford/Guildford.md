@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.23] 
 [name::Guildford] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Guildford|Guildford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Guildford.public|Guildford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Guildford.internal|Guildford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Guildford.protect|Guildford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Guildford.private|Guildford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Guildford.personal|Guildford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Guildford.secret|Guildford.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Guildford|Guildford]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Guildford.public|Guildford.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Guildford.internal|Guildford.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Guildford.protect|Guildford.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Guildford.private|Guildford.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Guildford.personal|Guildford.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Guildford.secret|Guildford.secret]] 

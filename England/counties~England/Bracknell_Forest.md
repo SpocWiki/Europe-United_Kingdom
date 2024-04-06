@@ -40,11 +40,11 @@ markerFolder: ./Bracknell_Forest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bracknell_Forest|Bracknell_Forest]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bracknell_Forest.public|Bracknell_Forest.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bracknell_Forest.internal|Bracknell_Forest.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bracknell_Forest.protect|Bracknell_Forest.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bracknell_Forest.private|Bracknell_Forest.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bracknell_Forest.personal|Bracknell_Forest.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Bracknell_Forest.secret|Bracknell_Forest.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest|Bracknell_Forest]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.public|Bracknell_Forest.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.internal|Bracknell_Forest.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.protect|Bracknell_Forest.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.private|Bracknell_Forest.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.personal|Bracknell_Forest.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.secret|Bracknell_Forest.secret]] 
 

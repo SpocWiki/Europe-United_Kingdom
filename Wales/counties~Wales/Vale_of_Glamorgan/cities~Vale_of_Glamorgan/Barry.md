@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.42] 
 [name::Barry] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barry|Barry]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barry.public|Barry.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barry.internal|Barry.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barry.protect|Barry.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barry.private|Barry.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barry.personal|Barry.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barry.secret|Barry.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Barry|Barry]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Barry.public|Barry.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Barry.internal|Barry.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Barry.protect|Barry.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Barry.private|Barry.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Barry.personal|Barry.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Barry.secret|Barry.secret]] 

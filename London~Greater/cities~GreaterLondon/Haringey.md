@@ -47,11 +47,11 @@ markerFolder: ./Haringey/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Haringey|Haringey]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Haringey.public|Haringey.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Haringey.internal|Haringey.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Haringey.protect|Haringey.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Haringey.private|Haringey.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Haringey.personal|Haringey.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Haringey.secret|Haringey.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey|Haringey]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.public|Haringey.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.internal|Haringey.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.protect|Haringey.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.private|Haringey.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.personal|Haringey.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.secret|Haringey.secret]] 
 

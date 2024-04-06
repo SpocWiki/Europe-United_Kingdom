@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.72] 
 [name::Exeter] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Exeter|Exeter]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Exeter.public|Exeter.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Exeter.internal|Exeter.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Exeter.protect|Exeter.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Exeter.private|Exeter.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Exeter.personal|Exeter.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Exeter.secret|Exeter.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Exeter|Exeter]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Exeter.public|Exeter.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Exeter.internal|Exeter.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Exeter.protect|Exeter.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Exeter.private|Exeter.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Exeter.personal|Exeter.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Exeter.secret|Exeter.secret]] 

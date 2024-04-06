@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::58.45] 
 [name::Wick] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wick|Wick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wick.public|Wick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wick.internal|Wick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wick.protect|Wick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wick.private|Wick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wick.personal|Wick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wick.secret|Wick.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wick|Wick]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wick.public|Wick.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wick.internal|Wick.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wick.protect|Wick.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wick.private|Wick.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wick.personal|Wick.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wick.secret|Wick.secret]] 

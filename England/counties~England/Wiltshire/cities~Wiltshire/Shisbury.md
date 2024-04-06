@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.07] 
 [name::Shisbury] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shisbury|Shisbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shisbury.public|Shisbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shisbury.internal|Shisbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shisbury.protect|Shisbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shisbury.private|Shisbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shisbury.personal|Shisbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shisbury.secret|Shisbury.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Shisbury|Shisbury]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Shisbury.public|Shisbury.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Shisbury.internal|Shisbury.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Shisbury.protect|Shisbury.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Shisbury.private|Shisbury.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Shisbury.personal|Shisbury.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Shisbury.secret|Shisbury.secret]] 

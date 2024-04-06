@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.5] 
 [name::Leigh] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leigh|Leigh]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leigh.public|Leigh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leigh.internal|Leigh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leigh.protect|Leigh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leigh.private|Leigh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leigh.personal|Leigh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Leigh.secret|Leigh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Leigh|Leigh]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Leigh.public|Leigh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Leigh.internal|Leigh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Leigh.protect|Leigh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Leigh.private|Leigh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Leigh.personal|Leigh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Leigh.secret|Leigh.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.87] 
 [name::Coatbridge] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coatbridge|Coatbridge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coatbridge.public|Coatbridge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coatbridge.internal|Coatbridge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coatbridge.protect|Coatbridge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coatbridge.private|Coatbridge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coatbridge.personal|Coatbridge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coatbridge.secret|Coatbridge.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Coatbridge|Coatbridge]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.public|Coatbridge.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.internal|Coatbridge.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.protect|Coatbridge.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.private|Coatbridge.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.personal|Coatbridge.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.secret|Coatbridge.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::60.17] 
 [name::Lerwick] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lerwick|Lerwick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lerwick.public|Lerwick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lerwick.internal|Lerwick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lerwick.protect|Lerwick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lerwick.private|Lerwick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lerwick.personal|Lerwick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lerwick.secret|Lerwick.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lerwick|Lerwick]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lerwick.public|Lerwick.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lerwick.internal|Lerwick.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lerwick.protect|Lerwick.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lerwick.private|Lerwick.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lerwick.personal|Lerwick.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lerwick.secret|Lerwick.secret]] 

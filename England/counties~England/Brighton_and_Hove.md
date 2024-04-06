@@ -40,11 +40,11 @@ markerFolder: ./Brighton_and_Hove/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Brighton_and_Hove|Brighton_and_Hove]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Brighton_and_Hove.public|Brighton_and_Hove.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Brighton_and_Hove.internal|Brighton_and_Hove.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Brighton_and_Hove.protect|Brighton_and_Hove.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Brighton_and_Hove.private|Brighton_and_Hove.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Brighton_and_Hove.personal|Brighton_and_Hove.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Brighton_and_Hove.secret|Brighton_and_Hove.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove|Brighton_and_Hove]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.public|Brighton_and_Hove.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.internal|Brighton_and_Hove.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.protect|Brighton_and_Hove.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.private|Brighton_and_Hove.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.personal|Brighton_and_Hove.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.secret|Brighton_and_Hove.secret]] 
 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.55] 
 [name::Ilford] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Ilford|Ilford]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Ilford.public|Ilford.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Ilford.internal|Ilford.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Ilford.protect|Ilford.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Ilford.private|Ilford.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Ilford.personal|Ilford.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Ilford.secret|Ilford.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Ilford|Ilford]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Ilford.public|Ilford.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Ilford.internal|Ilford.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Ilford.protect|Ilford.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Ilford.private|Ilford.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Ilford.personal|Ilford.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Ilford.secret|Ilford.secret]] 

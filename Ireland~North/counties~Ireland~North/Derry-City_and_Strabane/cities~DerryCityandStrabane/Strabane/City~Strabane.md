@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.83] 
 [name::Strabane] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Strabane|City~Strabane]]
-- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Strabane.internal|Strabane.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Strabane.protect|Strabane.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Strabane.private|Strabane.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Strabane.personal|Strabane.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Strabane.secret|Strabane.secret]] 
+- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Strabane.internal|Strabane.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Strabane.protect|Strabane.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Strabane.private|Strabane.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Strabane.personal|Strabane.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Strabane.secret|Strabane.secret]] 

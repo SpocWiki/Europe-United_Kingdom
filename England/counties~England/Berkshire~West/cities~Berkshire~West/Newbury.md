@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.42] 
 [name::Newbury] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newbury|Newbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newbury.public|Newbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newbury.internal|Newbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newbury.protect|Newbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newbury.private|Newbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newbury.personal|Newbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Newbury.secret|Newbury.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Newbury|Newbury]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Newbury.public|Newbury.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Newbury.internal|Newbury.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Newbury.protect|Newbury.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Newbury.private|Newbury.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Newbury.personal|Newbury.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Newbury.secret|Newbury.secret]] 

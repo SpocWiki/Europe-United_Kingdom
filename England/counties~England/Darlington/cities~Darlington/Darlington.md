@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.53] 
 [name::Darlington] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Darlington|Darlington]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Darlington.public|Darlington.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Darlington.internal|Darlington.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Darlington.protect|Darlington.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Darlington.private|Darlington.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Darlington.personal|Darlington.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Darlington.secret|Darlington.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Darlington|Darlington]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Darlington.public|Darlington.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Darlington.internal|Darlington.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Darlington.protect|Darlington.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Darlington.private|Darlington.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Darlington.personal|Darlington.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Darlington.secret|Darlington.secret]] 

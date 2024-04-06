@@ -1,1 +1,1 @@
-![[geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/ReadMe]]
+![[geo/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe]]

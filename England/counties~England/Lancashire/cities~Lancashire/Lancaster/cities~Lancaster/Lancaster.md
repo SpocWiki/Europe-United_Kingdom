@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.05] 
 [name::Lancaster] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lancaster|Lancaster]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lancaster.public|Lancaster.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lancaster.internal|Lancaster.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lancaster.protect|Lancaster.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lancaster.private|Lancaster.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lancaster.personal|Lancaster.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lancaster.secret|Lancaster.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lancaster|Lancaster]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lancaster.public|Lancaster.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lancaster.internal|Lancaster.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lancaster.protect|Lancaster.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lancaster.private|Lancaster.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lancaster.personal|Lancaster.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lancaster.secret|Lancaster.secret]] 

@@ -40,11 +40,11 @@ markerFolder: ./Edinburgh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Edinburgh|Edinburgh]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Edinburgh.public|Edinburgh.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Edinburgh.internal|Edinburgh.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Edinburgh.protect|Edinburgh.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Edinburgh.private|Edinburgh.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Edinburgh.personal|Edinburgh.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Edinburgh.secret|Edinburgh.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh|Edinburgh]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.public|Edinburgh.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.internal|Edinburgh.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.protect|Edinburgh.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.private|Edinburgh.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.personal|Edinburgh.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.secret|Edinburgh.secret]] 
 

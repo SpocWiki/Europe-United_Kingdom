@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.8] 
 [name::Largs] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Largs|Largs]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Largs.public|Largs.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Largs.internal|Largs.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Largs.protect|Largs.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Largs.private|Largs.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Largs.personal|Largs.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Largs.secret|Largs.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Largs|Largs]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Largs.public|Largs.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Largs.internal|Largs.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Largs.protect|Largs.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Largs.private|Largs.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Largs.personal|Largs.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Largs.secret|Largs.secret]] 

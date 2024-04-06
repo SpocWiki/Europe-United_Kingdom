@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.8] 
 [name::Hertford] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hertford|Hertford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hertford.public|Hertford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hertford.internal|Hertford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hertford.protect|Hertford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hertford.private|Hertford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hertford.personal|Hertford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hertford.secret|Hertford.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hertford|Hertford]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hertford.public|Hertford.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hertford.internal|Hertford.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hertford.protect|Hertford.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hertford.private|Hertford.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hertford.personal|Hertford.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hertford.secret|Hertford.secret]] 

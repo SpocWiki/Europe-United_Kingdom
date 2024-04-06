@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.45] 
 [name::Marlborough] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Marlborough|Marlborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Marlborough.public|Marlborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Marlborough.internal|Marlborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Marlborough.protect|Marlborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Marlborough.private|Marlborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Marlborough.personal|Marlborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Marlborough.secret|Marlborough.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Marlborough|Marlborough]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Marlborough.public|Marlborough.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Marlborough.internal|Marlborough.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Marlborough.protect|Marlborough.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Marlborough.private|Marlborough.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Marlborough.personal|Marlborough.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Marlborough.secret|Marlborough.secret]] 

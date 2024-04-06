@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::56.12] 
 [name::Alloa] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alloa|Alloa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alloa.public|Alloa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alloa.internal|Alloa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alloa.protect|Alloa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alloa.private|Alloa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alloa.personal|Alloa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Alloa.secret|Alloa.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Alloa|Alloa]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Alloa.public|Alloa.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Alloa.internal|Alloa.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Alloa.protect|Alloa.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Alloa.private|Alloa.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Alloa.personal|Alloa.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Alloa.secret|Alloa.secret]] 

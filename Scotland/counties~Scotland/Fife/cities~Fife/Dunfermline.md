@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::56.07] 
 [name::Dunfermline] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dunfermline|Dunfermline]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dunfermline.public|Dunfermline.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dunfermline.internal|Dunfermline.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dunfermline.protect|Dunfermline.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dunfermline.private|Dunfermline.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dunfermline.personal|Dunfermline.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dunfermline.secret|Dunfermline.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dunfermline|Dunfermline]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.public|Dunfermline.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.internal|Dunfermline.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.protect|Dunfermline.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.private|Dunfermline.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.personal|Dunfermline.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.secret|Dunfermline.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.13] 
 [name::Bridgewater] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridgewater|Bridgewater]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridgewater.public|Bridgewater.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridgewater.internal|Bridgewater.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridgewater.protect|Bridgewater.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridgewater.private|Bridgewater.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridgewater.personal|Bridgewater.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridgewater.secret|Bridgewater.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bridgewater|Bridgewater]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.public|Bridgewater.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.internal|Bridgewater.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.protect|Bridgewater.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.private|Bridgewater.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.personal|Bridgewater.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.secret|Bridgewater.secret]] 

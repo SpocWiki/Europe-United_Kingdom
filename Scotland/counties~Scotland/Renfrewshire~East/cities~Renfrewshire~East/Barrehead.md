@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.8] 
 [name::Barrehead] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barrehead|Barrehead]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barrehead.public|Barrehead.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barrehead.internal|Barrehead.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barrehead.protect|Barrehead.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barrehead.private|Barrehead.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barrehead.personal|Barrehead.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barrehead.secret|Barrehead.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Barrehead|Barrehead]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Barrehead.public|Barrehead.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Barrehead.internal|Barrehead.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Barrehead.protect|Barrehead.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Barrehead.private|Barrehead.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Barrehead.personal|Barrehead.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Barrehead.secret|Barrehead.secret]] 

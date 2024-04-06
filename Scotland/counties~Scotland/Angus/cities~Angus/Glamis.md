@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::56.62] 
 [name::Glamis] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Glamis|Glamis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Glamis.public|Glamis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Glamis.internal|Glamis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Glamis.protect|Glamis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Glamis.private|Glamis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Glamis.personal|Glamis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Glamis.secret|Glamis.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Glamis|Glamis]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Glamis.public|Glamis.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Glamis.internal|Glamis.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Glamis.protect|Glamis.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Glamis.private|Glamis.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Glamis.personal|Glamis.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Glamis.secret|Glamis.secret]] 

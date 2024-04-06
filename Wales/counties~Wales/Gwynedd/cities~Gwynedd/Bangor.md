@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.22] 
 [name::Bangor] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bangor|Bangor]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bangor.public|Bangor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bangor.internal|Bangor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bangor.protect|Bangor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bangor.private|Bangor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bangor.personal|Bangor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bangor.secret|Bangor.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bangor|Bangor]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bangor.public|Bangor.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bangor.internal|Bangor.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bangor.protect|Bangor.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bangor.private|Bangor.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bangor.personal|Bangor.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bangor.secret|Bangor.secret]] 

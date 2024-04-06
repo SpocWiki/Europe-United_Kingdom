@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.42] 
 [name::Gainsborough] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gainsborough|Gainsborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gainsborough.public|Gainsborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gainsborough.internal|Gainsborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gainsborough.protect|Gainsborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gainsborough.private|Gainsborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gainsborough.personal|Gainsborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gainsborough.secret|Gainsborough.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Gainsborough|Gainsborough]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.public|Gainsborough.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.internal|Gainsborough.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.protect|Gainsborough.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.private|Gainsborough.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.personal|Gainsborough.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.secret|Gainsborough.secret]] 

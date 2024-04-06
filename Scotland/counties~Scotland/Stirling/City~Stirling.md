@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::56.12] 
 [name::Stirling] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Stirling|City~Stirling]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Stirling.internal|Stirling.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Stirling.protect|Stirling.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Stirling.private|Stirling.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Stirling.personal|Stirling.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Stirling.secret|Stirling.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Stirling.internal|Stirling.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Stirling.protect|Stirling.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Stirling.private|Stirling.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Stirling.personal|Stirling.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Stirling.secret|Stirling.secret]] 

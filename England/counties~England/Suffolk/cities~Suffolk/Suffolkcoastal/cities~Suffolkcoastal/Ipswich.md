@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.02] 
 [name::Ipswich] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ipswich|Ipswich]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ipswich.public|Ipswich.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ipswich.internal|Ipswich.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ipswich.protect|Ipswich.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ipswich.private|Ipswich.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ipswich.personal|Ipswich.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ipswich.secret|Ipswich.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ipswich|Ipswich]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ipswich.public|Ipswich.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ipswich.internal|Ipswich.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ipswich.protect|Ipswich.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ipswich.private|Ipswich.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ipswich.personal|Ipswich.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ipswich.secret|Ipswich.secret]] 

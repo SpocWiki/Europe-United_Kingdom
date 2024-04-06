@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.33] 
 [name::Epsom] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Epsom|Epsom]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Epsom.public|Epsom.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Epsom.internal|Epsom.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Epsom.protect|Epsom.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Epsom.private|Epsom.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Epsom.personal|Epsom.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Epsom.secret|Epsom.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Epsom|Epsom]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Epsom.public|Epsom.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Epsom.internal|Epsom.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Epsom.protect|Epsom.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Epsom.private|Epsom.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Epsom.personal|Epsom.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Epsom.secret|Epsom.secret]] 

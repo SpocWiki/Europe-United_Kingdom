@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.28] 
 [name::Canterbury] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Canterbury|Canterbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Canterbury.public|Canterbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Canterbury.internal|Canterbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Canterbury.protect|Canterbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Canterbury.private|Canterbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Canterbury.personal|Canterbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Canterbury.secret|Canterbury.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Canterbury|Canterbury]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Canterbury.public|Canterbury.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Canterbury.internal|Canterbury.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Canterbury.protect|Canterbury.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Canterbury.private|Canterbury.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Canterbury.personal|Canterbury.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Canterbury.secret|Canterbury.secret]] 

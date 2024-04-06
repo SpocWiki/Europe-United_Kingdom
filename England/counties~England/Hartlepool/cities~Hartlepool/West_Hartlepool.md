@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.68] 
 [name::West Hartlepool] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/West_Hartlepool|West_Hartlepool]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/West_Hartlepool.public|West_Hartlepool.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/West_Hartlepool.internal|West_Hartlepool.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/West_Hartlepool.protect|West_Hartlepool.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/West_Hartlepool.private|West_Hartlepool.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/West_Hartlepool.personal|West_Hartlepool.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/West_Hartlepool.secret|West_Hartlepool.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool|West_Hartlepool]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.public|West_Hartlepool.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.internal|West_Hartlepool.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.protect|West_Hartlepool.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.private|West_Hartlepool.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.personal|West_Hartlepool.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.secret|West_Hartlepool.secret]] 

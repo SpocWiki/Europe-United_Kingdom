@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.03] 
 [name::Ledburg] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ledburg|Ledburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ledburg.public|Ledburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ledburg.internal|Ledburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ledburg.protect|Ledburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ledburg.private|Ledburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ledburg.personal|Ledburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ledburg.secret|Ledburg.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ledburg|Ledburg]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ledburg.public|Ledburg.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ledburg.internal|Ledburg.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ledburg.protect|Ledburg.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ledburg.private|Ledburg.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ledburg.personal|Ledburg.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ledburg.secret|Ledburg.secret]] 

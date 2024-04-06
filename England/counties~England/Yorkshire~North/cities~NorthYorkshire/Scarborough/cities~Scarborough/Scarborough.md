@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.28] 
 [name::Scarborough] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Scarborough|Scarborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Scarborough.public|Scarborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Scarborough.internal|Scarborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Scarborough.protect|Scarborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Scarborough.private|Scarborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Scarborough.personal|Scarborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Scarborough.secret|Scarborough.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Scarborough|Scarborough]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Scarborough.public|Scarborough.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Scarborough.internal|Scarborough.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Scarborough.protect|Scarborough.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Scarborough.private|Scarborough.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Scarborough.personal|Scarborough.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Scarborough.secret|Scarborough.secret]] 

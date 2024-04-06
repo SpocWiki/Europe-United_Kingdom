@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.42] 
 [name::Kingston-upon-Thames] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,10 +33,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames|Kingston~Thames]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.public|Kingston~Thames.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.internal|Kingston~Thames.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.protect|Kingston~Thames.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.private|Kingston~Thames.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.personal|Kingston~Thames.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Kingston~Thames.secret|Kingston~Thames.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames|Kingston~Thames]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.public|Kingston~Thames.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.internal|Kingston~Thames.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.protect|Kingston~Thames.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.private|Kingston~Thames.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.personal|Kingston~Thames.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.secret|Kingston~Thames.secret]] 

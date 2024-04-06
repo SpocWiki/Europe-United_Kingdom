@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.38] 
 [name::Margate] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Margate|Margate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Margate.public|Margate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Margate.internal|Margate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Margate.protect|Margate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Margate.private|Margate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Margate.personal|Margate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Margate.secret|Margate.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Margate|Margate]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Margate.public|Margate.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Margate.internal|Margate.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Margate.protect|Margate.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Margate.private|Margate.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Margate.personal|Margate.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Margate.secret|Margate.secret]] 

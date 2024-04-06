@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.37] 
 [name::Ludlow] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ludlow|Ludlow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ludlow.public|Ludlow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ludlow.internal|Ludlow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ludlow.protect|Ludlow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ludlow.private|Ludlow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ludlow.personal|Ludlow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ludlow.secret|Ludlow.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ludlow|Ludlow]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ludlow.public|Ludlow.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ludlow.internal|Ludlow.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ludlow.protect|Ludlow.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ludlow.private|Ludlow.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ludlow.personal|Ludlow.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ludlow.secret|Ludlow.secret]] 

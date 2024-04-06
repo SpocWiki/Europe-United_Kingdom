@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.88] 
 [name::Carlisle] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carlisle|Carlisle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carlisle.public|Carlisle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carlisle.internal|Carlisle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carlisle.protect|Carlisle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carlisle.private|Carlisle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carlisle.personal|Carlisle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carlisle.secret|Carlisle.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Carlisle|Carlisle]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Carlisle.public|Carlisle.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Carlisle.internal|Carlisle.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Carlisle.protect|Carlisle.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Carlisle.private|Carlisle.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Carlisle.personal|Carlisle.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Carlisle.secret|Carlisle.secret]] 

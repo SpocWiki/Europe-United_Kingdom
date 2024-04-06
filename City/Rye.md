@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.45] 
 [name::Rye] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rye|Rye]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rye.public|Rye.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rye.internal|Rye.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rye.protect|Rye.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rye.private|Rye.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rye.personal|Rye.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rye.secret|Rye.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Rye|Rye]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Rye.public|Rye.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Rye.internal|Rye.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Rye.protect|Rye.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Rye.private|Rye.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Rye.personal|Rye.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Rye.secret|Rye.secret]] 

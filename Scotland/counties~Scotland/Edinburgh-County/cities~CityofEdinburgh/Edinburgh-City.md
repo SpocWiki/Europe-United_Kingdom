@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.95] 
 [name::Edinburgh] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[Edinburgh-City|Edinburgh-City]] 
-- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Edinburgh.internal|Edinburgh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Edinburgh.protect|Edinburgh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Edinburgh.private|Edinburgh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Edinburgh.personal|Edinburgh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Edinburgh.secret|Edinburgh.secret]] 
+- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Edinburgh.internal|Edinburgh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Edinburgh.protect|Edinburgh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Edinburgh.private|Edinburgh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Edinburgh.personal|Edinburgh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Edinburgh.secret|Edinburgh.secret]] 

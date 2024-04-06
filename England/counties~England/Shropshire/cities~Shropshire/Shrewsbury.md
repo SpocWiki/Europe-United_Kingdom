@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.7] 
 [name::Shrewsbury] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shrewsbury|Shrewsbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shrewsbury.public|Shrewsbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shrewsbury.internal|Shrewsbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shrewsbury.protect|Shrewsbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shrewsbury.private|Shrewsbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shrewsbury.personal|Shrewsbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Shrewsbury.secret|Shrewsbury.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury|Shrewsbury]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.public|Shrewsbury.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.internal|Shrewsbury.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.protect|Shrewsbury.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.private|Shrewsbury.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.personal|Shrewsbury.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.secret|Shrewsbury.secret]] 

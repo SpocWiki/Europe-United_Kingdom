@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::57.45] 
 [name::Huntley] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huntley|Huntley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huntley.public|Huntley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huntley.internal|Huntley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huntley.protect|Huntley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huntley.private|Huntley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huntley.personal|Huntley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huntley.secret|Huntley.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Huntley|Huntley]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Huntley.public|Huntley.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Huntley.internal|Huntley.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Huntley.protect|Huntley.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Huntley.private|Huntley.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Huntley.personal|Huntley.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Huntley.secret|Huntley.secret]] 

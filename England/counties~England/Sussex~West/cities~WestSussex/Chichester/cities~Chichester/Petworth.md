@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.98] 
 [name::Petworth] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Petworth|Petworth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Petworth.public|Petworth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Petworth.internal|Petworth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Petworth.protect|Petworth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Petworth.private|Petworth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Petworth.personal|Petworth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Petworth.secret|Petworth.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Petworth|Petworth]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Petworth.public|Petworth.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Petworth.internal|Petworth.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Petworth.protect|Petworth.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Petworth.private|Petworth.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Petworth.personal|Petworth.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Petworth.secret|Petworth.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.58] 
 [name::Wolverhampton] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton|Wolverhampton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.public|Wolverhampton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.internal|Wolverhampton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.protect|Wolverhampton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.private|Wolverhampton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.personal|Wolverhampton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wolverhampton.secret|Wolverhampton.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton|Wolverhampton]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.public|Wolverhampton.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.internal|Wolverhampton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.protect|Wolverhampton.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.private|Wolverhampton.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.personal|Wolverhampton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.secret|Wolverhampton.secret]] 

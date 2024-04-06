@@ -40,11 +40,11 @@ markerFolder: ./Ards/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ards|Ards]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ards.public|Ards.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ards.internal|Ards.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ards.protect|Ards.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ards.private|Ards.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ards.personal|Ards.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Counties/Ards.secret|Ards.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards|Ards]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.public|Ards.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.internal|Ards.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.protect|Ards.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.private|Ards.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.personal|Ards.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.secret|Ards.secret]] 
 

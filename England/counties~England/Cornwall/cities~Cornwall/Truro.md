@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.23] 
 [name::Truro] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro|Truro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.public|Truro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.internal|Truro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.protect|Truro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.private|Truro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.personal|Truro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Truro.secret|Truro.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Truro|Truro]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Truro.public|Truro.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Truro.internal|Truro.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Truro.protect|Truro.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Truro.private|Truro.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Truro.personal|Truro.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Truro.secret|Truro.secret]] 

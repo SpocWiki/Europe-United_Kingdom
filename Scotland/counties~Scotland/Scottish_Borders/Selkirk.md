@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.58] 
 [name::Selkirk] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Selkirk|Selkirk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Selkirk.public|Selkirk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Selkirk.internal|Selkirk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Selkirk.protect|Selkirk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Selkirk.private|Selkirk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Selkirk.personal|Selkirk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Selkirk.secret|Selkirk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Selkirk|Selkirk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Selkirk.public|Selkirk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Selkirk.internal|Selkirk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Selkirk.protect|Selkirk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Selkirk.private|Selkirk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Selkirk.personal|Selkirk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Selkirk.secret|Selkirk.secret]] 

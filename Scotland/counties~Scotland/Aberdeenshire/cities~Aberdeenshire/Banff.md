@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::57.67] 
 [name::Banff] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Banff|Banff]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Banff.public|Banff.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Banff.internal|Banff.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Banff.protect|Banff.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Banff.private|Banff.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Banff.personal|Banff.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Banff.secret|Banff.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Banff|Banff]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Banff.public|Banff.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Banff.internal|Banff.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Banff.protect|Banff.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Banff.private|Banff.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Banff.personal|Banff.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Banff.secret|Banff.secret]] 

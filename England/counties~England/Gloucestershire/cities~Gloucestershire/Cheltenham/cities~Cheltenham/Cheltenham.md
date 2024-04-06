@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.9] 
 [name::Cheltenham] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cheltenham|Cheltenham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cheltenham.public|Cheltenham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cheltenham.internal|Cheltenham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cheltenham.protect|Cheltenham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cheltenham.private|Cheltenham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cheltenham.personal|Cheltenham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cheltenham.secret|Cheltenham.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Cheltenham|Cheltenham]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.public|Cheltenham.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.internal|Cheltenham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.protect|Cheltenham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.private|Cheltenham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.personal|Cheltenham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.secret|Cheltenham.secret]] 

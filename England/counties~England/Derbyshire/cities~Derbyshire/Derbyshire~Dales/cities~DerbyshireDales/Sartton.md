@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.13] 
 [name::Sartton] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sartton|Sartton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sartton.public|Sartton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sartton.internal|Sartton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sartton.protect|Sartton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sartton.private|Sartton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sartton.personal|Sartton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sartton.secret|Sartton.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sartton|Sartton]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sartton.public|Sartton.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sartton.internal|Sartton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sartton.protect|Sartton.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sartton.private|Sartton.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sartton.personal|Sartton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sartton.secret|Sartton.secret]] 

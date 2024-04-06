@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.58] 
 [name::Walsall] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Walsall|Walsall]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Walsall.public|Walsall.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Walsall.internal|Walsall.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Walsall.protect|Walsall.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Walsall.private|Walsall.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Walsall.personal|Walsall.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Walsall.secret|Walsall.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Walsall|Walsall]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Walsall.public|Walsall.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Walsall.internal|Walsall.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Walsall.protect|Walsall.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Walsall.private|Walsall.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Walsall.personal|Walsall.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Walsall.secret|Walsall.secret]] 

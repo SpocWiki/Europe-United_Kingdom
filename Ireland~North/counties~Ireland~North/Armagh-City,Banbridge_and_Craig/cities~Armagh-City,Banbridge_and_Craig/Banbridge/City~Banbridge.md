@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.35] 
 [name::Banbridge] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Banbridge|City~Banbridge]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Banbridge.internal|Banbridge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Banbridge.protect|Banbridge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Banbridge.private|Banbridge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Banbridge.personal|Banbridge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Banbridge.secret|Banbridge.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Banbridge.internal|Banbridge.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Banbridge.protect|Banbridge.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Banbridge.private|Banbridge.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Banbridge.personal|Banbridge.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Banbridge.secret|Banbridge.secret]] 

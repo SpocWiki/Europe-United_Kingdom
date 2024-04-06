@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.17] 
 [name::Denbigh] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Denbigh|Denbigh]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Denbigh.public|Denbigh.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Denbigh.internal|Denbigh.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Denbigh.protect|Denbigh.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Denbigh.private|Denbigh.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Denbigh.personal|Denbigh.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Denbigh.secret|Denbigh.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Denbigh|Denbigh]] 
+- [[../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Denbigh.public|Denbigh.public]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Denbigh.internal|Denbigh.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Denbigh.protect|Denbigh.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Denbigh.private|Denbigh.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Denbigh.personal|Denbigh.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Denbigh.secret|Denbigh.secret]] 

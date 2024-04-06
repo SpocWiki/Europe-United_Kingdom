@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::57.67] 
 [name::Macduff] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macduff|Macduff]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macduff.public|Macduff.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macduff.internal|Macduff.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macduff.protect|Macduff.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macduff.private|Macduff.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macduff.personal|Macduff.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Macduff.secret|Macduff.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Macduff|Macduff]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Macduff.public|Macduff.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Macduff.internal|Macduff.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Macduff.protect|Macduff.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Macduff.private|Macduff.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Macduff.personal|Macduff.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Macduff.secret|Macduff.secret]] 

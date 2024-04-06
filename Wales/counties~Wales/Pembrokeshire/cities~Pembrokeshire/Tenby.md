@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.67] 
 [name::Tenby] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tenby|Tenby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tenby.public|Tenby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tenby.internal|Tenby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tenby.protect|Tenby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tenby.private|Tenby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tenby.personal|Tenby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tenby.secret|Tenby.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tenby|Tenby]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tenby.public|Tenby.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tenby.internal|Tenby.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tenby.protect|Tenby.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tenby.private|Tenby.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tenby.personal|Tenby.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tenby.secret|Tenby.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::57.63] 
 [name::Elgin] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Elgin|Elgin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Elgin.public|Elgin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Elgin.internal|Elgin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Elgin.protect|Elgin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Elgin.private|Elgin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Elgin.personal|Elgin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Elgin.secret|Elgin.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Elgin|Elgin]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Elgin.public|Elgin.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Elgin.internal|Elgin.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Elgin.protect|Elgin.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Elgin.private|Elgin.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Elgin.personal|Elgin.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Elgin.secret|Elgin.secret]] 

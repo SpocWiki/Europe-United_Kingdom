@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.43] 
 [name::Reading] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reading|Reading]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reading.public|Reading.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reading.internal|Reading.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reading.protect|Reading.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reading.private|Reading.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reading.personal|Reading.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reading.secret|Reading.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Reading|Reading]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Reading.public|Reading.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Reading.internal|Reading.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Reading.protect|Reading.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Reading.private|Reading.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Reading.personal|Reading.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Reading.secret|Reading.secret]] 

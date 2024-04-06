@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.7] 
 [name::Hartlepool] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hartlepool|Hartlepool]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hartlepool.public|Hartlepool.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hartlepool.internal|Hartlepool.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hartlepool.protect|Hartlepool.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hartlepool.private|Hartlepool.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hartlepool.personal|Hartlepool.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hartlepool.secret|Hartlepool.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hartlepool|Hartlepool]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.public|Hartlepool.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.internal|Hartlepool.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.protect|Hartlepool.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.private|Hartlepool.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.personal|Hartlepool.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.secret|Hartlepool.secret]] 

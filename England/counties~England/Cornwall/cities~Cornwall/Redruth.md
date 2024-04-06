@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.22] 
 [name::Redruth] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Redruth|Redruth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Redruth.public|Redruth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Redruth.internal|Redruth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Redruth.protect|Redruth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Redruth.private|Redruth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Redruth.personal|Redruth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Redruth.secret|Redruth.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Redruth|Redruth]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Redruth.public|Redruth.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Redruth.internal|Redruth.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Redruth.protect|Redruth.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Redruth.private|Redruth.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Redruth.personal|Redruth.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Redruth.secret|Redruth.secret]] 

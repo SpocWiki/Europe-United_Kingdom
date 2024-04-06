@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.7] 
 [name::Bridport] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridport|Bridport]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridport.public|Bridport.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridport.internal|Bridport.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridport.protect|Bridport.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridport.private|Bridport.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridport.personal|Bridport.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Bridport.secret|Bridport.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bridport|Bridport]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bridport.public|Bridport.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bridport.internal|Bridport.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bridport.protect|Bridport.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bridport.private|Bridport.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bridport.personal|Bridport.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bridport.secret|Bridport.secret]] 

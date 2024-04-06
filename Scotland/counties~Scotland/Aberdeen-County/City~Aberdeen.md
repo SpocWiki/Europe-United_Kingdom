@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::57.14] 
 [name::Aberdeen] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Aberdeen|City~Aberdeen]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Aberdeen.internal|Aberdeen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Aberdeen.protect|Aberdeen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Aberdeen.private|Aberdeen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Aberdeen.personal|Aberdeen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Aberdeen.secret|Aberdeen.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Aberdeen.internal|Aberdeen.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Aberdeen.protect|Aberdeen.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Aberdeen.private|Aberdeen.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Aberdeen.personal|Aberdeen.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Aberdeen.secret|Aberdeen.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.4] 
 [name::Chatam] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chatam|Chatam]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chatam.public|Chatam.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chatam.internal|Chatam.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chatam.protect|Chatam.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chatam.private|Chatam.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chatam.personal|Chatam.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chatam.secret|Chatam.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Chatam|Chatam]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Chatam.public|Chatam.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Chatam.internal|Chatam.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Chatam.protect|Chatam.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Chatam.private|Chatam.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Chatam.personal|Chatam.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Chatam.secret|Chatam.secret]] 

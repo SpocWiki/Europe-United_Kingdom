@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.57] 
 [name::Appleby] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Appleby|Appleby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Appleby.public|Appleby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Appleby.internal|Appleby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Appleby.protect|Appleby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Appleby.private|Appleby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Appleby.personal|Appleby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Appleby.secret|Appleby.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Appleby|Appleby]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Appleby.public|Appleby.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Appleby.internal|Appleby.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Appleby.protect|Appleby.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Appleby.private|Appleby.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Appleby.personal|Appleby.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Appleby.secret|Appleby.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.75] 
 [name::Kingston-upon-Hull] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kingston-upon-Hull|Kingston-upon-Hull]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kingston-upon-Hull.public|Kingston-upon-Hull.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kingston-upon-Hull.internal|Kingston-upon-Hull.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kingston-upon-Hull.protect|Kingston-upon-Hull.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kingston-upon-Hull.private|Kingston-upon-Hull.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kingston-upon-Hull.personal|Kingston-upon-Hull.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kingston-upon-Hull.secret|Kingston-upon-Hull.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Kingston-upon-Hull|Kingston-upon-Hull]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Kingston-upon-Hull.public|Kingston-upon-Hull.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Kingston-upon-Hull.internal|Kingston-upon-Hull.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Kingston-upon-Hull.protect|Kingston-upon-Hull.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Kingston-upon-Hull.private|Kingston-upon-Hull.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Kingston-upon-Hull.personal|Kingston-upon-Hull.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Kingston-upon-Hull.secret|Kingston-upon-Hull.secret]] 

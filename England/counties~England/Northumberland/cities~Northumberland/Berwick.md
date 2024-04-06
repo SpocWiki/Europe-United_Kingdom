@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.77] 
 [name::Berwick] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Berwick|Berwick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Berwick.public|Berwick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Berwick.internal|Berwick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Berwick.protect|Berwick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Berwick.private|Berwick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Berwick.personal|Berwick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Berwick.secret|Berwick.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Berwick|Berwick]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Berwick.public|Berwick.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Berwick.internal|Berwick.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Berwick.protect|Berwick.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Berwick.private|Berwick.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Berwick.personal|Berwick.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Berwick.secret|Berwick.secret]] 

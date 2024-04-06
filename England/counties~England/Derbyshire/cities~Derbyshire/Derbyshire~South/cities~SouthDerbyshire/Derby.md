@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.93] 
 [name::Derby] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Derby|Derby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Derby.public|Derby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Derby.internal|Derby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Derby.protect|Derby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Derby.private|Derby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Derby.personal|Derby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Derby.secret|Derby.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Derby|Derby]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Derby.public|Derby.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Derby.internal|Derby.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Derby.protect|Derby.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Derby.private|Derby.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Derby.personal|Derby.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Derby.secret|Derby.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.63] 
 [name::Saltcoats] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Saltcoats|Saltcoats]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Saltcoats.public|Saltcoats.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Saltcoats.internal|Saltcoats.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Saltcoats.protect|Saltcoats.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Saltcoats.private|Saltcoats.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Saltcoats.personal|Saltcoats.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Saltcoats.secret|Saltcoats.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Saltcoats|Saltcoats]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Saltcoats.public|Saltcoats.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Saltcoats.internal|Saltcoats.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Saltcoats.protect|Saltcoats.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Saltcoats.private|Saltcoats.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Saltcoats.personal|Saltcoats.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Saltcoats.secret|Saltcoats.secret]] 

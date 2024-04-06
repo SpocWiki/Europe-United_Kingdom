@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::49.47] 
 [name::St.Peter Port] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Peter_Port|St.Peter_Port]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Peter_Port.public|St.Peter_Port.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Peter_Port.internal|St.Peter_Port.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Peter_Port.protect|St.Peter_Port.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Peter_Port.private|St.Peter_Port.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Peter_Port.personal|St.Peter_Port.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Peter_Port.secret|St.Peter_Port.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port|St.Peter_Port]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.public|St.Peter_Port.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.internal|St.Peter_Port.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.protect|St.Peter_Port.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.private|St.Peter_Port.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.personal|St.Peter_Port.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.secret|St.Peter_Port.secret]] 

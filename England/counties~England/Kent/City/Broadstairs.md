@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.37] 
 [name::Broadstairs] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Broadstairs|Broadstairs]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Broadstairs.public|Broadstairs.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Broadstairs.internal|Broadstairs.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Broadstairs.protect|Broadstairs.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Broadstairs.private|Broadstairs.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Broadstairs.personal|Broadstairs.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Broadstairs.secret|Broadstairs.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Broadstairs|Broadstairs]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.public|Broadstairs.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.internal|Broadstairs.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.protect|Broadstairs.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.private|Broadstairs.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.personal|Broadstairs.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.secret|Broadstairs.secret]] 

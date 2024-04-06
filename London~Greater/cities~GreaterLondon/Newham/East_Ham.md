@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.53] 
 [name::East Ham] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Newham/East_Ham|East_Ham]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Newham/East_Ham.public|East_Ham.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Newham/East_Ham.internal|East_Ham.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Newham/East_Ham.protect|East_Ham.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Newham/East_Ham.private|East_Ham.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Newham/East_Ham.personal|East_Ham.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Newham/East_Ham.secret|East_Ham.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Newham/East_Ham|East_Ham]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Newham/East_Ham.public|East_Ham.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Newham/East_Ham.internal|East_Ham.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Newham/East_Ham.protect|East_Ham.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Newham/East_Ham.private|East_Ham.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Newham/East_Ham.personal|East_Ham.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Newham/East_Ham.secret|East_Ham.secret]] 

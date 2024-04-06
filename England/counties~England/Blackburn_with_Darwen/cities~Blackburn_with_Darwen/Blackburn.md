@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.75] 
 [name::Blackburn] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackburn|Blackburn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackburn.public|Blackburn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackburn.internal|Blackburn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackburn.protect|Blackburn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackburn.private|Blackburn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackburn.personal|Blackburn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blackburn.secret|Blackburn.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Blackburn|Blackburn]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Blackburn.public|Blackburn.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Blackburn.internal|Blackburn.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Blackburn.protect|Blackburn.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Blackburn.private|Blackburn.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Blackburn.personal|Blackburn.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Blackburn.secret|Blackburn.secret]] 

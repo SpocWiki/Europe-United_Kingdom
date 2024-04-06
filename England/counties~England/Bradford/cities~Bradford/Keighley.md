@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.87] 
 [name::Keighley] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Keighley|Keighley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Keighley.public|Keighley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Keighley.internal|Keighley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Keighley.protect|Keighley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Keighley.private|Keighley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Keighley.personal|Keighley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Keighley.secret|Keighley.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Keighley|Keighley]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Keighley.public|Keighley.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Keighley.internal|Keighley.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Keighley.protect|Keighley.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Keighley.private|Keighley.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Keighley.personal|Keighley.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Keighley.secret|Keighley.secret]] 

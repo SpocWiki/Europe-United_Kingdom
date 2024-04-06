@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::57.62] 
 [name::Forres] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Forres|Forres]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Forres.public|Forres.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Forres.internal|Forres.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Forres.protect|Forres.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Forres.private|Forres.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Forres.personal|Forres.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Forres.secret|Forres.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Forres|Forres]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Forres.public|Forres.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Forres.internal|Forres.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Forres.protect|Forres.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Forres.private|Forres.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Forres.personal|Forres.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Forres.secret|Forres.secret]] 

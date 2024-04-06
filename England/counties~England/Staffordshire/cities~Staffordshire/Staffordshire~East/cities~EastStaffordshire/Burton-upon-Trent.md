@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.8] 
 [name::Burton-upon-Trent] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burton-upon-Trent|Burton-upon-Trent]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burton-upon-Trent.public|Burton-upon-Trent.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burton-upon-Trent.internal|Burton-upon-Trent.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burton-upon-Trent.protect|Burton-upon-Trent.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burton-upon-Trent.private|Burton-upon-Trent.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burton-upon-Trent.personal|Burton-upon-Trent.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burton-upon-Trent.secret|Burton-upon-Trent.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent|Burton-upon-Trent]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.public|Burton-upon-Trent.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.internal|Burton-upon-Trent.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.protect|Burton-upon-Trent.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.private|Burton-upon-Trent.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.personal|Burton-upon-Trent.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.secret|Burton-upon-Trent.secret]] 

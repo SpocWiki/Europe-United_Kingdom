@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.83] 
 [name::Porchester] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Porchester|Porchester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Porchester.public|Porchester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Porchester.internal|Porchester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Porchester.protect|Porchester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Porchester.private|Porchester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Porchester.personal|Porchester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Porchester.secret|Porchester.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Porchester|Porchester]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Porchester.public|Porchester.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Porchester.internal|Porchester.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Porchester.protect|Porchester.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Porchester.private|Porchester.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Porchester.personal|Porchester.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Porchester.secret|Porchester.secret]] 

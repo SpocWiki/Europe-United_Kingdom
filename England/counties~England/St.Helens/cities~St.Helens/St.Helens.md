@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.45] 
 [name::St.Helens] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Helens|St.Helens]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Helens.public|St.Helens.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Helens.internal|St.Helens.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Helens.protect|St.Helens.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Helens.private|St.Helens.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Helens.personal|St.Helens.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Helens.secret|St.Helens.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Helens|St.Helens]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Helens.public|St.Helens.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Helens.internal|St.Helens.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Helens.protect|St.Helens.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Helens.private|St.Helens.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Helens.personal|St.Helens.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Helens.secret|St.Helens.secret]] 

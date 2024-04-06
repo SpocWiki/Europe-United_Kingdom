@@ -88,10 +88,10 @@ FROM outgoing([[Line~Jubilee]])
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee|Line~Jubilee]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.public|Line~Jubilee.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.internal|Line~Jubilee.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.protect|Line~Jubilee.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.private|Line~Jubilee.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.personal|Line~Jubilee.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Line~Jubilee.secret|Line~Jubilee.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Jubilee|Line~Jubilee]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Jubilee.public|Line~Jubilee.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Jubilee.internal|Line~Jubilee.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Jubilee.protect|Line~Jubilee.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Jubilee.private|Line~Jubilee.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Jubilee.personal|Line~Jubilee.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Jubilee.secret|Line~Jubilee.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.68] 
 [name::Wakefield] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wakefield|Wakefield]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wakefield.public|Wakefield.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wakefield.internal|Wakefield.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wakefield.protect|Wakefield.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wakefield.private|Wakefield.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wakefield.personal|Wakefield.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wakefield.secret|Wakefield.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wakefield|Wakefield]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wakefield.public|Wakefield.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wakefield.internal|Wakefield.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wakefield.protect|Wakefield.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wakefield.private|Wakefield.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wakefield.personal|Wakefield.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wakefield.secret|Wakefield.secret]] 

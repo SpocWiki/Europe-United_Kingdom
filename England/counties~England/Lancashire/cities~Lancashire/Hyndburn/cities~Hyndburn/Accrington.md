@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.75] 
 [name::Accrington] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Accrington|Accrington]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Accrington.public|Accrington.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Accrington.internal|Accrington.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Accrington.protect|Accrington.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Accrington.private|Accrington.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Accrington.personal|Accrington.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Accrington.secret|Accrington.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Accrington|Accrington]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Accrington.public|Accrington.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Accrington.internal|Accrington.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Accrington.protect|Accrington.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Accrington.private|Accrington.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Accrington.personal|Accrington.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Accrington.secret|Accrington.secret]] 

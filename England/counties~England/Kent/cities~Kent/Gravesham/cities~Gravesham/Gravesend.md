@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.43] 
 [name::Gravesend] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gravesend|Gravesend]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gravesend.public|Gravesend.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gravesend.internal|Gravesend.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gravesend.protect|Gravesend.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gravesend.private|Gravesend.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gravesend.personal|Gravesend.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gravesend.secret|Gravesend.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Gravesend|Gravesend]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Gravesend.public|Gravesend.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Gravesend.internal|Gravesend.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Gravesend.protect|Gravesend.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Gravesend.private|Gravesend.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Gravesend.personal|Gravesend.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Gravesend.secret|Gravesend.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.78] 
 [name::Southsea] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Southsea|Southsea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Southsea.public|Southsea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Southsea.internal|Southsea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Southsea.protect|Southsea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Southsea.private|Southsea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Southsea.personal|Southsea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Southsea.secret|Southsea.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Southsea|Southsea]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Southsea.public|Southsea.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Southsea.internal|Southsea.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Southsea.protect|Southsea.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Southsea.private|Southsea.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Southsea.personal|Southsea.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Southsea.secret|Southsea.secret]] 

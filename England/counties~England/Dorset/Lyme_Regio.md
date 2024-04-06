@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.72] 
 [name::Lyme Regio] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lyme_Regio|Lyme_Regio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lyme_Regio.public|Lyme_Regio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lyme_Regio.internal|Lyme_Regio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lyme_Regio.protect|Lyme_Regio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lyme_Regio.private|Lyme_Regio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lyme_Regio.personal|Lyme_Regio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Lyme_Regio.secret|Lyme_Regio.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio|Lyme_Regio]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.public|Lyme_Regio.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.internal|Lyme_Regio.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.protect|Lyme_Regio.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.private|Lyme_Regio.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.personal|Lyme_Regio.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.secret|Lyme_Regio.secret]] 

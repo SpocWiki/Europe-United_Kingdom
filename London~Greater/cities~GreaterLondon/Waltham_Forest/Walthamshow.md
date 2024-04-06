@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.57] 
 [name::Walthamshow] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow|Walthamshow]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.public|Walthamshow.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.internal|Walthamshow.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.protect|Walthamshow.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.private|Walthamshow.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.personal|Walthamshow.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Waltham_Forest/Walthamshow.secret|Walthamshow.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow|Walthamshow]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.public|Walthamshow.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.internal|Walthamshow.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.protect|Walthamshow.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.private|Walthamshow.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.personal|Walthamshow.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.secret|Walthamshow.secret]] 

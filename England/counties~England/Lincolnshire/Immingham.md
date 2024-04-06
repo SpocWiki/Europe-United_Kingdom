@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.63] 
 [name::Immingham] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Immingham|Immingham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Immingham.public|Immingham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Immingham.internal|Immingham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Immingham.protect|Immingham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Immingham.private|Immingham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Immingham.personal|Immingham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Immingham.secret|Immingham.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Immingham|Immingham]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Immingham.public|Immingham.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Immingham.internal|Immingham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Immingham.protect|Immingham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Immingham.private|Immingham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Immingham.personal|Immingham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Immingham.secret|Immingham.secret]] 

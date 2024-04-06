@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.57] 
 [name::Grimsby] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Grimsby|Grimsby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Grimsby.public|Grimsby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Grimsby.internal|Grimsby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Grimsby.protect|Grimsby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Grimsby.private|Grimsby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Grimsby.personal|Grimsby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Grimsby.secret|Grimsby.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Grimsby|Grimsby]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Grimsby.public|Grimsby.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Grimsby.internal|Grimsby.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Grimsby.protect|Grimsby.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Grimsby.private|Grimsby.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Grimsby.personal|Grimsby.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Grimsby.secret|Grimsby.secret]] 

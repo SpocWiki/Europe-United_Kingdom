@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.58] 
 [name::Newtownards] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -33,8 +33,8 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 - [[City~Newtownards|City~Newtownards]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Newtownards.internal|Newtownards.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Newtownards.protect|Newtownards.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Newtownards.private|Newtownards.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Newtownards.personal|Newtownards.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Newtownards.secret|Newtownards.secret]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newtownards.internal|Newtownards.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newtownards.protect|Newtownards.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newtownards.private|Newtownards.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newtownards.personal|Newtownards.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newtownards.secret|Newtownards.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.53] 
 [name::Yarm] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarm|Yarm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarm.public|Yarm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarm.internal|Yarm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarm.protect|Yarm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarm.private|Yarm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarm.personal|Yarm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yarm.secret|Yarm.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Yarm|Yarm]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Yarm.public|Yarm.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Yarm.internal|Yarm.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Yarm.protect|Yarm.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Yarm.private|Yarm.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Yarm.personal|Yarm.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Yarm.secret|Yarm.secret]] 

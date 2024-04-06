@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.27] 
 [name::Maidstone] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Maidstone|Maidstone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Maidstone.public|Maidstone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Maidstone.internal|Maidstone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Maidstone.protect|Maidstone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Maidstone.private|Maidstone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Maidstone.personal|Maidstone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Maidstone.secret|Maidstone.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Maidstone|Maidstone]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Maidstone.public|Maidstone.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Maidstone.internal|Maidstone.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Maidstone.protect|Maidstone.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Maidstone.private|Maidstone.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Maidstone.personal|Maidstone.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Maidstone.secret|Maidstone.secret]] 

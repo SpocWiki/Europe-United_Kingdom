@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.78] 
 [name::Longhborough] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Longhborough|Longhborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Longhborough.public|Longhborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Longhborough.internal|Longhborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Longhborough.protect|Longhborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Longhborough.private|Longhborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Longhborough.personal|Longhborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Longhborough.secret|Longhborough.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Longhborough|Longhborough]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Longhborough.public|Longhborough.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Longhborough.internal|Longhborough.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Longhborough.protect|Longhborough.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Longhborough.private|Longhborough.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Longhborough.personal|Longhborough.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Longhborough.secret|Longhborough.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.13] 
 [name::Dover] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dover|Dover]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dover.public|Dover.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dover.internal|Dover.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dover.protect|Dover.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dover.private|Dover.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dover.personal|Dover.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dover.secret|Dover.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dover|Dover]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dover.public|Dover.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dover.internal|Dover.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dover.protect|Dover.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dover.private|Dover.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dover.personal|Dover.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dover.secret|Dover.secret]] 

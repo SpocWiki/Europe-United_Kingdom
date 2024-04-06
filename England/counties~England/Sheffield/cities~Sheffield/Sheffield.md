@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.43] 
 [name::Sheffield] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sheffield|Sheffield]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sheffield.public|Sheffield.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sheffield.internal|Sheffield.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sheffield.protect|Sheffield.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sheffield.private|Sheffield.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sheffield.personal|Sheffield.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sheffield.secret|Sheffield.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sheffield|Sheffield]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sheffield.public|Sheffield.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sheffield.internal|Sheffield.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sheffield.protect|Sheffield.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sheffield.private|Sheffield.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sheffield.personal|Sheffield.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sheffield.secret|Sheffield.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.72] 
 [name::Dorchester] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dorchester|Dorchester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dorchester.public|Dorchester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dorchester.internal|Dorchester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dorchester.protect|Dorchester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dorchester.private|Dorchester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dorchester.personal|Dorchester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dorchester.secret|Dorchester.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dorchester|Dorchester]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dorchester.public|Dorchester.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dorchester.internal|Dorchester.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dorchester.protect|Dorchester.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dorchester.private|Dorchester.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dorchester.personal|Dorchester.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dorchester.secret|Dorchester.secret]] 

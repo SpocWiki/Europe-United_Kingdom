@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.68] 
 [name::Lanark] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Lanark|Lanark]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Lanark.public|Lanark.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Lanark.internal|Lanark.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Lanark.protect|Lanark.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Lanark.private|Lanark.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Lanark.personal|Lanark.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Lanark.secret|Lanark.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark|Lanark]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.public|Lanark.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.internal|Lanark.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.protect|Lanark.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.private|Lanark.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.personal|Lanark.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.secret|Lanark.secret]] 

@@ -40,11 +40,11 @@ markerFolder: ./East_Riding_of_Yorkshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/East_Riding_of_Yorkshire|East_Riding_of_Yorkshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/East_Riding_of_Yorkshire.public|East_Riding_of_Yorkshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/East_Riding_of_Yorkshire.internal|East_Riding_of_Yorkshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/East_Riding_of_Yorkshire.protect|East_Riding_of_Yorkshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/East_Riding_of_Yorkshire.private|East_Riding_of_Yorkshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/East_Riding_of_Yorkshire.personal|East_Riding_of_Yorkshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/East_Riding_of_Yorkshire.secret|East_Riding_of_Yorkshire.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/East_Riding_of_Yorkshire|East_Riding_of_Yorkshire]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/East_Riding_of_Yorkshire.public|East_Riding_of_Yorkshire.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/East_Riding_of_Yorkshire.internal|East_Riding_of_Yorkshire.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/East_Riding_of_Yorkshire.protect|East_Riding_of_Yorkshire.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/East_Riding_of_Yorkshire.private|East_Riding_of_Yorkshire.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/East_Riding_of_Yorkshire.personal|East_Riding_of_Yorkshire.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/East_Riding_of_Yorkshire.secret|East_Riding_of_Yorkshire.secret]] 
 

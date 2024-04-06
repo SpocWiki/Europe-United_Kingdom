@@ -5,7 +5,7 @@ mapzoom: [8,15]
 mapmarker: subway 
 tags:
 - geo/station
-- Europe/United_Kingdom/City~London
+- Europe/UK/City~London
 ---
 SpocWebEntityId: 155973
 [StationSId::] 
@@ -18,7 +18,7 @@ confidential: public
 [zone::6] 
 [Num_lines::1] 
 [switch-to-Rail::0] 
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 City :: [[../../../London]]  
 
 
@@ -38,10 +38,10 @@ FROM [[]]
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3|Sub~Heathrow_Terminals_1,_2_&_3]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.public|Sub~Heathrow_Terminals_1,_2_&_3.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.internal|Sub~Heathrow_Terminals_1,_2_&_3.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.protect|Sub~Heathrow_Terminals_1,_2_&_3.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.private|Sub~Heathrow_Terminals_1,_2_&_3.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.personal|Sub~Heathrow_Terminals_1,_2_&_3.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.secret|Sub~Heathrow_Terminals_1,_2_&_3.secret]] 
+- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3|Sub~Heathrow_Terminals_1,_2_&_3]] 
+- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.public|Sub~Heathrow_Terminals_1,_2_&_3.public]] 
+- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.internal|Sub~Heathrow_Terminals_1,_2_&_3.internal]] 
+- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.protect|Sub~Heathrow_Terminals_1,_2_&_3.protect]] 
+- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.private|Sub~Heathrow_Terminals_1,_2_&_3.private]] 
+- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.personal|Sub~Heathrow_Terminals_1,_2_&_3.personal]] 
+- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.secret|Sub~Heathrow_Terminals_1,_2_&_3.secret]] 

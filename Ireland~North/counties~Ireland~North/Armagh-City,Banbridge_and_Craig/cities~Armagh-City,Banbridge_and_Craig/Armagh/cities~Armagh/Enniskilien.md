@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.35] 
 [name::Enniskilien] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Enniskilien|Enniskilien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Enniskilien.public|Enniskilien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Enniskilien.internal|Enniskilien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Enniskilien.protect|Enniskilien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Enniskilien.private|Enniskilien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Enniskilien.personal|Enniskilien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Enniskilien.secret|Enniskilien.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Enniskilien|Enniskilien]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.public|Enniskilien.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.internal|Enniskilien.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.protect|Enniskilien.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.private|Enniskilien.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.personal|Enniskilien.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.secret|Enniskilien.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.77] 
 [name::Burnley] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burnley|Burnley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burnley.public|Burnley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burnley.internal|Burnley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burnley.protect|Burnley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burnley.private|Burnley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burnley.personal|Burnley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Burnley.secret|Burnley.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Burnley|Burnley]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Burnley.public|Burnley.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Burnley.internal|Burnley.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Burnley.protect|Burnley.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Burnley.private|Burnley.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Burnley.personal|Burnley.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Burnley.secret|Burnley.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.07] 
 [name::Winchester] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchester|Winchester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchester.public|Winchester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchester.internal|Winchester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchester.protect|Winchester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchester.private|Winchester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchester.personal|Winchester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchester.secret|Winchester.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Winchester|Winchester]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Winchester.public|Winchester.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Winchester.internal|Winchester.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Winchester.protect|Winchester.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Winchester.private|Winchester.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Winchester.personal|Winchester.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Winchester.secret|Winchester.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.38] 
 [name::Warrington] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warrington|Warrington]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warrington.public|Warrington.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warrington.internal|Warrington.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warrington.protect|Warrington.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warrington.private|Warrington.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warrington.personal|Warrington.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warrington.secret|Warrington.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Warrington|Warrington]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Warrington.public|Warrington.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Warrington.internal|Warrington.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Warrington.protect|Warrington.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Warrington.private|Warrington.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Warrington.personal|Warrington.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Warrington.secret|Warrington.secret]] 

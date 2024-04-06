@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.68] 
 [name::St.Anne] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -34,10 +34,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Anne|St.Anne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Anne.public|St.Anne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Anne.internal|St.Anne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Anne.protect|St.Anne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Anne.private|St.Anne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Anne.personal|St.Anne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/St.Anne.secret|St.Anne.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Anne|St.Anne]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Anne.public|St.Anne.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Anne.internal|St.Anne.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Anne.protect|St.Anne.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Anne.private|St.Anne.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Anne.personal|St.Anne.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Anne.secret|St.Anne.secret]] 

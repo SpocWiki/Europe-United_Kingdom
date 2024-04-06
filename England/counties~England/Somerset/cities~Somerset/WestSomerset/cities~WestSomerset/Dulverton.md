@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.03] 
 [name::Dulverton] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dulverton|Dulverton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dulverton.public|Dulverton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dulverton.internal|Dulverton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dulverton.protect|Dulverton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dulverton.private|Dulverton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dulverton.personal|Dulverton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Dulverton.secret|Dulverton.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dulverton|Dulverton]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dulverton.public|Dulverton.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dulverton.internal|Dulverton.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dulverton.protect|Dulverton.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dulverton.private|Dulverton.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dulverton.personal|Dulverton.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dulverton.secret|Dulverton.secret]] 

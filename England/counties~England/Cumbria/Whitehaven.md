@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.55] 
 [name::Whitehaven] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Whitehaven|Whitehaven]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Whitehaven.public|Whitehaven.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Whitehaven.internal|Whitehaven.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Whitehaven.protect|Whitehaven.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Whitehaven.private|Whitehaven.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Whitehaven.personal|Whitehaven.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Whitehaven.secret|Whitehaven.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Whitehaven|Whitehaven]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.public|Whitehaven.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.internal|Whitehaven.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.protect|Whitehaven.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.private|Whitehaven.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.personal|Whitehaven.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.secret|Whitehaven.secret]] 

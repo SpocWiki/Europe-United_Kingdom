@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.38] 
 [name::Birkenhead] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Birkenhead|Birkenhead]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Birkenhead.public|Birkenhead.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Birkenhead.internal|Birkenhead.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Birkenhead.protect|Birkenhead.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Birkenhead.private|Birkenhead.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Birkenhead.personal|Birkenhead.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Birkenhead.secret|Birkenhead.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Birkenhead|Birkenhead]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.public|Birkenhead.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.internal|Birkenhead.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.protect|Birkenhead.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.private|Birkenhead.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.personal|Birkenhead.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.secret|Birkenhead.secret]] 

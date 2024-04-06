@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.43] 
 [name::Rotherham] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rotherham|Rotherham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rotherham.public|Rotherham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rotherham.internal|Rotherham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rotherham.protect|Rotherham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rotherham.private|Rotherham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rotherham.personal|Rotherham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Rotherham.secret|Rotherham.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Rotherham|Rotherham]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Rotherham.public|Rotherham.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Rotherham.internal|Rotherham.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Rotherham.protect|Rotherham.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Rotherham.private|Rotherham.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Rotherham.personal|Rotherham.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Rotherham.secret|Rotherham.secret]] 

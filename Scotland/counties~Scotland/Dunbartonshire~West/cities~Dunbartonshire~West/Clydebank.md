@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.9] 
 [name::Clydebank] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Clydebank|Clydebank]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Clydebank.public|Clydebank.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Clydebank.internal|Clydebank.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Clydebank.protect|Clydebank.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Clydebank.private|Clydebank.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Clydebank.personal|Clydebank.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Clydebank.secret|Clydebank.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Clydebank|Clydebank]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Clydebank.public|Clydebank.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Clydebank.internal|Clydebank.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Clydebank.protect|Clydebank.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Clydebank.private|Clydebank.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Clydebank.personal|Clydebank.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Clydebank.secret|Clydebank.secret]] 

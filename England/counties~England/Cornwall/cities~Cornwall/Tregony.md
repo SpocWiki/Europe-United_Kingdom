@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.27] 
 [name::Tregony] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tregony|Tregony]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tregony.public|Tregony.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tregony.internal|Tregony.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tregony.protect|Tregony.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tregony.private|Tregony.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tregony.personal|Tregony.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tregony.secret|Tregony.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tregony|Tregony]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tregony.public|Tregony.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tregony.internal|Tregony.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tregony.protect|Tregony.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tregony.private|Tregony.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tregony.personal|Tregony.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tregony.secret|Tregony.secret]] 

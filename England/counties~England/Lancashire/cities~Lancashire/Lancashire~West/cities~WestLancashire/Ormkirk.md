@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.57] 
 [name::Ormkirk] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ormkirk|Ormkirk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ormkirk.public|Ormkirk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ormkirk.internal|Ormkirk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ormkirk.protect|Ormkirk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ormkirk.private|Ormkirk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ormkirk.personal|Ormkirk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ormkirk.secret|Ormkirk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ormkirk|Ormkirk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.public|Ormkirk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.internal|Ormkirk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.protect|Ormkirk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.private|Ormkirk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.personal|Ormkirk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.secret|Ormkirk.secret]] 

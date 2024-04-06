@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.95] 
 [name::Sherborne] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sherborne|Sherborne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sherborne.public|Sherborne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sherborne.internal|Sherborne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sherborne.protect|Sherborne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sherborne.private|Sherborne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sherborne.personal|Sherborne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sherborne.secret|Sherborne.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sherborne|Sherborne]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sherborne.public|Sherborne.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sherborne.internal|Sherborne.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sherborne.protect|Sherborne.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sherborne.private|Sherborne.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sherborne.personal|Sherborne.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sherborne.secret|Sherborne.secret]] 

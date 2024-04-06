@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.67] 
 [name::Pembroke] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Pembroke|Pembroke]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Pembroke.public|Pembroke.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Pembroke.internal|Pembroke.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Pembroke.protect|Pembroke.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Pembroke.private|Pembroke.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Pembroke.personal|Pembroke.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Pembroke.secret|Pembroke.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke|Pembroke]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.public|Pembroke.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.internal|Pembroke.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.protect|Pembroke.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.private|Pembroke.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.personal|Pembroke.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.secret|Pembroke.secret]] 

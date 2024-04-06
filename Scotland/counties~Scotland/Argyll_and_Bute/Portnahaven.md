@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.68] 
 [name::Portnahaven] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portnahaven|Portnahaven]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portnahaven.public|Portnahaven.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portnahaven.internal|Portnahaven.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portnahaven.protect|Portnahaven.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portnahaven.private|Portnahaven.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portnahaven.personal|Portnahaven.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portnahaven.secret|Portnahaven.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Portnahaven|Portnahaven]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.public|Portnahaven.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.internal|Portnahaven.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.protect|Portnahaven.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.private|Portnahaven.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.personal|Portnahaven.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.secret|Portnahaven.secret]] 

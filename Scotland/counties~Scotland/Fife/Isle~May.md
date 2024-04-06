@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::56.18] 
 [name::May] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/May|May]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/May.public|May.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/May.internal|May.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/May.protect|May.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/May.private|May.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/May.personal|May.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/May.secret|May.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/May|May]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/May.public|May.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/May.internal|May.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/May.protect|May.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/May.private|May.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/May.personal|May.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/May.secret|May.secret]] 

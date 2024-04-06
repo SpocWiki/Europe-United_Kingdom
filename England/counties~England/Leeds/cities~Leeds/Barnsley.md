@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.88] 
 [name::Barnsley] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnsley|Barnsley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnsley.public|Barnsley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnsley.internal|Barnsley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnsley.protect|Barnsley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnsley.private|Barnsley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnsley.personal|Barnsley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnsley.secret|Barnsley.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Barnsley|Barnsley]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Barnsley.public|Barnsley.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Barnsley.internal|Barnsley.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Barnsley.protect|Barnsley.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Barnsley.private|Barnsley.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Barnsley.personal|Barnsley.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Barnsley.secret|Barnsley.secret]] 

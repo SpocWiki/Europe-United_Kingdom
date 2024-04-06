@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.1] 
 [name::Barnstaple] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnstaple|Barnstaple]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnstaple.public|Barnstaple.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnstaple.internal|Barnstaple.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnstaple.protect|Barnstaple.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnstaple.private|Barnstaple.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnstaple.personal|Barnstaple.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barnstaple.secret|Barnstaple.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Barnstaple|Barnstaple]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.public|Barnstaple.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.internal|Barnstaple.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.protect|Barnstaple.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.private|Barnstaple.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.personal|Barnstaple.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.secret|Barnstaple.secret]] 

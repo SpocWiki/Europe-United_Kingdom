@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.95] 
 [name::York] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/York|York]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/York.public|York.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/York.internal|York.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/York.protect|York.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/York.private|York.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/York.personal|York.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/York.secret|York.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/York|York]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/York.public|York.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/York.internal|York.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/York.protect|York.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/York.private|York.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/York.personal|York.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/York.secret|York.secret]] 

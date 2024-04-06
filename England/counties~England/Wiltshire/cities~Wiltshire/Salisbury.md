@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.07] 
 [name::Salisbury] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salisbury|Salisbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salisbury.public|Salisbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salisbury.internal|Salisbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salisbury.protect|Salisbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salisbury.private|Salisbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salisbury.personal|Salisbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salisbury.secret|Salisbury.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Salisbury|Salisbury]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Salisbury.public|Salisbury.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Salisbury.internal|Salisbury.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Salisbury.protect|Salisbury.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Salisbury.private|Salisbury.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Salisbury.personal|Salisbury.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Salisbury.secret|Salisbury.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::57.48] 
 [name::Inverness] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverness|Inverness]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverness.public|Inverness.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverness.internal|Inverness.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverness.protect|Inverness.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverness.private|Inverness.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverness.personal|Inverness.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverness.secret|Inverness.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Inverness|Inverness]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Inverness.public|Inverness.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Inverness.internal|Inverness.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Inverness.protect|Inverness.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Inverness.private|Inverness.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Inverness.personal|Inverness.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Inverness.secret|Inverness.secret]] 

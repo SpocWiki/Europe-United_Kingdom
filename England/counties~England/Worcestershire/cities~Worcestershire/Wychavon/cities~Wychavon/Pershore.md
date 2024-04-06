@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.12] 
 [name::Pershore] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pershore|Pershore]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pershore.public|Pershore.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pershore.internal|Pershore.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pershore.protect|Pershore.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pershore.private|Pershore.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pershore.personal|Pershore.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pershore.secret|Pershore.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Pershore|Pershore]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Pershore.public|Pershore.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Pershore.internal|Pershore.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Pershore.protect|Pershore.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Pershore.private|Pershore.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Pershore.personal|Pershore.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Pershore.secret|Pershore.secret]] 

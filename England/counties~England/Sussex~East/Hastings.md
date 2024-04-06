@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.87] 
 [name::Hastings] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hastings|Hastings]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hastings.public|Hastings.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hastings.internal|Hastings.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hastings.protect|Hastings.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hastings.private|Hastings.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hastings.personal|Hastings.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Hastings.secret|Hastings.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hastings|Hastings]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hastings.public|Hastings.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hastings.internal|Hastings.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hastings.protect|Hastings.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hastings.private|Hastings.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hastings.personal|Hastings.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hastings.secret|Hastings.secret]] 

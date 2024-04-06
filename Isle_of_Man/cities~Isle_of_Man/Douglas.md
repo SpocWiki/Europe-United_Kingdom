@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.15] 
 [name::Douglas] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Douglas|Douglas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Douglas.public|Douglas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Douglas.internal|Douglas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Douglas.protect|Douglas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Douglas.private|Douglas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Douglas.personal|Douglas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Douglas.secret|Douglas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Douglas|Douglas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Douglas.public|Douglas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Douglas.internal|Douglas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Douglas.protect|Douglas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Douglas.private|Douglas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Douglas.personal|Douglas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Douglas.secret|Douglas.secret]] 

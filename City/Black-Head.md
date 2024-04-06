@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.02] 
 [name::Black-Head] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Black-Head|Black-Head]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Black-Head.public|Black-Head.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Black-Head.internal|Black-Head.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Black-Head.protect|Black-Head.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Black-Head.private|Black-Head.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Black-Head.personal|Black-Head.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Black-Head.secret|Black-Head.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Black-Head|Black-Head]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Black-Head.public|Black-Head.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Black-Head.internal|Black-Head.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Black-Head.protect|Black-Head.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Black-Head.private|Black-Head.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Black-Head.personal|Black-Head.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Black-Head.secret|Black-Head.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.85] 
 [name::Carmathen] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carmathen|Carmathen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carmathen.public|Carmathen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carmathen.internal|Carmathen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carmathen.protect|Carmathen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carmathen.private|Carmathen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carmathen.personal|Carmathen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carmathen.secret|Carmathen.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Carmathen|Carmathen]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Carmathen.public|Carmathen.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Carmathen.internal|Carmathen.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Carmathen.protect|Carmathen.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Carmathen.private|Carmathen.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Carmathen.personal|Carmathen.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Carmathen.secret|Carmathen.secret]] 

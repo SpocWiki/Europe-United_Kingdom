@@ -40,11 +40,11 @@ markerFolder: ./Isle_of_Man/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Isle_of_Man|Isle_of_Man]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Isle_of_Man.public|Isle_of_Man.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Isle_of_Man.internal|Isle_of_Man.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Isle_of_Man.protect|Isle_of_Man.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Isle_of_Man.private|Isle_of_Man.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Isle_of_Man.personal|Isle_of_Man.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Isle_of_Man.secret|Isle_of_Man.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Isle_of_Man|Isle_of_Man]] 
+- [[../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.public|Isle_of_Man.public]] 
+- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.internal|Isle_of_Man.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.protect|Isle_of_Man.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.private|Isle_of_Man.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.personal|Isle_of_Man.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.secret|Isle_of_Man.secret]] 
 

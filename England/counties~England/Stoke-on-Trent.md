@@ -40,11 +40,11 @@ markerFolder: ./Stoke-on-Trent/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stoke-on-Trent|Stoke-on-Trent]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stoke-on-Trent.public|Stoke-on-Trent.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stoke-on-Trent.internal|Stoke-on-Trent.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stoke-on-Trent.protect|Stoke-on-Trent.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stoke-on-Trent.private|Stoke-on-Trent.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stoke-on-Trent.personal|Stoke-on-Trent.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Stoke-on-Trent.secret|Stoke-on-Trent.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent|Stoke-on-Trent]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.public|Stoke-on-Trent.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.internal|Stoke-on-Trent.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.protect|Stoke-on-Trent.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.private|Stoke-on-Trent.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.personal|Stoke-on-Trent.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.secret|Stoke-on-Trent.secret]] 
 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.42] 
 [name::Coventry] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coventry|Coventry]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coventry.public|Coventry.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coventry.internal|Coventry.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coventry.protect|Coventry.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coventry.private|Coventry.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coventry.personal|Coventry.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Coventry.secret|Coventry.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Coventry|Coventry]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Coventry.public|Coventry.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Coventry.internal|Coventry.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Coventry.protect|Coventry.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Coventry.private|Coventry.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Coventry.personal|Coventry.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Coventry.secret|Coventry.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.5] 
 [name::Dungannon] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Dungannon|Dungannon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Dungannon.public|Dungannon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Dungannon.internal|Dungannon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Dungannon.protect|Dungannon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Dungannon.private|Dungannon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Dungannon.personal|Dungannon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Dungannon.secret|Dungannon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon|Dungannon]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.public|Dungannon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.internal|Dungannon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.protect|Dungannon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.private|Dungannon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.personal|Dungannon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.secret|Dungannon.secret]] 

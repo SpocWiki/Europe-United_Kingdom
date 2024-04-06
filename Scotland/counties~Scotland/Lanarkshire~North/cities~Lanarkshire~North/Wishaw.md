@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.78] 
 [name::Wishaw] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wishaw|Wishaw]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wishaw.public|Wishaw.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wishaw.internal|Wishaw.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wishaw.protect|Wishaw.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wishaw.private|Wishaw.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wishaw.personal|Wishaw.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wishaw.secret|Wishaw.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wishaw|Wishaw]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wishaw.public|Wishaw.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wishaw.internal|Wishaw.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wishaw.protect|Wishaw.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wishaw.private|Wishaw.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wishaw.personal|Wishaw.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wishaw.secret|Wishaw.secret]] 

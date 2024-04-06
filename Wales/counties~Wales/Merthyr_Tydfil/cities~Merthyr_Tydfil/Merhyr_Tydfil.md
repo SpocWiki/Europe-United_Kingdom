@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.75] 
 [name::Merhyr Tydfil] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Merhyr_Tydfil|Merhyr_Tydfil]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Merhyr_Tydfil.public|Merhyr_Tydfil.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Merhyr_Tydfil.internal|Merhyr_Tydfil.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Merhyr_Tydfil.protect|Merhyr_Tydfil.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Merhyr_Tydfil.private|Merhyr_Tydfil.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Merhyr_Tydfil.personal|Merhyr_Tydfil.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Merhyr_Tydfil.secret|Merhyr_Tydfil.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil|Merhyr_Tydfil]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.public|Merhyr_Tydfil.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.internal|Merhyr_Tydfil.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.protect|Merhyr_Tydfil.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.private|Merhyr_Tydfil.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.personal|Merhyr_Tydfil.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.secret|Merhyr_Tydfil.secret]] 

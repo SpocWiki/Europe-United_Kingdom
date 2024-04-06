@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.57] 
 [name::Tavistock] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tavistock|Tavistock]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tavistock.public|Tavistock.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tavistock.internal|Tavistock.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tavistock.protect|Tavistock.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tavistock.private|Tavistock.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tavistock.personal|Tavistock.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Tavistock.secret|Tavistock.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tavistock|Tavistock]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tavistock.public|Tavistock.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tavistock.internal|Tavistock.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tavistock.protect|Tavistock.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tavistock.private|Tavistock.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tavistock.personal|Tavistock.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tavistock.secret|Tavistock.secret]] 

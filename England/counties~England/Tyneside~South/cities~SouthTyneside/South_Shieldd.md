@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.98] 
 [name::South Shieldd] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/South_Shieldd|South_Shieldd]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/South_Shieldd.public|South_Shieldd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/South_Shieldd.internal|South_Shieldd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/South_Shieldd.protect|South_Shieldd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/South_Shieldd.private|South_Shieldd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/South_Shieldd.personal|South_Shieldd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/South_Shieldd.secret|South_Shieldd.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd|South_Shieldd]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.public|South_Shieldd.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.internal|South_Shieldd.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.protect|South_Shieldd.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.private|South_Shieldd.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.personal|South_Shieldd.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.secret|South_Shieldd.secret]] 

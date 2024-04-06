@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.95] 
 [name::Greenock] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Greenock|Greenock]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Greenock.public|Greenock.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Greenock.internal|Greenock.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Greenock.protect|Greenock.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Greenock.private|Greenock.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Greenock.personal|Greenock.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Greenock.secret|Greenock.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Greenock|Greenock]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Greenock.public|Greenock.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Greenock.internal|Greenock.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Greenock.protect|Greenock.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Greenock.private|Greenock.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Greenock.personal|Greenock.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Greenock.secret|Greenock.secret]] 

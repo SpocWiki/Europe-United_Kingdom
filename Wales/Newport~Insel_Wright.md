@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.7] 
 [name::Newport~Insel Wright] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Insel_Wright|Newport~Insel_Wright]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Insel_Wright.public|Newport~Insel_Wright.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Insel_Wright.internal|Newport~Insel_Wright.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Insel_Wright.protect|Newport~Insel_Wright.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Insel_Wright.private|Newport~Insel_Wright.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Insel_Wright.personal|Newport~Insel_Wright.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Insel_Wright.secret|Newport~Insel_Wright.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Insel_Wright|Newport~Insel_Wright]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Insel_Wright.public|Newport~Insel_Wright.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Insel_Wright.internal|Newport~Insel_Wright.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Insel_Wright.protect|Newport~Insel_Wright.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Insel_Wright.private|Newport~Insel_Wright.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Insel_Wright.personal|Newport~Insel_Wright.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Insel_Wright.secret|Newport~Insel_Wright.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.28] 
 [name::Warwick] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warwick|Warwick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warwick.public|Warwick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warwick.internal|Warwick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warwick.protect|Warwick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warwick.private|Warwick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warwick.personal|Warwick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Warwick.secret|Warwick.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Warwick|Warwick]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Warwick.public|Warwick.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Warwick.internal|Warwick.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Warwick.protect|Warwick.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Warwick.private|Warwick.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Warwick.personal|Warwick.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Warwick.secret|Warwick.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.58] 
 [name::Newport~Monmouthshire] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Monmouthshire|Newport~Monmouthshire]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Monmouthshire.public|Newport~Monmouthshire.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Monmouthshire.internal|Newport~Monmouthshire.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Monmouthshire.protect|Newport~Monmouthshire.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Monmouthshire.private|Newport~Monmouthshire.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Monmouthshire.personal|Newport~Monmouthshire.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Wales/Newport~Monmouthshire.secret|Newport~Monmouthshire.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Monmouthshire|Newport~Monmouthshire]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Monmouthshire.public|Newport~Monmouthshire.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Monmouthshire.internal|Newport~Monmouthshire.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Monmouthshire.protect|Newport~Monmouthshire.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Monmouthshire.private|Newport~Monmouthshire.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Monmouthshire.personal|Newport~Monmouthshire.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Newport~Monmouthshire.secret|Newport~Monmouthshire.secret]] 

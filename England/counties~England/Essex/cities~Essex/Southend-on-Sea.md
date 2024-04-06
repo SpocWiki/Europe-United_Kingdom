@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.53] 
 [name::Southend-on-Sea] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea|Southend-on-Sea]] 
-- [[../../../../../../_public/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.public|Southend-on-Sea.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.internal|Southend-on-Sea.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.protect|Southend-on-Sea.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.private|Southend-on-Sea.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.personal|Southend-on-Sea.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/United_Kingdom/City/Southend-on-Sea.secret|Southend-on-Sea.secret]] 
+- [[../../../../../../_Standards/geo/Continent/Europe/UK/City/Southend-on-Sea|Southend-on-Sea]] 
+- [[../../../../../../_public/geo/Continent/Europe/UK/City/Southend-on-Sea.public|Southend-on-Sea.public]] 
+- [[../../../../../../_internal/geo/Continent/Europe/UK/City/Southend-on-Sea.internal|Southend-on-Sea.internal]] 
+- [[../../../../../../_protect/geo/Continent/Europe/UK/City/Southend-on-Sea.protect|Southend-on-Sea.protect]] 
+- [[../../../../../../_private/geo/Continent/Europe/UK/City/Southend-on-Sea.private|Southend-on-Sea.private]] 
+- [[../../../../../../_personal/geo/Continent/Europe/UK/City/Southend-on-Sea.personal|Southend-on-Sea.personal]] 
+- [[../../../../../../_secret/geo/Continent/Europe/UK/City/Southend-on-Sea.secret|Southend-on-Sea.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.85] 
 [name::Paisley] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Paisley|Paisley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Paisley.public|Paisley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Paisley.internal|Paisley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Paisley.protect|Paisley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Paisley.private|Paisley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Paisley.personal|Paisley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Paisley.secret|Paisley.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Paisley|Paisley]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Paisley.public|Paisley.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Paisley.internal|Paisley.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Paisley.protect|Paisley.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Paisley.private|Paisley.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Paisley.personal|Paisley.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Paisley.secret|Paisley.secret]] 

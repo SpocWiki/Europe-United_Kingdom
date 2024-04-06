@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.17] 
 [name::Carnavon] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carnavon|Carnavon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carnavon.public|Carnavon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carnavon.internal|Carnavon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carnavon.protect|Carnavon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carnavon.private|Carnavon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carnavon.personal|Carnavon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Carnavon.secret|Carnavon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Carnavon|Carnavon]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Carnavon.public|Carnavon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Carnavon.internal|Carnavon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Carnavon.protect|Carnavon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Carnavon.private|Carnavon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Carnavon.personal|Carnavon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Carnavon.secret|Carnavon.secret]] 

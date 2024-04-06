@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.37] 
 [name::Torquay] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Torquay|Torquay]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Torquay.public|Torquay.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Torquay.internal|Torquay.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Torquay.protect|Torquay.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Torquay.private|Torquay.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Torquay.personal|Torquay.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Torquay.secret|Torquay.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Torquay|Torquay]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Torquay.public|Torquay.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Torquay.internal|Torquay.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Torquay.protect|Torquay.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Torquay.private|Torquay.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Torquay.personal|Torquay.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Torquay.secret|Torquay.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.02] 
 [name::Blenheim] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blenheim|Blenheim]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blenheim.public|Blenheim.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blenheim.internal|Blenheim.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blenheim.protect|Blenheim.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blenheim.private|Blenheim.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blenheim.personal|Blenheim.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Blenheim.secret|Blenheim.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Blenheim|Blenheim]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Blenheim.public|Blenheim.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Blenheim.internal|Blenheim.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Blenheim.protect|Blenheim.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Blenheim.private|Blenheim.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Blenheim.personal|Blenheim.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Blenheim.secret|Blenheim.secret]] 

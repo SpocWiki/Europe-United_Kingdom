@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.75] 
 [name::Strond] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Strond|Strond]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Strond.public|Strond.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Strond.internal|Strond.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Strond.protect|Strond.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Strond.private|Strond.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Strond.personal|Strond.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Strond.secret|Strond.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Strond|Strond]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Strond.public|Strond.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Strond.internal|Strond.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Strond.protect|Strond.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Strond.private|Strond.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Strond.personal|Strond.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Strond.secret|Strond.secret]] 

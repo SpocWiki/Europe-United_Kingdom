@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.27] 
 [name::Sevenoaks] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sevenoaks|Sevenoaks]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sevenoaks.public|Sevenoaks.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sevenoaks.internal|Sevenoaks.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sevenoaks.protect|Sevenoaks.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sevenoaks.private|Sevenoaks.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sevenoaks.personal|Sevenoaks.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Sevenoaks.secret|Sevenoaks.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks|Sevenoaks]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.public|Sevenoaks.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.internal|Sevenoaks.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.protect|Sevenoaks.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.private|Sevenoaks.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.personal|Sevenoaks.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.secret|Sevenoaks.secret]] 

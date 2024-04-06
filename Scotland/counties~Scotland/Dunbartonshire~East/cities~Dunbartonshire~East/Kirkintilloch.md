@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.93] 
 [name::Kirkintilloch] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kirkintilloch|Kirkintilloch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kirkintilloch.public|Kirkintilloch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kirkintilloch.internal|Kirkintilloch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kirkintilloch.protect|Kirkintilloch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kirkintilloch.private|Kirkintilloch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kirkintilloch.personal|Kirkintilloch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Kirkintilloch.secret|Kirkintilloch.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch|Kirkintilloch]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.public|Kirkintilloch.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.internal|Kirkintilloch.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.protect|Kirkintilloch.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.private|Kirkintilloch.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.personal|Kirkintilloch.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.secret|Kirkintilloch.secret]] 

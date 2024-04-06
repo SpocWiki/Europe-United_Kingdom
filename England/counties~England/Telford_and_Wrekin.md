@@ -40,11 +40,11 @@ markerFolder: ./Telford_and_Wrekin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Telford_and_Wrekin|Telford_and_Wrekin]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Telford_and_Wrekin.public|Telford_and_Wrekin.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Telford_and_Wrekin.internal|Telford_and_Wrekin.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Telford_and_Wrekin.protect|Telford_and_Wrekin.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Telford_and_Wrekin.private|Telford_and_Wrekin.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Telford_and_Wrekin.personal|Telford_and_Wrekin.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Telford_and_Wrekin.secret|Telford_and_Wrekin.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Telford_and_Wrekin|Telford_and_Wrekin]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Telford_and_Wrekin.public|Telford_and_Wrekin.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Telford_and_Wrekin.internal|Telford_and_Wrekin.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Telford_and_Wrekin.protect|Telford_and_Wrekin.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Telford_and_Wrekin.private|Telford_and_Wrekin.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Telford_and_Wrekin.personal|Telford_and_Wrekin.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Telford_and_Wrekin.secret|Telford_and_Wrekin.secret]] 
 

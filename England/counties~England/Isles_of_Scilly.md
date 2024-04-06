@@ -40,11 +40,11 @@ markerFolder: ./Isles_of_Scilly/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Isles_of_Scilly|Isles_of_Scilly]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Isles_of_Scilly.public|Isles_of_Scilly.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Isles_of_Scilly.internal|Isles_of_Scilly.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Isles_of_Scilly.protect|Isles_of_Scilly.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Isles_of_Scilly.private|Isles_of_Scilly.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Isles_of_Scilly.personal|Isles_of_Scilly.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Isles_of_Scilly.secret|Isles_of_Scilly.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Isles_of_Scilly|Isles_of_Scilly]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Isles_of_Scilly.public|Isles_of_Scilly.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Isles_of_Scilly.internal|Isles_of_Scilly.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Isles_of_Scilly.protect|Isles_of_Scilly.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Isles_of_Scilly.private|Isles_of_Scilly.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Isles_of_Scilly.personal|Isles_of_Scilly.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Isles_of_Scilly.secret|Isles_of_Scilly.secret]] 
 

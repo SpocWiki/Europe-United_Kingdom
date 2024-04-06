@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.13] 
 [name::Aldboraugh] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldboraugh|Aldboraugh]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldboraugh.public|Aldboraugh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldboraugh.internal|Aldboraugh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldboraugh.protect|Aldboraugh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldboraugh.private|Aldboraugh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldboraugh.personal|Aldboraugh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Aldboraugh.secret|Aldboraugh.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh|Aldboraugh]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.public|Aldboraugh.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.internal|Aldboraugh.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.protect|Aldboraugh.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.private|Aldboraugh.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.personal|Aldboraugh.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.secret|Aldboraugh.secret]] 

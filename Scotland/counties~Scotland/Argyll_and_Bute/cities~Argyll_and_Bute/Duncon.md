@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.95] 
 [name::Duncon] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Duncon|Duncon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Duncon.public|Duncon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Duncon.internal|Duncon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Duncon.protect|Duncon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Duncon.private|Duncon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Duncon.personal|Duncon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Duncon.secret|Duncon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Duncon|Duncon]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Duncon.public|Duncon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Duncon.internal|Duncon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Duncon.protect|Duncon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Duncon.private|Duncon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Duncon.personal|Duncon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Duncon.secret|Duncon.secret]] 

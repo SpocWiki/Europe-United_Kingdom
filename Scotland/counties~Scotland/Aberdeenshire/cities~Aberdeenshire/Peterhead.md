@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::57.5] 
 [name::Peterhead] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Peterhead|Peterhead]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Peterhead.public|Peterhead.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Peterhead.internal|Peterhead.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Peterhead.protect|Peterhead.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Peterhead.private|Peterhead.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Peterhead.personal|Peterhead.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Peterhead.secret|Peterhead.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Peterhead|Peterhead]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Peterhead.public|Peterhead.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Peterhead.internal|Peterhead.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Peterhead.protect|Peterhead.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Peterhead.private|Peterhead.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Peterhead.personal|Peterhead.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Peterhead.secret|Peterhead.secret]] 

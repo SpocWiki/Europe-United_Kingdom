@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.95] 
 [name::Brecon] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Brecon|Brecon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Brecon.public|Brecon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Brecon.internal|Brecon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Brecon.protect|Brecon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Brecon.private|Brecon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Brecon.personal|Brecon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Brecon.secret|Brecon.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Brecon|Brecon]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Brecon.public|Brecon.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Brecon.internal|Brecon.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Brecon.protect|Brecon.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Brecon.private|Brecon.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Brecon.personal|Brecon.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Brecon.secret|Brecon.secret]] 

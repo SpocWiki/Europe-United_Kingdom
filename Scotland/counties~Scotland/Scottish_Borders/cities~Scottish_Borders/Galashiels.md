@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.62] 
 [name::Galashiels] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Galashiels|Galashiels]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Galashiels.public|Galashiels.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Galashiels.internal|Galashiels.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Galashiels.protect|Galashiels.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Galashiels.private|Galashiels.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Galashiels.personal|Galashiels.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Galashiels.secret|Galashiels.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Galashiels|Galashiels]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Galashiels.public|Galashiels.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Galashiels.internal|Galashiels.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Galashiels.protect|Galashiels.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Galashiels.private|Galashiels.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Galashiels.personal|Galashiels.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Galashiels.secret|Galashiels.secret]] 

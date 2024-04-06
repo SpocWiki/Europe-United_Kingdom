@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.62] 
 [name::Irvine] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Irvine|Irvine]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Irvine.public|Irvine.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Irvine.internal|Irvine.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Irvine.protect|Irvine.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Irvine.private|Irvine.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Irvine.personal|Irvine.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Irvine.secret|Irvine.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Irvine|Irvine]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Irvine.public|Irvine.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Irvine.internal|Irvine.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Irvine.protect|Irvine.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Irvine.private|Irvine.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Irvine.personal|Irvine.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Irvine.secret|Irvine.secret]] 

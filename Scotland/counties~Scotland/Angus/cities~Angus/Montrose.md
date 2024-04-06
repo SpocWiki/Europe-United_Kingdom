@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::56.72] 
 [name::Montrose] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Montrose|Montrose]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Montrose.public|Montrose.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Montrose.internal|Montrose.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Montrose.protect|Montrose.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Montrose.private|Montrose.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Montrose.personal|Montrose.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Montrose.secret|Montrose.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Montrose|Montrose]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Montrose.public|Montrose.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Montrose.internal|Montrose.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Montrose.protect|Montrose.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Montrose.private|Montrose.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Montrose.personal|Montrose.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Montrose.secret|Montrose.secret]] 

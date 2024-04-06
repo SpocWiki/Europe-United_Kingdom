@@ -40,11 +40,11 @@ markerFolder: ./Perthshire_and_Kinross/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Perthshire_and_Kinross|Perthshire_and_Kinross]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Perthshire_and_Kinross.public|Perthshire_and_Kinross.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Perthshire_and_Kinross.internal|Perthshire_and_Kinross.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Perthshire_and_Kinross.protect|Perthshire_and_Kinross.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Perthshire_and_Kinross.private|Perthshire_and_Kinross.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Perthshire_and_Kinross.personal|Perthshire_and_Kinross.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Scotland/Counties/Perthshire_and_Kinross.secret|Perthshire_and_Kinross.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Perthshire_and_Kinross|Perthshire_and_Kinross]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Perthshire_and_Kinross.public|Perthshire_and_Kinross.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Perthshire_and_Kinross.internal|Perthshire_and_Kinross.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Perthshire_and_Kinross.protect|Perthshire_and_Kinross.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Perthshire_and_Kinross.private|Perthshire_and_Kinross.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Perthshire_and_Kinross.personal|Perthshire_and_Kinross.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Perthshire_and_Kinross.secret|Perthshire_and_Kinross.secret]] 
 

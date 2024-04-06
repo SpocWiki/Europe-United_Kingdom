@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.1] 
 [name::Crewe] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Crewe|Crewe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Crewe.public|Crewe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Crewe.internal|Crewe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Crewe.protect|Crewe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Crewe.private|Crewe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Crewe.personal|Crewe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Crewe.secret|Crewe.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Crewe|Crewe]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Crewe.public|Crewe.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Crewe.internal|Crewe.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Crewe.protect|Crewe.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Crewe.private|Crewe.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Crewe.personal|Crewe.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Crewe.secret|Crewe.secret]] 

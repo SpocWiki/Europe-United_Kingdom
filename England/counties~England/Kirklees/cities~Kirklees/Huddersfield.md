@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.65] 
 [name::Huddersfield] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huddersfield|Huddersfield]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huddersfield.public|Huddersfield.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huddersfield.internal|Huddersfield.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huddersfield.protect|Huddersfield.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huddersfield.private|Huddersfield.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huddersfield.personal|Huddersfield.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Huddersfield.secret|Huddersfield.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Huddersfield|Huddersfield]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.public|Huddersfield.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.internal|Huddersfield.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.protect|Huddersfield.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.private|Huddersfield.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.personal|Huddersfield.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.secret|Huddersfield.secret]] 

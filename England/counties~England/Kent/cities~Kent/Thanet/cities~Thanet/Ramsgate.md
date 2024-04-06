@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.33] 
 [name::Ramsgate] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ramsgate|Ramsgate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ramsgate.public|Ramsgate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ramsgate.internal|Ramsgate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ramsgate.protect|Ramsgate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ramsgate.private|Ramsgate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ramsgate.personal|Ramsgate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Ramsgate.secret|Ramsgate.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ramsgate|Ramsgate]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.public|Ramsgate.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.internal|Ramsgate.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.protect|Ramsgate.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.private|Ramsgate.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.personal|Ramsgate.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.secret|Ramsgate.secret]] 

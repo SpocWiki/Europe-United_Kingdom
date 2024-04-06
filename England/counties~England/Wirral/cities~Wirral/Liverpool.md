@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.4] 
 [name::Liverpool] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Liverpool|Liverpool]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Liverpool.public|Liverpool.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Liverpool.internal|Liverpool.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Liverpool.protect|Liverpool.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Liverpool.private|Liverpool.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Liverpool.personal|Liverpool.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Liverpool.secret|Liverpool.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Liverpool|Liverpool]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Liverpool.public|Liverpool.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Liverpool.internal|Liverpool.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Liverpool.protect|Liverpool.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Liverpool.private|Liverpool.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Liverpool.personal|Liverpool.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Liverpool.secret|Liverpool.secret]] 

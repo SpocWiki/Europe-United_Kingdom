@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.4] 
 [name::Skerries] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Skerries|Skerries]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Skerries.public|Skerries.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Skerries.internal|Skerries.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Skerries.protect|Skerries.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Skerries.private|Skerries.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Skerries.personal|Skerries.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Skerries.secret|Skerries.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Skerries|Skerries]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Skerries.public|Skerries.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Skerries.internal|Skerries.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Skerries.protect|Skerries.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Skerries.private|Skerries.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Skerries.personal|Skerries.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Skerries.secret|Skerries.secret]] 

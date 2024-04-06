@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.92] 
 [name::Winchelsea] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchelsea|Winchelsea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchelsea.public|Winchelsea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchelsea.internal|Winchelsea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchelsea.protect|Winchelsea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchelsea.private|Winchelsea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchelsea.personal|Winchelsea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Winchelsea.secret|Winchelsea.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Winchelsea|Winchelsea]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.public|Winchelsea.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.internal|Winchelsea.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.protect|Winchelsea.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.private|Winchelsea.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.personal|Winchelsea.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.secret|Winchelsea.secret]] 

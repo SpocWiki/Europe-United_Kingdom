@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::55.72] 
 [name::Cumray] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cumray|Cumray]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cumray.public|Cumray.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cumray.internal|Cumray.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cumray.protect|Cumray.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cumray.private|Cumray.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cumray.personal|Cumray.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cumray.secret|Cumray.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Cumray|Cumray]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Cumray.public|Cumray.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Cumray.internal|Cumray.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Cumray.protect|Cumray.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Cumray.private|Cumray.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Cumray.personal|Cumray.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Cumray.secret|Cumray.secret]] 

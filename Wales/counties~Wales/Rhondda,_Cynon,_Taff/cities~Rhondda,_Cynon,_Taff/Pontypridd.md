@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.58] 
 [name::Pontypridd] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pontypridd|Pontypridd]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pontypridd.public|Pontypridd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pontypridd.internal|Pontypridd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pontypridd.protect|Pontypridd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pontypridd.private|Pontypridd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pontypridd.personal|Pontypridd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Pontypridd.secret|Pontypridd.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Pontypridd|Pontypridd]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.public|Pontypridd.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.internal|Pontypridd.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.protect|Pontypridd.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.private|Pontypridd.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.personal|Pontypridd.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.secret|Pontypridd.secret]] 

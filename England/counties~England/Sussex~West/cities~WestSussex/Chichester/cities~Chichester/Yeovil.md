@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.92] 
 [name::Yeovil] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil|Yeovil]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.public|Yeovil.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.internal|Yeovil.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.protect|Yeovil.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.private|Yeovil.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.personal|Yeovil.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Yeovil.secret|Yeovil.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Yeovil|Yeovil]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Yeovil.public|Yeovil.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Yeovil.internal|Yeovil.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Yeovil.protect|Yeovil.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Yeovil.private|Yeovil.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Yeovil.personal|Yeovil.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Yeovil.secret|Yeovil.secret]] 

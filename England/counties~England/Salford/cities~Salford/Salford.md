@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::53.48] 
 [name::Salford] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salford|Salford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salford.public|Salford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salford.internal|Salford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salford.protect|Salford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salford.private|Salford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salford.personal|Salford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Salford.secret|Salford.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Salford|Salford]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Salford.public|Salford.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Salford.internal|Salford.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Salford.protect|Salford.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Salford.private|Salford.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Salford.personal|Salford.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Salford.secret|Salford.secret]] 

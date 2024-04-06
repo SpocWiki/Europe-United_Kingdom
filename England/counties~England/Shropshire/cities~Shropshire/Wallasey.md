@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.58] 
 [name::Wallasey] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wallasey|Wallasey]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wallasey.public|Wallasey.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wallasey.internal|Wallasey.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wallasey.protect|Wallasey.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wallasey.private|Wallasey.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wallasey.personal|Wallasey.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Wallasey.secret|Wallasey.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wallasey|Wallasey]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wallasey.public|Wallasey.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wallasey.internal|Wallasey.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wallasey.protect|Wallasey.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wallasey.private|Wallasey.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wallasey.personal|Wallasey.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wallasey.secret|Wallasey.secret]] 

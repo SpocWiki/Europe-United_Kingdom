@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.97] 
 [name::Gateshead] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gateshead|Gateshead]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gateshead.public|Gateshead.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gateshead.internal|Gateshead.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gateshead.protect|Gateshead.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gateshead.private|Gateshead.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gateshead.personal|Gateshead.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Gateshead.secret|Gateshead.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Gateshead|Gateshead]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Gateshead.public|Gateshead.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Gateshead.internal|Gateshead.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Gateshead.protect|Gateshead.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Gateshead.private|Gateshead.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Gateshead.personal|Gateshead.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Gateshead.secret|Gateshead.secret]] 

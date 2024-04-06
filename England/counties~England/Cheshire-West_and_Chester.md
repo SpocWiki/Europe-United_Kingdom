@@ -40,11 +40,11 @@ markerFolder: ./Cheshire-West_and_Chester/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cheshire-West_and_Chester|Cheshire-West_and_Chester]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cheshire-West_and_Chester.public|Cheshire-West_and_Chester.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cheshire-West_and_Chester.internal|Cheshire-West_and_Chester.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cheshire-West_and_Chester.protect|Cheshire-West_and_Chester.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cheshire-West_and_Chester.private|Cheshire-West_and_Chester.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cheshire-West_and_Chester.personal|Cheshire-West_and_Chester.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Cheshire-West_and_Chester.secret|Cheshire-West_and_Chester.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-West_and_Chester|Cheshire-West_and_Chester]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-West_and_Chester.public|Cheshire-West_and_Chester.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-West_and_Chester.internal|Cheshire-West_and_Chester.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-West_and_Chester.protect|Cheshire-West_and_Chester.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-West_and_Chester.private|Cheshire-West_and_Chester.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-West_and_Chester.personal|Cheshire-West_and_Chester.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-West_and_Chester.secret|Cheshire-West_and_Chester.secret]] 
 

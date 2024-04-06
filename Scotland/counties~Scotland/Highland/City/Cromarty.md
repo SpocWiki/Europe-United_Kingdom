@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::57.68] 
 [name::Cromarty] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cromarty|Cromarty]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cromarty.public|Cromarty.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cromarty.internal|Cromarty.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cromarty.protect|Cromarty.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cromarty.private|Cromarty.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cromarty.personal|Cromarty.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Cromarty.secret|Cromarty.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Cromarty|Cromarty]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Cromarty.public|Cromarty.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Cromarty.internal|Cromarty.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Cromarty.protect|Cromarty.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Cromarty.private|Cromarty.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Cromarty.personal|Cromarty.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Cromarty.secret|Cromarty.secret]] 

@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.37] 
 [name::Devonport] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Devonport|Devonport]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Devonport.public|Devonport.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Devonport.internal|Devonport.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Devonport.protect|Devonport.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Devonport.private|Devonport.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Devonport.personal|Devonport.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Devonport.secret|Devonport.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Devonport|Devonport]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Devonport.public|Devonport.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Devonport.internal|Devonport.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Devonport.protect|Devonport.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Devonport.private|Devonport.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Devonport.personal|Devonport.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Devonport.secret|Devonport.secret]] 

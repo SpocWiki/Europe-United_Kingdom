@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::50.8] 
 [name::Chichester] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chichester|Chichester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chichester.public|Chichester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chichester.internal|Chichester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chichester.protect|Chichester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chichester.private|Chichester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chichester.personal|Chichester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Chichester.secret|Chichester.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Chichester|Chichester]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Chichester.public|Chichester.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Chichester.internal|Chichester.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Chichester.protect|Chichester.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Chichester.private|Chichester.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Chichester.personal|Chichester.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Chichester.secret|Chichester.secret]] 

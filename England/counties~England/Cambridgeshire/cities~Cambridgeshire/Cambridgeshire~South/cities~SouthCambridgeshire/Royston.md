@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::52.05] 
 [name::Royston] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Royston|Royston]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Royston.public|Royston.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Royston.internal|Royston.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Royston.protect|Royston.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Royston.private|Royston.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Royston.personal|Royston.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Royston.secret|Royston.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Royston|Royston]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Royston.public|Royston.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Royston.internal|Royston.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Royston.protect|Royston.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Royston.private|Royston.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Royston.personal|Royston.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Royston.secret|Royston.secret]] 

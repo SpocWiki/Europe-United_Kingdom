@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.47] 
 [name::Lurgan] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[/../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Lurgan|Lurgan]] 
-- [[/../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Lurgan.public|Lurgan.public]] 
-- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Lurgan.internal|Lurgan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Lurgan.protect|Lurgan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Lurgan.private|Lurgan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Lurgan.personal|Lurgan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/Ireland~North/Lurgan.secret|Lurgan.secret]] 
+- [[/../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan|Lurgan]] 
+- [[/../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.public|Lurgan.public]] 
+- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.internal|Lurgan.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.protect|Lurgan.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.private|Lurgan.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.personal|Lurgan.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.secret|Lurgan.secret]] 

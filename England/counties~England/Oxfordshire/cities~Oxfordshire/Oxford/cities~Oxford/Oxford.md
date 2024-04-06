@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.77] 
 [name::Oxford] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oxford|Oxford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oxford.public|Oxford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oxford.internal|Oxford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oxford.protect|Oxford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oxford.private|Oxford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oxford.personal|Oxford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Oxford.secret|Oxford.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Oxford|Oxford]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Oxford.public|Oxford.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Oxford.internal|Oxford.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Oxford.protect|Oxford.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Oxford.private|Oxford.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Oxford.personal|Oxford.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Oxford.secret|Oxford.secret]] 

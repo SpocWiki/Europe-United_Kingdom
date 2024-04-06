@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::58.35] 
 [name::Barvas] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barvas|Barvas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barvas.public|Barvas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barvas.internal|Barvas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barvas.protect|Barvas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barvas.private|Barvas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barvas.personal|Barvas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Barvas.secret|Barvas.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Barvas|Barvas]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Barvas.public|Barvas.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Barvas.internal|Barvas.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Barvas.protect|Barvas.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Barvas.private|Barvas.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Barvas.personal|Barvas.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Barvas.secret|Barvas.secret]] 

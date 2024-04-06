@@ -17,7 +17,7 @@ confidential: public
 [geo-lat::56.43] 
 [name::Belrock] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -41,10 +41,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock|Belrock]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.public|Belrock.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.internal|Belrock.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.protect|Belrock.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.private|Belrock.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.personal|Belrock.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Belrock.secret|Belrock.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Belrock|Belrock]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Belrock.public|Belrock.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Belrock.internal|Belrock.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Belrock.protect|Belrock.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Belrock.private|Belrock.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Belrock.personal|Belrock.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Belrock.secret|Belrock.secret]] 

@@ -40,11 +40,11 @@ markerFolder: ./Southend-on-Sea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southend-on-Sea|Southend-on-Sea]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southend-on-Sea.public|Southend-on-Sea.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southend-on-Sea.internal|Southend-on-Sea.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southend-on-Sea.protect|Southend-on-Sea.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southend-on-Sea.private|Southend-on-Sea.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southend-on-Sea.personal|Southend-on-Sea.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Southend-on-Sea.secret|Southend-on-Sea.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Southend-on-Sea|Southend-on-Sea]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Southend-on-Sea.public|Southend-on-Sea.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Southend-on-Sea.internal|Southend-on-Sea.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Southend-on-Sea.protect|Southend-on-Sea.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Southend-on-Sea.private|Southend-on-Sea.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Southend-on-Sea.personal|Southend-on-Sea.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Southend-on-Sea.secret|Southend-on-Sea.secret]] 
 

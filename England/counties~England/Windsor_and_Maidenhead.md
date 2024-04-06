@@ -40,11 +40,11 @@ markerFolder: ./Royal_Borough_of_Windsor_and_Maidenhead/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead|Royal_Borough_of_Windsor_and_Maidenhead]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.public|Royal_Borough_of_Windsor_and_Maidenhead.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.internal|Royal_Borough_of_Windsor_and_Maidenhead.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.protect|Royal_Borough_of_Windsor_and_Maidenhead.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.private|Royal_Borough_of_Windsor_and_Maidenhead.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.personal|Royal_Borough_of_Windsor_and_Maidenhead.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.secret|Royal_Borough_of_Windsor_and_Maidenhead.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead|Royal_Borough_of_Windsor_and_Maidenhead]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.public|Royal_Borough_of_Windsor_and_Maidenhead.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.internal|Royal_Borough_of_Windsor_and_Maidenhead.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.protect|Royal_Borough_of_Windsor_and_Maidenhead.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.private|Royal_Borough_of_Windsor_and_Maidenhead.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.personal|Royal_Borough_of_Windsor_and_Maidenhead.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.secret|Royal_Borough_of_Windsor_and_Maidenhead.secret]] 
 

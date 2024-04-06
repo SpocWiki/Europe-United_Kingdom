@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.97] 
 [name::Felixstown~Suffolk] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Felixstown~Suffolk|Felixstown~Suffolk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Felixstown~Suffolk.public|Felixstown~Suffolk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Felixstown~Suffolk.internal|Felixstown~Suffolk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Felixstown~Suffolk.protect|Felixstown~Suffolk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Felixstown~Suffolk.private|Felixstown~Suffolk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Felixstown~Suffolk.personal|Felixstown~Suffolk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Felixstown~Suffolk.secret|Felixstown~Suffolk.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk|Felixstown~Suffolk]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.public|Felixstown~Suffolk.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.internal|Felixstown~Suffolk.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.protect|Felixstown~Suffolk.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.private|Felixstown~Suffolk.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.personal|Felixstown~Suffolk.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.secret|Felixstown~Suffolk.secret]] 

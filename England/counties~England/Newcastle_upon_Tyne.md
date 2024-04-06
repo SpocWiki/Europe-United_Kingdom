@@ -40,11 +40,11 @@ markerFolder: ./Newcastle_upon_Tyne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Newcastle_upon_Tyne|Newcastle_upon_Tyne]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Newcastle_upon_Tyne.public|Newcastle_upon_Tyne.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Newcastle_upon_Tyne.internal|Newcastle_upon_Tyne.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Newcastle_upon_Tyne.protect|Newcastle_upon_Tyne.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Newcastle_upon_Tyne.private|Newcastle_upon_Tyne.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Newcastle_upon_Tyne.personal|Newcastle_upon_Tyne.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/England/Counties/Newcastle_upon_Tyne.secret|Newcastle_upon_Tyne.secret]] 
+- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Newcastle_upon_Tyne|Newcastle_upon_Tyne]] 
+- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Newcastle_upon_Tyne.public|Newcastle_upon_Tyne.public]] 
+- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Newcastle_upon_Tyne.internal|Newcastle_upon_Tyne.internal]] 
+- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Newcastle_upon_Tyne.protect|Newcastle_upon_Tyne.protect]] 
+- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Newcastle_upon_Tyne.private|Newcastle_upon_Tyne.private]] 
+- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Newcastle_upon_Tyne.personal|Newcastle_upon_Tyne.personal]] 
+- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Newcastle_upon_Tyne.secret|Newcastle_upon_Tyne.secret]] 
 

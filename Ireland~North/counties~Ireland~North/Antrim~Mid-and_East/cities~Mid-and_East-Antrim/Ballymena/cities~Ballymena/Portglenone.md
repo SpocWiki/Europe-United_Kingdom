@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::54.87] 
 [name::Portglenone] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portglenone|Portglenone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portglenone.public|Portglenone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portglenone.internal|Portglenone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portglenone.protect|Portglenone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portglenone.private|Portglenone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portglenone.personal|Portglenone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Portglenone.secret|Portglenone.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Portglenone|Portglenone]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Portglenone.public|Portglenone.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Portglenone.internal|Portglenone.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Portglenone.protect|Portglenone.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Portglenone.private|Portglenone.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Portglenone.personal|Portglenone.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Portglenone.secret|Portglenone.secret]] 

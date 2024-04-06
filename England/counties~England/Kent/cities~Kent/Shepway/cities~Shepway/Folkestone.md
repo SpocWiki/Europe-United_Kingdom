@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.08] 
 [name::Folkestone] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Folkestone|Folkestone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Folkestone.public|Folkestone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Folkestone.internal|Folkestone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Folkestone.protect|Folkestone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Folkestone.private|Folkestone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Folkestone.personal|Folkestone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Folkestone.secret|Folkestone.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Folkestone|Folkestone]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Folkestone.public|Folkestone.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Folkestone.internal|Folkestone.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Folkestone.protect|Folkestone.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Folkestone.private|Folkestone.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Folkestone.personal|Folkestone.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Folkestone.secret|Folkestone.secret]] 

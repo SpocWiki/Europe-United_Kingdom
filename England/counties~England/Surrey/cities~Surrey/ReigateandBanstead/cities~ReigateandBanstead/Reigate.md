@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::51.23] 
 [name::Reigate] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reigate|Reigate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reigate.public|Reigate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reigate.internal|Reigate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reigate.protect|Reigate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reigate.private|Reigate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reigate.personal|Reigate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Reigate.secret|Reigate.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Reigate|Reigate]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Reigate.public|Reigate.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Reigate.internal|Reigate.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Reigate.protect|Reigate.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Reigate.private|Reigate.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Reigate.personal|Reigate.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Reigate.secret|Reigate.secret]] 

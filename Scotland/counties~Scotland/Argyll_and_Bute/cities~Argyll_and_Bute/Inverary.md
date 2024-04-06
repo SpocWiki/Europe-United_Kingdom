@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::56.25] 
 [name::Inverary] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverary|Inverary]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverary.public|Inverary.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverary.internal|Inverary.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverary.protect|Inverary.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverary.private|Inverary.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverary.personal|Inverary.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom/City/Inverary.secret|Inverary.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Inverary|Inverary]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Inverary.public|Inverary.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Inverary.internal|Inverary.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Inverary.protect|Inverary.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Inverary.private|Inverary.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Inverary.personal|Inverary.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Inverary.secret|Inverary.secret]] 
