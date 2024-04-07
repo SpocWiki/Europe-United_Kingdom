@@ -6,8 +6,14 @@ isDeleted: false
 confidential: public
 tags:
 - geo/Country
-
+aliases:
+    - Great Britain
+    - United Kingdom
+icon: flag-gb
 ---
+
+# [[UK]] 
+
 [ISO2::GB] 
 [ISO3::GBR] 
 
@@ -31,13 +37,13 @@ markerFolder: ./City/
 ![[Flag_of_the_United_Kingdom_(3-5).svg|350]] 
 [Area-Total::241752] 
 [Area-Land::241600] 
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::GB] 
 Capital :: [[UK/City~London]]  
 [Alcohol-l::13.4] 
 [Language-Id::499] 
-[geo-lon::-2.14482] 
-[geo-lat::52.8829] 
+[has_place_longitude::-2.14482]
+[has_place_latitude::52.8829]
 
 
 

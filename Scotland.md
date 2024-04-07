@@ -1,3 +1,6 @@
+---
+icon: flag-gbsct
+---
 
 ```leaflet
 id: Scotland
