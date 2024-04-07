@@ -1,21 +1,22 @@
+# --- Repositories --- #
+#/xLarge
+
 # --- Obsidian --- #
 workspace
 workspace.json
 
-.obsidian.mobile/**/*
-.obsidian/**/*
-.obsidian.desktop/**/*
-
-.obsidian.mobile
-.obsidian
-.obsidian*
 .obsidian*/**/*
-.obsidian.desktop
-.obsidian.mobile/*
-.obsidian/*
-.obsidian.desktop/*
-
-.obsidian/
+#.obsidian.mobile/**/*
+#.obsidian.desktop/**/*
+#
+#.obsidian.mobile
+.obsidian
+#.obsidian.desktop
+#.obsidian.mobile/*
+#.obsidian/*
+#.obsidian.desktop/*
+#
+#.obsidian/
 .trash/
 
 # --- Mac --- #
@@ -30,6 +31,7 @@ venv/
 Icon
 
 # Versioning and Zips
+*.bak
 *.git
 *.vrn
 *.zip
