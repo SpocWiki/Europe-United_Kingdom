@@ -41,7 +41,7 @@ icon: flag-gb
 
 ### #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./Flag_of_the_United_Kingdom_(3-5).svg|200]] <img src="./Flag_of_the_United_Kingdom_(3-5).svg" width="200"/> 
+#has_/image_for_/flag :: ![[./Flag_of_the_United_Kingdom.svg|200]] <img src="./Flag_of_the_United_Kingdom.svg" width="200"/> 
 
 ## #has_/text_of_/abstract  
 
@@ -100,7 +100,7 @@ icon: flag-gb
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Coat_of_Arms_of_the_United_Kingdom.svg|150]] <img src="./Coat_of_Arms_of_the_United_Kingdom.svg" width="150"/> 
+#has_/image_for_/coat_of_arms :: ![[./Coat_of_Arms_of_the_United_Kingdom.svg|250]] <img src="./Coat_of_Arms_of_the_United_Kingdom.svg" width="250"/> 
 
 
 #has_/sound_of_/anthem :: ![[Anthem-United-kingdom.mp3]]
