@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.95] 
-[geo-lat::50.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.95] 
+[has_place_latitude::50.98] 
 [name::New Romney] 
 State ::  
 Country :: [[UK]]  

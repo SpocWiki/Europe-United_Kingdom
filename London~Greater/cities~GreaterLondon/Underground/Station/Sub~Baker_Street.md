@@ -12,8 +12,10 @@ SpocWebEntityId: 155883
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1571] 
-[geo-lat::51.5226] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1571] 
+[has_place_latitude::51.5226] 
 [name::Baker Street] 
 [zone::1] 
 [Num_lines::5] 

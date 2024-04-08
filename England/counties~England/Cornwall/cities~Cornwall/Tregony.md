@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.88] 
-[geo-lat::50.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.88] 
+[has_place_latitude::50.27] 
 [name::Tregony] 
 State ::  
 Country :: [[UK]]  

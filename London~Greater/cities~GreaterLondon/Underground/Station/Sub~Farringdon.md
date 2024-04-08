@@ -12,8 +12,10 @@ SpocWebEntityId: 155949
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1053] 
-[geo-lat::51.5203] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1053] 
+[has_place_latitude::51.5203] 
 [name::Farringdon] 
 [zone::1] 
 [Num_lines::3] 

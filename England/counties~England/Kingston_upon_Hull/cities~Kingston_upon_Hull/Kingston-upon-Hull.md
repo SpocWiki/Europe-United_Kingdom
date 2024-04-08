@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.33] 
-[geo-lat::53.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.33] 
+[has_place_latitude::53.75] 
 [name::Kingston-upon-Hull] 
 State ::  
 Country :: [[UK]]  

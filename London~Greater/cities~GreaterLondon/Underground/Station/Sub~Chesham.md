@@ -12,8 +12,10 @@ SpocWebEntityId: 156147
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.611] 
-[geo-lat::51.7052] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.611] 
+[has_place_latitude::51.7052] 
 [name::Chesham] 
 [zone::10] 
 [Num_lines::1] 

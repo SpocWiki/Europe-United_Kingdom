@@ -12,8 +12,10 @@ SpocWebEntityId: 155943
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1001] 
-[geo-lat::51.4943] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1001] 
+[has_place_latitude::51.4943] 
 [name::Elephant &amp; Castle] 
 [zone::1.5] 
 [Num_lines::2] 

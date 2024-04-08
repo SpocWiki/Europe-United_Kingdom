@@ -12,8 +12,10 @@ SpocWebEntityId: 156043
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2011] 
-[geo-lat::51.4753] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2011] 
+[has_place_latitude::51.4753] 
 [name::Parsons Green] 
 [zone::2] 
 [Num_lines::1] 

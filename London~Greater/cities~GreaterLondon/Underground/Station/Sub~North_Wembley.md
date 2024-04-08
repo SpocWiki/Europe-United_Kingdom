@@ -12,8 +12,10 @@ SpocWebEntityId: 156035
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3034] 
-[geo-lat::51.5621] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.3034] 
+[has_place_latitude::51.5621] 
 [name::North Wembley] 
 [zone::4] 
 [Num_lines::1] 

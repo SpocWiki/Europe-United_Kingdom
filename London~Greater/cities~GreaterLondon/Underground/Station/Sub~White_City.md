@@ -14,8 +14,10 @@ SpocWebEntityId: 156136
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2239] 
-[geo-lat::51.512] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2239] 
+[has_place_latitude::51.512] 
 [name::White City] 
 [zone::2] 
 [Num_lines::1] 

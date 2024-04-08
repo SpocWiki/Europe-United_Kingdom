@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.32] 
-[geo-lat::51.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.32] 
+[has_place_latitude::51.47] 
 [name::Kew] 
 State ::  
 Country :: [[UK]]  

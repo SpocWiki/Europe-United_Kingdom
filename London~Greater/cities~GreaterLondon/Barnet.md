@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.18] 
-[geo-lat::51.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.18] 
+[has_place_latitude::51.67] 
 [name::Barnet] 
 State ::  
 Country :: [[UK]]  

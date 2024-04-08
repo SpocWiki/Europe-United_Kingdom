@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.58] 
-[geo-lat::52.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.58] 
+[has_place_latitude::52.42] 
 [name::Coventry] 
 State ::  
 Country :: [[UK]]  

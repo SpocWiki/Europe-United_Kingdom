@@ -12,8 +12,10 @@ SpocWebEntityId: 156068
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1244] 
-[geo-lat::51.523] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1244] 
+[has_place_latitude::51.523] 
 [name::Russell Square] 
 [zone::1] 
 [Num_lines::1] 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.82] 
-[geo-lat::56.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.82] 
+[has_place_latitude::56.32] 
 [name::St.Andrews] 
 State ::  
 Country :: [[UK]]  

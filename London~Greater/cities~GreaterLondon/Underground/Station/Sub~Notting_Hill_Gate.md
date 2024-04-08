@@ -12,8 +12,10 @@ SpocWebEntityId: 156036
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1967] 
-[geo-lat::51.5094] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1967] 
+[has_place_latitude::51.5094] 
 [name::Notting Hill Gate] 
 [zone::1.5] 
 [Num_lines::3] 

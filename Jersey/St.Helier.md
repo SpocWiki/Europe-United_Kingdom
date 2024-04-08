@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.1] 
-[geo-lat::49.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.1] 
+[has_place_latitude::49.18] 
 [name::St.Helier] 
 State ::  
 Country :: [[UK]]  

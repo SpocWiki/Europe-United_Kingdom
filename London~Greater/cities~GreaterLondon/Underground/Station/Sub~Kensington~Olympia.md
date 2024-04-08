@@ -12,8 +12,10 @@ SpocWebEntityId: 155993
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2106] 
-[geo-lat::51.4983] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2106] 
+[has_place_latitude::51.4983] 
 [name::Kensington (Olympia)] 
 [zone::2] 
 [Num_lines::1] 

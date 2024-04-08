@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.88] 
-[geo-lat::56.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.88] 
+[has_place_latitude::56.65] 
 [name::Forfar] 
 State ::  
 Country :: [[UK]]  

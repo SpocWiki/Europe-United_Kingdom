@@ -12,8 +12,10 @@ SpocWebEntityId: 156095
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3156] 
-[geo-lat::51.5507] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.3156] 
+[has_place_latitude::51.5507] 
 [name::Sudbury Town] 
 [zone::4] 
 [Num_lines::1] 

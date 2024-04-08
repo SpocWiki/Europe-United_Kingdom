@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.27] 
-[geo-lat::51.33] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.27] 
+[has_place_latitude::51.33] 
 [name::Epsom] 
 State ::  
 Country :: [[UK]]  

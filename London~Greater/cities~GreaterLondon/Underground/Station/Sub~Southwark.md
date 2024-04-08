@@ -12,8 +12,10 @@ SpocWebEntityId: 156165
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1052] 
-[geo-lat::51.504] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1052] 
+[has_place_latitude::51.504] 
 [name::Southwark] 
 [zone::1] 
 [Num_lines::1] 

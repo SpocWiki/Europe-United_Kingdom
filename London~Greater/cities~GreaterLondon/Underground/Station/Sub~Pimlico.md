@@ -12,8 +12,10 @@ SpocWebEntityId: 156046
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1334] 
-[geo-lat::51.4893] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1334] 
+[has_place_latitude::51.4893] 
 [name::Pimlico] 
 [zone::1] 
 [Num_lines::1] 

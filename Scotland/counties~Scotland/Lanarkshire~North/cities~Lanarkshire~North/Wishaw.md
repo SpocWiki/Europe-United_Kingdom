@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.92] 
-[geo-lat::55.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.92] 
+[has_place_latitude::55.78] 
 [name::Wishaw] 
 State ::  
 Country :: [[UK]]  

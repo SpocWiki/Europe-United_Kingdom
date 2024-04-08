@@ -12,8 +12,10 @@ SpocWebEntityId: 155962
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3456] 
-[geo-lat::51.5423] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.3456] 
+[has_place_latitude::51.5423] 
 [name::Greenford] 
 [zone::4] 
 [Num_lines::1] 

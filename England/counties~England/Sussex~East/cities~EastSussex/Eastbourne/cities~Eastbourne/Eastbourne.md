@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.28] 
-[geo-lat::50.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.28] 
+[has_place_latitude::50.77] 
 [name::Eastbourne] 
 State ::  
 Country :: [[UK]]  

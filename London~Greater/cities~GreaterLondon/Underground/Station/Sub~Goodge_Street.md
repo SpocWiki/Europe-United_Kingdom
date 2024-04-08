@@ -12,8 +12,10 @@ SpocWebEntityId: 155959
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1347] 
-[geo-lat::51.5205] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1347] 
+[has_place_latitude::51.5205] 
 [name::Goodge Street] 
 [zone::1] 
 [Num_lines::1] 

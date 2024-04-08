@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.75] 
-[geo-lat::52.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.75] 
+[has_place_latitude::52.48] 
 [name::Lowestoft~Suffolk] 
 State ::  
 Country :: [[UK]]  

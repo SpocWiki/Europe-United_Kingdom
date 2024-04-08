@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.43] 
-[geo-lat::55.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.43] 
+[has_place_latitude::55.85] 
 [name::Paisley] 
 State ::  
 Country :: [[UK]]  

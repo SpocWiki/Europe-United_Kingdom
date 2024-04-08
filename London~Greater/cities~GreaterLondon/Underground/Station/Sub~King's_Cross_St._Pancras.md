@@ -12,8 +12,10 @@ SpocWebEntityId: 156000
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1238] 
-[geo-lat::51.5308] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1238] 
+[has_place_latitude::51.5308] 
 [name::King's Cross St. Pancras] 
 [zone::1] 
 [Num_lines::6] 

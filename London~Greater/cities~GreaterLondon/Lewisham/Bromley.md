@@ -10,8 +10,10 @@ SpocWebEntityId: 29366
 isDeleted: false
 confidential: public
 ---
-[geo-lon::0.02] 
-[geo-lat::51.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.02] 
+[has_place_latitude::51.42] 
 [name::Bromley] 
 State ::  
 Country :: [[UK]]  

@@ -12,8 +12,10 @@ SpocWebEntityId: 156139
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2064] 
-[geo-lat::51.4214] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2064] 
+[has_place_latitude::51.4214] 
 [name::Wimbledon] 
 [zone::3] 
 [Num_lines::1] 

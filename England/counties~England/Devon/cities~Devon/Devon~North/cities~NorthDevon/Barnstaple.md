@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.07] 
-[geo-lat::51.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.07] 
+[has_place_latitude::51.1] 
 [name::Barnstaple] 
 State ::  
 Country :: [[UK]]  

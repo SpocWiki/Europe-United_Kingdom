@@ -12,8 +12,10 @@ SpocWebEntityId: 155920
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.148] 
-[geo-lat::51.4527] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.148] 
+[has_place_latitude::51.4527] 
 [name::Clapham South] 
 [zone::2.5] 
 [Num_lines::1] 

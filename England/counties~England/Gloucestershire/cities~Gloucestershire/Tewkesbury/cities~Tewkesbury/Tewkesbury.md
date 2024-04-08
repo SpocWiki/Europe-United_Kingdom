@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.15] 
-[geo-lat::51.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.15] 
+[has_place_latitude::51.98] 
 [name::Tewkesbury] 
 State ::  
 Country :: [[UK]]  

@@ -12,8 +12,10 @@ SpocWebEntityId: 156032
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2597] 
-[geo-lat::51.5237] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2597] 
+[has_place_latitude::51.5237] 
 [name::North Acton] 
 [zone::2.5] 
 [Num_lines::1] 

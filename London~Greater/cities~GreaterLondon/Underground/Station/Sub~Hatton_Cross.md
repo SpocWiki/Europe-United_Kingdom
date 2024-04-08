@@ -12,8 +12,10 @@ SpocWebEntityId: 155972
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.4227] 
-[geo-lat::51.4669] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.4227] 
+[has_place_latitude::51.4669] 
 [name::Hatton Cross] 
 [zone::5.5] 
 [Num_lines::1] 

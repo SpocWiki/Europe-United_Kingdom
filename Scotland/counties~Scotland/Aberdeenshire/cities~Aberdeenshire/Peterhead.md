@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.77] 
-[geo-lat::57.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.77] 
+[has_place_latitude::57.5] 
 [name::Peterhead] 
 State ::  
 Country :: [[UK]]  

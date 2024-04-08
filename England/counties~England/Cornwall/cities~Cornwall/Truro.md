@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-5.07] 
-[geo-lat::50.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-5.07] 
+[has_place_latitude::50.23] 
 [name::Truro] 
 State ::  
 Country :: [[UK]]  

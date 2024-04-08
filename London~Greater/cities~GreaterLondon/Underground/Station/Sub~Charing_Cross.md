@@ -12,8 +12,10 @@ SpocWebEntityId: 155915
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1247] 
-[geo-lat::51.508] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1247] 
+[has_place_latitude::51.508] 
 [name::Charing Cross] 
 [zone::1] 
 [Num_lines::2] 

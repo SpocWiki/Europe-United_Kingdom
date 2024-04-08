@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.47] 
-[geo-lat::56.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.47] 
+[has_place_latitude::56.07] 
 [name::Dunfermline] 
 State ::  
 Country :: [[UK]]  

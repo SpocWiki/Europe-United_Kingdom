@@ -12,8 +12,10 @@ SpocWebEntityId: 156040
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1415] 
-[geo-lat::51.515] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1415] 
+[has_place_latitude::51.515] 
 [name::Oxford Circus] 
 [zone::1] 
 [Num_lines::3] 

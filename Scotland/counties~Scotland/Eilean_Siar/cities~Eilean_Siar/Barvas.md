@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.52] 
-[geo-lat::58.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.52] 
+[has_place_latitude::58.35] 
 [name::Barvas] 
 State ::  
 Country :: [[UK]]  

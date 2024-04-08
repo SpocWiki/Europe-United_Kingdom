@@ -12,8 +12,10 @@ SpocWebEntityId: 155973
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.4524] 
-[geo-lat::51.4713] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.4524] 
+[has_place_latitude::51.4713] 
 [name::Heathrow Terminals 1, 2 &amp; 3] 
 [zone::6] 
 [Num_lines::1] 

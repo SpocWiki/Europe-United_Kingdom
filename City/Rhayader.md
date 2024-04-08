@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-5.85] 
-[geo-lat::52.3] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-5.85] 
+[has_place_latitude::52.3] 
 [name::Rhayader] 
 State ::  
 Country :: [[UK]]  

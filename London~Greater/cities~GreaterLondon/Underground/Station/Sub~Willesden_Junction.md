@@ -12,8 +12,10 @@ SpocWebEntityId: 156138
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2478] 
-[geo-lat::51.5326] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2478] 
+[has_place_latitude::51.5326] 
 [name::Willesden Junction] 
 [zone::3] 
 [Num_lines::1] 

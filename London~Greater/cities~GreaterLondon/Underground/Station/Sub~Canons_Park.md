@@ -12,8 +12,10 @@ SpocWebEntityId: 155912
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2947] 
-[geo-lat::51.6078] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2947] 
+[has_place_latitude::51.6078] 
 [name::Canons Park] 
 [zone::5] 
 [Num_lines::1] 

@@ -12,8 +12,10 @@ SpocWebEntityId: 156160
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.1033] 
-[geo-lat::51.6717] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.1033] 
+[has_place_latitude::51.6717] 
 [name::Theydon Bois] 
 [zone::6] 
 [Num_lines::1] 

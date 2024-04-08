@@ -12,8 +12,10 @@ SpocWebEntityId: 155954
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0716] 
-[geo-lat::51.5096] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.0716] 
+[has_place_latitude::51.5096] 
 [name::Gallions Reach] 
 [zone::3] 
 [Num_lines::1] 

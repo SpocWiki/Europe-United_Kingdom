@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.13] 
-[geo-lat::50.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.13] 
+[has_place_latitude::50.57] 
 [name::Tavistock] 
 State ::  
 Country :: [[UK]]  

@@ -12,8 +12,10 @@ SpocWebEntityId: 155937
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0518] 
-[geo-lat::51.5394] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.0518] 
+[has_place_latitude::51.5394] 
 [name::East Ham] 
 [zone::3.5] 
 [Num_lines::2] 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.17] 
-[geo-lat::51.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.17] 
+[has_place_latitude::51.23] 
 [name::Redhill] 
 State ::  
 Country :: [[UK]]  

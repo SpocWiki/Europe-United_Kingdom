@@ -12,8 +12,10 @@ SpocWebEntityId: 155946
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1337] 
-[geo-lat::51.5282] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1337] 
+[has_place_latitude::51.5282] 
 [name::Euston] 
 [zone::1] 
 [Num_lines::2] 

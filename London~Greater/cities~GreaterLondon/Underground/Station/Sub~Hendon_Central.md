@@ -12,8 +12,10 @@ SpocWebEntityId: 155975
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2259] 
-[geo-lat::51.5829] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2259] 
+[has_place_latitude::51.5829] 
 [name::Hendon Central] 
 [zone::3.5] 
 [Num_lines::1] 

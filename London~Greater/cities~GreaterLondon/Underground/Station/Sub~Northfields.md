@@ -12,8 +12,10 @@ SpocWebEntityId: 156027
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3142] 
-[geo-lat::51.4995] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.3142] 
+[has_place_latitude::51.4995] 
 [name::Northfields] 
 [zone::3] 
 [Num_lines::1] 

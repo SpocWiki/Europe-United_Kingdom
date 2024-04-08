@@ -12,8 +12,10 @@ SpocWebEntityId: 156001
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1607] 
-[geo-lat::51.5015] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1607] 
+[has_place_latitude::51.5015] 
 [name::Knightsbridge] 
 [zone::1] 
 [Num_lines::1] 

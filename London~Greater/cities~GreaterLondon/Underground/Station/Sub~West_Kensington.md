@@ -12,8 +12,10 @@ SpocWebEntityId: 156133
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2065] 
-[geo-lat::51.4907] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2065] 
+[has_place_latitude::51.4907] 
 [name::West Kensington] 
 [zone::2] 
 [Num_lines::1] 

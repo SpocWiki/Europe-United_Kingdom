@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.58] 
-[geo-lat::51.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.58] 
+[has_place_latitude::51.48] 
 [name::Windsor Castle] 
 State ::  
 Country :: [[UK]]  

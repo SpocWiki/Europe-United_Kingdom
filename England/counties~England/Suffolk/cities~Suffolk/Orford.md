@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.57] 
-[geo-lat::52.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.57] 
+[has_place_latitude::52.08] 
 [name::Orford] 
 State ::  
 Country :: [[UK]]  

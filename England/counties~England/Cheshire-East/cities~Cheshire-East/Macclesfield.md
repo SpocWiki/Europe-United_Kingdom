@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.13] 
-[geo-lat::53.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.13] 
+[has_place_latitude::53.27] 
 [name::Macclesfield] 
 State ::  
 Country :: [[UK]]  

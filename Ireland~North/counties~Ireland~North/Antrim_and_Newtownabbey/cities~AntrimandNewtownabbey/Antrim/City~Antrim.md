@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.22] 
-[geo-lat::54.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.22] 
+[has_place_latitude::54.72] 
 [name::Antrim] 
 State ::  
 Country :: [[UK]]  

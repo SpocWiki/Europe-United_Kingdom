@@ -12,8 +12,10 @@ SpocWebEntityId: 156178
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0319] 
-[geo-lat::51.5021] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.0319] 
+[has_place_latitude::51.5021] 
 [name::Pontoon Dock] 
 [zone::3] 
 [Num_lines::1] 

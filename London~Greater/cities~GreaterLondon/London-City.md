@@ -14,8 +14,10 @@ confidential: public
 ---
 The City Core of the [[London~Greater|London~Greater]] Area.
 
-[geo-lon::-0.09] 
-[geo-lat::51.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.09] 
+[has_place_latitude::51.52] 
 [name::London] 
 State ::  
 Country :: [[UK]]  

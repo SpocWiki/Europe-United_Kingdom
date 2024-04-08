@@ -12,8 +12,10 @@ SpocWebEntityId: 155916
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0755] 
-[geo-lat::51.6177] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.0755] 
+[has_place_latitude::51.6177] 
 [name::Chigwell] 
 [zone::5] 
 [Num_lines::1] 

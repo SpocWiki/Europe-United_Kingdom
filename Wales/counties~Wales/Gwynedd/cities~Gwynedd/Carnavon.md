@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.22] 
-[geo-lat::53.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.22] 
+[has_place_latitude::53.17] 
 [name::Carnavon] 
 State ::  
 Country :: [[UK]]  

@@ -12,8 +12,10 @@ SpocWebEntityId: 155951
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1803] 
-[geo-lat::51.5472] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1803] 
+[has_place_latitude::51.5472] 
 [name::Finchley Road] 
 [zone::2] 
 [Num_lines::2] 

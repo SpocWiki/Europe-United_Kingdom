@@ -12,8 +12,10 @@ SpocWebEntityId: 155914
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1111] 
-[geo-lat::51.5185] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1111] 
+[has_place_latitude::51.5185] 
 [name::Chancery Lane] 
 [zone::1] 
 [Num_lines::1] 

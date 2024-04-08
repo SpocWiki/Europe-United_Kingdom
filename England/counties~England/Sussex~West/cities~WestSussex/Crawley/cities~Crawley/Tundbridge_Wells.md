@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.2] 
-[geo-lat::51.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2] 
+[has_place_latitude::51.1] 
 [name::Tundbridge Wells] 
 State ::  
 Country :: [[UK]]  

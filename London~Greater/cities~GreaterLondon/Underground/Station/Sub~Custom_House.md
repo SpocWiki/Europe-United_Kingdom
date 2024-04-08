@@ -12,8 +12,10 @@ SpocWebEntityId: 155925
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0276] 
-[geo-lat::51.5095] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.0276] 
+[has_place_latitude::51.5095] 
 [name::Custom House] 
 [zone::3] 
 [Num_lines::1] 

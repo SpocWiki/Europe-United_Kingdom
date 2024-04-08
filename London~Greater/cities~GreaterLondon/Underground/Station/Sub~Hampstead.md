@@ -12,8 +12,10 @@ SpocWebEntityId: 155967
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.178] 
-[geo-lat::51.5568] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.178] 
+[has_place_latitude::51.5568] 
 [name::Hampstead] 
 [zone::2.5] 
 [Num_lines::1] 

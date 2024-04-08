@@ -12,8 +12,10 @@ SpocWebEntityId: 156039
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.113] 
-[geo-lat::51.4819] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.113] 
+[has_place_latitude::51.4819] 
 [name::Oval] 
 [zone::2] 
 [Num_lines::1] 

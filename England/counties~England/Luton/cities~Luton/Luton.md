@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.42] 
-[geo-lat::51.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.42] 
+[has_place_latitude::51.88] 
 [name::Luton] 
 State ::  
 Country :: [[UK]]  

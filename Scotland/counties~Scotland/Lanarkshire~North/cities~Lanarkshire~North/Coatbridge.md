@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.03] 
-[geo-lat::55.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.03] 
+[has_place_latitude::55.87] 
 [name::Coatbridge] 
 State ::  
 Country :: [[UK]]  

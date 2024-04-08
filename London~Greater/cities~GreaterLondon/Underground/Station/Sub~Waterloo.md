@@ -12,8 +12,10 @@ SpocWebEntityId: 156120
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1143] 
-[geo-lat::51.5036] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1143] 
+[has_place_latitude::51.5036] 
 [name::Waterloo] 
 [zone::1] 
 [Num_lines::4] 

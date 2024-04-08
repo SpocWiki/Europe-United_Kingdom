@@ -12,8 +12,10 @@ SpocWebEntityId: 156012
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1854] 
-[geo-lat::51.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1854] 
+[has_place_latitude::51.53] 
 [name::Maida Vale] 
 [zone::2] 
 [Num_lines::1] 

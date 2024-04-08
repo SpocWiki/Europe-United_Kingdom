@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.55] 
-[geo-lat::56.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.55] 
+[has_place_latitude::56.18] 
 [name::May] 
 State ::  
 Country :: [[UK]]  

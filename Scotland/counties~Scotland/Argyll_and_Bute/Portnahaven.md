@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.58] 
-[geo-lat::55.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.58] 
+[has_place_latitude::55.68] 
 [name::Portnahaven] 
 State ::  
 Country :: [[UK]]  

@@ -12,8 +12,10 @@ SpocWebEntityId: 156028
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3687] 
-[geo-lat::51.5483] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.3687] 
+[has_place_latitude::51.5483] 
 [name::Northolt] 
 [zone::5] 
 [Num_lines::1] 

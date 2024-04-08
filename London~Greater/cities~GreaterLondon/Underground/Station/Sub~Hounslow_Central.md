@@ -12,8 +12,10 @@ SpocWebEntityId: 155985
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3665] 
-[geo-lat::51.4713] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.3665] 
+[has_place_latitude::51.4713] 
 [name::Hounslow Central] 
 [zone::4] 
 [Num_lines::1] 

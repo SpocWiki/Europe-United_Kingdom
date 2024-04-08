@@ -12,8 +12,10 @@ SpocWebEntityId: 155974
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.4476] 
-[geo-lat::51.4598] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.4476] 
+[has_place_latitude::51.4598] 
 [name::Heathrow Terminal 4] 
 [zone::6] 
 [Num_lines::1] 

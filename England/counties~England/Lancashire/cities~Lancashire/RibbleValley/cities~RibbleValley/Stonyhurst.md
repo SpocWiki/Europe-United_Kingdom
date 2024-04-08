@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.47] 
-[geo-lat::53.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.47] 
+[has_place_latitude::53.85] 
 [name::Stonyhurst] 
 State ::  
 Country :: [[UK]]  

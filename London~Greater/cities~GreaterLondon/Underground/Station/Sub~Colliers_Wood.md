@@ -12,8 +12,10 @@ SpocWebEntityId: 155922
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1778] 
-[geo-lat::51.418] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1778] 
+[has_place_latitude::51.418] 
 [name::Colliers Wood] 
 [zone::3] 
 [Num_lines::1] 

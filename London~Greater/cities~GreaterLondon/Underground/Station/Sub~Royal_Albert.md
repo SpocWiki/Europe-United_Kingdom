@@ -12,8 +12,10 @@ SpocWebEntityId: 156063
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0465] 
-[geo-lat::51.5084] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.0465] 
+[has_place_latitude::51.5084] 
 [name::Royal Albert] 
 [zone::3] 
 [Num_lines::1] 

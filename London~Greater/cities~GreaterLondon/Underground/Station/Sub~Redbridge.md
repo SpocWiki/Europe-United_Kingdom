@@ -12,8 +12,10 @@ SpocWebEntityId: 156058
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0454] 
-[geo-lat::51.5763] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.0454] 
+[has_place_latitude::51.5763] 
 [name::Redbridge] 
 [zone::4] 
 [Num_lines::1] 

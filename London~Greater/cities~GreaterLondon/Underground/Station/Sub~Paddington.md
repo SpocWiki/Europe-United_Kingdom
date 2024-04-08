@@ -12,8 +12,10 @@ SpocWebEntityId: 156041
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1755] 
-[geo-lat::51.5154] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1755] 
+[has_place_latitude::51.5154] 
 [name::Paddington] 
 [zone::1] 
 [Num_lines::4] 

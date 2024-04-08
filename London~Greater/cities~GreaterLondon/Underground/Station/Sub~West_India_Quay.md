@@ -12,8 +12,10 @@ SpocWebEntityId: 156132
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.0203] 
-[geo-lat::51.507] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.0203] 
+[has_place_latitude::51.507] 
 [name::West India Quay] 
 [zone::2] 
 [Num_lines::1] 

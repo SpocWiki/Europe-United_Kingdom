@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.92] 
-[geo-lat::54.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.92] 
+[has_place_latitude::54.88] 
 [name::Carlisle] 
 State ::  
 Country :: [[UK]]  

@@ -12,8 +12,10 @@ SpocWebEntityId: 156100
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.168] 
-[geo-lat::51.4275] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.168] 
+[has_place_latitude::51.4275] 
 [name::Tooting Broadway] 
 [zone::3] 
 [Num_lines::1] 

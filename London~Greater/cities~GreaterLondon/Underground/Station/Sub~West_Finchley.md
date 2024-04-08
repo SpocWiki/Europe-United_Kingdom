@@ -12,8 +12,10 @@ SpocWebEntityId: 156128
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1883] 
-[geo-lat::51.6095] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1883] 
+[has_place_latitude::51.6095] 
 [name::West Finchley] 
 [zone::4] 
 [Num_lines::1] 

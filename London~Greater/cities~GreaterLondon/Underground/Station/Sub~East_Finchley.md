@@ -12,8 +12,10 @@ SpocWebEntityId: 155936
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.165] 
-[geo-lat::51.5874] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.165] 
+[has_place_latitude::51.5874] 
 [name::East Finchley] 
 [zone::3] 
 [Num_lines::1] 

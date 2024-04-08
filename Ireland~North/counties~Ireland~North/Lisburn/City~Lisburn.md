@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.07] 
-[geo-lat::54.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.07] 
+[has_place_latitude::54.52] 
 [name::Lisburn] 
 State ::  
 Country :: [[UK]]  

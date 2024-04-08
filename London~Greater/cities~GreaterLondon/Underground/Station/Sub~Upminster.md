@@ -12,8 +12,10 @@ SpocWebEntityId: 156108
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.251] 
-[geo-lat::51.559] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.251] 
+[has_place_latitude::51.559] 
 [name::Upminster] 
 [zone::6] 
 [Num_lines::1] 

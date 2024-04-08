@@ -12,8 +12,10 @@ SpocWebEntityId: 156143
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1097] 
-[geo-lat::51.5975] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1097] 
+[has_place_latitude::51.5975] 
 [name::Wood Green] 
 [zone::3] 
 [Num_lines::1] 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.23] 
-[geo-lat::54.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.23] 
+[has_place_latitude::54.12] 
 [name::Barrow-in-Furness] 
 State ::  
 Country :: [[UK]]  

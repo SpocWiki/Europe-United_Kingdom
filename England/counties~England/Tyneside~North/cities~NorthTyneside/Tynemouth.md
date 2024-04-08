@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.42] 
-[geo-lat::55.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.42] 
+[has_place_latitude::55.02] 
 [name::Tynemouth] 
 State ::  
 Country :: [[UK]]  

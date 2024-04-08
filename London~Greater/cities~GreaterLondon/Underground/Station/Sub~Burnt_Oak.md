@@ -12,8 +12,10 @@ SpocWebEntityId: 155907
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2641] 
-[geo-lat::51.6028] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2641] 
+[has_place_latitude::51.6028] 
 [name::Burnt Oak] 
 [zone::4] 
 [Num_lines::1] 

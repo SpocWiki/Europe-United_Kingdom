@@ -12,8 +12,10 @@ SpocWebEntityId: 156078
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3521] 
-[geo-lat::51.5646] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.3521] 
+[has_place_latitude::51.5646] 
 [name::South Harrow] 
 [zone::5] 
 [Num_lines::1] 

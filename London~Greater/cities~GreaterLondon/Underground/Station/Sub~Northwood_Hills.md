@@ -12,8 +12,10 @@ SpocWebEntityId: 156031
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.4092] 
-[geo-lat::51.6004] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.4092] 
+[has_place_latitude::51.6004] 
 [name::Northwood Hills] 
 [zone::6] 
 [Num_lines::1] 

@@ -12,8 +12,10 @@ SpocWebEntityId: 156038
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3522] 
-[geo-lat::51.4813] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.3522] 
+[has_place_latitude::51.4813] 
 [name::Osterley] 
 [zone::4] 
 [Num_lines::1] 

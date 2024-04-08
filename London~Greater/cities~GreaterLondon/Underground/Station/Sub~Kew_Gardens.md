@@ -12,8 +12,10 @@ SpocWebEntityId: 155996
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.285] 
-[geo-lat::51.477] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.285] 
+[has_place_latitude::51.477] 
 [name::Kew Gardens] 
 [zone::3.5] 
 [Num_lines::1] 

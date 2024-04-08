@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.92] 
-[geo-lat::53.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.92] 
+[has_place_latitude::53.87] 
 [name::Keighley] 
 State ::  
 Country :: [[UK]]  

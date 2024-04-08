@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.7] 
-[geo-lat::52.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.7] 
+[has_place_latitude::52.72] 
 [name::Winterton] 
 State ::  
 Country :: [[UK]]  

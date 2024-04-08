@@ -12,8 +12,10 @@ SpocWebEntityId: 155911
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.0904] 
-[geo-lat::51.5113] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.0904] 
+[has_place_latitude::51.5113] 
 [name::Cannon Street] 
 [zone::1] 
 [Num_lines::2] 

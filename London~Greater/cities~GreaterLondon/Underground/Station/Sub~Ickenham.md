@@ -12,8 +12,10 @@ SpocWebEntityId: 155989
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.4421] 
-[geo-lat::51.5619] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.4421] 
+[has_place_latitude::51.5619] 
 [name::Ickenham] 
 [zone::6] 
 [Num_lines::2] 

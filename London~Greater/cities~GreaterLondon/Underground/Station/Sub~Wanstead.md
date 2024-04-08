@@ -12,8 +12,10 @@ SpocWebEntityId: 156116
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0288] 
-[geo-lat::51.5775] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.0288] 
+[has_place_latitude::51.5775] 
 [name::Wanstead] 
 [zone::4] 
 [Num_lines::1] 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.87] 
-[geo-lat::55.8] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.87] 
+[has_place_latitude::55.8] 
 [name::Largs] 
 State ::  
 Country :: [[UK]]  

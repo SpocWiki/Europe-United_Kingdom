@@ -12,8 +12,10 @@ SpocWebEntityId: 156052
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2089] 
-[geo-lat::51.4682] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2089] 
+[has_place_latitude::51.4682] 
 [name::Putney Bridge] 
 [zone::2] 
 [Num_lines::1] 

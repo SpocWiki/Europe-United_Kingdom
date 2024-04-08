@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.62] 
-[geo-lat::57.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.62] 
+[has_place_latitude::57.62] 
 [name::Forres] 
 State ::  
 Country :: [[UK]]  

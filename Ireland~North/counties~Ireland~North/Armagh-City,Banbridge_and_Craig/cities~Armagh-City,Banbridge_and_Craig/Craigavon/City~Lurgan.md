@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.33] 
-[geo-lat::54.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.33] 
+[has_place_latitude::54.47] 
 [name::Lurgan] 
 State ::  
 Country :: [[UK]]  

@@ -12,8 +12,10 @@ SpocWebEntityId: 155970
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3351] 
-[geo-lat::51.5925] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.3351] 
+[has_place_latitude::51.5925] 
 [name::Harrow &amp; Wealdston] 
 [zone::5] 
 [Num_lines::1] 

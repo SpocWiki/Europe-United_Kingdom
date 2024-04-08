@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.33] 
-[geo-lat::51.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.33] 
+[has_place_latitude::51.42] 
 [name::Newbury] 
 State ::  
 Country :: [[UK]]  

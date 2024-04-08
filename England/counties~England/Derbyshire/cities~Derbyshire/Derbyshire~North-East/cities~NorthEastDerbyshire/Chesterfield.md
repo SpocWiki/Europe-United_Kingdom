@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.42] 
-[geo-lat::53.23] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.42] 
+[has_place_latitude::53.23] 
 [name::Chesterfield] 
 State ::  
 Country :: [[UK]]  

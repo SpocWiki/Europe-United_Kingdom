@@ -12,8 +12,10 @@ SpocWebEntityId: 156163
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0471] 
-[geo-lat::51.6266] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.0471] 
+[has_place_latitude::51.6266] 
 [name::Buckhurst Hill] 
 [zone::5] 
 [Num_lines::1] 

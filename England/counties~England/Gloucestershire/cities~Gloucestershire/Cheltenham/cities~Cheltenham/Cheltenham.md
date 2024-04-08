@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.1] 
-[geo-lat::51.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.1] 
+[has_place_latitude::51.9] 
 [name::Cheltenham] 
 State ::  
 Country :: [[UK]]  

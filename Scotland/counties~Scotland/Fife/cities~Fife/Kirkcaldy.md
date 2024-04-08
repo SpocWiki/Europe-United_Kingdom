@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.17] 
-[geo-lat::56.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.17] 
+[has_place_latitude::56.12] 
 [name::Kirkcaldy] 
 State ::  
 Country :: [[UK]]  

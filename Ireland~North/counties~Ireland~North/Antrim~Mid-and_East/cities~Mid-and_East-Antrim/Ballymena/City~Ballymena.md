@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.28] 
-[geo-lat::54.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.28] 
+[has_place_latitude::54.87] 
 [name::Ballymena] 
 State ::  
 Country :: [[UK]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.42] 
-[geo-lat::57.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.42] 
+[has_place_latitude::57.6] 
 [name::Dingwall] 
 State ::  
 Country :: [[UK]]  

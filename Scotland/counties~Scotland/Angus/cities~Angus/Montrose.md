@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.52] 
-[geo-lat::56.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.52] 
+[has_place_latitude::56.72] 
 [name::Montrose] 
 State ::  
 Country :: [[UK]]  

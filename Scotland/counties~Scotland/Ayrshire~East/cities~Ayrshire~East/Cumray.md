@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.45] 
-[geo-lat::55.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.45] 
+[has_place_latitude::55.72] 
 [name::Cumray] 
 State ::  
 Country :: [[UK]]  

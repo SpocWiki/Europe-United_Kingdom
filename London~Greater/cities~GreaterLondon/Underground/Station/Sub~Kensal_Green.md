@@ -12,8 +12,10 @@ SpocWebEntityId: 155992
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.225] 
-[geo-lat::51.5304] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.225] 
+[has_place_latitude::51.5304] 
 [name::Kensal Green] 
 [zone::2] 
 [Num_lines::1] 

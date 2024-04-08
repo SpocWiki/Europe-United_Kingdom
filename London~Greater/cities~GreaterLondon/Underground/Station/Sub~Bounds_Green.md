@@ -12,8 +12,10 @@ SpocWebEntityId: 155902
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1243] 
-[geo-lat::51.6071] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1243] 
+[has_place_latitude::51.6071] 
 [name::Bounds Green] 
 [zone::3.5] 
 [Num_lines::1] 

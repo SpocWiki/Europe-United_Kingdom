@@ -12,8 +12,10 @@ SpocWebEntityId: 156005
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2172] 
-[geo-lat::51.5139] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2172] 
+[has_place_latitude::51.5139] 
 [name::Latimer Road] 
 [zone::2] 
 [Num_lines::1] 

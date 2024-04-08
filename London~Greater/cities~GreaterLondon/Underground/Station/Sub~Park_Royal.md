@@ -12,8 +12,10 @@ SpocWebEntityId: 156042
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2841] 
-[geo-lat::51.527] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2841] 
+[has_place_latitude::51.527] 
 [name::Park Royal] 
 [zone::3] 
 [Num_lines::1] 

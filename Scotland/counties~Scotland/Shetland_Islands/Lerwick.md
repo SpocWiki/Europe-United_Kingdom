@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.15] 
-[geo-lat::60.17] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.15] 
+[has_place_latitude::60.17] 
 [name::Lerwick] 
 State ::  
 Country :: [[UK]]  

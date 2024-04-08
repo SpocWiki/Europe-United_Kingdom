@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.48] 
-[geo-lat::51.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.48] 
+[has_place_latitude::51.75] 
 [name::Chelmsford] 
 State ::  
 Country :: [[UK]]  

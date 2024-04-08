@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.05] 
-[geo-lat::53.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.05] 
+[has_place_latitude::53.82] 
 [name::Blackpool] 
 State ::  
 Country :: [[UK]]  

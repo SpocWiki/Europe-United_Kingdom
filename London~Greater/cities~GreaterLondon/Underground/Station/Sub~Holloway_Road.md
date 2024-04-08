@@ -12,8 +12,10 @@ SpocWebEntityId: 155983
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1132] 
-[geo-lat::51.5526] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1132] 
+[has_place_latitude::51.5526] 
 [name::Holloway Road] 
 [zone::2] 
 [Num_lines::1] 

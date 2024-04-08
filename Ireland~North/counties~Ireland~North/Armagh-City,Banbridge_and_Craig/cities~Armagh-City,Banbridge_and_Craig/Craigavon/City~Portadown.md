@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.45] 
-[geo-lat::54.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.45] 
+[has_place_latitude::54.42] 
 [name::Portadown] 
 State ::  
 Country :: [[UK]]  

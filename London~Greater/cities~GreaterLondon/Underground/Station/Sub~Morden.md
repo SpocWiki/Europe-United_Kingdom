@@ -12,8 +12,10 @@ SpocWebEntityId: 156022
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1948] 
-[geo-lat::51.4022] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1948] 
+[has_place_latitude::51.4022] 
 [name::Morden] 
 [zone::4] 
 [Num_lines::1] 

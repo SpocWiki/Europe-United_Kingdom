@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.27] 
-[geo-lat::50.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.27] 
+[has_place_latitude::50.75] 
 [name::Cowes] 
 State ::  
 Country :: [[UK]]  

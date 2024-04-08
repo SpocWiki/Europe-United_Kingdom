@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.58] 
-[geo-lat::56] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.58] 
+[has_place_latitude::56] 
 [name::Alexandria] 
 State ::  
 Country :: [[UK]]  

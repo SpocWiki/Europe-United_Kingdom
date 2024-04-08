@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.65] 
-[geo-lat::54.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-6.65] 
+[has_place_latitude::54.35] 
 [name::Armagh] 
 State ::  
 Country :: [[UK]]  

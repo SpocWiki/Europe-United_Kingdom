@@ -12,8 +12,10 @@ SpocWebEntityId: 155917
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2678] 
-[geo-lat::51.4946] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2678] 
+[has_place_latitude::51.4946] 
 [name::Chiswick Park] 
 [zone::3] 
 [Num_lines::1] 

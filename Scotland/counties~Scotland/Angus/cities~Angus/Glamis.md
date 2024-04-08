@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3] 
-[geo-lat::56.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3] 
+[has_place_latitude::56.62] 
 [name::Glamis] 
 State ::  
 Country :: [[UK]]  

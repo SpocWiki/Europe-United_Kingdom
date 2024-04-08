@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.75] 
-[geo-lat::51.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.75] 
+[has_place_latitude::51.58] 
 [name::Port Talbot] 
 State ::  
 Country :: [[UK]]  

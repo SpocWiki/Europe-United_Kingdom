@@ -12,8 +12,10 @@ SpocWebEntityId: 155891
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::0.0613] 
-[geo-lat::51.5148] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.0613] 
+[has_place_latitude::51.5148] 
 [name::Beckton] 
 [zone::3] 
 [Num_lines::1] 

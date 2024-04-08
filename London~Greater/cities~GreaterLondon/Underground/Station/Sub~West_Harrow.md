@@ -12,8 +12,10 @@ SpocWebEntityId: 156131
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.3533] 
-[geo-lat::51.5795] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.3533] 
+[has_place_latitude::51.5795] 
 [name::West Harrow] 
 [zone::5] 
 [Num_lines::1] 

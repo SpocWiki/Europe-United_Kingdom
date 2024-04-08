@@ -12,8 +12,10 @@ SpocWebEntityId: 156157
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1318] 
-[geo-lat::51.6476] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1318] 
+[has_place_latitude::51.6476] 
 [name::Oakwood] 
 [zone::5] 
 [Num_lines::1] 

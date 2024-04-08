@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.55] 
-[geo-lat::51.38] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.55] 
+[has_place_latitude::51.38] 
 [name::Gillingham] 
 State ::  
 Country :: [[UK]]  

@@ -12,8 +12,10 @@ SpocWebEntityId: 155881
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1331] 
-[geo-lat::51.6164] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1331] 
+[has_place_latitude::51.6164] 
 [name::Arnos Grove] 
 [zone::4] 
 [Num_lines::1] 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.58] 
-[geo-lat::55.07] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.58] 
+[has_place_latitude::55.07] 
 [name::Dumfries] 
 State ::  
 Country :: [[UK]]  

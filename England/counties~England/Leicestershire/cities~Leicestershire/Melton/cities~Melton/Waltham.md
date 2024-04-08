@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.82] 
-[geo-lat::52.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.82] 
+[has_place_latitude::52.82] 
 [name::Waltham] 
 State ::  
 Country :: [[UK]]  

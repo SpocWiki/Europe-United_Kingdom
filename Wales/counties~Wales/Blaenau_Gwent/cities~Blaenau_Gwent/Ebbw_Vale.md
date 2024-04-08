@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.2] 
-[geo-lat::51.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.2] 
+[has_place_latitude::51.77] 
 [name::Ebbw Vale] 
 State ::  
 Country :: [[UK]]  

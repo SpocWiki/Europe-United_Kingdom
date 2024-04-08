@@ -12,8 +12,10 @@ SpocWebEntityId: 156130
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.1906] 
-[geo-lat::51.5469] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.1906] 
+[has_place_latitude::51.5469] 
 [name::West Hampstead] 
 [zone::2] 
 [Num_lines::1] 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-4.57] 
-[geo-lat::55.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.57] 
+[has_place_latitude::55.98] 
 [name::Bonhill] 
 State ::  
 Country :: [[UK]]  

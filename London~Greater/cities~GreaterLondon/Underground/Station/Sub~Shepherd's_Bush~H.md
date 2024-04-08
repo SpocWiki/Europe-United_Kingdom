@@ -12,8 +12,10 @@ SpocWebEntityId: 156072
 isDeleted: false
 isReadOnly: false
 confidential: public
-[geo-lon::-0.2265] 
-[geo-lat::51.5058] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.2265] 
+[has_place_latitude::51.5058] 
 [name::Shepherd's Bush (H)] 
 [zone::2] 
 [Num_lines::1] 
