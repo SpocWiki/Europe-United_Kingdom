@@ -19,8 +19,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- JE
-- JEY
 - Jersey
 - جيرزي
 - 泽西
