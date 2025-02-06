@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Dunbartonshire~West
+- West Dunbartonshire
 
 Languages:
 - de

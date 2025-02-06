@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Lothian~East
+- East Lothian
 
 Languages:
 - de

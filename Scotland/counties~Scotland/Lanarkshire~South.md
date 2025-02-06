@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Lanarkshire~South
+- South Lanarkshire
 
 Languages:
 - de

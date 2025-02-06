@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Merthyr_Tydfil
+- Merthyr Tydfil
 
 Languages:
 - de

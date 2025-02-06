@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Ayrshire~South
+- South Ayrshire
 
 Languages:
 - de

@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Ayshire~North
+- North Ayshire
 
 Languages:
 - de

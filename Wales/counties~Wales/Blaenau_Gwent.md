@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Blaenau_Gwent
+- Blaenau Gwent
 
 Languages:
 - de

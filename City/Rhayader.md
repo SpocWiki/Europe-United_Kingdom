@@ -32,6 +32,29 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+## #has_/text_of_/abstract 
+
+> **Rhayader** (; Welsh: Rhaeadr Gwy; pronounced [ˈr̥əɪadar ˈɡʊi̯]) is a market town 
+> and community in Powys, Wales, within the historic county of Radnorshire. 
+> 
+> The town is 20 miles (32 km) from the source of the River Wye on Plynlimon, 
+> the highest point of the Cambrian Mountains, 
+> and is located at the junction of the A470 road and the A44 road 
+> 13 miles (21 km) north of Builth Wells and 30 miles (48 km) east of Aberystwyth.
+>
+> The population was 2,088, with 55% of the community having some form of Welsh identity, 
+> according to the 2011 census. 
+> The community is the largest in Wales by area, with 137.31 km2 (53.02 sq mi). 
+> It includes the Elan Valley.
+>
+> Rhayader holds the record for the lowest-ever temperature recorded in Wales, 
+> -23.3 °C on 21 January 1940.
+>
+> Jasper Fforde’s novels “Red Side Story” and “Shades of Grey: The Road to High Saffron” 
+> are located in a dystopian version of Rhayader called East Carmine.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Rhayader)
+
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Rhayader|Rhayader]] 

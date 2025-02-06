@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Lothian~Mid
+- Mid Lothian
 
 Languages:
 - de

@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Argyll_and_Bute
+- Argyll and Bute
 
 Languages:
 - de

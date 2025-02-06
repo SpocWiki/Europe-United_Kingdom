@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Vale_of_Glamorgan
+- Vale of Glamorgan
 
 Languages:
 - de

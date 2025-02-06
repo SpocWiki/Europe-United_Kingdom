@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Anglesey
+- Anglesey Isle
 
 Languages:
 - de

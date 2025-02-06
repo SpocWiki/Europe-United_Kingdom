@@ -1,5 +1,8 @@
 ---
-has_id_wikidata: Q26 
+has_id_wikidata: Q26
+aliases:
+  - Northern Ireland
+  - Tuaisceart Éireann
 ---
 
 ```leaflet

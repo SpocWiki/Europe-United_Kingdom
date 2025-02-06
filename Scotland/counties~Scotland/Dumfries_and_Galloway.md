@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Dumfries_and_Galloway
+- Dumfries and Galloway
 
 Languages:
 - de

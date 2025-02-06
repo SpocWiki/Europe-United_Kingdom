@@ -1,3 +1,7 @@
+---
+aliases:
+  - Greater London
+---
 Describes [[City~London]] and surrounding Area.
 
 ## #has_/map 

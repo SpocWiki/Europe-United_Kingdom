@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Neath_Port_Talbot
+- Neath Port Talbot
 
 Languages:
 - de
