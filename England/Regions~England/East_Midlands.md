@@ -1,3 +1,7 @@
+---
+aliases:
+  - East Midlands
+---
 
 ## #has_/text_of_/abstract 
 

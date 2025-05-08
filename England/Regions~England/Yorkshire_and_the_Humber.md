@@ -1,3 +1,7 @@
+---
+aliases:
+  - Yorkshire and the Humber
+---
 
 > Yorkshire and the Humber is one of the nine official regions of England at the first level of ITL for statistical purposes. It is one of the three regions covering Northern England, alongside the North West England and North East England regions, and covers the historic and cultural Yorkshire area. 
 >

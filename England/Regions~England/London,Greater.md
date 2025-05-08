@@ -1,6 +1,8 @@
 ---
 aliases:
   - Greater London
+  - Greater_London
+  - London
 ---
 Describes [[City~London]] and surrounding Area.
 
