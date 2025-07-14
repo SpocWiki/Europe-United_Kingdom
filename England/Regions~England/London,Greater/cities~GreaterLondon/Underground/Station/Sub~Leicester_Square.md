@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Leicester_Square.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Leicester_Square.public.md) 
+### [Sub~Leicester_Square](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Leicester_Square.md) 
 
-### [Sub~Leicester_Square.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Leicester_Square.internal.md) 
+### [Sub~Leicester_Square.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Leicester_Square.public.md) 
 
-### [Sub~Leicester_Square.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Leicester_Square.protect.md) 
+### [Sub~Leicester_Square.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Leicester_Square.internal.md) 
 
-### [Sub~Leicester_Square.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Leicester_Square.private.md) 
+### [Sub~Leicester_Square.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Leicester_Square.protect.md) 
 
-### [Sub~Leicester_Square.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Leicester_Square.personal.md) 
+### [Sub~Leicester_Square.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Leicester_Square.private.md) 
 
-### [Sub~Leicester_Square.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Leicester_Square.secret.md)
+### [Sub~Leicester_Square.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Leicester_Square.personal.md) 
+
+### [Sub~Leicester_Square.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Leicester_Square.secret.md)
 

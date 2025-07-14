@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sheffield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.public.md) 
+### [Sheffield](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County/cities~Sheffield/Sheffield.md) 
 
-### [Sheffield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.internal.md) 
+### [Sheffield.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County/cities~Sheffield/Sheffield.public.md) 
 
-### [Sheffield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.protect.md) 
+### [Sheffield.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County/cities~Sheffield/Sheffield.internal.md) 
 
-### [Sheffield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.private.md) 
+### [Sheffield.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County/cities~Sheffield/Sheffield.protect.md) 
 
-### [Sheffield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.personal.md) 
+### [Sheffield.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County/cities~Sheffield/Sheffield.private.md) 
 
-### [Sheffield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.secret.md)
+### [Sheffield.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County/cities~Sheffield/Sheffield.personal.md) 
+
+### [Sheffield.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County/cities~Sheffield/Sheffield.secret.md)
 

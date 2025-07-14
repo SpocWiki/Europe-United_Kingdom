@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~South_Wimbledon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Wimbledon.public.md) 
+### [Sub~South_Wimbledon](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~South_Wimbledon.md) 
 
-### [Sub~South_Wimbledon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Wimbledon.internal.md) 
+### [Sub~South_Wimbledon.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~South_Wimbledon.public.md) 
 
-### [Sub~South_Wimbledon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Wimbledon.protect.md) 
+### [Sub~South_Wimbledon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~South_Wimbledon.internal.md) 
 
-### [Sub~South_Wimbledon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Wimbledon.private.md) 
+### [Sub~South_Wimbledon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~South_Wimbledon.protect.md) 
 
-### [Sub~South_Wimbledon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Wimbledon.personal.md) 
+### [Sub~South_Wimbledon.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~South_Wimbledon.private.md) 
 
-### [Sub~South_Wimbledon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Wimbledon.secret.md)
+### [Sub~South_Wimbledon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~South_Wimbledon.personal.md) 
+
+### [Sub~South_Wimbledon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~South_Wimbledon.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Scottish_Borders/
 
 ## Confidential Links & Embeds: 
 
-### [Scottish_Borders.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandScottish_Borders.public.md) 
+### [Scottish_Borders](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.md) 
 
-### [Scottish_Borders.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandScottish_Borders.internal.md) 
+### [Scottish_Borders.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.public.md) 
 
-### [Scottish_Borders.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandScottish_Borders.protect.md) 
+### [Scottish_Borders.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.internal.md) 
 
-### [Scottish_Borders.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandScottish_Borders.private.md) 
+### [Scottish_Borders.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.protect.md) 
 
-### [Scottish_Borders.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandScottish_Borders.personal.md) 
+### [Scottish_Borders.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.private.md) 
 
-### [Scottish_Borders.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandScottish_Borders.secret.md)
+### [Scottish_Borders.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.personal.md) 
+
+### [Scottish_Borders.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gillingham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.public.md) 
+### [Gillingham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.md) 
 
-### [Gillingham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.internal.md) 
+### [Gillingham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.public.md) 
 
-### [Gillingham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.protect.md) 
+### [Gillingham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.internal.md) 
 
-### [Gillingham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.private.md) 
+### [Gillingham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.protect.md) 
 
-### [Gillingham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.personal.md) 
+### [Gillingham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.private.md) 
 
-### [Gillingham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.secret.md)
+### [Gillingham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.personal.md) 
+
+### [Gillingham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.secret.md)
 

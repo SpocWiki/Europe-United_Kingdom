@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Wembley_Park.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Wembley_Park.public.md) 
+### [Sub~Wembley_Park](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Wembley_Park.md) 
 
-### [Sub~Wembley_Park.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Wembley_Park.internal.md) 
+### [Sub~Wembley_Park.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Wembley_Park.public.md) 
 
-### [Sub~Wembley_Park.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Wembley_Park.protect.md) 
+### [Sub~Wembley_Park.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Wembley_Park.internal.md) 
 
-### [Sub~Wembley_Park.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Wembley_Park.private.md) 
+### [Sub~Wembley_Park.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Wembley_Park.protect.md) 
 
-### [Sub~Wembley_Park.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Wembley_Park.personal.md) 
+### [Sub~Wembley_Park.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Wembley_Park.private.md) 
 
-### [Sub~Wembley_Park.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Wembley_Park.secret.md)
+### [Sub~Wembley_Park.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Wembley_Park.personal.md) 
+
+### [Sub~Wembley_Park.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Wembley_Park.secret.md)
 

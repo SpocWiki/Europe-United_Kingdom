@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Macclesfield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastMacclesfield.public.md) 
+### [Macclesfield](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.md) 
 
-### [Macclesfield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastMacclesfield.internal.md) 
+### [Macclesfield.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.public.md) 
 
-### [Macclesfield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastMacclesfield.protect.md) 
+### [Macclesfield.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.internal.md) 
 
-### [Macclesfield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastMacclesfield.private.md) 
+### [Macclesfield.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.protect.md) 
 
-### [Macclesfield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastMacclesfield.personal.md) 
+### [Macclesfield.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.private.md) 
 
-### [Macclesfield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastMacclesfield.secret.md)
+### [Macclesfield.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.personal.md) 
+
+### [Macclesfield.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.secret.md)
 

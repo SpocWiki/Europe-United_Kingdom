@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tenby.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.public.md) 
+### [Tenby](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.md) 
 
-### [Tenby.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.internal.md) 
+### [Tenby.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.public.md) 
 
-### [Tenby.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.protect.md) 
+### [Tenby.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.internal.md) 
 
-### [Tenby.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.private.md) 
+### [Tenby.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.protect.md) 
 
-### [Tenby.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.personal.md) 
+### [Tenby.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.private.md) 
 
-### [Tenby.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.secret.md)
+### [Tenby.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.personal.md) 
+
+### [Tenby.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lowestoft~Suffolk.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.public.md) 
+### [Lowestoft~Suffolk](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.md) 
 
-### [Lowestoft~Suffolk.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.internal.md) 
+### [Lowestoft~Suffolk.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.public.md) 
 
-### [Lowestoft~Suffolk.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.protect.md) 
+### [Lowestoft~Suffolk.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.internal.md) 
 
-### [Lowestoft~Suffolk.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.private.md) 
+### [Lowestoft~Suffolk.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.protect.md) 
 
-### [Lowestoft~Suffolk.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.personal.md) 
+### [Lowestoft~Suffolk.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.private.md) 
 
-### [Lowestoft~Suffolk.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.secret.md)
+### [Lowestoft~Suffolk.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.personal.md) 
+
+### [Lowestoft~Suffolk.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.secret.md)
 

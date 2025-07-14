@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Albans.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.public.md) 
+### [St.Albans](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertsmere/cities~Hertsmere/St.Albans.md) 
 
-### [St.Albans.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.internal.md) 
+### [St.Albans.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertsmere/cities~Hertsmere/St.Albans.public.md) 
 
-### [St.Albans.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.protect.md) 
+### [St.Albans.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertsmere/cities~Hertsmere/St.Albans.internal.md) 
 
-### [St.Albans.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.private.md) 
+### [St.Albans.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertsmere/cities~Hertsmere/St.Albans.protect.md) 
 
-### [St.Albans.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.personal.md) 
+### [St.Albans.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertsmere/cities~Hertsmere/St.Albans.private.md) 
 
-### [St.Albans.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.secret.md)
+### [St.Albans.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertsmere/cities~Hertsmere/St.Albans.personal.md) 
+
+### [St.Albans.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertsmere/cities~Hertsmere/St.Albans.secret.md)
 

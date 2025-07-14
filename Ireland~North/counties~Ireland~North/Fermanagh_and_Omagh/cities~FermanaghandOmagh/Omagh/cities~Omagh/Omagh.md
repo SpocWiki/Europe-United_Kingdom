@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Omagh.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Fermanagh_and_Omagh\cities~FermanaghandOmagh\Omagh\cities~OmaghOmagh.public.md) 
+### [Omagh](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.md) 
 
-### [Omagh.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Fermanagh_and_Omagh\cities~FermanaghandOmagh\Omagh\cities~OmaghOmagh.internal.md) 
+### [Omagh.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.public.md) 
 
-### [Omagh.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Fermanagh_and_Omagh\cities~FermanaghandOmagh\Omagh\cities~OmaghOmagh.protect.md) 
+### [Omagh.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.internal.md) 
 
-### [Omagh.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Fermanagh_and_Omagh\cities~FermanaghandOmagh\Omagh\cities~OmaghOmagh.private.md) 
+### [Omagh.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.protect.md) 
 
-### [Omagh.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Fermanagh_and_Omagh\cities~FermanaghandOmagh\Omagh\cities~OmaghOmagh.personal.md) 
+### [Omagh.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.private.md) 
 
-### [Omagh.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Fermanagh_and_Omagh\cities~FermanaghandOmagh\Omagh\cities~OmaghOmagh.secret.md)
+### [Omagh.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.personal.md) 
+
+### [Omagh.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirkintilloch.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.public.md) 
+### [Kirkintilloch](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.md) 
 
-### [Kirkintilloch.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.internal.md) 
+### [Kirkintilloch.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.public.md) 
 
-### [Kirkintilloch.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.protect.md) 
+### [Kirkintilloch.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.internal.md) 
 
-### [Kirkintilloch.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.private.md) 
+### [Kirkintilloch.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.protect.md) 
 
-### [Kirkintilloch.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.personal.md) 
+### [Kirkintilloch.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.private.md) 
 
-### [Kirkintilloch.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.secret.md)
+### [Kirkintilloch.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.personal.md) 
+
+### [Kirkintilloch.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.secret.md)
 

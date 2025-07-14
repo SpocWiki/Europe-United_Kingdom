@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carlisle.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.public.md) 
+### [Carlisle](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.md) 
 
-### [Carlisle.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.internal.md) 
+### [Carlisle.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.public.md) 
 
-### [Carlisle.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.protect.md) 
+### [Carlisle.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.internal.md) 
 
-### [Carlisle.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.private.md) 
+### [Carlisle.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.protect.md) 
 
-### [Carlisle.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.personal.md) 
+### [Carlisle.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.private.md) 
 
-### [Carlisle.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.secret.md)
+### [Carlisle.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.personal.md) 
+
+### [Carlisle.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.secret.md)
 

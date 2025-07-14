@@ -41,15 +41,17 @@ markerFolder: ./Belfast/
 
 ## Confidential Links & Embeds: 
 
-### [Belfast,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBelfast,County.public.md) 
+### [Belfast,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County.md) 
 
-### [Belfast,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBelfast,County.internal.md) 
+### [Belfast,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County.public.md) 
 
-### [Belfast,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBelfast,County.protect.md) 
+### [Belfast,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County.internal.md) 
 
-### [Belfast,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBelfast,County.private.md) 
+### [Belfast,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County.protect.md) 
 
-### [Belfast,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBelfast,County.personal.md) 
+### [Belfast,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County.private.md) 
 
-### [Belfast,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBelfast,County.secret.md)
+### [Belfast,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County.personal.md) 
+
+### [Belfast,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yeovil.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterYeovil.public.md) 
+### [Yeovil](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Yeovil.md) 
 
-### [Yeovil.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterYeovil.internal.md) 
+### [Yeovil.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Yeovil.public.md) 
 
-### [Yeovil.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterYeovil.protect.md) 
+### [Yeovil.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Yeovil.internal.md) 
 
-### [Yeovil.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterYeovil.private.md) 
+### [Yeovil.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Yeovil.protect.md) 
 
-### [Yeovil.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterYeovil.personal.md) 
+### [Yeovil.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Yeovil.private.md) 
 
-### [Yeovil.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterYeovil.secret.md)
+### [Yeovil.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Yeovil.personal.md) 
+
+### [Yeovil.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Yeovil.secret.md)
 

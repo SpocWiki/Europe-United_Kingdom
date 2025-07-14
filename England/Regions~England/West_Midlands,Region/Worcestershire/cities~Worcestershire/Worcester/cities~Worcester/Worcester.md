@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Worcester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.public.md) 
+### [Worcester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.md) 
 
-### [Worcester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.internal.md) 
+### [Worcester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.public.md) 
 
-### [Worcester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.protect.md) 
+### [Worcester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.internal.md) 
 
-### [Worcester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.private.md) 
+### [Worcester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.protect.md) 
 
-### [Worcester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.personal.md) 
+### [Worcester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.private.md) 
 
-### [Worcester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.secret.md)
+### [Worcester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.personal.md) 
+
+### [Worcester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.secret.md)
 

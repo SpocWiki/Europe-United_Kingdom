@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leeds.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.public.md) 
+### [Leeds](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.md) 
 
-### [Leeds.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.internal.md) 
+### [Leeds.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.public.md) 
 
-### [Leeds.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.protect.md) 
+### [Leeds.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.internal.md) 
 
-### [Leeds.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.private.md) 
+### [Leeds.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.protect.md) 
 
-### [Leeds.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.personal.md) 
+### [Leeds.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.private.md) 
 
-### [Leeds.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.secret.md)
+### [Leeds.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.personal.md) 
+
+### [Leeds.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.secret.md)
 

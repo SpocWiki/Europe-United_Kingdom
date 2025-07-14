@@ -52,15 +52,17 @@ markerFolder: ./Darlington/
 
 ## Confidential Links & Embeds: 
 
-### [Darlington,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.public.md) 
+### [Darlington,Borough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough.md) 
 
-### [Darlington,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.internal.md) 
+### [Darlington,Borough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough.public.md) 
 
-### [Darlington,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.protect.md) 
+### [Darlington,Borough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough.internal.md) 
 
-### [Darlington,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.private.md) 
+### [Darlington,Borough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough.protect.md) 
 
-### [Darlington,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.personal.md) 
+### [Darlington,Borough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough.private.md) 
 
-### [Darlington,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.secret.md)
+### [Darlington,Borough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough.personal.md) 
+
+### [Darlington,Borough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough.secret.md)
 

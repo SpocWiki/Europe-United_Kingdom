@@ -41,15 +41,17 @@ markerFolder: ./Magherafelt/
 
 ## Confidential Links & Embeds: 
 
-### [Magherafelt.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMagherafelt.public.md) 
+### [Magherafelt](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Magherafelt.md) 
 
-### [Magherafelt.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMagherafelt.internal.md) 
+### [Magherafelt.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Magherafelt.public.md) 
 
-### [Magherafelt.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMagherafelt.protect.md) 
+### [Magherafelt.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Magherafelt.internal.md) 
 
-### [Magherafelt.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMagherafelt.private.md) 
+### [Magherafelt.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Magherafelt.protect.md) 
 
-### [Magherafelt.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMagherafelt.personal.md) 
+### [Magherafelt.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Magherafelt.private.md) 
 
-### [Magherafelt.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMagherafelt.secret.md)
+### [Magherafelt.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Magherafelt.personal.md) 
+
+### [Magherafelt.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Magherafelt.secret.md)
 

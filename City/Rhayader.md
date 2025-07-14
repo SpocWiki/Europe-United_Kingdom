@@ -58,15 +58,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rhayader.public](/_public/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.public.md) 
+### [Rhayader](/_Standards/Earth/Continent/Europe/Europe~North/UK/City/Rhayader.md) 
 
-### [Rhayader.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.internal.md) 
+### [Rhayader.public](/_public/Earth/Continent/Europe/Europe~North/UK/City/Rhayader.public.md) 
 
-### [Rhayader.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.protect.md) 
+### [Rhayader.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/City/Rhayader.internal.md) 
 
-### [Rhayader.private](/_private/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.private.md) 
+### [Rhayader.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/City/Rhayader.protect.md) 
 
-### [Rhayader.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.personal.md) 
+### [Rhayader.private](/_private/Earth/Continent/Europe/Europe~North/UK/City/Rhayader.private.md) 
 
-### [Rhayader.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.secret.md)
+### [Rhayader.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/City/Rhayader.personal.md) 
+
+### [Rhayader.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/City/Rhayader.secret.md)
 

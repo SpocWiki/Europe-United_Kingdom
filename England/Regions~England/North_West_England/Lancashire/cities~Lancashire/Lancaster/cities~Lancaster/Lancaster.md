@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lancaster.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancaster\cities~LancasterLancaster.public.md) 
+### [Lancaster](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancaster/cities~Lancaster/Lancaster.md) 
 
-### [Lancaster.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancaster\cities~LancasterLancaster.internal.md) 
+### [Lancaster.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancaster/cities~Lancaster/Lancaster.public.md) 
 
-### [Lancaster.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancaster\cities~LancasterLancaster.protect.md) 
+### [Lancaster.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancaster/cities~Lancaster/Lancaster.internal.md) 
 
-### [Lancaster.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancaster\cities~LancasterLancaster.private.md) 
+### [Lancaster.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancaster/cities~Lancaster/Lancaster.protect.md) 
 
-### [Lancaster.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancaster\cities~LancasterLancaster.personal.md) 
+### [Lancaster.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancaster/cities~Lancaster/Lancaster.private.md) 
 
-### [Lancaster.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancaster\cities~LancasterLancaster.secret.md)
+### [Lancaster.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancaster/cities~Lancaster/Lancaster.personal.md) 
+
+### [Lancaster.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancaster/cities~Lancaster/Lancaster.secret.md)
 

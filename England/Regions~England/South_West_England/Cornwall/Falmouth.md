@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Falmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.public.md) 
+### [Falmouth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/Falmouth.md) 
 
-### [Falmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.internal.md) 
+### [Falmouth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/Falmouth.public.md) 
 
-### [Falmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.protect.md) 
+### [Falmouth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/Falmouth.internal.md) 
 
-### [Falmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.private.md) 
+### [Falmouth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/Falmouth.protect.md) 
 
-### [Falmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.personal.md) 
+### [Falmouth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/Falmouth.private.md) 
 
-### [Falmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.secret.md)
+### [Falmouth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/Falmouth.personal.md) 
+
+### [Falmouth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/Falmouth.secret.md)
 

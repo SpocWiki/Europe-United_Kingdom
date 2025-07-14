@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pevensey.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.public.md) 
+### [Pevensey](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.md) 
 
-### [Pevensey.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.internal.md) 
+### [Pevensey.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.public.md) 
 
-### [Pevensey.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.protect.md) 
+### [Pevensey.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.internal.md) 
 
-### [Pevensey.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.private.md) 
+### [Pevensey.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.protect.md) 
 
-### [Pevensey.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.personal.md) 
+### [Pevensey.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.private.md) 
 
-### [Pevensey.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.secret.md)
+### [Pevensey.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.personal.md) 
+
+### [Pevensey.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.secret.md)
 

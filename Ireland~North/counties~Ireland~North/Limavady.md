@@ -41,15 +41,17 @@ markerFolder: ./Limavady/
 
 ## Confidential Links & Embeds: 
 
-### [Limavady.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthLimavady.public.md) 
+### [Limavady](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Limavady.md) 
 
-### [Limavady.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthLimavady.internal.md) 
+### [Limavady.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Limavady.public.md) 
 
-### [Limavady.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthLimavady.protect.md) 
+### [Limavady.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Limavady.internal.md) 
 
-### [Limavady.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthLimavady.private.md) 
+### [Limavady.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Limavady.protect.md) 
 
-### [Limavady.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthLimavady.personal.md) 
+### [Limavady.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Limavady.private.md) 
 
-### [Limavady.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthLimavady.secret.md)
+### [Limavady.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Limavady.personal.md) 
+
+### [Limavady.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Limavady.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Dungannon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.public.md) 
+### [City~Dungannon](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Dungannon/City~Dungannon.md) 
 
-### [City~Dungannon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.internal.md) 
+### [City~Dungannon.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Dungannon/City~Dungannon.public.md) 
 
-### [City~Dungannon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.protect.md) 
+### [City~Dungannon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Dungannon/City~Dungannon.internal.md) 
 
-### [City~Dungannon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.private.md) 
+### [City~Dungannon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Dungannon/City~Dungannon.protect.md) 
 
-### [City~Dungannon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.personal.md) 
+### [City~Dungannon.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Dungannon/City~Dungannon.private.md) 
 
-### [City~Dungannon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.secret.md)
+### [City~Dungannon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Dungannon/City~Dungannon.personal.md) 
+
+### [City~Dungannon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Dungannon/City~Dungannon.secret.md)
 

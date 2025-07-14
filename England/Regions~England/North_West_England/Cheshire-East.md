@@ -41,15 +41,17 @@ markerFolder: ./Cheshire-East/
 
 ## Confidential Links & Embeds: 
 
-### [Cheshire-East.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.public.md) 
+### [Cheshire-East](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.md) 
 
-### [Cheshire-East.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.internal.md) 
+### [Cheshire-East.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.public.md) 
 
-### [Cheshire-East.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.protect.md) 
+### [Cheshire-East.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.internal.md) 
 
-### [Cheshire-East.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.private.md) 
+### [Cheshire-East.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.protect.md) 
 
-### [Cheshire-East.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.personal.md) 
+### [Cheshire-East.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.private.md) 
 
-### [Cheshire-East.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.secret.md)
+### [Cheshire-East.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.personal.md) 
+
+### [Cheshire-East.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.secret.md)
 

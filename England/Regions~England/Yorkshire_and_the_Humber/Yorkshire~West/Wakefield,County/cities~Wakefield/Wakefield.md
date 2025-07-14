@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wakefield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.public.md) 
+### [Wakefield](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Wakefield,County/cities~Wakefield/Wakefield.md) 
 
-### [Wakefield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.internal.md) 
+### [Wakefield.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Wakefield,County/cities~Wakefield/Wakefield.public.md) 
 
-### [Wakefield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.protect.md) 
+### [Wakefield.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Wakefield,County/cities~Wakefield/Wakefield.internal.md) 
 
-### [Wakefield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.private.md) 
+### [Wakefield.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Wakefield,County/cities~Wakefield/Wakefield.protect.md) 
 
-### [Wakefield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.personal.md) 
+### [Wakefield.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Wakefield,County/cities~Wakefield/Wakefield.private.md) 
 
-### [Wakefield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.secret.md)
+### [Wakefield.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Wakefield,County/cities~Wakefield/Wakefield.personal.md) 
+
+### [Wakefield.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Wakefield,County/cities~Wakefield/Wakefield.secret.md)
 

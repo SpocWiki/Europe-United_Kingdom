@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reigate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.public.md) 
+### [Reigate](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Reigate.md) 
 
-### [Reigate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.internal.md) 
+### [Reigate.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Reigate.public.md) 
 
-### [Reigate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.protect.md) 
+### [Reigate.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Reigate.internal.md) 
 
-### [Reigate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.private.md) 
+### [Reigate.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Reigate.protect.md) 
 
-### [Reigate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.personal.md) 
+### [Reigate.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Reigate.private.md) 
 
-### [Reigate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.secret.md)
+### [Reigate.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Reigate.personal.md) 
+
+### [Reigate.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Reigate.secret.md)
 

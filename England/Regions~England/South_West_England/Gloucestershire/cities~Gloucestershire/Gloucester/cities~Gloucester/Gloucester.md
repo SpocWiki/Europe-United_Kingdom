@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gloucester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.public.md) 
+### [Gloucester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Gloucester/cities~Gloucester/Gloucester.md) 
 
-### [Gloucester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.internal.md) 
+### [Gloucester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Gloucester/cities~Gloucester/Gloucester.public.md) 
 
-### [Gloucester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.protect.md) 
+### [Gloucester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Gloucester/cities~Gloucester/Gloucester.internal.md) 
 
-### [Gloucester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.private.md) 
+### [Gloucester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Gloucester/cities~Gloucester/Gloucester.protect.md) 
 
-### [Gloucester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.personal.md) 
+### [Gloucester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Gloucester/cities~Gloucester/Gloucester.private.md) 
 
-### [Gloucester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.secret.md)
+### [Gloucester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Gloucester/cities~Gloucester/Gloucester.personal.md) 
+
+### [Gloucester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Gloucester/cities~Gloucester/Gloucester.secret.md)
 

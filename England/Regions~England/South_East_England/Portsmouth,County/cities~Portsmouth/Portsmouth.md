@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Portsmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.public.md) 
+### [Portsmouth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Portsmouth.md) 
 
-### [Portsmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.internal.md) 
+### [Portsmouth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Portsmouth.public.md) 
 
-### [Portsmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.protect.md) 
+### [Portsmouth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Portsmouth.internal.md) 
 
-### [Portsmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.private.md) 
+### [Portsmouth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Portsmouth.protect.md) 
 
-### [Portsmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.personal.md) 
+### [Portsmouth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Portsmouth.private.md) 
 
-### [Portsmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.secret.md)
+### [Portsmouth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Portsmouth.personal.md) 
+
+### [Portsmouth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Portsmouth.secret.md)
 

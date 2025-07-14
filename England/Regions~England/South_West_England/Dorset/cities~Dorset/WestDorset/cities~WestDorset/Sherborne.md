@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sherborne.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.public.md) 
+### [Sherborne](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Sherborne.md) 
 
-### [Sherborne.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.internal.md) 
+### [Sherborne.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Sherborne.public.md) 
 
-### [Sherborne.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.protect.md) 
+### [Sherborne.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Sherborne.internal.md) 
 
-### [Sherborne.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.private.md) 
+### [Sherborne.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Sherborne.protect.md) 
 
-### [Sherborne.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.personal.md) 
+### [Sherborne.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Sherborne.private.md) 
 
-### [Sherborne.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.secret.md)
+### [Sherborne.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Sherborne.personal.md) 
+
+### [Sherborne.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Sherborne.secret.md)
 

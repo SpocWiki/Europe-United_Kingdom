@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bonhill.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.public.md) 
+### [Bonhill](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.md) 
 
-### [Bonhill.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.internal.md) 
+### [Bonhill.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.public.md) 
 
-### [Bonhill.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.protect.md) 
+### [Bonhill.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.internal.md) 
 
-### [Bonhill.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.private.md) 
+### [Bonhill.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.protect.md) 
 
-### [Bonhill.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.personal.md) 
+### [Bonhill.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.private.md) 
 
-### [Bonhill.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.secret.md)
+### [Bonhill.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.personal.md) 
+
+### [Bonhill.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.secret.md)
 

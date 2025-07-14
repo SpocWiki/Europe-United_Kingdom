@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [London,Greater.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.public.md) 
+### [London,Greater](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.md) 
 
-### [London,Greater.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.internal.md) 
+### [London,Greater.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.public.md) 
 
-### [London,Greater.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.protect.md) 
+### [London,Greater.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.internal.md) 
 
-### [London,Greater.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.private.md) 
+### [London,Greater.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.protect.md) 
 
-### [London,Greater.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.personal.md) 
+### [London,Greater.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.private.md) 
 
-### [London,Greater.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.secret.md)
+### [London,Greater.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.personal.md) 
+
+### [London,Greater.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.secret.md)
 

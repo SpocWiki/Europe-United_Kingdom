@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Margate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetMargate.public.md) 
+### [Margate](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.md) 
 
-### [Margate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetMargate.internal.md) 
+### [Margate.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.public.md) 
 
-### [Margate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetMargate.protect.md) 
+### [Margate.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.internal.md) 
 
-### [Margate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetMargate.private.md) 
+### [Margate.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.protect.md) 
 
-### [Margate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetMargate.personal.md) 
+### [Margate.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.private.md) 
 
-### [Margate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetMargate.secret.md)
+### [Margate.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.personal.md) 
+
+### [Margate.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.secret.md)
 

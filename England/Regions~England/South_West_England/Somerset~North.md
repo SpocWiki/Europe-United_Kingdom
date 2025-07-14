@@ -41,15 +41,17 @@ markerFolder: ./North_Somerset/
 
 ## Confidential Links & Embeds: 
 
-### [Somerset~North.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.public.md) 
+### [Somerset~North](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.md) 
 
-### [Somerset~North.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.internal.md) 
+### [Somerset~North.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.public.md) 
 
-### [Somerset~North.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.protect.md) 
+### [Somerset~North.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.internal.md) 
 
-### [Somerset~North.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.private.md) 
+### [Somerset~North.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.protect.md) 
 
-### [Somerset~North.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.personal.md) 
+### [Somerset~North.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.private.md) 
 
-### [Somerset~North.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.secret.md)
+### [Somerset~North.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.personal.md) 
+
+### [Somerset~North.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.secret.md)
 

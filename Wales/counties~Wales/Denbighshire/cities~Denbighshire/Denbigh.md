@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Denbigh.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireDenbigh.public.md) 
+### [Denbigh](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/Denbigh.md) 
 
-### [Denbigh.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireDenbigh.internal.md) 
+### [Denbigh.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/Denbigh.public.md) 
 
-### [Denbigh.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireDenbigh.protect.md) 
+### [Denbigh.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/Denbigh.internal.md) 
 
-### [Denbigh.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireDenbigh.private.md) 
+### [Denbigh.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/Denbigh.protect.md) 
 
-### [Denbigh.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireDenbigh.personal.md) 
+### [Denbigh.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/Denbigh.private.md) 
 
-### [Denbigh.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireDenbigh.secret.md)
+### [Denbigh.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/Denbigh.personal.md) 
+
+### [Denbigh.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/Denbigh.secret.md)
 

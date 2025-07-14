@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Huntley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.public.md) 
+### [Huntley](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Huntley.md) 
 
-### [Huntley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.internal.md) 
+### [Huntley.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Huntley.public.md) 
 
-### [Huntley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.protect.md) 
+### [Huntley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Huntley.internal.md) 
 
-### [Huntley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.private.md) 
+### [Huntley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Huntley.protect.md) 
 
-### [Huntley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.personal.md) 
+### [Huntley.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Huntley.private.md) 
 
-### [Huntley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.secret.md)
+### [Huntley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Huntley.personal.md) 
+
+### [Huntley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Huntley.secret.md)
 

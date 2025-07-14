@@ -41,15 +41,17 @@ markerFolder: ./Yorkshire~East_Riding/
 
 ## Confidential Links & Embeds: 
 
-### [Yorkshire~East_Riding.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberYorkshire~East_Riding.public.md) 
+### [Yorkshire~East_Riding](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding.md) 
 
-### [Yorkshire~East_Riding.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberYorkshire~East_Riding.internal.md) 
+### [Yorkshire~East_Riding.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding.public.md) 
 
-### [Yorkshire~East_Riding.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberYorkshire~East_Riding.protect.md) 
+### [Yorkshire~East_Riding.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding.internal.md) 
 
-### [Yorkshire~East_Riding.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberYorkshire~East_Riding.private.md) 
+### [Yorkshire~East_Riding.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding.protect.md) 
 
-### [Yorkshire~East_Riding.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberYorkshire~East_Riding.personal.md) 
+### [Yorkshire~East_Riding.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding.private.md) 
 
-### [Yorkshire~East_Riding.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberYorkshire~East_Riding.secret.md)
+### [Yorkshire~East_Riding.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding.personal.md) 
+
+### [Yorkshire~East_Riding.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding.secret.md)
 

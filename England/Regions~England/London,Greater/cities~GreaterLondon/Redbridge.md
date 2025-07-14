@@ -41,15 +41,17 @@ markerFolder: ./Redbridge/
 
 ## Confidential Links & Embeds: 
 
-### [Redbridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRedbridge.public.md) 
+### [Redbridge](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Redbridge.md) 
 
-### [Redbridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRedbridge.internal.md) 
+### [Redbridge.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Redbridge.public.md) 
 
-### [Redbridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRedbridge.protect.md) 
+### [Redbridge.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Redbridge.internal.md) 
 
-### [Redbridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRedbridge.private.md) 
+### [Redbridge.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Redbridge.protect.md) 
 
-### [Redbridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRedbridge.personal.md) 
+### [Redbridge.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Redbridge.private.md) 
 
-### [Redbridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRedbridge.secret.md)
+### [Redbridge.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Redbridge.personal.md) 
+
+### [Redbridge.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Redbridge.secret.md)
 

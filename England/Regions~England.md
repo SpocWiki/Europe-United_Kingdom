@@ -36,19 +36,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Regions%20of%20England)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Regions~England.public](/_public/\Earth\Continent\Europe\Europe~North\UK\EnglandRegions~England.public.md) 
+### [Regions~England](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.md) 
 
-### [Regions~England.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\EnglandRegions~England.internal.md) 
+### [Regions~England.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.public.md) 
 
-### [Regions~England.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\EnglandRegions~England.protect.md) 
+### [Regions~England.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.internal.md) 
 
-### [Regions~England.private](/_private/\Earth\Continent\Europe\Europe~North\UK\EnglandRegions~England.private.md) 
+### [Regions~England.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.protect.md) 
 
-### [Regions~England.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\EnglandRegions~England.personal.md) 
+### [Regions~England.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.private.md) 
 
-### [Regions~England.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\EnglandRegions~England.secret.md)
+### [Regions~England.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.personal.md) 
+
+### [Regions~England.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.secret.md)
 

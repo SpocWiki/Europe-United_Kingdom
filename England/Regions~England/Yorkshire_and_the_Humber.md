@@ -10,19 +10,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Yorkshire%20and%20the%20Humber)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Yorkshire_and_the_Humber.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandYorkshire_and_the_Humber.public.md) 
+### [Yorkshire_and_the_Humber](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber.md) 
 
-### [Yorkshire_and_the_Humber.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandYorkshire_and_the_Humber.internal.md) 
+### [Yorkshire_and_the_Humber.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber.public.md) 
 
-### [Yorkshire_and_the_Humber.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandYorkshire_and_the_Humber.protect.md) 
+### [Yorkshire_and_the_Humber.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber.internal.md) 
 
-### [Yorkshire_and_the_Humber.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandYorkshire_and_the_Humber.private.md) 
+### [Yorkshire_and_the_Humber.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber.protect.md) 
 
-### [Yorkshire_and_the_Humber.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandYorkshire_and_the_Humber.personal.md) 
+### [Yorkshire_and_the_Humber.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber.private.md) 
 
-### [Yorkshire_and_the_Humber.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandYorkshire_and_the_Humber.secret.md)
+### [Yorkshire_and_the_Humber.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber.personal.md) 
+
+### [Yorkshire_and_the_Humber.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber.secret.md)
 

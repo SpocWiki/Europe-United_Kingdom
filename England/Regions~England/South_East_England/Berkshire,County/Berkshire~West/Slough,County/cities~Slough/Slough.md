@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Slough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughSlough.public.md) 
+### [Slough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Slough,County/cities~Slough/Slough.md) 
 
-### [Slough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughSlough.internal.md) 
+### [Slough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Slough,County/cities~Slough/Slough.public.md) 
 
-### [Slough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughSlough.protect.md) 
+### [Slough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Slough,County/cities~Slough/Slough.internal.md) 
 
-### [Slough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughSlough.private.md) 
+### [Slough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Slough,County/cities~Slough/Slough.protect.md) 
 
-### [Slough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughSlough.personal.md) 
+### [Slough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Slough,County/cities~Slough/Slough.private.md) 
 
-### [Slough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughSlough.secret.md)
+### [Slough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Slough,County/cities~Slough/Slough.personal.md) 
+
+### [Slough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Slough,County/cities~Slough/Slough.secret.md)
 

@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Ealing_Broadway.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ealing_Broadway.public.md) 
+### [Sub~Ealing_Broadway](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ealing_Broadway.md) 
 
-### [Sub~Ealing_Broadway.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ealing_Broadway.internal.md) 
+### [Sub~Ealing_Broadway.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ealing_Broadway.public.md) 
 
-### [Sub~Ealing_Broadway.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ealing_Broadway.protect.md) 
+### [Sub~Ealing_Broadway.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ealing_Broadway.internal.md) 
 
-### [Sub~Ealing_Broadway.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ealing_Broadway.private.md) 
+### [Sub~Ealing_Broadway.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ealing_Broadway.protect.md) 
 
-### [Sub~Ealing_Broadway.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ealing_Broadway.personal.md) 
+### [Sub~Ealing_Broadway.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ealing_Broadway.private.md) 
 
-### [Sub~Ealing_Broadway.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ealing_Broadway.secret.md)
+### [Sub~Ealing_Broadway.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ealing_Broadway.personal.md) 
+
+### [Sub~Ealing_Broadway.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ealing_Broadway.secret.md)
 

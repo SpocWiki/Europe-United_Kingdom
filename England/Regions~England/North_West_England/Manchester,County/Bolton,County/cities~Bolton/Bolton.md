@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bolton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.public.md) 
+### [Bolton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bolton,County/cities~Bolton/Bolton.md) 
 
-### [Bolton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.internal.md) 
+### [Bolton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bolton,County/cities~Bolton/Bolton.public.md) 
 
-### [Bolton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.protect.md) 
+### [Bolton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bolton,County/cities~Bolton/Bolton.internal.md) 
 
-### [Bolton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.private.md) 
+### [Bolton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bolton,County/cities~Bolton/Bolton.protect.md) 
 
-### [Bolton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.personal.md) 
+### [Bolton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bolton,County/cities~Bolton/Bolton.private.md) 
 
-### [Bolton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.secret.md)
+### [Bolton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bolton,County/cities~Bolton/Bolton.personal.md) 
+
+### [Bolton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bolton,County/cities~Bolton/Bolton.secret.md)
 

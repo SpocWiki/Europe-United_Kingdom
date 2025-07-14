@@ -110,15 +110,17 @@ Sub-region_Name ::  [[Northern Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Sark~Island.public](/_public/\Earth\Continent\Europe\Europe~North\UK\GuernseySark~Island.public.md) 
+### [Sark~Island](/_Standards/Earth/Continent/Europe/Europe~North/UK/Guernsey/Sark~Island.md) 
 
-### [Sark~Island.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\GuernseySark~Island.internal.md) 
+### [Sark~Island.public](/_public/Earth/Continent/Europe/Europe~North/UK/Guernsey/Sark~Island.public.md) 
 
-### [Sark~Island.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\GuernseySark~Island.protect.md) 
+### [Sark~Island.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Guernsey/Sark~Island.internal.md) 
 
-### [Sark~Island.private](/_private/\Earth\Continent\Europe\Europe~North\UK\GuernseySark~Island.private.md) 
+### [Sark~Island.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Guernsey/Sark~Island.protect.md) 
 
-### [Sark~Island.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\GuernseySark~Island.personal.md) 
+### [Sark~Island.private](/_private/Earth/Continent/Europe/Europe~North/UK/Guernsey/Sark~Island.private.md) 
 
-### [Sark~Island.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\GuernseySark~Island.secret.md)
+### [Sark~Island.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Guernsey/Sark~Island.personal.md) 
+
+### [Sark~Island.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Guernsey/Sark~Island.secret.md)
 

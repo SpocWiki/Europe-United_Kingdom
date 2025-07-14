@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cowes.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.public.md) 
+### [Cowes](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.md) 
 
-### [Cowes.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.internal.md) 
+### [Cowes.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.public.md) 
 
-### [Cowes.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.protect.md) 
+### [Cowes.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.internal.md) 
 
-### [Cowes.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.private.md) 
+### [Cowes.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.protect.md) 
 
-### [Cowes.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.personal.md) 
+### [Cowes.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.private.md) 
 
-### [Cowes.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.secret.md)
+### [Cowes.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.personal.md) 
+
+### [Cowes.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.secret.md)
 

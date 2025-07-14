@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dumfries.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.public.md) 
+### [Dumfries](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Dumfries.md) 
 
-### [Dumfries.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.internal.md) 
+### [Dumfries.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Dumfries.public.md) 
 
-### [Dumfries.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.protect.md) 
+### [Dumfries.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Dumfries.internal.md) 
 
-### [Dumfries.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.private.md) 
+### [Dumfries.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Dumfries.protect.md) 
 
-### [Dumfries.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.personal.md) 
+### [Dumfries.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Dumfries.private.md) 
 
-### [Dumfries.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.secret.md)
+### [Dumfries.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Dumfries.personal.md) 
+
+### [Dumfries.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Dumfries.secret.md)
 

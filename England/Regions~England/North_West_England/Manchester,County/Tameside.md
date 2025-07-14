@@ -50,15 +50,17 @@ markerFolder: ./Tameside/
 
 ## Confidential Links & Embeds: 
 
-### [Tameside.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTameside.public.md) 
+### [Tameside](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Tameside.md) 
 
-### [Tameside.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTameside.internal.md) 
+### [Tameside.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Tameside.public.md) 
 
-### [Tameside.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTameside.protect.md) 
+### [Tameside.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Tameside.internal.md) 
 
-### [Tameside.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTameside.private.md) 
+### [Tameside.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Tameside.protect.md) 
 
-### [Tameside.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTameside.personal.md) 
+### [Tameside.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Tameside.private.md) 
 
-### [Tameside.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTameside.secret.md)
+### [Tameside.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Tameside.personal.md) 
+
+### [Tameside.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Tameside.secret.md)
 

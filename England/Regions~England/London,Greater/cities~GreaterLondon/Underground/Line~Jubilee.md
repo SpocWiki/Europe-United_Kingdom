@@ -88,15 +88,17 @@ FROM outgoing([[Line~Jubilee]])
 
 ## Confidential Links & Embeds: 
 
-### [Line~Jubilee.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Jubilee.public.md) 
+### [Line~Jubilee](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Jubilee.md) 
 
-### [Line~Jubilee.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Jubilee.internal.md) 
+### [Line~Jubilee.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Jubilee.public.md) 
 
-### [Line~Jubilee.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Jubilee.protect.md) 
+### [Line~Jubilee.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Jubilee.internal.md) 
 
-### [Line~Jubilee.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Jubilee.private.md) 
+### [Line~Jubilee.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Jubilee.protect.md) 
 
-### [Line~Jubilee.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Jubilee.personal.md) 
+### [Line~Jubilee.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Jubilee.private.md) 
 
-### [Line~Jubilee.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Jubilee.secret.md)
+### [Line~Jubilee.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Jubilee.personal.md) 
+
+### [Line~Jubilee.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Jubilee.secret.md)
 

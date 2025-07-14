@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Paisley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.public.md) 
+### [Paisley](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.md) 
 
-### [Paisley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.internal.md) 
+### [Paisley.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.public.md) 
 
-### [Paisley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.protect.md) 
+### [Paisley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.internal.md) 
 
-### [Paisley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.private.md) 
+### [Paisley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.protect.md) 
 
-### [Paisley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.personal.md) 
+### [Paisley.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.private.md) 
 
-### [Paisley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.secret.md)
+### [Paisley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.personal.md) 
+
+### [Paisley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.secret.md)
 

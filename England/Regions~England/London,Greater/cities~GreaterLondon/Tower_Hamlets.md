@@ -41,15 +41,17 @@ markerFolder: ./Tower_Hamlets/
 
 ## Confidential Links & Embeds: 
 
-### [Tower_Hamlets.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonTower_Hamlets.public.md) 
+### [Tower_Hamlets](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.md) 
 
-### [Tower_Hamlets.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonTower_Hamlets.internal.md) 
+### [Tower_Hamlets.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.public.md) 
 
-### [Tower_Hamlets.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonTower_Hamlets.protect.md) 
+### [Tower_Hamlets.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.internal.md) 
 
-### [Tower_Hamlets.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonTower_Hamlets.private.md) 
+### [Tower_Hamlets.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.protect.md) 
 
-### [Tower_Hamlets.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonTower_Hamlets.personal.md) 
+### [Tower_Hamlets.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.private.md) 
 
-### [Tower_Hamlets.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonTower_Hamlets.secret.md)
+### [Tower_Hamlets.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.personal.md) 
+
+### [Tower_Hamlets.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.secret.md)
 

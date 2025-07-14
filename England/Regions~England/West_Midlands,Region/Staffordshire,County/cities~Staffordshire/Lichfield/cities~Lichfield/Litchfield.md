@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Litchfield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.public.md) 
+### [Litchfield](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.md) 
 
-### [Litchfield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.internal.md) 
+### [Litchfield.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.public.md) 
 
-### [Litchfield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.protect.md) 
+### [Litchfield.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.internal.md) 
 
-### [Litchfield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.private.md) 
+### [Litchfield.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.protect.md) 
 
-### [Litchfield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.personal.md) 
+### [Litchfield.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.private.md) 
 
-### [Litchfield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.secret.md)
+### [Litchfield.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.personal.md) 
+
+### [Litchfield.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.secret.md)
 

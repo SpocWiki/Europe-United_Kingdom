@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Newport,Monmouthshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireNewport,Monmouthshire.public.md) 
+### [Newport,Monmouthshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.md) 
 
-### [Newport,Monmouthshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireNewport,Monmouthshire.internal.md) 
+### [Newport,Monmouthshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.public.md) 
 
-### [Newport,Monmouthshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireNewport,Monmouthshire.protect.md) 
+### [Newport,Monmouthshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.internal.md) 
 
-### [Newport,Monmouthshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireNewport,Monmouthshire.private.md) 
+### [Newport,Monmouthshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.protect.md) 
 
-### [Newport,Monmouthshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireNewport,Monmouthshire.personal.md) 
+### [Newport,Monmouthshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.private.md) 
 
-### [Newport,Monmouthshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireNewport,Monmouthshire.secret.md)
+### [Newport,Monmouthshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.personal.md) 
+
+### [Newport,Monmouthshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.secret.md)
 

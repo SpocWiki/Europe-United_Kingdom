@@ -41,15 +41,17 @@ markerFolder: ./Derbyshire/
 
 ## Confidential Links & Embeds: 
 
-### [Derbyshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsDerbyshire.public.md) 
+### [Derbyshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.md) 
 
-### [Derbyshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsDerbyshire.internal.md) 
+### [Derbyshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.public.md) 
 
-### [Derbyshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsDerbyshire.protect.md) 
+### [Derbyshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.internal.md) 
 
-### [Derbyshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsDerbyshire.private.md) 
+### [Derbyshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.protect.md) 
 
-### [Derbyshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsDerbyshire.personal.md) 
+### [Derbyshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.private.md) 
 
-### [Derbyshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsDerbyshire.secret.md)
+### [Derbyshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.personal.md) 
+
+### [Derbyshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.secret.md)
 

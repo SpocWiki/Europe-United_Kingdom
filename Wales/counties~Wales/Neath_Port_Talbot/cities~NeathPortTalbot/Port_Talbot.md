@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Port_Talbot.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.public.md) 
+### [Port_Talbot](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot/cities~NeathPortTalbot/Port_Talbot.md) 
 
-### [Port_Talbot.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.internal.md) 
+### [Port_Talbot.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot/cities~NeathPortTalbot/Port_Talbot.public.md) 
 
-### [Port_Talbot.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.protect.md) 
+### [Port_Talbot.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot/cities~NeathPortTalbot/Port_Talbot.internal.md) 
 
-### [Port_Talbot.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.private.md) 
+### [Port_Talbot.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot/cities~NeathPortTalbot/Port_Talbot.protect.md) 
 
-### [Port_Talbot.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.personal.md) 
+### [Port_Talbot.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot/cities~NeathPortTalbot/Port_Talbot.private.md) 
 
-### [Port_Talbot.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.secret.md)
+### [Port_Talbot.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot/cities~NeathPortTalbot/Port_Talbot.personal.md) 
+
+### [Port_Talbot.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot/cities~NeathPortTalbot/Port_Talbot.secret.md)
 

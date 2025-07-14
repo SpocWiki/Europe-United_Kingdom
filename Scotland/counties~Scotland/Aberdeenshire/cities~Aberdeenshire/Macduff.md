@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Macduff.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.public.md) 
+### [Macduff](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.md) 
 
-### [Macduff.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.internal.md) 
+### [Macduff.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.public.md) 
 
-### [Macduff.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.protect.md) 
+### [Macduff.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.internal.md) 
 
-### [Macduff.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.private.md) 
+### [Macduff.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.protect.md) 
 
-### [Macduff.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.personal.md) 
+### [Macduff.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.private.md) 
 
-### [Macduff.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.secret.md)
+### [Macduff.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.personal.md) 
+
+### [Macduff.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Bees_Head.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.public.md) 
+### [St.Bees_Head](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.md) 
 
-### [St.Bees_Head.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.internal.md) 
+### [St.Bees_Head.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.public.md) 
 
-### [St.Bees_Head.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.protect.md) 
+### [St.Bees_Head.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.internal.md) 
 
-### [St.Bees_Head.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.private.md) 
+### [St.Bees_Head.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.protect.md) 
 
-### [St.Bees_Head.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.personal.md) 
+### [St.Bees_Head.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.private.md) 
 
-### [St.Bees_Head.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.secret.md)
+### [St.Bees_Head.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.personal.md) 
+
+### [St.Bees_Head.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.secret.md)
 

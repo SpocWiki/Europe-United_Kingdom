@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rye(UK).public](/_public/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).public.md) 
+### [Rye(UK)](/_Standards/Earth/Continent/Europe/Europe~North/UK/City/Rye(UK).md) 
 
-### [Rye(UK).internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).internal.md) 
+### [Rye(UK).public](/_public/Earth/Continent/Europe/Europe~North/UK/City/Rye(UK).public.md) 
 
-### [Rye(UK).protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).protect.md) 
+### [Rye(UK).internal](/_internal/Earth/Continent/Europe/Europe~North/UK/City/Rye(UK).internal.md) 
 
-### [Rye(UK).private](/_private/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).private.md) 
+### [Rye(UK).protect](/_protect/Earth/Continent/Europe/Europe~North/UK/City/Rye(UK).protect.md) 
 
-### [Rye(UK).personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).personal.md) 
+### [Rye(UK).private](/_private/Earth/Continent/Europe/Europe~North/UK/City/Rye(UK).private.md) 
 
-### [Rye(UK).secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).secret.md)
+### [Rye(UK).personal](/_personal/Earth/Continent/Europe/Europe~North/UK/City/Rye(UK).personal.md) 
+
+### [Rye(UK).secret](/_secret/Earth/Continent/Europe/Europe~North/UK/City/Rye(UK).secret.md)
 

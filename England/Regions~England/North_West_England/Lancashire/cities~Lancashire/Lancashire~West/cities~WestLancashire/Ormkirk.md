@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ormkirk.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.public.md) 
+### [Ormkirk](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancashire~West/cities~WestLancashire/Ormkirk.md) 
 
-### [Ormkirk.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.internal.md) 
+### [Ormkirk.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancashire~West/cities~WestLancashire/Ormkirk.public.md) 
 
-### [Ormkirk.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.protect.md) 
+### [Ormkirk.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancashire~West/cities~WestLancashire/Ormkirk.internal.md) 
 
-### [Ormkirk.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.private.md) 
+### [Ormkirk.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancashire~West/cities~WestLancashire/Ormkirk.protect.md) 
 
-### [Ormkirk.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.personal.md) 
+### [Ormkirk.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancashire~West/cities~WestLancashire/Ormkirk.private.md) 
 
-### [Ormkirk.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.secret.md)
+### [Ormkirk.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancashire~West/cities~WestLancashire/Ormkirk.personal.md) 
+
+### [Ormkirk.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Lancashire~West/cities~WestLancashire/Ormkirk.secret.md)
 

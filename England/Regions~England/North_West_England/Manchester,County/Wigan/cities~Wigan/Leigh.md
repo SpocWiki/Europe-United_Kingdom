@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leigh.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.public.md) 
+### [Leigh](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.md) 
 
-### [Leigh.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.internal.md) 
+### [Leigh.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.public.md) 
 
-### [Leigh.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.protect.md) 
+### [Leigh.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.internal.md) 
 
-### [Leigh.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.private.md) 
+### [Leigh.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.protect.md) 
 
-### [Leigh.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.personal.md) 
+### [Leigh.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.private.md) 
 
-### [Leigh.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.secret.md)
+### [Leigh.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.personal.md) 
+
+### [Leigh.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.secret.md)
 

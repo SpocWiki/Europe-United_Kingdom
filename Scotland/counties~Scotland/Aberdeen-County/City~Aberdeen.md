@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Aberdeen.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.public.md) 
+### [City~Aberdeen](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County/City~Aberdeen.md) 
 
-### [City~Aberdeen.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.internal.md) 
+### [City~Aberdeen.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County/City~Aberdeen.public.md) 
 
-### [City~Aberdeen.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.protect.md) 
+### [City~Aberdeen.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County/City~Aberdeen.internal.md) 
 
-### [City~Aberdeen.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.private.md) 
+### [City~Aberdeen.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County/City~Aberdeen.protect.md) 
 
-### [City~Aberdeen.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.personal.md) 
+### [City~Aberdeen.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County/City~Aberdeen.private.md) 
 
-### [City~Aberdeen.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.secret.md)
+### [City~Aberdeen.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County/City~Aberdeen.personal.md) 
+
+### [City~Aberdeen.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County/City~Aberdeen.secret.md)
 

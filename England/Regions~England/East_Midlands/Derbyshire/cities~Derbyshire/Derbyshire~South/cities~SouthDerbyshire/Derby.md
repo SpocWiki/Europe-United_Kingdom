@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Derby.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.public.md) 
+### [Derby](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~South/cities~SouthDerbyshire/Derby.md) 
 
-### [Derby.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.internal.md) 
+### [Derby.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~South/cities~SouthDerbyshire/Derby.public.md) 
 
-### [Derby.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.protect.md) 
+### [Derby.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~South/cities~SouthDerbyshire/Derby.internal.md) 
 
-### [Derby.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.private.md) 
+### [Derby.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~South/cities~SouthDerbyshire/Derby.protect.md) 
 
-### [Derby.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.personal.md) 
+### [Derby.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~South/cities~SouthDerbyshire/Derby.private.md) 
 
-### [Derby.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.secret.md)
+### [Derby.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~South/cities~SouthDerbyshire/Derby.personal.md) 
+
+### [Derby.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~South/cities~SouthDerbyshire/Derby.secret.md)
 

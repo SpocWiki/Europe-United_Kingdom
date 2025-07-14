@@ -41,15 +41,17 @@ markerFolder: ./Lincolnshire/
 
 ## Confidential Links & Embeds: 
 
-### [Lincolnshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.public.md) 
+### [Lincolnshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire.md) 
 
-### [Lincolnshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.internal.md) 
+### [Lincolnshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire.public.md) 
 
-### [Lincolnshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.protect.md) 
+### [Lincolnshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire.internal.md) 
 
-### [Lincolnshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.private.md) 
+### [Lincolnshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire.protect.md) 
 
-### [Lincolnshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.personal.md) 
+### [Lincolnshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire.private.md) 
 
-### [Lincolnshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.secret.md)
+### [Lincolnshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire.personal.md) 
+
+### [Lincolnshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire.secret.md)
 

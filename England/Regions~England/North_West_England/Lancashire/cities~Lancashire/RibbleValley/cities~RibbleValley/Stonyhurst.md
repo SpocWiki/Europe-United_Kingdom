@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stonyhurst.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.public.md) 
+### [Stonyhurst](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/RibbleValley/cities~RibbleValley/Stonyhurst.md) 
 
-### [Stonyhurst.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.internal.md) 
+### [Stonyhurst.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/RibbleValley/cities~RibbleValley/Stonyhurst.public.md) 
 
-### [Stonyhurst.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.protect.md) 
+### [Stonyhurst.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/RibbleValley/cities~RibbleValley/Stonyhurst.internal.md) 
 
-### [Stonyhurst.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.private.md) 
+### [Stonyhurst.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/RibbleValley/cities~RibbleValley/Stonyhurst.protect.md) 
 
-### [Stonyhurst.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.personal.md) 
+### [Stonyhurst.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/RibbleValley/cities~RibbleValley/Stonyhurst.private.md) 
 
-### [Stonyhurst.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.secret.md)
+### [Stonyhurst.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/RibbleValley/cities~RibbleValley/Stonyhurst.personal.md) 
+
+### [Stonyhurst.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/RibbleValley/cities~RibbleValley/Stonyhurst.secret.md)
 

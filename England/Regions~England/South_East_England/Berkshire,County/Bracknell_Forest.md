@@ -41,15 +41,17 @@ markerFolder: ./Bracknell_Forest/
 
 ## Confidential Links & Embeds: 
 
-### [Bracknell_Forest.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.public.md) 
+### [Bracknell_Forest](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Bracknell_Forest.md) 
 
-### [Bracknell_Forest.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.internal.md) 
+### [Bracknell_Forest.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Bracknell_Forest.public.md) 
 
-### [Bracknell_Forest.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.protect.md) 
+### [Bracknell_Forest.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Bracknell_Forest.internal.md) 
 
-### [Bracknell_Forest.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.private.md) 
+### [Bracknell_Forest.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Bracknell_Forest.protect.md) 
 
-### [Bracknell_Forest.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.personal.md) 
+### [Bracknell_Forest.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Bracknell_Forest.private.md) 
 
-### [Bracknell_Forest.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.secret.md)
+### [Bracknell_Forest.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Bracknell_Forest.personal.md) 
+
+### [Bracknell_Forest.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Bracknell_Forest.secret.md)
 

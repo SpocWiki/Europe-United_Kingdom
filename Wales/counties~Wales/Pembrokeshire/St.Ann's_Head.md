@@ -37,15 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Ann's_Head.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.public.md) 
+### [St.Ann's_Head](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/St.Ann's_Head.md) 
 
-### [St.Ann's_Head.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.internal.md) 
+### [St.Ann's_Head.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/St.Ann's_Head.public.md) 
 
-### [St.Ann's_Head.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.protect.md) 
+### [St.Ann's_Head.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/St.Ann's_Head.internal.md) 
 
-### [St.Ann's_Head.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.private.md) 
+### [St.Ann's_Head.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/St.Ann's_Head.protect.md) 
 
-### [St.Ann's_Head.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.personal.md) 
+### [St.Ann's_Head.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/St.Ann's_Head.private.md) 
 
-### [St.Ann's_Head.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.secret.md)
+### [St.Ann's_Head.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/St.Ann's_Head.personal.md) 
+
+### [St.Ann's_Head.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/St.Ann's_Head.secret.md)
 

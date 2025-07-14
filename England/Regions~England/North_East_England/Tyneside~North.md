@@ -41,15 +41,17 @@ markerFolder: ./North_Tyneside/
 
 ## Confidential Links & Embeds: 
 
-### [Tyneside~North.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandTyneside~North.public.md) 
+### [Tyneside~North](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North.md) 
 
-### [Tyneside~North.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandTyneside~North.internal.md) 
+### [Tyneside~North.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North.public.md) 
 
-### [Tyneside~North.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandTyneside~North.protect.md) 
+### [Tyneside~North.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North.internal.md) 
 
-### [Tyneside~North.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandTyneside~North.private.md) 
+### [Tyneside~North.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North.protect.md) 
 
-### [Tyneside~North.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandTyneside~North.personal.md) 
+### [Tyneside~North.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North.private.md) 
 
-### [Tyneside~North.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandTyneside~North.secret.md)
+### [Tyneside~North.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North.personal.md) 
+
+### [Tyneside~North.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North.secret.md)
 

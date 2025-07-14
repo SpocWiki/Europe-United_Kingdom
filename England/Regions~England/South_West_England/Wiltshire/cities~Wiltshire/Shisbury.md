@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Shisbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.public.md) 
+### [Shisbury](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Shisbury.md) 
 
-### [Shisbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.internal.md) 
+### [Shisbury.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Shisbury.public.md) 
 
-### [Shisbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.protect.md) 
+### [Shisbury.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Shisbury.internal.md) 
 
-### [Shisbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.private.md) 
+### [Shisbury.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Shisbury.protect.md) 
 
-### [Shisbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.personal.md) 
+### [Shisbury.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Shisbury.private.md) 
 
-### [Shisbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.secret.md)
+### [Shisbury.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Shisbury.personal.md) 
+
+### [Shisbury.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Shisbury.secret.md)
 

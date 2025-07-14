@@ -41,15 +41,17 @@ markerFolder: ./Gloucestershire/
 
 ## Confidential Links & Embeds: 
 
-### [Gloucestershire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.public.md) 
+### [Gloucestershire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.md) 
 
-### [Gloucestershire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.internal.md) 
+### [Gloucestershire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.public.md) 
 
-### [Gloucestershire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.protect.md) 
+### [Gloucestershire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.internal.md) 
 
-### [Gloucestershire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.private.md) 
+### [Gloucestershire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.protect.md) 
 
-### [Gloucestershire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.personal.md) 
+### [Gloucestershire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.private.md) 
 
-### [Gloucestershire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.secret.md)
+### [Gloucestershire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.personal.md) 
+
+### [Gloucestershire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.secret.md)
 

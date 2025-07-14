@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.public.md) 
+### [Salford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.md) 
 
-### [Salford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.internal.md) 
+### [Salford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.public.md) 
 
-### [Salford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.protect.md) 
+### [Salford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.internal.md) 
 
-### [Salford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.private.md) 
+### [Salford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.protect.md) 
 
-### [Salford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.personal.md) 
+### [Salford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.private.md) 
 
-### [Salford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.secret.md)
+### [Salford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.personal.md) 
+
+### [Salford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.secret.md)
 

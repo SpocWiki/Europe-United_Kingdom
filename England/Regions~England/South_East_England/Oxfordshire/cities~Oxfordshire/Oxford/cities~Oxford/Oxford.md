@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oxford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.public.md) 
+### [Oxford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.md) 
 
-### [Oxford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.internal.md) 
+### [Oxford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.public.md) 
 
-### [Oxford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.protect.md) 
+### [Oxford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.internal.md) 
 
-### [Oxford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.private.md) 
+### [Oxford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.protect.md) 
 
-### [Oxford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.personal.md) 
+### [Oxford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.private.md) 
 
-### [Oxford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.secret.md)
+### [Oxford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.personal.md) 
+
+### [Oxford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.secret.md)
 

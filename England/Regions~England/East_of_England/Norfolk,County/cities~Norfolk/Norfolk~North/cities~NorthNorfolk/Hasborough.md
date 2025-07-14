@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hasborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.public.md) 
+### [Hasborough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Norfolk~North/cities~NorthNorfolk/Hasborough.md) 
 
-### [Hasborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.internal.md) 
+### [Hasborough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Norfolk~North/cities~NorthNorfolk/Hasborough.public.md) 
 
-### [Hasborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.protect.md) 
+### [Hasborough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Norfolk~North/cities~NorthNorfolk/Hasborough.internal.md) 
 
-### [Hasborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.private.md) 
+### [Hasborough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Norfolk~North/cities~NorthNorfolk/Hasborough.protect.md) 
 
-### [Hasborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.personal.md) 
+### [Hasborough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Norfolk~North/cities~NorthNorfolk/Hasborough.private.md) 
 
-### [Hasborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.secret.md)
+### [Hasborough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Norfolk~North/cities~NorthNorfolk/Hasborough.personal.md) 
+
+### [Hasborough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Norfolk~North/cities~NorthNorfolk/Hasborough.secret.md)
 

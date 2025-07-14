@@ -15,15 +15,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wales.public](/_public/\Earth\Continent\Europe\Europe~North\UKWales.public.md) 
+### [Wales](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales.md) 
 
-### [Wales.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKWales.internal.md) 
+### [Wales.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales.public.md) 
 
-### [Wales.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKWales.protect.md) 
+### [Wales.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales.internal.md) 
 
-### [Wales.private](/_private/\Earth\Continent\Europe\Europe~North\UKWales.private.md) 
+### [Wales.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales.protect.md) 
 
-### [Wales.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKWales.personal.md) 
+### [Wales.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales.private.md) 
 
-### [Wales.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKWales.secret.md)
+### [Wales.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales.personal.md) 
+
+### [Wales.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales.secret.md)
 

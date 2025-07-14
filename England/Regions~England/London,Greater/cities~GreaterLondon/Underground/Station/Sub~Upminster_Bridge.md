@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Upminster_Bridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Upminster_Bridge.public.md) 
+### [Sub~Upminster_Bridge](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Upminster_Bridge.md) 
 
-### [Sub~Upminster_Bridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Upminster_Bridge.internal.md) 
+### [Sub~Upminster_Bridge.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Upminster_Bridge.public.md) 
 
-### [Sub~Upminster_Bridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Upminster_Bridge.protect.md) 
+### [Sub~Upminster_Bridge.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Upminster_Bridge.internal.md) 
 
-### [Sub~Upminster_Bridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Upminster_Bridge.private.md) 
+### [Sub~Upminster_Bridge.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Upminster_Bridge.protect.md) 
 
-### [Sub~Upminster_Bridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Upminster_Bridge.personal.md) 
+### [Sub~Upminster_Bridge.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Upminster_Bridge.private.md) 
 
-### [Sub~Upminster_Bridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Upminster_Bridge.secret.md)
+### [Sub~Upminster_Bridge.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Upminster_Bridge.personal.md) 
+
+### [Sub~Upminster_Bridge.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Upminster_Bridge.secret.md)
 

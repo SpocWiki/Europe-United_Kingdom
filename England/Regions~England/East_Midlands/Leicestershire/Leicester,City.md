@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leicester,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.public.md) 
+### [Leicester,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/Leicester,City.md) 
 
-### [Leicester,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.internal.md) 
+### [Leicester,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/Leicester,City.public.md) 
 
-### [Leicester,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.protect.md) 
+### [Leicester,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/Leicester,City.internal.md) 
 
-### [Leicester,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.private.md) 
+### [Leicester,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/Leicester,City.protect.md) 
 
-### [Leicester,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.personal.md) 
+### [Leicester,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/Leicester,City.private.md) 
 
-### [Leicester,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.secret.md)
+### [Leicester,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/Leicester,City.personal.md) 
+
+### [Leicester,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/Leicester,City.secret.md)
 

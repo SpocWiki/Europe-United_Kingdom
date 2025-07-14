@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grimsby.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.public.md) 
+### [Grimsby](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.md) 
 
-### [Grimsby.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.internal.md) 
+### [Grimsby.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.public.md) 
 
-### [Grimsby.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.protect.md) 
+### [Grimsby.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.internal.md) 
 
-### [Grimsby.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.private.md) 
+### [Grimsby.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.protect.md) 
 
-### [Grimsby.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.personal.md) 
+### [Grimsby.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.private.md) 
 
-### [Grimsby.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.secret.md)
+### [Grimsby.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.personal.md) 
+
+### [Grimsby.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.secret.md)
 

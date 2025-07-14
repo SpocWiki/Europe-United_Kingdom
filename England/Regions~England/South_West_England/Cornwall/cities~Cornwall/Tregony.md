@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tregony.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.public.md) 
+### [Tregony](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Tregony.md) 
 
-### [Tregony.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.internal.md) 
+### [Tregony.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Tregony.public.md) 
 
-### [Tregony.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.protect.md) 
+### [Tregony.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Tregony.internal.md) 
 
-### [Tregony.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.private.md) 
+### [Tregony.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Tregony.protect.md) 
 
-### [Tregony.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.personal.md) 
+### [Tregony.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Tregony.private.md) 
 
-### [Tregony.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.secret.md)
+### [Tregony.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Tregony.personal.md) 
+
+### [Tregony.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Tregony.secret.md)
 

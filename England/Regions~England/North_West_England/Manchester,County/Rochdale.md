@@ -41,15 +41,17 @@ markerFolder: ./Rochdale/
 
 ## Confidential Links & Embeds: 
 
-### [Rochdale.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyRochdale.public.md) 
+### [Rochdale](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Rochdale.md) 
 
-### [Rochdale.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyRochdale.internal.md) 
+### [Rochdale.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Rochdale.public.md) 
 
-### [Rochdale.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyRochdale.protect.md) 
+### [Rochdale.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Rochdale.internal.md) 
 
-### [Rochdale.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyRochdale.private.md) 
+### [Rochdale.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Rochdale.protect.md) 
 
-### [Rochdale.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyRochdale.personal.md) 
+### [Rochdale.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Rochdale.private.md) 
 
-### [Rochdale.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyRochdale.secret.md)
+### [Rochdale.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Rochdale.personal.md) 
+
+### [Rochdale.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Rochdale.secret.md)
 

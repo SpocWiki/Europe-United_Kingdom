@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dingwall.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandDingwall.public.md) 
+### [Dingwall](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Dingwall.md) 
 
-### [Dingwall.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandDingwall.internal.md) 
+### [Dingwall.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Dingwall.public.md) 
 
-### [Dingwall.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandDingwall.protect.md) 
+### [Dingwall.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Dingwall.internal.md) 
 
-### [Dingwall.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandDingwall.private.md) 
+### [Dingwall.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Dingwall.protect.md) 
 
-### [Dingwall.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandDingwall.personal.md) 
+### [Dingwall.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Dingwall.private.md) 
 
-### [Dingwall.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandDingwall.secret.md)
+### [Dingwall.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Dingwall.personal.md) 
+
+### [Dingwall.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Dingwall.secret.md)
 

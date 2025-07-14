@@ -41,15 +41,17 @@ markerFolder: ./Cambridgeshire/
 
 ## Confidential Links & Embeds: 
 
-### [Cambridgeshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCambridgeshire.public.md) 
+### [Cambridgeshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire.md) 
 
-### [Cambridgeshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCambridgeshire.internal.md) 
+### [Cambridgeshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire.public.md) 
 
-### [Cambridgeshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCambridgeshire.protect.md) 
+### [Cambridgeshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire.internal.md) 
 
-### [Cambridgeshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCambridgeshire.private.md) 
+### [Cambridgeshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire.protect.md) 
 
-### [Cambridgeshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCambridgeshire.personal.md) 
+### [Cambridgeshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire.private.md) 
 
-### [Cambridgeshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCambridgeshire.secret.md)
+### [Cambridgeshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire.personal.md) 
+
+### [Cambridgeshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire.secret.md)
 

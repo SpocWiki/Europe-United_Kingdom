@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Birmingham,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.public.md) 
+### [Birmingham,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.md) 
 
-### [Birmingham,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.internal.md) 
+### [Birmingham,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.public.md) 
 
-### [Birmingham,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.protect.md) 
+### [Birmingham,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.internal.md) 
 
-### [Birmingham,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.private.md) 
+### [Birmingham,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.protect.md) 
 
-### [Birmingham,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.personal.md) 
+### [Birmingham,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.private.md) 
 
-### [Birmingham,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.secret.md)
+### [Birmingham,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.personal.md) 
+
+### [Birmingham,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dulverton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\WestSomerset\cities~WestSomersetDulverton.public.md) 
+### [Dulverton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/WestSomerset/cities~WestSomerset/Dulverton.md) 
 
-### [Dulverton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\WestSomerset\cities~WestSomersetDulverton.internal.md) 
+### [Dulverton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/WestSomerset/cities~WestSomerset/Dulverton.public.md) 
 
-### [Dulverton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\WestSomerset\cities~WestSomersetDulverton.protect.md) 
+### [Dulverton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/WestSomerset/cities~WestSomerset/Dulverton.internal.md) 
 
-### [Dulverton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\WestSomerset\cities~WestSomersetDulverton.private.md) 
+### [Dulverton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/WestSomerset/cities~WestSomerset/Dulverton.protect.md) 
 
-### [Dulverton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\WestSomerset\cities~WestSomersetDulverton.personal.md) 
+### [Dulverton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/WestSomerset/cities~WestSomerset/Dulverton.private.md) 
 
-### [Dulverton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\WestSomerset\cities~WestSomersetDulverton.secret.md)
+### [Dulverton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/WestSomerset/cities~WestSomerset/Dulverton.personal.md) 
+
+### [Dulverton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/WestSomerset/cities~WestSomerset/Dulverton.secret.md)
 

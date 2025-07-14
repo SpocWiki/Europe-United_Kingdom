@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ayr.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthAyr.public.md) 
+### [Ayr](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.md) 
 
-### [Ayr.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthAyr.internal.md) 
+### [Ayr.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.public.md) 
 
-### [Ayr.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthAyr.protect.md) 
+### [Ayr.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.internal.md) 
 
-### [Ayr.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthAyr.private.md) 
+### [Ayr.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.protect.md) 
 
-### [Ayr.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthAyr.personal.md) 
+### [Ayr.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.private.md) 
 
-### [Ayr.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthAyr.secret.md)
+### [Ayr.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.personal.md) 
+
+### [Ayr.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.secret.md)
 

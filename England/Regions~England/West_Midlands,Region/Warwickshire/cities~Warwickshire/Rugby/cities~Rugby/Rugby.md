@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rugby.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.public.md) 
+### [Rugby](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.md) 
 
-### [Rugby.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.internal.md) 
+### [Rugby.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.public.md) 
 
-### [Rugby.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.protect.md) 
+### [Rugby.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.internal.md) 
 
-### [Rugby.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.private.md) 
+### [Rugby.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.protect.md) 
 
-### [Rugby.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.personal.md) 
+### [Rugby.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.private.md) 
 
-### [Rugby.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.secret.md)
+### [Rugby.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.personal.md) 
+
+### [Rugby.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ledburg.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.public.md) 
+### [Ledburg](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.md) 
 
-### [Ledburg.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.internal.md) 
+### [Ledburg.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.public.md) 
 
-### [Ledburg.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.protect.md) 
+### [Ledburg.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.internal.md) 
 
-### [Ledburg.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.private.md) 
+### [Ledburg.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.protect.md) 
 
-### [Ledburg.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.personal.md) 
+### [Ledburg.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.private.md) 
 
-### [Ledburg.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.secret.md)
+### [Ledburg.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.personal.md) 
+
+### [Ledburg.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.secret.md)
 

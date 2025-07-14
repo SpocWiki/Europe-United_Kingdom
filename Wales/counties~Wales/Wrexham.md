@@ -41,15 +41,17 @@ markerFolder: ./Wrexham/
 
 ## Confidential Links & Embeds: 
 
-### [Wrexham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesWrexham.public.md) 
+### [Wrexham](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.md) 
 
-### [Wrexham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesWrexham.internal.md) 
+### [Wrexham.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.public.md) 
 
-### [Wrexham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesWrexham.protect.md) 
+### [Wrexham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.internal.md) 
 
-### [Wrexham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesWrexham.private.md) 
+### [Wrexham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.protect.md) 
 
-### [Wrexham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesWrexham.personal.md) 
+### [Wrexham.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.private.md) 
 
-### [Wrexham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesWrexham.secret.md)
+### [Wrexham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.personal.md) 
+
+### [Wrexham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.secret.md)
 

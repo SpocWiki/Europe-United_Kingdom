@@ -41,15 +41,17 @@ markerFolder: ./Durham/
 
 ## Confidential Links & Embeds: 
 
-### [Durham,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandDurham,County.public.md) 
+### [Durham,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County.md) 
 
-### [Durham,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandDurham,County.internal.md) 
+### [Durham,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County.public.md) 
 
-### [Durham,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandDurham,County.protect.md) 
+### [Durham,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County.internal.md) 
 
-### [Durham,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandDurham,County.private.md) 
+### [Durham,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County.protect.md) 
 
-### [Durham,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandDurham,County.personal.md) 
+### [Durham,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County.private.md) 
 
-### [Durham,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandDurham,County.secret.md)
+### [Durham,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County.personal.md) 
+
+### [Durham,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County.secret.md)
 

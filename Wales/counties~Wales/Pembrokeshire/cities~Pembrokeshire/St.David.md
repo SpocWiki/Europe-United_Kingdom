@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.David.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.public.md) 
+### [St.David](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.md) 
 
-### [St.David.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.internal.md) 
+### [St.David.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.public.md) 
 
-### [St.David.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.protect.md) 
+### [St.David.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.internal.md) 
 
-### [St.David.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.private.md) 
+### [St.David.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.protect.md) 
 
-### [St.David.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.personal.md) 
+### [St.David.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.private.md) 
 
-### [St.David.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.secret.md)
+### [St.David.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.personal.md) 
+
+### [St.David.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.secret.md)
 

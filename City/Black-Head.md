@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Black-Head.public](/_public/\Earth\Continent\Europe\Europe~North\UK\CityBlack-Head.public.md) 
+### [Black-Head](/_Standards/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.md) 
 
-### [Black-Head.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\CityBlack-Head.internal.md) 
+### [Black-Head.public](/_public/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.public.md) 
 
-### [Black-Head.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\CityBlack-Head.protect.md) 
+### [Black-Head.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.internal.md) 
 
-### [Black-Head.private](/_private/\Earth\Continent\Europe\Europe~North\UK\CityBlack-Head.private.md) 
+### [Black-Head.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.protect.md) 
 
-### [Black-Head.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\CityBlack-Head.personal.md) 
+### [Black-Head.private](/_private/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.private.md) 
 
-### [Black-Head.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\CityBlack-Head.secret.md)
+### [Black-Head.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.personal.md) 
+
+### [Black-Head.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brighton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveBrighton.public.md) 
+### [Brighton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Brighton.md) 
 
-### [Brighton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveBrighton.internal.md) 
+### [Brighton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Brighton.public.md) 
 
-### [Brighton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveBrighton.protect.md) 
+### [Brighton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Brighton.internal.md) 
 
-### [Brighton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveBrighton.private.md) 
+### [Brighton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Brighton.protect.md) 
 
-### [Brighton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveBrighton.personal.md) 
+### [Brighton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Brighton.private.md) 
 
-### [Brighton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveBrighton.secret.md)
+### [Brighton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Brighton.personal.md) 
+
+### [Brighton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Brighton.secret.md)
 

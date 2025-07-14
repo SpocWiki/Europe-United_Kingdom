@@ -57,15 +57,17 @@ markerFolder: ./Bournemouth/
 
 ## Confidential Links & Embeds: 
 
-### [Bournemouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.public.md) 
+### [Bournemouth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Bournemouth.md) 
 
-### [Bournemouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.internal.md) 
+### [Bournemouth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Bournemouth.public.md) 
 
-### [Bournemouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.protect.md) 
+### [Bournemouth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Bournemouth.internal.md) 
 
-### [Bournemouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.private.md) 
+### [Bournemouth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Bournemouth.protect.md) 
 
-### [Bournemouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.personal.md) 
+### [Bournemouth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Bournemouth.private.md) 
 
-### [Bournemouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.secret.md)
+### [Bournemouth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Bournemouth.personal.md) 
+
+### [Bournemouth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Bournemouth.secret.md)
 

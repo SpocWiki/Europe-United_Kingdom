@@ -41,15 +41,17 @@ markerFolder: ./Orkney/
 
 ## Confidential Links & Embeds: 
 
-### [Orkney.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandOrkney.public.md) 
+### [Orkney](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.md) 
 
-### [Orkney.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandOrkney.internal.md) 
+### [Orkney.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.public.md) 
 
-### [Orkney.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandOrkney.protect.md) 
+### [Orkney.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.internal.md) 
 
-### [Orkney.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandOrkney.private.md) 
+### [Orkney.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.protect.md) 
 
-### [Orkney.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandOrkney.personal.md) 
+### [Orkney.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.private.md) 
 
-### [Orkney.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandOrkney.secret.md)
+### [Orkney.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.personal.md) 
+
+### [Orkney.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.secret.md)
 

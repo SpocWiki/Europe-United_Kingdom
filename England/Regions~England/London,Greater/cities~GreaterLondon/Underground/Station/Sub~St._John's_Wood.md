@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~St._John's_Wood.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~St._John's_Wood.public.md) 
+### [Sub~St._John's_Wood](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~St._John's_Wood.md) 
 
-### [Sub~St._John's_Wood.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~St._John's_Wood.internal.md) 
+### [Sub~St._John's_Wood.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~St._John's_Wood.public.md) 
 
-### [Sub~St._John's_Wood.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~St._John's_Wood.protect.md) 
+### [Sub~St._John's_Wood.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~St._John's_Wood.internal.md) 
 
-### [Sub~St._John's_Wood.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~St._John's_Wood.private.md) 
+### [Sub~St._John's_Wood.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~St._John's_Wood.protect.md) 
 
-### [Sub~St._John's_Wood.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~St._John's_Wood.personal.md) 
+### [Sub~St._John's_Wood.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~St._John's_Wood.private.md) 
 
-### [Sub~St._John's_Wood.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~St._John's_Wood.secret.md)
+### [Sub~St._John's_Wood.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~St._John's_Wood.personal.md) 
+
+### [Sub~St._John's_Wood.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~St._John's_Wood.secret.md)
 

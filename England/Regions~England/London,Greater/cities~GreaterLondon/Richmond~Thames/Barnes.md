@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barnes.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.public.md) 
+### [Barnes](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames/Barnes.md) 
 
-### [Barnes.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.internal.md) 
+### [Barnes.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames/Barnes.public.md) 
 
-### [Barnes.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.protect.md) 
+### [Barnes.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames/Barnes.internal.md) 
 
-### [Barnes.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.private.md) 
+### [Barnes.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames/Barnes.protect.md) 
 
-### [Barnes.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.personal.md) 
+### [Barnes.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames/Barnes.private.md) 
 
-### [Barnes.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.secret.md)
+### [Barnes.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames/Barnes.personal.md) 
+
+### [Barnes.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames/Barnes.secret.md)
 

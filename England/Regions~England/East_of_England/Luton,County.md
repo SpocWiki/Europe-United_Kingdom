@@ -41,15 +41,17 @@ markerFolder: ./Luton/
 
 ## Confidential Links & Embeds: 
 
-### [Luton,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandLuton,County.public.md) 
+### [Luton,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.md) 
 
-### [Luton,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandLuton,County.internal.md) 
+### [Luton,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.public.md) 
 
-### [Luton,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandLuton,County.protect.md) 
+### [Luton,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.internal.md) 
 
-### [Luton,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandLuton,County.private.md) 
+### [Luton,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.protect.md) 
 
-### [Luton,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandLuton,County.personal.md) 
+### [Luton,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.private.md) 
 
-### [Luton,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandLuton,County.secret.md)
+### [Luton,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.personal.md) 
+
+### [Luton,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.secret.md)
 

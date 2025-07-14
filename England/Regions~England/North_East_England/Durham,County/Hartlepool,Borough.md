@@ -41,15 +41,17 @@ markerFolder: ./Hartlepool/
 
 ## Confidential Links & Embeds: 
 
-### [Hartlepool,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyHartlepool,Borough.public.md) 
+### [Hartlepool,Borough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough.md) 
 
-### [Hartlepool,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyHartlepool,Borough.internal.md) 
+### [Hartlepool,Borough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough.public.md) 
 
-### [Hartlepool,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyHartlepool,Borough.protect.md) 
+### [Hartlepool,Borough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough.internal.md) 
 
-### [Hartlepool,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyHartlepool,Borough.private.md) 
+### [Hartlepool,Borough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough.protect.md) 
 
-### [Hartlepool,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyHartlepool,Borough.personal.md) 
+### [Hartlepool,Borough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough.private.md) 
 
-### [Hartlepool,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyHartlepool,Borough.secret.md)
+### [Hartlepool,Borough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough.personal.md) 
+
+### [Hartlepool,Borough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough.secret.md)
 

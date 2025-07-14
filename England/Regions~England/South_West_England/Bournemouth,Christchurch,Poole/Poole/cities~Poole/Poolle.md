@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poolle.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.public.md) 
+### [Poolle](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole/cities~Poole/Poolle.md) 
 
-### [Poolle.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.internal.md) 
+### [Poolle.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole/cities~Poole/Poolle.public.md) 
 
-### [Poolle.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.protect.md) 
+### [Poolle.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole/cities~Poole/Poolle.internal.md) 
 
-### [Poolle.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.private.md) 
+### [Poolle.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole/cities~Poole/Poolle.protect.md) 
 
-### [Poolle.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.personal.md) 
+### [Poolle.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole/cities~Poole/Poolle.private.md) 
 
-### [Poolle.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.secret.md)
+### [Poolle.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole/cities~Poole/Poolle.personal.md) 
+
+### [Poolle.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole/cities~Poole/Poolle.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Andover.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.public.md) 
+### [Andover](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.md) 
 
-### [Andover.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.internal.md) 
+### [Andover.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.public.md) 
 
-### [Andover.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.protect.md) 
+### [Andover.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.internal.md) 
 
-### [Andover.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.private.md) 
+### [Andover.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.protect.md) 
 
-### [Andover.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.personal.md) 
+### [Andover.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.private.md) 
 
-### [Andover.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.secret.md)
+### [Andover.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.personal.md) 
+
+### [Andover.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.secret.md)
 

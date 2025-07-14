@@ -41,15 +41,17 @@ markerFolder: ./Ards/
 
 ## Confidential Links & Embeds: 
 
-### [Ards.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.public.md) 
+### [Ards](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_North_Down/cities~Ards_and_North_Down/Ards.md) 
 
-### [Ards.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.internal.md) 
+### [Ards.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_North_Down/cities~Ards_and_North_Down/Ards.public.md) 
 
-### [Ards.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.protect.md) 
+### [Ards.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_North_Down/cities~Ards_and_North_Down/Ards.internal.md) 
 
-### [Ards.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.private.md) 
+### [Ards.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_North_Down/cities~Ards_and_North_Down/Ards.protect.md) 
 
-### [Ards.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.personal.md) 
+### [Ards.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_North_Down/cities~Ards_and_North_Down/Ards.private.md) 
 
-### [Ards.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.secret.md)
+### [Ards.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_North_Down/cities~Ards_and_North_Down/Ards.personal.md) 
+
+### [Ards.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_North_Down/cities~Ards_and_North_Down/Ards.secret.md)
 

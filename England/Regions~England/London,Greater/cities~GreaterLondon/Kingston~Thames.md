@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kingston~Thames.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.public.md) 
+### [Kingston~Thames](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kingston~Thames.md) 
 
-### [Kingston~Thames.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.internal.md) 
+### [Kingston~Thames.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kingston~Thames.public.md) 
 
-### [Kingston~Thames.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.protect.md) 
+### [Kingston~Thames.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kingston~Thames.internal.md) 
 
-### [Kingston~Thames.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.private.md) 
+### [Kingston~Thames.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kingston~Thames.protect.md) 
 
-### [Kingston~Thames.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.personal.md) 
+### [Kingston~Thames.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kingston~Thames.private.md) 
 
-### [Kingston~Thames.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.secret.md)
+### [Kingston~Thames.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kingston~Thames.personal.md) 
+
+### [Kingston~Thames.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kingston~Thames.secret.md)
 

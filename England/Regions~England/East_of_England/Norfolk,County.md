@@ -41,15 +41,17 @@ markerFolder: ./Norfolk/
 
 ## Confidential Links & Embeds: 
 
-### [Norfolk,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.public.md) 
+### [Norfolk,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County.md) 
 
-### [Norfolk,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.internal.md) 
+### [Norfolk,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County.public.md) 
 
-### [Norfolk,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.protect.md) 
+### [Norfolk,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County.internal.md) 
 
-### [Norfolk,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.private.md) 
+### [Norfolk,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County.protect.md) 
 
-### [Norfolk,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.personal.md) 
+### [Norfolk,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County.private.md) 
 
-### [Norfolk,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.secret.md)
+### [Norfolk,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County.personal.md) 
+
+### [Norfolk,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bembridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.public.md) 
+### [Bembridge](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/Bembridge.md) 
 
-### [Bembridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.internal.md) 
+### [Bembridge.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/Bembridge.public.md) 
 
-### [Bembridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.protect.md) 
+### [Bembridge.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/Bembridge.internal.md) 
 
-### [Bembridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.private.md) 
+### [Bembridge.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/Bembridge.protect.md) 
 
-### [Bembridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.personal.md) 
+### [Bembridge.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/Bembridge.private.md) 
 
-### [Bembridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.secret.md)
+### [Bembridge.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/Bembridge.personal.md) 
+
+### [Bembridge.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/Bembridge.secret.md)
 

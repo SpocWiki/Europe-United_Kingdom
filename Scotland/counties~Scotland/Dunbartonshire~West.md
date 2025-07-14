@@ -41,15 +41,17 @@ markerFolder: ./Dunbartonshire~West/
 
 ## Confidential Links & Embeds: 
 
-### [Dunbartonshire~West.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDunbartonshire~West.public.md) 
+### [Dunbartonshire~West](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.md) 
 
-### [Dunbartonshire~West.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDunbartonshire~West.internal.md) 
+### [Dunbartonshire~West.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.public.md) 
 
-### [Dunbartonshire~West.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDunbartonshire~West.protect.md) 
+### [Dunbartonshire~West.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.internal.md) 
 
-### [Dunbartonshire~West.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDunbartonshire~West.private.md) 
+### [Dunbartonshire~West.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.protect.md) 
 
-### [Dunbartonshire~West.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDunbartonshire~West.personal.md) 
+### [Dunbartonshire~West.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.private.md) 
 
-### [Dunbartonshire~West.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDunbartonshire~West.secret.md)
+### [Dunbartonshire~West.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.personal.md) 
+
+### [Dunbartonshire~West.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.secret.md)
 

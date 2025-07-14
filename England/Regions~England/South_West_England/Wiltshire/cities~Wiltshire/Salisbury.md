@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salisbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.public.md) 
+### [Salisbury](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.md) 
 
-### [Salisbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.internal.md) 
+### [Salisbury.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.public.md) 
 
-### [Salisbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.protect.md) 
+### [Salisbury.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.internal.md) 
 
-### [Salisbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.private.md) 
+### [Salisbury.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.protect.md) 
 
-### [Salisbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.personal.md) 
+### [Salisbury.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.private.md) 
 
-### [Salisbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.secret.md)
+### [Salisbury.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.personal.md) 
+
+### [Salisbury.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.secret.md)
 

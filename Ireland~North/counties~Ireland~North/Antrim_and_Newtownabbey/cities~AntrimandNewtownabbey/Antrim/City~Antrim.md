@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Antrim.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.public.md) 
+### [City~Antrim](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/City~Antrim.md) 
 
-### [City~Antrim.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.internal.md) 
+### [City~Antrim.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/City~Antrim.public.md) 
 
-### [City~Antrim.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.protect.md) 
+### [City~Antrim.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/City~Antrim.internal.md) 
 
-### [City~Antrim.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.private.md) 
+### [City~Antrim.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/City~Antrim.protect.md) 
 
-### [City~Antrim.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.personal.md) 
+### [City~Antrim.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/City~Antrim.private.md) 
 
-### [City~Antrim.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.secret.md)
+### [City~Antrim.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/City~Antrim.personal.md) 
+
+### [City~Antrim.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/City~Antrim.secret.md)
 

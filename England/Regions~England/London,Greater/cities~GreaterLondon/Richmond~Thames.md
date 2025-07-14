@@ -41,15 +41,17 @@ markerFolder: ./Richmond~Thames/
 
 ## Confidential Links & Embeds: 
 
-### [Richmond~Thames.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.public.md) 
+### [Richmond~Thames](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames.md) 
 
-### [Richmond~Thames.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.internal.md) 
+### [Richmond~Thames.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames.public.md) 
 
-### [Richmond~Thames.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.protect.md) 
+### [Richmond~Thames.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames.internal.md) 
 
-### [Richmond~Thames.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.private.md) 
+### [Richmond~Thames.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames.protect.md) 
 
-### [Richmond~Thames.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.personal.md) 
+### [Richmond~Thames.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames.private.md) 
 
-### [Richmond~Thames.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.secret.md)
+### [Richmond~Thames.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames.personal.md) 
+
+### [Richmond~Thames.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Richmond~Thames.secret.md)
 

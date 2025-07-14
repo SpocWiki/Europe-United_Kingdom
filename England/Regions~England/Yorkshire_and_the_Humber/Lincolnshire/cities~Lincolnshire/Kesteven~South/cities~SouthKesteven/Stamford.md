@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stamford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.public.md) 
+### [Stamford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.md) 
 
-### [Stamford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.internal.md) 
+### [Stamford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.public.md) 
 
-### [Stamford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.protect.md) 
+### [Stamford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.internal.md) 
 
-### [Stamford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.private.md) 
+### [Stamford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.protect.md) 
 
-### [Stamford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.personal.md) 
+### [Stamford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.private.md) 
 
-### [Stamford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.secret.md)
+### [Stamford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.personal.md) 
+
+### [Stamford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Elgin.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayElgin.public.md) 
+### [Elgin](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Elgin.md) 
 
-### [Elgin.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayElgin.internal.md) 
+### [Elgin.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Elgin.public.md) 
 
-### [Elgin.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayElgin.protect.md) 
+### [Elgin.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Elgin.internal.md) 
 
-### [Elgin.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayElgin.private.md) 
+### [Elgin.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Elgin.protect.md) 
 
-### [Elgin.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayElgin.personal.md) 
+### [Elgin.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Elgin.private.md) 
 
-### [Elgin.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayElgin.secret.md)
+### [Elgin.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Elgin.personal.md) 
+
+### [Elgin.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Elgin.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Winterton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.public.md) 
+### [Winterton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Winterton.md) 
 
-### [Winterton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.internal.md) 
+### [Winterton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Winterton.public.md) 
 
-### [Winterton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.protect.md) 
+### [Winterton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Winterton.internal.md) 
 
-### [Winterton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.private.md) 
+### [Winterton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Winterton.protect.md) 
 
-### [Winterton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.personal.md) 
+### [Winterton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Winterton.private.md) 
 
-### [Winterton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.secret.md)
+### [Winterton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Winterton.personal.md) 
+
+### [Winterton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/Winterton.secret.md)
 

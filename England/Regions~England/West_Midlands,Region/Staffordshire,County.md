@@ -41,15 +41,17 @@ markerFolder: ./Staffordshire/
 
 ## Confidential Links & Embeds: 
 
-### [Staffordshire,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStaffordshire,County.public.md) 
+### [Staffordshire,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County.md) 
 
-### [Staffordshire,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStaffordshire,County.internal.md) 
+### [Staffordshire,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County.public.md) 
 
-### [Staffordshire,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStaffordshire,County.protect.md) 
+### [Staffordshire,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County.internal.md) 
 
-### [Staffordshire,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStaffordshire,County.private.md) 
+### [Staffordshire,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County.protect.md) 
 
-### [Staffordshire,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStaffordshire,County.personal.md) 
+### [Staffordshire,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County.private.md) 
 
-### [Staffordshire,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStaffordshire,County.secret.md)
+### [Staffordshire,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County.personal.md) 
+
+### [Staffordshire,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County.secret.md)
 

@@ -45,15 +45,17 @@ markerFolder: ./Hillingdon/
 
 ## Confidential Links & Embeds: 
 
-### [Hillingdon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHillingdon.public.md) 
+### [Hillingdon](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hillingdon.md) 
 
-### [Hillingdon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHillingdon.internal.md) 
+### [Hillingdon.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hillingdon.public.md) 
 
-### [Hillingdon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHillingdon.protect.md) 
+### [Hillingdon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hillingdon.internal.md) 
 
-### [Hillingdon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHillingdon.private.md) 
+### [Hillingdon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hillingdon.protect.md) 
 
-### [Hillingdon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHillingdon.personal.md) 
+### [Hillingdon.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hillingdon.private.md) 
 
-### [Hillingdon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHillingdon.secret.md)
+### [Hillingdon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hillingdon.personal.md) 
+
+### [Hillingdon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hillingdon.secret.md)
 

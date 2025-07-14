@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carnavon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddCarnavon.public.md) 
+### [Carnavon](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Carnavon.md) 
 
-### [Carnavon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddCarnavon.internal.md) 
+### [Carnavon.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Carnavon.public.md) 
 
-### [Carnavon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddCarnavon.protect.md) 
+### [Carnavon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Carnavon.internal.md) 
 
-### [Carnavon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddCarnavon.private.md) 
+### [Carnavon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Carnavon.protect.md) 
 
-### [Carnavon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddCarnavon.personal.md) 
+### [Carnavon.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Carnavon.private.md) 
 
-### [Carnavon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddCarnavon.secret.md)
+### [Carnavon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Carnavon.personal.md) 
+
+### [Carnavon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Carnavon.secret.md)
 

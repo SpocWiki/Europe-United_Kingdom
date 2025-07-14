@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Birkenhead.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.public.md) 
+### [Birkenhead](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.md) 
 
-### [Birkenhead.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.internal.md) 
+### [Birkenhead.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.public.md) 
 
-### [Birkenhead.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.protect.md) 
+### [Birkenhead.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.internal.md) 
 
-### [Birkenhead.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.private.md) 
+### [Birkenhead.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.protect.md) 
 
-### [Birkenhead.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.personal.md) 
+### [Birkenhead.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.private.md) 
 
-### [Birkenhead.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.secret.md)
+### [Birkenhead.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.personal.md) 
+
+### [Birkenhead.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.secret.md)
 

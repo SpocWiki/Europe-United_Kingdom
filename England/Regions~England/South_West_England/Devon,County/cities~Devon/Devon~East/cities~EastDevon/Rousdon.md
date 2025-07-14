@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rousdon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.public.md) 
+### [Rousdon](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~East/cities~EastDevon/Rousdon.md) 
 
-### [Rousdon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.internal.md) 
+### [Rousdon.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~East/cities~EastDevon/Rousdon.public.md) 
 
-### [Rousdon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.protect.md) 
+### [Rousdon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~East/cities~EastDevon/Rousdon.internal.md) 
 
-### [Rousdon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.private.md) 
+### [Rousdon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~East/cities~EastDevon/Rousdon.protect.md) 
 
-### [Rousdon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.personal.md) 
+### [Rousdon.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~East/cities~EastDevon/Rousdon.private.md) 
 
-### [Rousdon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.secret.md)
+### [Rousdon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~East/cities~EastDevon/Rousdon.personal.md) 
+
+### [Rousdon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~East/cities~EastDevon/Rousdon.secret.md)
 

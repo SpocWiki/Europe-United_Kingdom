@@ -41,15 +41,17 @@ markerFolder: ./Warwickshire/
 
 ## Confidential Links & Embeds: 
 
-### [Warwickshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWarwickshire.public.md) 
+### [Warwickshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire.md) 
 
-### [Warwickshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWarwickshire.internal.md) 
+### [Warwickshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire.public.md) 
 
-### [Warwickshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWarwickshire.protect.md) 
+### [Warwickshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire.internal.md) 
 
-### [Warwickshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWarwickshire.private.md) 
+### [Warwickshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire.protect.md) 
 
-### [Warwickshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWarwickshire.personal.md) 
+### [Warwickshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire.private.md) 
 
-### [Warwickshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWarwickshire.secret.md)
+### [Warwickshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire.personal.md) 
+
+### [Warwickshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire.secret.md)
 

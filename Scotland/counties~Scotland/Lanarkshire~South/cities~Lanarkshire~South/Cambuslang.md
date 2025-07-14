@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cambuslang.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.public.md) 
+### [Cambuslang](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Cambuslang.md) 
 
-### [Cambuslang.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.internal.md) 
+### [Cambuslang.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Cambuslang.public.md) 
 
-### [Cambuslang.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.protect.md) 
+### [Cambuslang.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Cambuslang.internal.md) 
 
-### [Cambuslang.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.private.md) 
+### [Cambuslang.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Cambuslang.protect.md) 
 
-### [Cambuslang.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.personal.md) 
+### [Cambuslang.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Cambuslang.private.md) 
 
-### [Cambuslang.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.secret.md)
+### [Cambuslang.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Cambuslang.personal.md) 
+
+### [Cambuslang.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Cambuslang.secret.md)
 

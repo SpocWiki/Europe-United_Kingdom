@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dudley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.public.md) 
+### [Dudley](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.md) 
 
-### [Dudley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.internal.md) 
+### [Dudley.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.public.md) 
 
-### [Dudley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.protect.md) 
+### [Dudley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.internal.md) 
 
-### [Dudley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.private.md) 
+### [Dudley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.protect.md) 
 
-### [Dudley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.personal.md) 
+### [Dudley.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.private.md) 
 
-### [Dudley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.secret.md)
+### [Dudley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.personal.md) 
+
+### [Dudley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.secret.md)
 

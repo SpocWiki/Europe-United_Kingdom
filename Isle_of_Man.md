@@ -126,15 +126,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Isle_of_Man.public](/_public/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.public.md) 
+### [Isle_of_Man](/_Standards/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.md) 
 
-### [Isle_of_Man.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.internal.md) 
+### [Isle_of_Man.public](/_public/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.public.md) 
 
-### [Isle_of_Man.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.protect.md) 
+### [Isle_of_Man.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.internal.md) 
 
-### [Isle_of_Man.private](/_private/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.private.md) 
+### [Isle_of_Man.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.protect.md) 
 
-### [Isle_of_Man.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.personal.md) 
+### [Isle_of_Man.private](/_private/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.private.md) 
 
-### [Isle_of_Man.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.secret.md)
+### [Isle_of_Man.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.personal.md) 
+
+### [Isle_of_Man.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.secret.md)
 

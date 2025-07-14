@@ -41,15 +41,17 @@ markerFolder: ./Telford_and_Wrekin/
 
 ## Confidential Links & Embeds: 
 
-### [Telford_and_Wrekin.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionTelford_and_Wrekin.public.md) 
+### [Telford_and_Wrekin](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.md) 
 
-### [Telford_and_Wrekin.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionTelford_and_Wrekin.internal.md) 
+### [Telford_and_Wrekin.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.public.md) 
 
-### [Telford_and_Wrekin.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionTelford_and_Wrekin.protect.md) 
+### [Telford_and_Wrekin.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.internal.md) 
 
-### [Telford_and_Wrekin.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionTelford_and_Wrekin.private.md) 
+### [Telford_and_Wrekin.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.protect.md) 
 
-### [Telford_and_Wrekin.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionTelford_and_Wrekin.personal.md) 
+### [Telford_and_Wrekin.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.private.md) 
 
-### [Telford_and_Wrekin.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionTelford_and_Wrekin.secret.md)
+### [Telford_and_Wrekin.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.personal.md) 
+
+### [Telford_and_Wrekin.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.secret.md)
 

@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Dagenham_Heathway.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Dagenham_Heathway.public.md) 
+### [Sub~Dagenham_Heathway](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Dagenham_Heathway.md) 
 
-### [Sub~Dagenham_Heathway.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Dagenham_Heathway.internal.md) 
+### [Sub~Dagenham_Heathway.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Dagenham_Heathway.public.md) 
 
-### [Sub~Dagenham_Heathway.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Dagenham_Heathway.protect.md) 
+### [Sub~Dagenham_Heathway.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Dagenham_Heathway.internal.md) 
 
-### [Sub~Dagenham_Heathway.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Dagenham_Heathway.private.md) 
+### [Sub~Dagenham_Heathway.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Dagenham_Heathway.protect.md) 
 
-### [Sub~Dagenham_Heathway.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Dagenham_Heathway.personal.md) 
+### [Sub~Dagenham_Heathway.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Dagenham_Heathway.private.md) 
 
-### [Sub~Dagenham_Heathway.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Dagenham_Heathway.secret.md)
+### [Sub~Dagenham_Heathway.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Dagenham_Heathway.personal.md) 
+
+### [Sub~Dagenham_Heathway.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Dagenham_Heathway.secret.md)
 

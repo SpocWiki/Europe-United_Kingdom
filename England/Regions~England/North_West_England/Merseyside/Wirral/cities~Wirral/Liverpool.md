@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Liverpool.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralLiverpool.public.md) 
+### [Liverpool](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.md) 
 
-### [Liverpool.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralLiverpool.internal.md) 
+### [Liverpool.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.public.md) 
 
-### [Liverpool.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralLiverpool.protect.md) 
+### [Liverpool.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.internal.md) 
 
-### [Liverpool.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralLiverpool.private.md) 
+### [Liverpool.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.protect.md) 
 
-### [Liverpool.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralLiverpool.personal.md) 
+### [Liverpool.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.private.md) 
 
-### [Liverpool.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralLiverpool.secret.md)
+### [Liverpool.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.personal.md) 
+
+### [Liverpool.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.secret.md)
 

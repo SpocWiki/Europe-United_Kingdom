@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aberdare.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.public.md) 
+### [Aberdare](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~MerthyrTydfil/Aberdare.md) 
 
-### [Aberdare.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.internal.md) 
+### [Aberdare.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~MerthyrTydfil/Aberdare.public.md) 
 
-### [Aberdare.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.protect.md) 
+### [Aberdare.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~MerthyrTydfil/Aberdare.internal.md) 
 
-### [Aberdare.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.private.md) 
+### [Aberdare.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~MerthyrTydfil/Aberdare.protect.md) 
 
-### [Aberdare.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.personal.md) 
+### [Aberdare.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~MerthyrTydfil/Aberdare.private.md) 
 
-### [Aberdare.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.secret.md)
+### [Aberdare.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~MerthyrTydfil/Aberdare.personal.md) 
+
+### [Aberdare.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~MerthyrTydfil/Aberdare.secret.md)
 

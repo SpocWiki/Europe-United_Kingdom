@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barnsley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.public.md) 
+### [Barnsley](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Barnsley.md) 
 
-### [Barnsley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.internal.md) 
+### [Barnsley.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Barnsley.public.md) 
 
-### [Barnsley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.protect.md) 
+### [Barnsley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Barnsley.internal.md) 
 
-### [Barnsley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.private.md) 
+### [Barnsley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Barnsley.protect.md) 
 
-### [Barnsley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.personal.md) 
+### [Barnsley.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Barnsley.private.md) 
 
-### [Barnsley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.secret.md)
+### [Barnsley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Barnsley.personal.md) 
+
+### [Barnsley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Barnsley.secret.md)
 

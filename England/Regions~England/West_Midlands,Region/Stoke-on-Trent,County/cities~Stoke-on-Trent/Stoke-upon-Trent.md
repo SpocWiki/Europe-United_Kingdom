@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stoke-upon-Trent.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.public.md) 
+### [Stoke-upon-Trent](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Stoke-upon-Trent.md) 
 
-### [Stoke-upon-Trent.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.internal.md) 
+### [Stoke-upon-Trent.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Stoke-upon-Trent.public.md) 
 
-### [Stoke-upon-Trent.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.protect.md) 
+### [Stoke-upon-Trent.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Stoke-upon-Trent.internal.md) 
 
-### [Stoke-upon-Trent.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.private.md) 
+### [Stoke-upon-Trent.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Stoke-upon-Trent.protect.md) 
 
-### [Stoke-upon-Trent.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.personal.md) 
+### [Stoke-upon-Trent.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Stoke-upon-Trent.private.md) 
 
-### [Stoke-upon-Trent.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.secret.md)
+### [Stoke-upon-Trent.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Stoke-upon-Trent.personal.md) 
+
+### [Stoke-upon-Trent.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Stoke-upon-Trent.secret.md)
 

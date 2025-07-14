@@ -41,15 +41,17 @@ markerFolder: ./Northamptonshire/
 
 ## Confidential Links & Embeds: 
 
-### [Northamptonshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.public.md) 
+### [Northamptonshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.md) 
 
-### [Northamptonshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.internal.md) 
+### [Northamptonshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.public.md) 
 
-### [Northamptonshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.protect.md) 
+### [Northamptonshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.internal.md) 
 
-### [Northamptonshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.private.md) 
+### [Northamptonshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.protect.md) 
 
-### [Northamptonshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.personal.md) 
+### [Northamptonshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.private.md) 
 
-### [Northamptonshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.secret.md)
+### [Northamptonshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.personal.md) 
+
+### [Northamptonshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.secret.md)
 

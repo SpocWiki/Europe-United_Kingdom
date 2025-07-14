@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wells.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.public.md) 
+### [Wells](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.md) 
 
-### [Wells.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.internal.md) 
+### [Wells.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.public.md) 
 
-### [Wells.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.protect.md) 
+### [Wells.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.internal.md) 
 
-### [Wells.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.private.md) 
+### [Wells.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.protect.md) 
 
-### [Wells.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.personal.md) 
+### [Wells.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.private.md) 
 
-### [Wells.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.secret.md)
+### [Wells.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.personal.md) 
+
+### [Wells.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.secret.md)
 

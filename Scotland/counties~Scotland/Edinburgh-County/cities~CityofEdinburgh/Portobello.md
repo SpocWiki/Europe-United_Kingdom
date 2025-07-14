@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Portobello.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.public.md) 
+### [Portobello](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Portobello.md) 
 
-### [Portobello.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.internal.md) 
+### [Portobello.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Portobello.public.md) 
 
-### [Portobello.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.protect.md) 
+### [Portobello.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Portobello.internal.md) 
 
-### [Portobello.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.private.md) 
+### [Portobello.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Portobello.protect.md) 
 
-### [Portobello.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.personal.md) 
+### [Portobello.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Portobello.private.md) 
 
-### [Portobello.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.secret.md)
+### [Portobello.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Portobello.personal.md) 
+
+### [Portobello.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Portobello.secret.md)
 

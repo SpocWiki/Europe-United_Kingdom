@@ -82,15 +82,17 @@ markerFolder: ./Station/
 
 ## Confidential Links & Embeds: 
 
-### [Line~Bakerloo.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.public.md) 
+### [Line~Bakerloo](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Bakerloo.md) 
 
-### [Line~Bakerloo.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.internal.md) 
+### [Line~Bakerloo.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Bakerloo.public.md) 
 
-### [Line~Bakerloo.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.protect.md) 
+### [Line~Bakerloo.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Bakerloo.internal.md) 
 
-### [Line~Bakerloo.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.private.md) 
+### [Line~Bakerloo.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Bakerloo.protect.md) 
 
-### [Line~Bakerloo.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.personal.md) 
+### [Line~Bakerloo.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Bakerloo.private.md) 
 
-### [Line~Bakerloo.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.secret.md)
+### [Line~Bakerloo.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Bakerloo.personal.md) 
+
+### [Line~Bakerloo.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Bakerloo.secret.md)
 

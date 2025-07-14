@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yarmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.public.md) 
+### [Yarmouth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Yarmouth.md) 
 
-### [Yarmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.internal.md) 
+### [Yarmouth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Yarmouth.public.md) 
 
-### [Yarmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.protect.md) 
+### [Yarmouth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Yarmouth.internal.md) 
 
-### [Yarmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.private.md) 
+### [Yarmouth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Yarmouth.protect.md) 
 
-### [Yarmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.personal.md) 
+### [Yarmouth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Yarmouth.private.md) 
 
-### [Yarmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.secret.md)
+### [Yarmouth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Yarmouth.personal.md) 
+
+### [Yarmouth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Yarmouth.secret.md)
 

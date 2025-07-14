@@ -41,15 +41,17 @@ markerFolder: ./Castlereagh/
 
 ## Confidential Links & Embeds: 
 
-### [Castlereagh.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCastlereagh.public.md) 
+### [Castlereagh](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Castlereagh.md) 
 
-### [Castlereagh.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCastlereagh.internal.md) 
+### [Castlereagh.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Castlereagh.public.md) 
 
-### [Castlereagh.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCastlereagh.protect.md) 
+### [Castlereagh.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Castlereagh.internal.md) 
 
-### [Castlereagh.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCastlereagh.private.md) 
+### [Castlereagh.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Castlereagh.protect.md) 
 
-### [Castlereagh.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCastlereagh.personal.md) 
+### [Castlereagh.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Castlereagh.private.md) 
 
-### [Castlereagh.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCastlereagh.secret.md)
+### [Castlereagh.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Castlereagh.personal.md) 
+
+### [Castlereagh.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Castlereagh.secret.md)
 

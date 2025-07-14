@@ -41,15 +41,17 @@ markerFolder: ./Newport/
 
 ## Confidential Links & Embeds: 
 
-### [Newport,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.public.md) 
+### [Newport,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County.md) 
 
-### [Newport,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.internal.md) 
+### [Newport,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County.public.md) 
 
-### [Newport,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.protect.md) 
+### [Newport,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County.internal.md) 
 
-### [Newport,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.private.md) 
+### [Newport,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County.protect.md) 
 
-### [Newport,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.personal.md) 
+### [Newport,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County.private.md) 
 
-### [Newport,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.secret.md)
+### [Newport,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County.personal.md) 
+
+### [Newport,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County.secret.md)
 

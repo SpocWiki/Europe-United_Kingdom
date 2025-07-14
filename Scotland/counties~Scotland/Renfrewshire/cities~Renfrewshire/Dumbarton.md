@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dumbarton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.public.md) 
+### [Dumbarton](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.md) 
 
-### [Dumbarton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.internal.md) 
+### [Dumbarton.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.public.md) 
 
-### [Dumbarton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.protect.md) 
+### [Dumbarton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.internal.md) 
 
-### [Dumbarton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.private.md) 
+### [Dumbarton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.protect.md) 
 
-### [Dumbarton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.personal.md) 
+### [Dumbarton.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.private.md) 
 
-### [Dumbarton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.secret.md)
+### [Dumbarton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.personal.md) 
+
+### [Dumbarton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.secret.md)
 

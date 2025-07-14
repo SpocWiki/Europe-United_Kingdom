@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Southport.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.public.md) 
+### [Southport](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.md) 
 
-### [Southport.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.internal.md) 
+### [Southport.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.public.md) 
 
-### [Southport.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.protect.md) 
+### [Southport.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.internal.md) 
 
-### [Southport.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.private.md) 
+### [Southport.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.protect.md) 
 
-### [Southport.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.personal.md) 
+### [Southport.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.private.md) 
 
-### [Southport.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.secret.md)
+### [Southport.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.personal.md) 
+
+### [Southport.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.secret.md)
 

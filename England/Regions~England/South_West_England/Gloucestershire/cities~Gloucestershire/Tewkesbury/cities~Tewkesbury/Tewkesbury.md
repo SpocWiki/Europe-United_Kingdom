@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tewkesbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewkesbury.public.md) 
+### [Tewkesbury](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.md) 
 
-### [Tewkesbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewkesbury.internal.md) 
+### [Tewkesbury.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.public.md) 
 
-### [Tewkesbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewkesbury.protect.md) 
+### [Tewkesbury.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.internal.md) 
 
-### [Tewkesbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewkesbury.private.md) 
+### [Tewkesbury.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.protect.md) 
 
-### [Tewkesbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewkesbury.personal.md) 
+### [Tewkesbury.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.private.md) 
 
-### [Tewkesbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewkesbury.secret.md)
+### [Tewkesbury.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.personal.md) 
+
+### [Tewkesbury.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.secret.md)
 

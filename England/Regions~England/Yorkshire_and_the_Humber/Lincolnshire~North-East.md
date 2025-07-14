@@ -41,15 +41,17 @@ markerFolder: ./Lincolnshire~North_East/
 
 ## Confidential Links & Embeds: 
 
-### [Lincolnshire~North-East.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North-East.public.md) 
+### [Lincolnshire~North-East](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East.md) 
 
-### [Lincolnshire~North-East.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North-East.internal.md) 
+### [Lincolnshire~North-East.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East.public.md) 
 
-### [Lincolnshire~North-East.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North-East.protect.md) 
+### [Lincolnshire~North-East.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East.internal.md) 
 
-### [Lincolnshire~North-East.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North-East.private.md) 
+### [Lincolnshire~North-East.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East.protect.md) 
 
-### [Lincolnshire~North-East.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North-East.personal.md) 
+### [Lincolnshire~North-East.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East.private.md) 
 
-### [Lincolnshire~North-East.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North-East.secret.md)
+### [Lincolnshire~North-East.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East.personal.md) 
+
+### [Lincolnshire~North-East.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Exeter.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.public.md) 
+### [Exeter](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Exeter/cities~Exeter/Exeter.md) 
 
-### [Exeter.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.internal.md) 
+### [Exeter.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Exeter/cities~Exeter/Exeter.public.md) 
 
-### [Exeter.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.protect.md) 
+### [Exeter.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Exeter/cities~Exeter/Exeter.internal.md) 
 
-### [Exeter.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.private.md) 
+### [Exeter.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Exeter/cities~Exeter/Exeter.protect.md) 
 
-### [Exeter.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.personal.md) 
+### [Exeter.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Exeter/cities~Exeter/Exeter.private.md) 
 
-### [Exeter.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.secret.md)
+### [Exeter.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Exeter/cities~Exeter/Exeter.personal.md) 
+
+### [Exeter.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Exeter/cities~Exeter/Exeter.secret.md)
 

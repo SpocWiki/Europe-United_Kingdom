@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chatam.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.public.md) 
+### [Chatam](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.md) 
 
-### [Chatam.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.internal.md) 
+### [Chatam.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.public.md) 
 
-### [Chatam.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.protect.md) 
+### [Chatam.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.internal.md) 
 
-### [Chatam.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.private.md) 
+### [Chatam.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.protect.md) 
 
-### [Chatam.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.personal.md) 
+### [Chatam.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.private.md) 
 
-### [Chatam.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.secret.md)
+### [Chatam.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.personal.md) 
+
+### [Chatam.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.secret.md)
 

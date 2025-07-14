@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kidwelly.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.public.md) 
+### [Kidwelly](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Kidwelly.md) 
 
-### [Kidwelly.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.internal.md) 
+### [Kidwelly.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Kidwelly.public.md) 
 
-### [Kidwelly.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.protect.md) 
+### [Kidwelly.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Kidwelly.internal.md) 
 
-### [Kidwelly.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.private.md) 
+### [Kidwelly.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Kidwelly.protect.md) 
 
-### [Kidwelly.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.personal.md) 
+### [Kidwelly.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Kidwelly.private.md) 
 
-### [Kidwelly.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.secret.md)
+### [Kidwelly.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Kidwelly.personal.md) 
+
+### [Kidwelly.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Kidwelly.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eastbourne.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.public.md) 
+### [Eastbourne](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Eastbourne/cities~Eastbourne/Eastbourne.md) 
 
-### [Eastbourne.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.internal.md) 
+### [Eastbourne.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Eastbourne/cities~Eastbourne/Eastbourne.public.md) 
 
-### [Eastbourne.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.protect.md) 
+### [Eastbourne.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Eastbourne/cities~Eastbourne/Eastbourne.internal.md) 
 
-### [Eastbourne.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.private.md) 
+### [Eastbourne.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Eastbourne/cities~Eastbourne/Eastbourne.protect.md) 
 
-### [Eastbourne.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.personal.md) 
+### [Eastbourne.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Eastbourne/cities~Eastbourne/Eastbourne.private.md) 
 
-### [Eastbourne.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.secret.md)
+### [Eastbourne.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Eastbourne/cities~Eastbourne/Eastbourne.personal.md) 
+
+### [Eastbourne.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Eastbourne/cities~Eastbourne/Eastbourne.secret.md)
 

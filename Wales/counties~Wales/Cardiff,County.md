@@ -41,15 +41,17 @@ markerFolder: ./Cardiff/
 
 ## Confidential Links & Embeds: 
 
-### [Cardiff,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesCardiff,County.public.md) 
+### [Cardiff,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County.md) 
 
-### [Cardiff,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesCardiff,County.internal.md) 
+### [Cardiff,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County.public.md) 
 
-### [Cardiff,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesCardiff,County.protect.md) 
+### [Cardiff,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County.internal.md) 
 
-### [Cardiff,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesCardiff,County.private.md) 
+### [Cardiff,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County.protect.md) 
 
-### [Cardiff,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesCardiff,County.personal.md) 
+### [Cardiff,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County.private.md) 
 
-### [Cardiff,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesCardiff,County.secret.md)
+### [Cardiff,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County.personal.md) 
+
+### [Cardiff,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County.secret.md)
 

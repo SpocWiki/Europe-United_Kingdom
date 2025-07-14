@@ -41,15 +41,17 @@ markerFolder: ./Essex/
 
 ## Confidential Links & Embeds: 
 
-### [Essex.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.public.md) 
+### [Essex](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex.md) 
 
-### [Essex.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.internal.md) 
+### [Essex.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex.public.md) 
 
-### [Essex.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.protect.md) 
+### [Essex.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex.internal.md) 
 
-### [Essex.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.private.md) 
+### [Essex.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex.protect.md) 
 
-### [Essex.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.personal.md) 
+### [Essex.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex.private.md) 
 
-### [Essex.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.secret.md)
+### [Essex.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex.personal.md) 
+
+### [Essex.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex.secret.md)
 

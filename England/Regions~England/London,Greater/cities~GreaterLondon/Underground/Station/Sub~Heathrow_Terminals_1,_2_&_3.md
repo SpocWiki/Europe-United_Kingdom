@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Heathrow_Terminals_1,_2_&_3.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminals_1,_2_&_3.public.md) 
+### [Sub~Heathrow_Terminals_1,_2_&_3](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.md) 
 
-### [Sub~Heathrow_Terminals_1,_2_&_3.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminals_1,_2_&_3.internal.md) 
+### [Sub~Heathrow_Terminals_1,_2_&_3.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.public.md) 
 
-### [Sub~Heathrow_Terminals_1,_2_&_3.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminals_1,_2_&_3.protect.md) 
+### [Sub~Heathrow_Terminals_1,_2_&_3.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.internal.md) 
 
-### [Sub~Heathrow_Terminals_1,_2_&_3.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminals_1,_2_&_3.private.md) 
+### [Sub~Heathrow_Terminals_1,_2_&_3.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.protect.md) 
 
-### [Sub~Heathrow_Terminals_1,_2_&_3.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminals_1,_2_&_3.personal.md) 
+### [Sub~Heathrow_Terminals_1,_2_&_3.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.private.md) 
 
-### [Sub~Heathrow_Terminals_1,_2_&_3.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminals_1,_2_&_3.secret.md)
+### [Sub~Heathrow_Terminals_1,_2_&_3.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.personal.md) 
+
+### [Sub~Heathrow_Terminals_1,_2_&_3.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Heathrow_Terminals_1,_2_&_3.secret.md)
 

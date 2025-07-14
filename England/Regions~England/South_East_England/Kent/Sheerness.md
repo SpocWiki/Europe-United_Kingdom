@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sheerness.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.public.md) 
+### [Sheerness](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/Sheerness.md) 
 
-### [Sheerness.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.internal.md) 
+### [Sheerness.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/Sheerness.public.md) 
 
-### [Sheerness.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.protect.md) 
+### [Sheerness.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/Sheerness.internal.md) 
 
-### [Sheerness.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.private.md) 
+### [Sheerness.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/Sheerness.protect.md) 
 
-### [Sheerness.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.personal.md) 
+### [Sheerness.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/Sheerness.private.md) 
 
-### [Sheerness.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.secret.md)
+### [Sheerness.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/Sheerness.personal.md) 
+
+### [Sheerness.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/Sheerness.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Bristol/
 
 ## Confidential Links & Embeds: 
 
-### [Bristol,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBristol,County.public.md) 
+### [Bristol,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.md) 
 
-### [Bristol,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBristol,County.internal.md) 
+### [Bristol,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.public.md) 
 
-### [Bristol,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBristol,County.protect.md) 
+### [Bristol,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.internal.md) 
 
-### [Bristol,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBristol,County.private.md) 
+### [Bristol,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.protect.md) 
 
-### [Bristol,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBristol,County.personal.md) 
+### [Bristol,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.private.md) 
 
-### [Bristol,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBristol,County.secret.md)
+### [Bristol,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.personal.md) 
+
+### [Bristol,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.secret.md)
 

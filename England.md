@@ -16,15 +16,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [England.public](/_public/\Earth\Continent\Europe\Europe~North\UKEngland.public.md) 
+### [England](/_Standards/Earth/Continent/Europe/Europe~North/UK/England.md) 
 
-### [England.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKEngland.internal.md) 
+### [England.public](/_public/Earth/Continent/Europe/Europe~North/UK/England.public.md) 
 
-### [England.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKEngland.protect.md) 
+### [England.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England.internal.md) 
 
-### [England.private](/_private/\Earth\Continent\Europe\Europe~North\UKEngland.private.md) 
+### [England.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England.protect.md) 
 
-### [England.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKEngland.personal.md) 
+### [England.private](/_private/Earth/Continent/Europe/Europe~North/UK/England.private.md) 
 
-### [England.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKEngland.secret.md)
+### [England.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England.personal.md) 
+
+### [England.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England.secret.md)
 

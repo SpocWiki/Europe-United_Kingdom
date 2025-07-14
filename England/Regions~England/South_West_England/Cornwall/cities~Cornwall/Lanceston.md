@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lanceston.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.public.md) 
+### [Lanceston](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.md) 
 
-### [Lanceston.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.internal.md) 
+### [Lanceston.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.public.md) 
 
-### [Lanceston.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.protect.md) 
+### [Lanceston.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.internal.md) 
 
-### [Lanceston.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.private.md) 
+### [Lanceston.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.protect.md) 
 
-### [Lanceston.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.personal.md) 
+### [Lanceston.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.private.md) 
 
-### [Lanceston.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.secret.md)
+### [Lanceston.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.personal.md) 
+
+### [Lanceston.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.secret.md)
 

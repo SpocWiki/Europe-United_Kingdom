@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chesterfield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~North-East\cities~NorthEastDerbyshireChesterfield.public.md) 
+### [Chesterfield](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~North-East/cities~NorthEastDerbyshire/Chesterfield.md) 
 
-### [Chesterfield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~North-East\cities~NorthEastDerbyshireChesterfield.internal.md) 
+### [Chesterfield.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~North-East/cities~NorthEastDerbyshire/Chesterfield.public.md) 
 
-### [Chesterfield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~North-East\cities~NorthEastDerbyshireChesterfield.protect.md) 
+### [Chesterfield.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~North-East/cities~NorthEastDerbyshire/Chesterfield.internal.md) 
 
-### [Chesterfield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~North-East\cities~NorthEastDerbyshireChesterfield.private.md) 
+### [Chesterfield.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~North-East/cities~NorthEastDerbyshire/Chesterfield.protect.md) 
 
-### [Chesterfield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~North-East\cities~NorthEastDerbyshireChesterfield.personal.md) 
+### [Chesterfield.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~North-East/cities~NorthEastDerbyshire/Chesterfield.private.md) 
 
-### [Chesterfield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~North-East\cities~NorthEastDerbyshireChesterfield.secret.md)
+### [Chesterfield.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~North-East/cities~NorthEastDerbyshire/Chesterfield.personal.md) 
+
+### [Chesterfield.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~North-East/cities~NorthEastDerbyshire/Chesterfield.secret.md)
 

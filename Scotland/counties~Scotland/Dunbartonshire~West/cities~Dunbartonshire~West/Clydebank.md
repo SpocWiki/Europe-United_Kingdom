@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Clydebank.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.public.md) 
+### [Clydebank](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.md) 
 
-### [Clydebank.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.internal.md) 
+### [Clydebank.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.public.md) 
 
-### [Clydebank.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.protect.md) 
+### [Clydebank.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.internal.md) 
 
-### [Clydebank.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.private.md) 
+### [Clydebank.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.protect.md) 
 
-### [Clydebank.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.personal.md) 
+### [Clydebank.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.private.md) 
 
-### [Clydebank.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.secret.md)
+### [Clydebank.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.personal.md) 
+
+### [Clydebank.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.secret.md)
 

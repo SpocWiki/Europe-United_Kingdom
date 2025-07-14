@@ -61,15 +61,17 @@ markerFolder: ./Blackpool/
 
 ## Confidential Links & Embeds: 
 
-### [Blackpool,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.public.md) 
+### [Blackpool,Borough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough.md) 
 
-### [Blackpool,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.internal.md) 
+### [Blackpool,Borough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough.public.md) 
 
-### [Blackpool,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.protect.md) 
+### [Blackpool,Borough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough.internal.md) 
 
-### [Blackpool,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.private.md) 
+### [Blackpool,Borough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough.protect.md) 
 
-### [Blackpool,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.personal.md) 
+### [Blackpool,Borough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough.private.md) 
 
-### [Blackpool,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.secret.md)
+### [Blackpool,Borough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough.personal.md) 
+
+### [Blackpool,Borough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough.secret.md)
 

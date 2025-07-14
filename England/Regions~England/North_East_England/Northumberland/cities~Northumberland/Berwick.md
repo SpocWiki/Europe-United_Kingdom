@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Berwick.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.public.md) 
+### [Berwick](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.md) 
 
-### [Berwick.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.internal.md) 
+### [Berwick.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.public.md) 
 
-### [Berwick.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.protect.md) 
+### [Berwick.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.internal.md) 
 
-### [Berwick.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.private.md) 
+### [Berwick.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.protect.md) 
 
-### [Berwick.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.personal.md) 
+### [Berwick.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.private.md) 
 
-### [Berwick.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.secret.md)
+### [Berwick.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.personal.md) 
+
+### [Berwick.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.secret.md)
 

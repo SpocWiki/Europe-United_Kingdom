@@ -41,15 +41,17 @@ markerFolder: ./Brighton_and_Hove/
 
 ## Confidential Links & Embeds: 
 
-### [Brighton_and_Hove.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.public.md) 
+### [Brighton_and_Hove](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.md) 
 
-### [Brighton_and_Hove.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.internal.md) 
+### [Brighton_and_Hove.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.public.md) 
 
-### [Brighton_and_Hove.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.protect.md) 
+### [Brighton_and_Hove.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.internal.md) 
 
-### [Brighton_and_Hove.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.private.md) 
+### [Brighton_and_Hove.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.protect.md) 
 
-### [Brighton_and_Hove.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.personal.md) 
+### [Brighton_and_Hove.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.private.md) 
 
-### [Brighton_and_Hove.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.secret.md)
+### [Brighton_and_Hove.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.personal.md) 
+
+### [Brighton_and_Hove.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [North_Shields.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthNorth_Shields.public.md) 
+### [North_Shields](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~Tyneside~North/North_Shields.md) 
 
-### [North_Shields.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthNorth_Shields.internal.md) 
+### [North_Shields.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~Tyneside~North/North_Shields.public.md) 
 
-### [North_Shields.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthNorth_Shields.protect.md) 
+### [North_Shields.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~Tyneside~North/North_Shields.internal.md) 
 
-### [North_Shields.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthNorth_Shields.private.md) 
+### [North_Shields.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~Tyneside~North/North_Shields.protect.md) 
 
-### [North_Shields.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthNorth_Shields.personal.md) 
+### [North_Shields.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~Tyneside~North/North_Shields.private.md) 
 
-### [North_Shields.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthNorth_Shields.secret.md)
+### [North_Shields.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~Tyneside~North/North_Shields.personal.md) 
+
+### [North_Shields.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~Tyneside~North/North_Shields.secret.md)
 

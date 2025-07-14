@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chelmsford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Chelmsford\cities~ChelmsfordChelmsford.public.md) 
+### [Chelmsford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Chelmsford/cities~Chelmsford/Chelmsford.md) 
 
-### [Chelmsford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Chelmsford\cities~ChelmsfordChelmsford.internal.md) 
+### [Chelmsford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Chelmsford/cities~Chelmsford/Chelmsford.public.md) 
 
-### [Chelmsford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Chelmsford\cities~ChelmsfordChelmsford.protect.md) 
+### [Chelmsford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Chelmsford/cities~Chelmsford/Chelmsford.internal.md) 
 
-### [Chelmsford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Chelmsford\cities~ChelmsfordChelmsford.private.md) 
+### [Chelmsford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Chelmsford/cities~Chelmsford/Chelmsford.protect.md) 
 
-### [Chelmsford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Chelmsford\cities~ChelmsfordChelmsford.personal.md) 
+### [Chelmsford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Chelmsford/cities~Chelmsford/Chelmsford.private.md) 
 
-### [Chelmsford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Chelmsford\cities~ChelmsfordChelmsford.secret.md)
+### [Chelmsford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Chelmsford/cities~Chelmsford/Chelmsford.personal.md) 
+
+### [Chelmsford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Chelmsford/cities~Chelmsford/Chelmsford.secret.md)
 

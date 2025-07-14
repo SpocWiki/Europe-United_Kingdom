@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Petworth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.public.md) 
+### [Petworth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Petworth.md) 
 
-### [Petworth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.internal.md) 
+### [Petworth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Petworth.public.md) 
 
-### [Petworth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.protect.md) 
+### [Petworth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Petworth.internal.md) 
 
-### [Petworth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.private.md) 
+### [Petworth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Petworth.protect.md) 
 
-### [Petworth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.personal.md) 
+### [Petworth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Petworth.private.md) 
 
-### [Petworth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.secret.md)
+### [Petworth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Petworth.personal.md) 
+
+### [Petworth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Petworth.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hull=Kingsten.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.public.md) 
+### [Hull=Kingsten](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Hull=Kingsten.md) 
 
-### [Hull=Kingsten.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.internal.md) 
+### [Hull=Kingsten.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Hull=Kingsten.public.md) 
 
-### [Hull=Kingsten.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.protect.md) 
+### [Hull=Kingsten.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Hull=Kingsten.internal.md) 
 
-### [Hull=Kingsten.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.private.md) 
+### [Hull=Kingsten.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Hull=Kingsten.protect.md) 
 
-### [Hull=Kingsten.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.personal.md) 
+### [Hull=Kingsten.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Hull=Kingsten.private.md) 
 
-### [Hull=Kingsten.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.secret.md)
+### [Hull=Kingsten.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Hull=Kingsten.personal.md) 
+
+### [Hull=Kingsten.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Hull=Kingsten.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Linlithgow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.public.md) 
+### [Linlithgow](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.md) 
 
-### [Linlithgow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.internal.md) 
+### [Linlithgow.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.public.md) 
 
-### [Linlithgow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.protect.md) 
+### [Linlithgow.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.internal.md) 
 
-### [Linlithgow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.private.md) 
+### [Linlithgow.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.protect.md) 
 
-### [Linlithgow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.personal.md) 
+### [Linlithgow.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.private.md) 
 
-### [Linlithgow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.secret.md)
+### [Linlithgow.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.personal.md) 
+
+### [Linlithgow.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.secret.md)
 

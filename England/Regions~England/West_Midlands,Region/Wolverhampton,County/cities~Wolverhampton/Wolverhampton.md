@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolverhampton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.public.md) 
+### [Wolverhampton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County/cities~Wolverhampton/Wolverhampton.md) 
 
-### [Wolverhampton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.internal.md) 
+### [Wolverhampton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County/cities~Wolverhampton/Wolverhampton.public.md) 
 
-### [Wolverhampton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.protect.md) 
+### [Wolverhampton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County/cities~Wolverhampton/Wolverhampton.internal.md) 
 
-### [Wolverhampton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.private.md) 
+### [Wolverhampton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County/cities~Wolverhampton/Wolverhampton.protect.md) 
 
-### [Wolverhampton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.personal.md) 
+### [Wolverhampton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County/cities~Wolverhampton/Wolverhampton.private.md) 
 
-### [Wolverhampton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.secret.md)
+### [Wolverhampton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County/cities~Wolverhampton/Wolverhampton.personal.md) 
+
+### [Wolverhampton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County/cities~Wolverhampton/Wolverhampton.secret.md)
 

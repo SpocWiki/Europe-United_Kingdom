@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bath.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.public.md) 
+### [Bath](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.md) 
 
-### [Bath.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.internal.md) 
+### [Bath.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.public.md) 
 
-### [Bath.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.protect.md) 
+### [Bath.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.internal.md) 
 
-### [Bath.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.private.md) 
+### [Bath.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.protect.md) 
 
-### [Bath.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.personal.md) 
+### [Bath.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.private.md) 
 
-### [Bath.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.secret.md)
+### [Bath.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.personal.md) 
+
+### [Bath.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.secret.md)
 

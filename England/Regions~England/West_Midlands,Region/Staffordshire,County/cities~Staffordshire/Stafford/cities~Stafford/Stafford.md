@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stafford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.public.md) 
+### [Stafford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Stafford/cities~Stafford/Stafford.md) 
 
-### [Stafford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.internal.md) 
+### [Stafford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Stafford/cities~Stafford/Stafford.public.md) 
 
-### [Stafford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.protect.md) 
+### [Stafford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Stafford/cities~Stafford/Stafford.internal.md) 
 
-### [Stafford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.private.md) 
+### [Stafford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Stafford/cities~Stafford/Stafford.protect.md) 
 
-### [Stafford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.personal.md) 
+### [Stafford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Stafford/cities~Stafford/Stafford.private.md) 
 
-### [Stafford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.secret.md)
+### [Stafford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Stafford/cities~Stafford/Stafford.personal.md) 
+
+### [Stafford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Stafford/cities~Stafford/Stafford.secret.md)
 

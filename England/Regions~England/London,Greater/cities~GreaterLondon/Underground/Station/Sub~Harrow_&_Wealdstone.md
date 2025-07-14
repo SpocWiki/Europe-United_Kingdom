@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Harrow_&_Wealdstone.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow_&_Wealdstone.public.md) 
+### [Sub~Harrow_&_Wealdstone](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Harrow_&_Wealdstone.md) 
 
-### [Sub~Harrow_&_Wealdstone.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow_&_Wealdstone.internal.md) 
+### [Sub~Harrow_&_Wealdstone.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Harrow_&_Wealdstone.public.md) 
 
-### [Sub~Harrow_&_Wealdstone.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow_&_Wealdstone.protect.md) 
+### [Sub~Harrow_&_Wealdstone.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Harrow_&_Wealdstone.internal.md) 
 
-### [Sub~Harrow_&_Wealdstone.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow_&_Wealdstone.private.md) 
+### [Sub~Harrow_&_Wealdstone.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Harrow_&_Wealdstone.protect.md) 
 
-### [Sub~Harrow_&_Wealdstone.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow_&_Wealdstone.personal.md) 
+### [Sub~Harrow_&_Wealdstone.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Harrow_&_Wealdstone.private.md) 
 
-### [Sub~Harrow_&_Wealdstone.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow_&_Wealdstone.secret.md)
+### [Sub~Harrow_&_Wealdstone.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Harrow_&_Wealdstone.personal.md) 
+
+### [Sub~Harrow_&_Wealdstone.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Harrow_&_Wealdstone.secret.md)
 

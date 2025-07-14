@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oldham,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Oldham,Borough\cities~OldhamOldham,City.public.md) 
+### [Oldham,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough/cities~Oldham/Oldham,City.md) 
 
-### [Oldham,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Oldham,Borough\cities~OldhamOldham,City.internal.md) 
+### [Oldham,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough/cities~Oldham/Oldham,City.public.md) 
 
-### [Oldham,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Oldham,Borough\cities~OldhamOldham,City.protect.md) 
+### [Oldham,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough/cities~Oldham/Oldham,City.internal.md) 
 
-### [Oldham,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Oldham,Borough\cities~OldhamOldham,City.private.md) 
+### [Oldham,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough/cities~Oldham/Oldham,City.protect.md) 
 
-### [Oldham,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Oldham,Borough\cities~OldhamOldham,City.personal.md) 
+### [Oldham,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough/cities~Oldham/Oldham,City.private.md) 
 
-### [Oldham,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Oldham,Borough\cities~OldhamOldham,City.secret.md)
+### [Oldham,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough/cities~Oldham/Oldham,City.personal.md) 
+
+### [Oldham,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough/cities~Oldham/Oldham,City.secret.md)
 

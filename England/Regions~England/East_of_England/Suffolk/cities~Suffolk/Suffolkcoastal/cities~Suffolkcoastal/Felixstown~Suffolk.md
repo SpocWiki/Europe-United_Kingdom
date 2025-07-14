@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Felixstown~Suffolk.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.public.md) 
+### [Felixstown~Suffolk](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Felixstown~Suffolk.md) 
 
-### [Felixstown~Suffolk.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.internal.md) 
+### [Felixstown~Suffolk.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Felixstown~Suffolk.public.md) 
 
-### [Felixstown~Suffolk.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.protect.md) 
+### [Felixstown~Suffolk.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Felixstown~Suffolk.internal.md) 
 
-### [Felixstown~Suffolk.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.private.md) 
+### [Felixstown~Suffolk.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Felixstown~Suffolk.protect.md) 
 
-### [Felixstown~Suffolk.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.personal.md) 
+### [Felixstown~Suffolk.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Felixstown~Suffolk.private.md) 
 
-### [Felixstown~Suffolk.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.secret.md)
+### [Felixstown~Suffolk.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Felixstown~Suffolk.personal.md) 
+
+### [Felixstown~Suffolk.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Felixstown~Suffolk.secret.md)
 

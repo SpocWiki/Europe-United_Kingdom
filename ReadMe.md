@@ -150,15 +150,17 @@ Capital :: [[UK/City~London]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\UKReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~North/UK/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~North/UK/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\UKReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~North/UK/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/ReadMe.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Lanarkshire~North/
 
 ## Confidential Links & Embeds: 
 
-### [Lanarkshire~North.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLanarkshire~North.public.md) 
+### [Lanarkshire~North](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.md) 
 
-### [Lanarkshire~North.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLanarkshire~North.internal.md) 
+### [Lanarkshire~North.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.public.md) 
 
-### [Lanarkshire~North.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLanarkshire~North.protect.md) 
+### [Lanarkshire~North.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.internal.md) 
 
-### [Lanarkshire~North.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLanarkshire~North.private.md) 
+### [Lanarkshire~North.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.protect.md) 
 
-### [Lanarkshire~North.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLanarkshire~North.personal.md) 
+### [Lanarkshire~North.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.private.md) 
 
-### [Lanarkshire~North.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLanarkshire~North.secret.md)
+### [Lanarkshire~North.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.personal.md) 
+
+### [Lanarkshire~North.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.secret.md)
 

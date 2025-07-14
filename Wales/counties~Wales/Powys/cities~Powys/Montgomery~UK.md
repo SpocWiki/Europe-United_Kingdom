@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montgomery~UK.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.public.md) 
+### [Montgomery~UK](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys/cities~Powys/Montgomery~UK.md) 
 
-### [Montgomery~UK.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.internal.md) 
+### [Montgomery~UK.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys/cities~Powys/Montgomery~UK.public.md) 
 
-### [Montgomery~UK.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.protect.md) 
+### [Montgomery~UK.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys/cities~Powys/Montgomery~UK.internal.md) 
 
-### [Montgomery~UK.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.private.md) 
+### [Montgomery~UK.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys/cities~Powys/Montgomery~UK.protect.md) 
 
-### [Montgomery~UK.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.personal.md) 
+### [Montgomery~UK.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys/cities~Powys/Montgomery~UK.private.md) 
 
-### [Montgomery~UK.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.secret.md)
+### [Montgomery~UK.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys/cities~Powys/Montgomery~UK.personal.md) 
+
+### [Montgomery~UK.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys/cities~Powys/Montgomery~UK.secret.md)
 

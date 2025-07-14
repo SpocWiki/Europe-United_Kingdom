@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cardiff,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.public.md) 
+### [Cardiff,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.md) 
 
-### [Cardiff,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.internal.md) 
+### [Cardiff,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.public.md) 
 
-### [Cardiff,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.protect.md) 
+### [Cardiff,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.internal.md) 
 
-### [Cardiff,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.private.md) 
+### [Cardiff,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.protect.md) 
 
-### [Cardiff,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.personal.md) 
+### [Cardiff,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.private.md) 
 
-### [Cardiff,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.secret.md)
+### [Cardiff,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.personal.md) 
+
+### [Cardiff,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.secret.md)
 

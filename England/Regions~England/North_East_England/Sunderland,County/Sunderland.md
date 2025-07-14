@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sunderland.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.public.md) 
+### [Sunderland](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.md) 
 
-### [Sunderland.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.internal.md) 
+### [Sunderland.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.public.md) 
 
-### [Sunderland.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.protect.md) 
+### [Sunderland.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.internal.md) 
 
-### [Sunderland.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.private.md) 
+### [Sunderland.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.protect.md) 
 
-### [Sunderland.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.personal.md) 
+### [Sunderland.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.private.md) 
 
-### [Sunderland.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.secret.md)
+### [Sunderland.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.personal.md) 
+
+### [Sunderland.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.secret.md)
 

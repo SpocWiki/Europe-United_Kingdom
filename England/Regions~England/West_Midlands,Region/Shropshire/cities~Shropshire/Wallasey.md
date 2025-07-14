@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wallasey.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.public.md) 
+### [Wallasey](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.md) 
 
-### [Wallasey.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.internal.md) 
+### [Wallasey.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.public.md) 
 
-### [Wallasey.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.protect.md) 
+### [Wallasey.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.internal.md) 
 
-### [Wallasey.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.private.md) 
+### [Wallasey.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.protect.md) 
 
-### [Wallasey.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.personal.md) 
+### [Wallasey.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.private.md) 
 
-### [Wallasey.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.secret.md)
+### [Wallasey.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.personal.md) 
+
+### [Wallasey.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.secret.md)
 

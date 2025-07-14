@@ -41,15 +41,17 @@ markerFolder: ./Lothian~East/
 
 ## Confidential Links & Embeds: 
 
-### [Lothian~East.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~East.public.md) 
+### [Lothian~East](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~East.md) 
 
-### [Lothian~East.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~East.internal.md) 
+### [Lothian~East.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~East.public.md) 
 
-### [Lothian~East.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~East.protect.md) 
+### [Lothian~East.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~East.internal.md) 
 
-### [Lothian~East.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~East.private.md) 
+### [Lothian~East.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~East.protect.md) 
 
-### [Lothian~East.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~East.personal.md) 
+### [Lothian~East.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~East.private.md) 
 
-### [Lothian~East.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~East.secret.md)
+### [Lothian~East.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~East.personal.md) 
+
+### [Lothian~East.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~East.secret.md)
 

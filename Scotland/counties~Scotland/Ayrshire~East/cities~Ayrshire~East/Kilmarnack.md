@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kilmarnack.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.public.md) 
+### [Kilmarnack](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Kilmarnack.md) 
 
-### [Kilmarnack.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.internal.md) 
+### [Kilmarnack.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Kilmarnack.public.md) 
 
-### [Kilmarnack.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.protect.md) 
+### [Kilmarnack.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Kilmarnack.internal.md) 
 
-### [Kilmarnack.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.private.md) 
+### [Kilmarnack.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Kilmarnack.protect.md) 
 
-### [Kilmarnack.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.personal.md) 
+### [Kilmarnack.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Kilmarnack.private.md) 
 
-### [Kilmarnack.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.secret.md)
+### [Kilmarnack.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Kilmarnack.personal.md) 
+
+### [Kilmarnack.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Kilmarnack.secret.md)
 

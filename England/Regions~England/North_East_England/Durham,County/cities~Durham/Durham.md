@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Durham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.public.md) 
+### [Durham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.md) 
 
-### [Durham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.internal.md) 
+### [Durham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.public.md) 
 
-### [Durham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.protect.md) 
+### [Durham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.internal.md) 
 
-### [Durham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.private.md) 
+### [Durham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.protect.md) 
 
-### [Durham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.personal.md) 
+### [Durham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.private.md) 
 
-### [Durham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.secret.md)
+### [Durham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.personal.md) 
+
+### [Durham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.secret.md)
 

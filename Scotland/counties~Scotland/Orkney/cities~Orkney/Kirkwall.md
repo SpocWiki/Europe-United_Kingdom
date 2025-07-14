@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirkwall.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.public.md) 
+### [Kirkwall](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney/cities~Orkney/Kirkwall.md) 
 
-### [Kirkwall.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.internal.md) 
+### [Kirkwall.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney/cities~Orkney/Kirkwall.public.md) 
 
-### [Kirkwall.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.protect.md) 
+### [Kirkwall.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney/cities~Orkney/Kirkwall.internal.md) 
 
-### [Kirkwall.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.private.md) 
+### [Kirkwall.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney/cities~Orkney/Kirkwall.protect.md) 
 
-### [Kirkwall.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.personal.md) 
+### [Kirkwall.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney/cities~Orkney/Kirkwall.private.md) 
 
-### [Kirkwall.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.secret.md)
+### [Kirkwall.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney/cities~Orkney/Kirkwall.personal.md) 
+
+### [Kirkwall.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney/cities~Orkney/Kirkwall.secret.md)
 

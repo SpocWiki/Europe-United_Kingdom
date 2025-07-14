@@ -41,15 +41,17 @@ markerFolder: ./Torbay/
 
 ## Confidential Links & Embeds: 
 
-### [Torbay.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandTorbay.public.md) 
+### [Torbay](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Torbay.md) 
 
-### [Torbay.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandTorbay.internal.md) 
+### [Torbay.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Torbay.public.md) 
 
-### [Torbay.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandTorbay.protect.md) 
+### [Torbay.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Torbay.internal.md) 
 
-### [Torbay.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandTorbay.private.md) 
+### [Torbay.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Torbay.protect.md) 
 
-### [Torbay.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandTorbay.personal.md) 
+### [Torbay.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Torbay.private.md) 
 
-### [Torbay.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandTorbay.secret.md)
+### [Torbay.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Torbay.personal.md) 
+
+### [Torbay.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Torbay.secret.md)
 

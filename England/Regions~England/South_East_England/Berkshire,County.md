@@ -13,20 +13,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Berkshire)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Berkshire,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBerkshire,County.public.md) 
+### [Berkshire,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County.md) 
 
-### [Berkshire,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBerkshire,County.internal.md) 
+### [Berkshire,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County.public.md) 
 
-### [Berkshire,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBerkshire,County.protect.md) 
+### [Berkshire,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County.internal.md) 
 
-### [Berkshire,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBerkshire,County.private.md) 
+### [Berkshire,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County.protect.md) 
 
-### [Berkshire,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBerkshire,County.personal.md) 
+### [Berkshire,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County.private.md) 
 
-### [Berkshire,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBerkshire,County.secret.md)
+### [Berkshire,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County.personal.md) 
+
+### [Berkshire,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County.secret.md)
 

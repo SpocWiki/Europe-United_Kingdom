@@ -41,15 +41,17 @@ markerFolder: ./Argyll_and_Bute/
 
 ## Confidential Links & Embeds: 
 
-### [Argyll_and_Bute.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.public.md) 
+### [Argyll_and_Bute](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.md) 
 
-### [Argyll_and_Bute.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.internal.md) 
+### [Argyll_and_Bute.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.public.md) 
 
-### [Argyll_and_Bute.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.protect.md) 
+### [Argyll_and_Bute.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.internal.md) 
 
-### [Argyll_and_Bute.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.private.md) 
+### [Argyll_and_Bute.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.protect.md) 
 
-### [Argyll_and_Bute.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.personal.md) 
+### [Argyll_and_Bute.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.private.md) 
 
-### [Argyll_and_Bute.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.secret.md)
+### [Argyll_and_Bute.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.personal.md) 
+
+### [Argyll_and_Bute.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.secret.md)
 

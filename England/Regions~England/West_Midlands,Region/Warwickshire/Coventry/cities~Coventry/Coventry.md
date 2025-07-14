@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Coventry.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.public.md) 
+### [Coventry](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.md) 
 
-### [Coventry.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.internal.md) 
+### [Coventry.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.public.md) 
 
-### [Coventry.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.protect.md) 
+### [Coventry.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.internal.md) 
 
-### [Coventry.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.private.md) 
+### [Coventry.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.protect.md) 
 
-### [Coventry.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.personal.md) 
+### [Coventry.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.private.md) 
 
-### [Coventry.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.secret.md)
+### [Coventry.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.personal.md) 
+
+### [Coventry.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.secret.md)
 

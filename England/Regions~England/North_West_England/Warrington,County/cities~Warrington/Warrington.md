@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Warrington.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Warrington,County\cities~WarringtonWarrington.public.md) 
+### [Warrington](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.md) 
 
-### [Warrington.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Warrington,County\cities~WarringtonWarrington.internal.md) 
+### [Warrington.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.public.md) 
 
-### [Warrington.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Warrington,County\cities~WarringtonWarrington.protect.md) 
+### [Warrington.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.internal.md) 
 
-### [Warrington.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Warrington,County\cities~WarringtonWarrington.private.md) 
+### [Warrington.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.protect.md) 
 
-### [Warrington.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Warrington,County\cities~WarringtonWarrington.personal.md) 
+### [Warrington.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.private.md) 
 
-### [Warrington.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Warrington,County\cities~WarringtonWarrington.secret.md)
+### [Warrington.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.personal.md) 
+
+### [Warrington.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.secret.md)
 

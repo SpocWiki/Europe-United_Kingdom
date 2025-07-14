@@ -41,15 +41,17 @@ markerFolder: ./Oldham/
 
 ## Confidential Links & Embeds: 
 
-### [Oldham,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.public.md) 
+### [Oldham,Borough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough.md) 
 
-### [Oldham,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.internal.md) 
+### [Oldham,Borough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough.public.md) 
 
-### [Oldham,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.protect.md) 
+### [Oldham,Borough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough.internal.md) 
 
-### [Oldham,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.private.md) 
+### [Oldham,Borough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough.protect.md) 
 
-### [Oldham,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.personal.md) 
+### [Oldham,Borough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough.private.md) 
 
-### [Oldham,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.secret.md)
+### [Oldham,Borough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough.personal.md) 
+
+### [Oldham,Borough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Oldham,Borough.secret.md)
 

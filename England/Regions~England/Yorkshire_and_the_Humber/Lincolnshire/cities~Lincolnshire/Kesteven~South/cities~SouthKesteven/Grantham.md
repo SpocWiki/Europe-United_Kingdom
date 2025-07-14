@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grantham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.public.md) 
+### [Grantham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Grantham.md) 
 
-### [Grantham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.internal.md) 
+### [Grantham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Grantham.public.md) 
 
-### [Grantham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.protect.md) 
+### [Grantham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Grantham.internal.md) 
 
-### [Grantham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.private.md) 
+### [Grantham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Grantham.protect.md) 
 
-### [Grantham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.personal.md) 
+### [Grantham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Grantham.private.md) 
 
-### [Grantham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.secret.md)
+### [Grantham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Grantham.personal.md) 
+
+### [Grantham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Grantham.secret.md)
 

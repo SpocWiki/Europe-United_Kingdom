@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Taunton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\TauntonDeane\cities~TauntonDeaneTaunton.public.md) 
+### [Taunton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/TauntonDeane/cities~TauntonDeane/Taunton.md) 
 
-### [Taunton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\TauntonDeane\cities~TauntonDeaneTaunton.internal.md) 
+### [Taunton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/TauntonDeane/cities~TauntonDeane/Taunton.public.md) 
 
-### [Taunton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\TauntonDeane\cities~TauntonDeaneTaunton.protect.md) 
+### [Taunton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/TauntonDeane/cities~TauntonDeane/Taunton.internal.md) 
 
-### [Taunton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\TauntonDeane\cities~TauntonDeaneTaunton.private.md) 
+### [Taunton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/TauntonDeane/cities~TauntonDeane/Taunton.protect.md) 
 
-### [Taunton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\TauntonDeane\cities~TauntonDeaneTaunton.personal.md) 
+### [Taunton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/TauntonDeane/cities~TauntonDeane/Taunton.private.md) 
 
-### [Taunton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\TauntonDeane\cities~TauntonDeaneTaunton.secret.md)
+### [Taunton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/TauntonDeane/cities~TauntonDeane/Taunton.personal.md) 
+
+### [Taunton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/TauntonDeane/cities~TauntonDeane/Taunton.secret.md)
 

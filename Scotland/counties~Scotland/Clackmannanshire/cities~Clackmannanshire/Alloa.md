@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alloa.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.public.md) 
+### [Alloa](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.md) 
 
-### [Alloa.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.internal.md) 
+### [Alloa.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.public.md) 
 
-### [Alloa.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.protect.md) 
+### [Alloa.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.internal.md) 
 
-### [Alloa.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.private.md) 
+### [Alloa.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.protect.md) 
 
-### [Alloa.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.personal.md) 
+### [Alloa.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.private.md) 
 
-### [Alloa.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.secret.md)
+### [Alloa.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.personal.md) 
+
+### [Alloa.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.secret.md)
 

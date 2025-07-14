@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wishaw.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.public.md) 
+### [Wishaw](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Wishaw.md) 
 
-### [Wishaw.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.internal.md) 
+### [Wishaw.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Wishaw.public.md) 
 
-### [Wishaw.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.protect.md) 
+### [Wishaw.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Wishaw.internal.md) 
 
-### [Wishaw.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.private.md) 
+### [Wishaw.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Wishaw.protect.md) 
 
-### [Wishaw.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.personal.md) 
+### [Wishaw.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Wishaw.private.md) 
 
-### [Wishaw.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.secret.md)
+### [Wishaw.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Wishaw.personal.md) 
+
+### [Wishaw.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Wishaw.secret.md)
 

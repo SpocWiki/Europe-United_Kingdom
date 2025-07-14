@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Newbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.public.md) 
+### [Newbury](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/cities~Berkshire~West/Newbury.md) 
 
-### [Newbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.internal.md) 
+### [Newbury.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/cities~Berkshire~West/Newbury.public.md) 
 
-### [Newbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.protect.md) 
+### [Newbury.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/cities~Berkshire~West/Newbury.internal.md) 
 
-### [Newbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.private.md) 
+### [Newbury.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/cities~Berkshire~West/Newbury.protect.md) 
 
-### [Newbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.personal.md) 
+### [Newbury.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/cities~Berkshire~West/Newbury.private.md) 
 
-### [Newbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.secret.md)
+### [Newbury.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/cities~Berkshire~West/Newbury.personal.md) 
+
+### [Newbury.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/cities~Berkshire~West/Newbury.secret.md)
 

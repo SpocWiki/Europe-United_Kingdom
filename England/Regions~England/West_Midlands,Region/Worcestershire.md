@@ -41,15 +41,17 @@ markerFolder: ./Worcestershire/
 
 ## Confidential Links & Embeds: 
 
-### [Worcestershire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.public.md) 
+### [Worcestershire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire.md) 
 
-### [Worcestershire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.internal.md) 
+### [Worcestershire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire.public.md) 
 
-### [Worcestershire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.protect.md) 
+### [Worcestershire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire.internal.md) 
 
-### [Worcestershire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.private.md) 
+### [Worcestershire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire.protect.md) 
 
-### [Worcestershire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.personal.md) 
+### [Worcestershire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire.private.md) 
 
-### [Worcestershire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.secret.md)
+### [Worcestershire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire.personal.md) 
+
+### [Worcestershire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire.secret.md)
 

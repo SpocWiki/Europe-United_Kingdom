@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Duncon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.public.md) 
+### [Duncon](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Duncon.md) 
 
-### [Duncon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.internal.md) 
+### [Duncon.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Duncon.public.md) 
 
-### [Duncon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.protect.md) 
+### [Duncon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Duncon.internal.md) 
 
-### [Duncon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.private.md) 
+### [Duncon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Duncon.protect.md) 
 
-### [Duncon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.personal.md) 
+### [Duncon.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Duncon.private.md) 
 
-### [Duncon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.secret.md)
+### [Duncon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Duncon.personal.md) 
+
+### [Duncon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Duncon.secret.md)
 

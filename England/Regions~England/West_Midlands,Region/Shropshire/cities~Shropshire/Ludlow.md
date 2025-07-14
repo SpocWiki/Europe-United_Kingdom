@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ludlow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.public.md) 
+### [Ludlow](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Ludlow.md) 
 
-### [Ludlow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.internal.md) 
+### [Ludlow.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Ludlow.public.md) 
 
-### [Ludlow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.protect.md) 
+### [Ludlow.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Ludlow.internal.md) 
 
-### [Ludlow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.private.md) 
+### [Ludlow.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Ludlow.protect.md) 
 
-### [Ludlow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.personal.md) 
+### [Ludlow.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Ludlow.private.md) 
 
-### [Ludlow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.secret.md)
+### [Ludlow.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Ludlow.personal.md) 
+
+### [Ludlow.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Ludlow.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alexandria.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestAlexandria.public.md) 
+### [Alexandria](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.md) 
 
-### [Alexandria.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestAlexandria.internal.md) 
+### [Alexandria.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.public.md) 
 
-### [Alexandria.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestAlexandria.protect.md) 
+### [Alexandria.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.internal.md) 
 
-### [Alexandria.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestAlexandria.private.md) 
+### [Alexandria.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.protect.md) 
 
-### [Alexandria.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestAlexandria.personal.md) 
+### [Alexandria.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.private.md) 
 
-### [Alexandria.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestAlexandria.secret.md)
+### [Alexandria.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.personal.md) 
+
+### [Alexandria.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.secret.md)
 

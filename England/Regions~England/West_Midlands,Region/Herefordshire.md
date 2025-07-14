@@ -41,15 +41,17 @@ markerFolder: ./Herefordshire/
 
 ## Confidential Links & Embeds: 
 
-### [Herefordshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionHerefordshire.public.md) 
+### [Herefordshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire.md) 
 
-### [Herefordshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionHerefordshire.internal.md) 
+### [Herefordshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire.public.md) 
 
-### [Herefordshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionHerefordshire.protect.md) 
+### [Herefordshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire.internal.md) 
 
-### [Herefordshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionHerefordshire.private.md) 
+### [Herefordshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire.protect.md) 
 
-### [Herefordshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionHerefordshire.personal.md) 
+### [Herefordshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire.private.md) 
 
-### [Herefordshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionHerefordshire.secret.md)
+### [Herefordshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire.personal.md) 
+
+### [Herefordshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire.secret.md)
 

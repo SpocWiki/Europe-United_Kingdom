@@ -41,15 +41,17 @@ markerFolder: ./Wigan/
 
 ## Confidential Links & Embeds: 
 
-### [Wigan.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyWigan.public.md) 
+### [Wigan](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan.md) 
 
-### [Wigan.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyWigan.internal.md) 
+### [Wigan.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan.public.md) 
 
-### [Wigan.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyWigan.protect.md) 
+### [Wigan.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan.internal.md) 
 
-### [Wigan.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyWigan.private.md) 
+### [Wigan.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan.protect.md) 
 
-### [Wigan.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyWigan.personal.md) 
+### [Wigan.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan.private.md) 
 
-### [Wigan.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyWigan.secret.md)
+### [Wigan.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan.personal.md) 
+
+### [Wigan.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan.secret.md)
 

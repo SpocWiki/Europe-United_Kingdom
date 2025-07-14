@@ -11,19 +11,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20West%20England)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [North_West_England.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandNorth_West_England.public.md) 
+### [North_West_England](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.md) 
 
-### [North_West_England.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandNorth_West_England.internal.md) 
+### [North_West_England.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.public.md) 
 
-### [North_West_England.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandNorth_West_England.protect.md) 
+### [North_West_England.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.internal.md) 
 
-### [North_West_England.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandNorth_West_England.private.md) 
+### [North_West_England.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.protect.md) 
 
-### [North_West_England.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandNorth_West_England.personal.md) 
+### [North_West_England.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.private.md) 
 
-### [North_West_England.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandNorth_West_England.secret.md)
+### [North_West_England.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.personal.md) 
+
+### [North_West_England.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.secret.md)
 

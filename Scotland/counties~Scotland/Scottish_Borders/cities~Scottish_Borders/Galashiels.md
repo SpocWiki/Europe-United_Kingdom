@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Galashiels.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.public.md) 
+### [Galashiels](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.md) 
 
-### [Galashiels.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.internal.md) 
+### [Galashiels.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.public.md) 
 
-### [Galashiels.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.protect.md) 
+### [Galashiels.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.internal.md) 
 
-### [Galashiels.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.private.md) 
+### [Galashiels.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.protect.md) 
 
-### [Galashiels.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.personal.md) 
+### [Galashiels.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.private.md) 
 
-### [Galashiels.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.secret.md)
+### [Galashiels.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.personal.md) 
+
+### [Galashiels.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.secret.md)
 

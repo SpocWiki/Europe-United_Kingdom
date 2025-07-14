@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lesmahagow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.public.md) 
+### [Lesmahagow](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Lesmahagow.md) 
 
-### [Lesmahagow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.internal.md) 
+### [Lesmahagow.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Lesmahagow.public.md) 
 
-### [Lesmahagow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.protect.md) 
+### [Lesmahagow.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Lesmahagow.internal.md) 
 
-### [Lesmahagow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.private.md) 
+### [Lesmahagow.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Lesmahagow.protect.md) 
 
-### [Lesmahagow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.personal.md) 
+### [Lesmahagow.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Lesmahagow.private.md) 
 
-### [Lesmahagow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.secret.md)
+### [Lesmahagow.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Lesmahagow.personal.md) 
+
+### [Lesmahagow.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~South/cities~Lanarkshire~South/Lesmahagow.secret.md)
 

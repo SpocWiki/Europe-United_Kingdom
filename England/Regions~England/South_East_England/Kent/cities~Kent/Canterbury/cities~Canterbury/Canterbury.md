@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Canterbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.public.md) 
+### [Canterbury](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Canterbury/cities~Canterbury/Canterbury.md) 
 
-### [Canterbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.internal.md) 
+### [Canterbury.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Canterbury/cities~Canterbury/Canterbury.public.md) 
 
-### [Canterbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.protect.md) 
+### [Canterbury.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Canterbury/cities~Canterbury/Canterbury.internal.md) 
 
-### [Canterbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.private.md) 
+### [Canterbury.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Canterbury/cities~Canterbury/Canterbury.protect.md) 
 
-### [Canterbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.personal.md) 
+### [Canterbury.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Canterbury/cities~Canterbury/Canterbury.private.md) 
 
-### [Canterbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.secret.md)
+### [Canterbury.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Canterbury/cities~Canterbury/Canterbury.personal.md) 
+
+### [Canterbury.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Canterbury/cities~Canterbury/Canterbury.secret.md)
 

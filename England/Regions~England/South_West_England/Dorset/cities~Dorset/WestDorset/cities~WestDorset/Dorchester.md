@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorchester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.public.md) 
+### [Dorchester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.md) 
 
-### [Dorchester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.internal.md) 
+### [Dorchester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.public.md) 
 
-### [Dorchester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.protect.md) 
+### [Dorchester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.internal.md) 
 
-### [Dorchester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.private.md) 
+### [Dorchester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.protect.md) 
 
-### [Dorchester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.personal.md) 
+### [Dorchester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.private.md) 
 
-### [Dorchester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.secret.md)
+### [Dorchester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.personal.md) 
+
+### [Dorchester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.secret.md)
 

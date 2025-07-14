@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blackburn.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.public.md) 
+### [Blackburn](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen/cities~Blackburn_with_Darwen/Blackburn.md) 
 
-### [Blackburn.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.internal.md) 
+### [Blackburn.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen/cities~Blackburn_with_Darwen/Blackburn.public.md) 
 
-### [Blackburn.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.protect.md) 
+### [Blackburn.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen/cities~Blackburn_with_Darwen/Blackburn.internal.md) 
 
-### [Blackburn.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.private.md) 
+### [Blackburn.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen/cities~Blackburn_with_Darwen/Blackburn.protect.md) 
 
-### [Blackburn.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.personal.md) 
+### [Blackburn.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen/cities~Blackburn_with_Darwen/Blackburn.private.md) 
 
-### [Blackburn.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.secret.md)
+### [Blackburn.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen/cities~Blackburn_with_Darwen/Blackburn.personal.md) 
+
+### [Blackburn.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen/cities~Blackburn_with_Darwen/Blackburn.secret.md)
 

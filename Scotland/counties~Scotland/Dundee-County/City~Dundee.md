@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Dundee.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.public.md) 
+### [City~Dundee](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee-County/City~Dundee.md) 
 
-### [City~Dundee.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.internal.md) 
+### [City~Dundee.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee-County/City~Dundee.public.md) 
 
-### [City~Dundee.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.protect.md) 
+### [City~Dundee.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee-County/City~Dundee.internal.md) 
 
-### [City~Dundee.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.private.md) 
+### [City~Dundee.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee-County/City~Dundee.protect.md) 
 
-### [City~Dundee.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.personal.md) 
+### [City~Dundee.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee-County/City~Dundee.private.md) 
 
-### [City~Dundee.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.secret.md)
+### [City~Dundee.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee-County/City~Dundee.personal.md) 
+
+### [City~Dundee.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee-County/City~Dundee.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hove.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.public.md) 
+### [Hove](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.md) 
 
-### [Hove.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.internal.md) 
+### [Hove.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.public.md) 
 
-### [Hove.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.protect.md) 
+### [Hove.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.internal.md) 
 
-### [Hove.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.private.md) 
+### [Hove.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.protect.md) 
 
-### [Hove.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.personal.md) 
+### [Hove.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.private.md) 
 
-### [Hove.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.secret.md)
+### [Hove.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.personal.md) 
+
+### [Hove.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.secret.md)
 

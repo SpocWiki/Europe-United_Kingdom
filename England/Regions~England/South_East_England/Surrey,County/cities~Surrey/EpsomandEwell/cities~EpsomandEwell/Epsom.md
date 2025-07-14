@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Epsom.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.public.md) 
+### [Epsom](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/EpsomandEwell/cities~EpsomandEwell/Epsom.md) 
 
-### [Epsom.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.internal.md) 
+### [Epsom.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/EpsomandEwell/cities~EpsomandEwell/Epsom.public.md) 
 
-### [Epsom.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.protect.md) 
+### [Epsom.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/EpsomandEwell/cities~EpsomandEwell/Epsom.internal.md) 
 
-### [Epsom.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.private.md) 
+### [Epsom.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/EpsomandEwell/cities~EpsomandEwell/Epsom.protect.md) 
 
-### [Epsom.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.personal.md) 
+### [Epsom.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/EpsomandEwell/cities~EpsomandEwell/Epsom.private.md) 
 
-### [Epsom.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.secret.md)
+### [Epsom.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/EpsomandEwell/cities~EpsomandEwell/Epsom.personal.md) 
+
+### [Epsom.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/EpsomandEwell/cities~EpsomandEwell/Epsom.secret.md)
 

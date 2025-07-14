@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Redhill.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.public.md) 
+### [Redhill](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Redhill.md) 
 
-### [Redhill.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.internal.md) 
+### [Redhill.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Redhill.public.md) 
 
-### [Redhill.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.protect.md) 
+### [Redhill.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Redhill.internal.md) 
 
-### [Redhill.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.private.md) 
+### [Redhill.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Redhill.protect.md) 
 
-### [Redhill.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.personal.md) 
+### [Redhill.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Redhill.private.md) 
 
-### [Redhill.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.secret.md)
+### [Redhill.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Redhill.personal.md) 
+
+### [Redhill.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/ReigateandBanstead/cities~ReigateandBanstead/Redhill.secret.md)
 

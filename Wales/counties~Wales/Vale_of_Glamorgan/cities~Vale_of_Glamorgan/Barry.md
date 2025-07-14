@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barry.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.public.md) 
+### [Barry](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan/cities~Vale_of_Glamorgan/Barry.md) 
 
-### [Barry.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.internal.md) 
+### [Barry.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan/cities~Vale_of_Glamorgan/Barry.public.md) 
 
-### [Barry.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.protect.md) 
+### [Barry.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan/cities~Vale_of_Glamorgan/Barry.internal.md) 
 
-### [Barry.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.private.md) 
+### [Barry.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan/cities~Vale_of_Glamorgan/Barry.protect.md) 
 
-### [Barry.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.personal.md) 
+### [Barry.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan/cities~Vale_of_Glamorgan/Barry.private.md) 
 
-### [Barry.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.secret.md)
+### [Barry.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan/cities~Vale_of_Glamorgan/Barry.personal.md) 
+
+### [Barry.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan/cities~Vale_of_Glamorgan/Barry.secret.md)
 

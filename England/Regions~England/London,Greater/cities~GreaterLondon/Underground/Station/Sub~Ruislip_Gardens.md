@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Ruislip_Gardens.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Gardens.public.md) 
+### [Sub~Ruislip_Gardens](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Gardens.md) 
 
-### [Sub~Ruislip_Gardens.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Gardens.internal.md) 
+### [Sub~Ruislip_Gardens.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Gardens.public.md) 
 
-### [Sub~Ruislip_Gardens.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Gardens.protect.md) 
+### [Sub~Ruislip_Gardens.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Gardens.internal.md) 
 
-### [Sub~Ruislip_Gardens.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Gardens.private.md) 
+### [Sub~Ruislip_Gardens.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Gardens.protect.md) 
 
-### [Sub~Ruislip_Gardens.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Gardens.personal.md) 
+### [Sub~Ruislip_Gardens.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Gardens.private.md) 
 
-### [Sub~Ruislip_Gardens.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Gardens.secret.md)
+### [Sub~Ruislip_Gardens.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Gardens.personal.md) 
+
+### [Sub~Ruislip_Gardens.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Gardens.secret.md)
 

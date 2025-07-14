@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ebbw_Vale.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.public.md) 
+### [Ebbw_Vale](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.md) 
 
-### [Ebbw_Vale.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.internal.md) 
+### [Ebbw_Vale.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.public.md) 
 
-### [Ebbw_Vale.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.protect.md) 
+### [Ebbw_Vale.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.internal.md) 
 
-### [Ebbw_Vale.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.private.md) 
+### [Ebbw_Vale.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.protect.md) 
 
-### [Ebbw_Vale.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.personal.md) 
+### [Ebbw_Vale.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.private.md) 
 
-### [Ebbw_Vale.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.secret.md)
+### [Ebbw_Vale.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.personal.md) 
+
+### [Ebbw_Vale.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.secret.md)
 

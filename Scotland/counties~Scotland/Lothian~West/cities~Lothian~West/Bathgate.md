@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bathgate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.public.md) 
+### [Bathgate](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Bathgate.md) 
 
-### [Bathgate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.internal.md) 
+### [Bathgate.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Bathgate.public.md) 
 
-### [Bathgate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.protect.md) 
+### [Bathgate.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Bathgate.internal.md) 
 
-### [Bathgate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.private.md) 
+### [Bathgate.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Bathgate.protect.md) 
 
-### [Bathgate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.personal.md) 
+### [Bathgate.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Bathgate.private.md) 
 
-### [Bathgate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.secret.md)
+### [Bathgate.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Bathgate.personal.md) 
+
+### [Bathgate.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Bathgate.secret.md)
 

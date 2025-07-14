@@ -41,15 +41,17 @@ markerFolder: ./Sussex~West/
 
 ## Confidential Links & Embeds: 
 
-### [Sussex~West.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.public.md) 
+### [Sussex~West](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West.md) 
 
-### [Sussex~West.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.internal.md) 
+### [Sussex~West.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West.public.md) 
 
-### [Sussex~West.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.protect.md) 
+### [Sussex~West.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West.internal.md) 
 
-### [Sussex~West.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.private.md) 
+### [Sussex~West.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West.protect.md) 
 
-### [Sussex~West.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.personal.md) 
+### [Sussex~West.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West.private.md) 
 
-### [Sussex~West.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.secret.md)
+### [Sussex~West.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West.personal.md) 
+
+### [Sussex~West.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West.secret.md)
 

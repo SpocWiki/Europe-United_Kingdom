@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Doncaster.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~South\Doncaster,County\cities~DoncasterDoncaster.public.md) 
+### [Doncaster](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Doncaster.md) 
 
-### [Doncaster.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~South\Doncaster,County\cities~DoncasterDoncaster.internal.md) 
+### [Doncaster.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Doncaster.public.md) 
 
-### [Doncaster.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~South\Doncaster,County\cities~DoncasterDoncaster.protect.md) 
+### [Doncaster.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Doncaster.internal.md) 
 
-### [Doncaster.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~South\Doncaster,County\cities~DoncasterDoncaster.private.md) 
+### [Doncaster.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Doncaster.protect.md) 
 
-### [Doncaster.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~South\Doncaster,County\cities~DoncasterDoncaster.personal.md) 
+### [Doncaster.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Doncaster.private.md) 
 
-### [Doncaster.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~South\Doncaster,County\cities~DoncasterDoncaster.secret.md)
+### [Doncaster.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Doncaster.personal.md) 
+
+### [Doncaster.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Doncaster.secret.md)
 

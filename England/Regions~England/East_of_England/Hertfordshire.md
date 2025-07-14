@@ -41,15 +41,17 @@ markerFolder: ./Hertfordshire/
 
 ## Confidential Links & Embeds: 
 
-### [Hertfordshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.public.md) 
+### [Hertfordshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.md) 
 
-### [Hertfordshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.internal.md) 
+### [Hertfordshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.public.md) 
 
-### [Hertfordshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.protect.md) 
+### [Hertfordshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.internal.md) 
 
-### [Hertfordshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.private.md) 
+### [Hertfordshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.protect.md) 
 
-### [Hertfordshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.personal.md) 
+### [Hertfordshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.private.md) 
 
-### [Hertfordshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.secret.md)
+### [Hertfordshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.personal.md) 
+
+### [Hertfordshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.secret.md)
 

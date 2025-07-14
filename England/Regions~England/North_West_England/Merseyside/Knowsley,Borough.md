@@ -41,15 +41,17 @@ markerFolder: ./Knowsley/
 
 ## Confidential Links & Embeds: 
 
-### [Knowsley,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideKnowsley,Borough.public.md) 
+### [Knowsley,Borough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.md) 
 
-### [Knowsley,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideKnowsley,Borough.internal.md) 
+### [Knowsley,Borough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.public.md) 
 
-### [Knowsley,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideKnowsley,Borough.protect.md) 
+### [Knowsley,Borough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.internal.md) 
 
-### [Knowsley,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideKnowsley,Borough.private.md) 
+### [Knowsley,Borough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.protect.md) 
 
-### [Knowsley,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideKnowsley,Borough.personal.md) 
+### [Knowsley,Borough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.private.md) 
 
-### [Knowsley,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideKnowsley,Borough.secret.md)
+### [Knowsley,Borough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.personal.md) 
+
+### [Knowsley,Borough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Coatbridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.public.md) 
+### [Coatbridge](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Coatbridge.md) 
 
-### [Coatbridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.internal.md) 
+### [Coatbridge.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Coatbridge.public.md) 
 
-### [Coatbridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.protect.md) 
+### [Coatbridge.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Coatbridge.internal.md) 
 
-### [Coatbridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.private.md) 
+### [Coatbridge.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Coatbridge.protect.md) 
 
-### [Coatbridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.personal.md) 
+### [Coatbridge.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Coatbridge.private.md) 
 
-### [Coatbridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.secret.md)
+### [Coatbridge.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Coatbridge.personal.md) 
+
+### [Coatbridge.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Coatbridge.secret.md)
 

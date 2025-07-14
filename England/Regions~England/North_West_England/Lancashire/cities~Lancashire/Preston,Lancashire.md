@@ -18,21 +18,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Preston,%20Lancashire)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Preston,Lancashire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~LancashirePreston,Lancashire.public.md) 
+### [Preston,Lancashire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.md) 
 
-### [Preston,Lancashire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~LancashirePreston,Lancashire.internal.md) 
+### [Preston,Lancashire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.public.md) 
 
-### [Preston,Lancashire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~LancashirePreston,Lancashire.protect.md) 
+### [Preston,Lancashire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.internal.md) 
 
-### [Preston,Lancashire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~LancashirePreston,Lancashire.private.md) 
+### [Preston,Lancashire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.protect.md) 
 
-### [Preston,Lancashire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~LancashirePreston,Lancashire.personal.md) 
+### [Preston,Lancashire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.private.md) 
 
-### [Preston,Lancashire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~LancashirePreston,Lancashire.secret.md)
+### [Preston,Lancashire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.personal.md) 
+
+### [Preston,Lancashire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.secret.md)
 

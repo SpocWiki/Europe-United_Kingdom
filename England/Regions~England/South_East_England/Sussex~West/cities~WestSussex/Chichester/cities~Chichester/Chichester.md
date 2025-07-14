@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chichester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.public.md) 
+### [Chichester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.md) 
 
-### [Chichester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.internal.md) 
+### [Chichester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.public.md) 
 
-### [Chichester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.protect.md) 
+### [Chichester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.internal.md) 
 
-### [Chichester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.private.md) 
+### [Chichester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.protect.md) 
 
-### [Chichester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.personal.md) 
+### [Chichester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.private.md) 
 
-### [Chichester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.secret.md)
+### [Chichester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.personal.md) 
+
+### [Chichester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.secret.md)
 

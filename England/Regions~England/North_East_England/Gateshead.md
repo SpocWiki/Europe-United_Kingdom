@@ -41,15 +41,17 @@ markerFolder: ./Gateshead/
 
 ## Confidential Links & Embeds: 
 
-### [Gateshead.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandGateshead.public.md) 
+### [Gateshead](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.md) 
 
-### [Gateshead.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandGateshead.internal.md) 
+### [Gateshead.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.public.md) 
 
-### [Gateshead.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandGateshead.protect.md) 
+### [Gateshead.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.internal.md) 
 
-### [Gateshead.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandGateshead.private.md) 
+### [Gateshead.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.protect.md) 
 
-### [Gateshead.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandGateshead.personal.md) 
+### [Gateshead.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.private.md) 
 
-### [Gateshead.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandGateshead.secret.md)
+### [Gateshead.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.personal.md) 
+
+### [Gateshead.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.secret.md)
 

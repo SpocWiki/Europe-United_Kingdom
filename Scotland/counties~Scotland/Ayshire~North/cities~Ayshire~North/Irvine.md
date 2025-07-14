@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Irvine.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.public.md) 
+### [Irvine](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.md) 
 
-### [Irvine.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.internal.md) 
+### [Irvine.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.public.md) 
 
-### [Irvine.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.protect.md) 
+### [Irvine.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.internal.md) 
 
-### [Irvine.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.private.md) 
+### [Irvine.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.protect.md) 
 
-### [Irvine.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.personal.md) 
+### [Irvine.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.private.md) 
 
-### [Irvine.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.secret.md)
+### [Irvine.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.personal.md) 
+
+### [Irvine.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.secret.md)
 

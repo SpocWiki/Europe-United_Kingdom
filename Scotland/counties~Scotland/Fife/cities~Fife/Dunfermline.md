@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dunfermline.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.public.md) 
+### [Dunfermline](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.md) 
 
-### [Dunfermline.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.internal.md) 
+### [Dunfermline.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.public.md) 
 
-### [Dunfermline.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.protect.md) 
+### [Dunfermline.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.internal.md) 
 
-### [Dunfermline.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.private.md) 
+### [Dunfermline.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.protect.md) 
 
-### [Dunfermline.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.personal.md) 
+### [Dunfermline.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.private.md) 
 
-### [Dunfermline.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.secret.md)
+### [Dunfermline.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.personal.md) 
+
+### [Dunfermline.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.secret.md)
 

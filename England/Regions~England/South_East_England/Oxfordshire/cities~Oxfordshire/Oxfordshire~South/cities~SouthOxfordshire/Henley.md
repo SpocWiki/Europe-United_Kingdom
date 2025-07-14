@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Henley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.public.md) 
+### [Henley](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Henley.md) 
 
-### [Henley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.internal.md) 
+### [Henley.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Henley.public.md) 
 
-### [Henley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.protect.md) 
+### [Henley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Henley.internal.md) 
 
-### [Henley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.private.md) 
+### [Henley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Henley.protect.md) 
 
-### [Henley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.personal.md) 
+### [Henley.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Henley.private.md) 
 
-### [Henley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.secret.md)
+### [Henley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Henley.personal.md) 
+
+### [Henley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Henley.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Huddersfield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.public.md) 
+### [Huddersfield](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees/cities~Kirklees/Huddersfield.md) 
 
-### [Huddersfield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.internal.md) 
+### [Huddersfield.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees/cities~Kirklees/Huddersfield.public.md) 
 
-### [Huddersfield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.protect.md) 
+### [Huddersfield.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees/cities~Kirklees/Huddersfield.internal.md) 
 
-### [Huddersfield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.private.md) 
+### [Huddersfield.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees/cities~Kirklees/Huddersfield.protect.md) 
 
-### [Huddersfield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.personal.md) 
+### [Huddersfield.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees/cities~Kirklees/Huddersfield.private.md) 
 
-### [Huddersfield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.secret.md)
+### [Huddersfield.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees/cities~Kirklees/Huddersfield.personal.md) 
+
+### [Huddersfield.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees/cities~Kirklees/Huddersfield.secret.md)
 

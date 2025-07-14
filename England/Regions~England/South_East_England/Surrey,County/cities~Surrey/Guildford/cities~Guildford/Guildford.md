@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guildford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.public.md) 
+### [Guildford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Guildford/cities~Guildford/Guildford.md) 
 
-### [Guildford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.internal.md) 
+### [Guildford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Guildford/cities~Guildford/Guildford.public.md) 
 
-### [Guildford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.protect.md) 
+### [Guildford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Guildford/cities~Guildford/Guildford.internal.md) 
 
-### [Guildford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.private.md) 
+### [Guildford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Guildford/cities~Guildford/Guildford.protect.md) 
 
-### [Guildford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.personal.md) 
+### [Guildford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Guildford/cities~Guildford/Guildford.private.md) 
 
-### [Guildford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.secret.md)
+### [Guildford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Guildford/cities~Guildford/Guildford.personal.md) 
+
+### [Guildford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Guildford/cities~Guildford/Guildford.secret.md)
 

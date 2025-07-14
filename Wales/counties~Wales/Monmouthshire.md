@@ -41,15 +41,17 @@ markerFolder: ./Monmouthshire/
 
 ## Confidential Links & Embeds: 
 
-### [Monmouthshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMonmouthshire.public.md) 
+### [Monmouthshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire.md) 
 
-### [Monmouthshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMonmouthshire.internal.md) 
+### [Monmouthshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire.public.md) 
 
-### [Monmouthshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMonmouthshire.protect.md) 
+### [Monmouthshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire.internal.md) 
 
-### [Monmouthshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMonmouthshire.private.md) 
+### [Monmouthshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire.protect.md) 
 
-### [Monmouthshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMonmouthshire.personal.md) 
+### [Monmouthshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire.private.md) 
 
-### [Monmouthshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMonmouthshire.secret.md)
+### [Monmouthshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire.personal.md) 
+
+### [Monmouthshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blenheim.public](/_public/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.public.md) 
+### [Blenheim](/_Standards/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.md) 
 
-### [Blenheim.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.internal.md) 
+### [Blenheim.public](/_public/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.public.md) 
 
-### [Blenheim.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.protect.md) 
+### [Blenheim.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.internal.md) 
 
-### [Blenheim.private](/_private/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.private.md) 
+### [Blenheim.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.protect.md) 
 
-### [Blenheim.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.personal.md) 
+### [Blenheim.private](/_private/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.private.md) 
 
-### [Blenheim.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.secret.md)
+### [Blenheim.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.personal.md) 
+
+### [Blenheim.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.secret.md)
 

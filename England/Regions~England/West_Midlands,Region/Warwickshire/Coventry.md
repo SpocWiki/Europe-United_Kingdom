@@ -63,15 +63,17 @@ markerFolder: ./Coventry/
 
 ## Confidential Links & Embeds: 
 
-### [Coventry.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.public.md) 
+### [Coventry](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.md) 
 
-### [Coventry.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.internal.md) 
+### [Coventry.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.public.md) 
 
-### [Coventry.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.protect.md) 
+### [Coventry.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.internal.md) 
 
-### [Coventry.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.private.md) 
+### [Coventry.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.protect.md) 
 
-### [Coventry.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.personal.md) 
+### [Coventry.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.private.md) 
 
-### [Coventry.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.secret.md)
+### [Coventry.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.personal.md) 
+
+### [Coventry.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.secret.md)
 

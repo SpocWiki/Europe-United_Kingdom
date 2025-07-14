@@ -16,21 +16,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/South%20West%20England)
 
 
-
-
-
-
 ## Confidential Links & Embeds: 
 
-### [South_West_England.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.public.md) 
+### [South_West_England](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.md) 
 
-### [South_West_England.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.internal.md) 
+### [South_West_England.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.public.md) 
 
-### [South_West_England.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.protect.md) 
+### [South_West_England.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.internal.md) 
 
-### [South_West_England.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.private.md) 
+### [South_West_England.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.protect.md) 
 
-### [South_West_England.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.personal.md) 
+### [South_West_England.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.private.md) 
 
-### [South_West_England.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.secret.md)
+### [South_West_England.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.personal.md) 
+
+### [South_West_England.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.secret.md)
 

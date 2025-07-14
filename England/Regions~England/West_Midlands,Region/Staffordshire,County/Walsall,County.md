@@ -49,15 +49,17 @@ markerFolder: ./Walsall/
 
 ## Confidential Links & Embeds: 
 
-### [Walsall,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.public.md) 
+### [Walsall,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.md) 
 
-### [Walsall,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.internal.md) 
+### [Walsall,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.public.md) 
 
-### [Walsall,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.protect.md) 
+### [Walsall,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.internal.md) 
 
-### [Walsall,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.private.md) 
+### [Walsall,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.protect.md) 
 
-### [Walsall,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.personal.md) 
+### [Walsall,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.private.md) 
 
-### [Walsall,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.secret.md)
+### [Walsall,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.personal.md) 
+
+### [Walsall,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.secret.md)
 

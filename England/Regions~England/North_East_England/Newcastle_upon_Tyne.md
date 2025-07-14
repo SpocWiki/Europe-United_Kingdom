@@ -50,15 +50,17 @@ markerFolder: ./Newcastle_upon_Tyne/
 
 ## Confidential Links & Embeds: 
 
-### [Newcastle_upon_Tyne.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNewcastle_upon_Tyne.public.md) 
+### [Newcastle_upon_Tyne](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.md) 
 
-### [Newcastle_upon_Tyne.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNewcastle_upon_Tyne.internal.md) 
+### [Newcastle_upon_Tyne.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.public.md) 
 
-### [Newcastle_upon_Tyne.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNewcastle_upon_Tyne.protect.md) 
+### [Newcastle_upon_Tyne.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.internal.md) 
 
-### [Newcastle_upon_Tyne.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNewcastle_upon_Tyne.private.md) 
+### [Newcastle_upon_Tyne.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.protect.md) 
 
-### [Newcastle_upon_Tyne.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNewcastle_upon_Tyne.personal.md) 
+### [Newcastle_upon_Tyne.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.private.md) 
 
-### [Newcastle_upon_Tyne.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNewcastle_upon_Tyne.secret.md)
+### [Newcastle_upon_Tyne.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.personal.md) 
+
+### [Newcastle_upon_Tyne.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.secret.md)
 

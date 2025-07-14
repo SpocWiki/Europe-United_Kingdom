@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Reverne.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallSt.Reverne.public.md) 
+### [St.Reverne](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/St.Reverne.md) 
 
-### [St.Reverne.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallSt.Reverne.internal.md) 
+### [St.Reverne.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/St.Reverne.public.md) 
 
-### [St.Reverne.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallSt.Reverne.protect.md) 
+### [St.Reverne.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/St.Reverne.internal.md) 
 
-### [St.Reverne.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallSt.Reverne.private.md) 
+### [St.Reverne.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/St.Reverne.protect.md) 
 
-### [St.Reverne.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallSt.Reverne.personal.md) 
+### [St.Reverne.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/St.Reverne.private.md) 
 
-### [St.Reverne.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallSt.Reverne.secret.md)
+### [St.Reverne.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/St.Reverne.personal.md) 
+
+### [St.Reverne.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/St.Reverne.secret.md)
 

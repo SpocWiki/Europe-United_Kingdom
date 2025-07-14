@@ -43,15 +43,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Uxbridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Uxbridge.public.md) 
+### [Sub~Uxbridge](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Uxbridge.md) 
 
-### [Sub~Uxbridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Uxbridge.internal.md) 
+### [Sub~Uxbridge.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Uxbridge.public.md) 
 
-### [Sub~Uxbridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Uxbridge.protect.md) 
+### [Sub~Uxbridge.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Uxbridge.internal.md) 
 
-### [Sub~Uxbridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Uxbridge.private.md) 
+### [Sub~Uxbridge.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Uxbridge.protect.md) 
 
-### [Sub~Uxbridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Uxbridge.personal.md) 
+### [Sub~Uxbridge.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Uxbridge.private.md) 
 
-### [Sub~Uxbridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Uxbridge.secret.md)
+### [Sub~Uxbridge.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Uxbridge.personal.md) 
+
+### [Sub~Uxbridge.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Uxbridge.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Shetland_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Shetland_Islands.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandShetland_Islands.public.md) 
+### [Shetland_Islands](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.md) 
 
-### [Shetland_Islands.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandShetland_Islands.internal.md) 
+### [Shetland_Islands.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.public.md) 
 
-### [Shetland_Islands.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandShetland_Islands.protect.md) 
+### [Shetland_Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.internal.md) 
 
-### [Shetland_Islands.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandShetland_Islands.private.md) 
+### [Shetland_Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.protect.md) 
 
-### [Shetland_Islands.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandShetland_Islands.personal.md) 
+### [Shetland_Islands.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.private.md) 
 
-### [Shetland_Islands.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandShetland_Islands.secret.md)
+### [Shetland_Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.personal.md) 
+
+### [Shetland_Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.secret.md)
 

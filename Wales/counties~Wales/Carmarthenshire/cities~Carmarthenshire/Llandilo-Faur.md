@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Llandilo-Faur.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.public.md) 
+### [Llandilo-Faur](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.md) 
 
-### [Llandilo-Faur.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.internal.md) 
+### [Llandilo-Faur.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.public.md) 
 
-### [Llandilo-Faur.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.protect.md) 
+### [Llandilo-Faur.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.internal.md) 
 
-### [Llandilo-Faur.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.private.md) 
+### [Llandilo-Faur.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.protect.md) 
 
-### [Llandilo-Faur.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.personal.md) 
+### [Llandilo-Faur.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.private.md) 
 
-### [Llandilo-Faur.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.secret.md)
+### [Llandilo-Faur.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.personal.md) 
+
+### [Llandilo-Faur.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.secret.md)
 

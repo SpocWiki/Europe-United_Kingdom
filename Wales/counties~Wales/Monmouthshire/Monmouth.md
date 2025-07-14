@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.public.md) 
+### [Monmouth](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.md) 
 
-### [Monmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.internal.md) 
+### [Monmouth.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.public.md) 
 
-### [Monmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.protect.md) 
+### [Monmouth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.internal.md) 
 
-### [Monmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.private.md) 
+### [Monmouth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.protect.md) 
 
-### [Monmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.personal.md) 
+### [Monmouth.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.private.md) 
 
-### [Monmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.secret.md)
+### [Monmouth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.personal.md) 
+
+### [Monmouth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.secret.md)
 

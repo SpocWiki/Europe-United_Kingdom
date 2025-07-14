@@ -41,15 +41,17 @@ markerFolder: ./Merseyside/
 
 ## Confidential Links & Embeds: 
 
-### [Merseyside.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandMerseyside.public.md) 
+### [Merseyside](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside.md) 
 
-### [Merseyside.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandMerseyside.internal.md) 
+### [Merseyside.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside.public.md) 
 
-### [Merseyside.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandMerseyside.protect.md) 
+### [Merseyside.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside.internal.md) 
 
-### [Merseyside.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandMerseyside.private.md) 
+### [Merseyside.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside.protect.md) 
 
-### [Merseyside.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandMerseyside.personal.md) 
+### [Merseyside.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside.private.md) 
 
-### [Merseyside.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandMerseyside.secret.md)
+### [Merseyside.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside.personal.md) 
+
+### [Merseyside.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside.secret.md)
 

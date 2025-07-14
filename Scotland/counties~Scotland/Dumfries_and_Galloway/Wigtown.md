@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wigtown.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.public.md) 
+### [Wigtown](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/Wigtown.md) 
 
-### [Wigtown.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.internal.md) 
+### [Wigtown.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/Wigtown.public.md) 
 
-### [Wigtown.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.protect.md) 
+### [Wigtown.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/Wigtown.internal.md) 
 
-### [Wigtown.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.private.md) 
+### [Wigtown.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/Wigtown.protect.md) 
 
-### [Wigtown.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.personal.md) 
+### [Wigtown.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/Wigtown.private.md) 
 
-### [Wigtown.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.secret.md)
+### [Wigtown.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/Wigtown.personal.md) 
+
+### [Wigtown.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/Wigtown.secret.md)
 

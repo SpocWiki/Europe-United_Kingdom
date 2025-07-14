@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gainsborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.public.md) 
+### [Gainsborough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Gainsborough.md) 
 
-### [Gainsborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.internal.md) 
+### [Gainsborough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Gainsborough.public.md) 
 
-### [Gainsborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.protect.md) 
+### [Gainsborough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Gainsborough.internal.md) 
 
-### [Gainsborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.private.md) 
+### [Gainsborough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Gainsborough.protect.md) 
 
-### [Gainsborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.personal.md) 
+### [Gainsborough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Gainsborough.private.md) 
 
-### [Gainsborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.secret.md)
+### [Gainsborough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Gainsborough.personal.md) 
+
+### [Gainsborough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Gainsborough.secret.md)
 

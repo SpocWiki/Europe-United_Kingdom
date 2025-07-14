@@ -41,15 +41,17 @@ markerFolder: ./Cheshire-West_and_Chester/
 
 ## Confidential Links & Embeds: 
 
-### [Cheshire-West_and_Chester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-West_and_Chester.public.md) 
+### [Cheshire-West_and_Chester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.md) 
 
-### [Cheshire-West_and_Chester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-West_and_Chester.internal.md) 
+### [Cheshire-West_and_Chester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.public.md) 
 
-### [Cheshire-West_and_Chester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-West_and_Chester.protect.md) 
+### [Cheshire-West_and_Chester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.internal.md) 
 
-### [Cheshire-West_and_Chester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-West_and_Chester.private.md) 
+### [Cheshire-West_and_Chester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.protect.md) 
 
-### [Cheshire-West_and_Chester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-West_and_Chester.personal.md) 
+### [Cheshire-West_and_Chester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.private.md) 
 
-### [Cheshire-West_and_Chester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-West_and_Chester.secret.md)
+### [Cheshire-West_and_Chester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.personal.md) 
+
+### [Cheshire-West_and_Chester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.secret.md)
 

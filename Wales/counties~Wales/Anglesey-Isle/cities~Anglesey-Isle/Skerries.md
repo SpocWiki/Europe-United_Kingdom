@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Skerries.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Anglesey-Isle\cities~Anglesey-IsleSkerries.public.md) 
+### [Skerries](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.md) 
 
-### [Skerries.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Anglesey-Isle\cities~Anglesey-IsleSkerries.internal.md) 
+### [Skerries.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.public.md) 
 
-### [Skerries.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Anglesey-Isle\cities~Anglesey-IsleSkerries.protect.md) 
+### [Skerries.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.internal.md) 
 
-### [Skerries.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Anglesey-Isle\cities~Anglesey-IsleSkerries.private.md) 
+### [Skerries.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.protect.md) 
 
-### [Skerries.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Anglesey-Isle\cities~Anglesey-IsleSkerries.personal.md) 
+### [Skerries.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.private.md) 
 
-### [Skerries.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Anglesey-Isle\cities~Anglesey-IsleSkerries.secret.md)
+### [Skerries.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.personal.md) 
+
+### [Skerries.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.secret.md)
 

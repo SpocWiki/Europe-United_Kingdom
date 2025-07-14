@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bridport.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetBridport.public.md) 
+### [Bridport](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.md) 
 
-### [Bridport.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetBridport.internal.md) 
+### [Bridport.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.public.md) 
 
-### [Bridport.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetBridport.protect.md) 
+### [Bridport.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.internal.md) 
 
-### [Bridport.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetBridport.private.md) 
+### [Bridport.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.protect.md) 
 
-### [Bridport.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetBridport.personal.md) 
+### [Bridport.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.private.md) 
 
-### [Bridport.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetBridport.secret.md)
+### [Bridport.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.personal.md) 
+
+### [Bridport.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kingston-upon-Hull.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_Riding\Kingston_upon_Hull\cities~Kingston_upon_HullKingston-upon-Hull.public.md) 
+### [Kingston-upon-Hull](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull/cities~Kingston_upon_Hull/Kingston-upon-Hull.md) 
 
-### [Kingston-upon-Hull.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_Riding\Kingston_upon_Hull\cities~Kingston_upon_HullKingston-upon-Hull.internal.md) 
+### [Kingston-upon-Hull.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull/cities~Kingston_upon_Hull/Kingston-upon-Hull.public.md) 
 
-### [Kingston-upon-Hull.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_Riding\Kingston_upon_Hull\cities~Kingston_upon_HullKingston-upon-Hull.protect.md) 
+### [Kingston-upon-Hull.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull/cities~Kingston_upon_Hull/Kingston-upon-Hull.internal.md) 
 
-### [Kingston-upon-Hull.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_Riding\Kingston_upon_Hull\cities~Kingston_upon_HullKingston-upon-Hull.private.md) 
+### [Kingston-upon-Hull.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull/cities~Kingston_upon_Hull/Kingston-upon-Hull.protect.md) 
 
-### [Kingston-upon-Hull.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_Riding\Kingston_upon_Hull\cities~Kingston_upon_HullKingston-upon-Hull.personal.md) 
+### [Kingston-upon-Hull.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull/cities~Kingston_upon_Hull/Kingston-upon-Hull.private.md) 
 
-### [Kingston-upon-Hull.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_Riding\Kingston_upon_Hull\cities~Kingston_upon_HullKingston-upon-Hull.secret.md)
+### [Kingston-upon-Hull.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull/cities~Kingston_upon_Hull/Kingston-upon-Hull.personal.md) 
+
+### [Kingston-upon-Hull.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull/cities~Kingston_upon_Hull/Kingston-upon-Hull.secret.md)
 

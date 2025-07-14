@@ -52,15 +52,17 @@ markerFolder: ./Trafford/
 
 ## Confidential Links & Embeds: 
 
-### [Trafford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTrafford.public.md) 
+### [Trafford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.md) 
 
-### [Trafford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTrafford.internal.md) 
+### [Trafford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.public.md) 
 
-### [Trafford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTrafford.protect.md) 
+### [Trafford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.internal.md) 
 
-### [Trafford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTrafford.private.md) 
+### [Trafford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.protect.md) 
 
-### [Trafford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTrafford.personal.md) 
+### [Trafford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.private.md) 
 
-### [Trafford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyTrafford.secret.md)
+### [Trafford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.personal.md) 
+
+### [Trafford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.secret.md)
 

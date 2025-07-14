@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Bromley-By-Bow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Bromley-By-Bow.public.md) 
+### [Sub~Bromley-By-Bow](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Bromley-By-Bow.md) 
 
-### [Sub~Bromley-By-Bow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Bromley-By-Bow.internal.md) 
+### [Sub~Bromley-By-Bow.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Bromley-By-Bow.public.md) 
 
-### [Sub~Bromley-By-Bow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Bromley-By-Bow.protect.md) 
+### [Sub~Bromley-By-Bow.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Bromley-By-Bow.internal.md) 
 
-### [Sub~Bromley-By-Bow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Bromley-By-Bow.private.md) 
+### [Sub~Bromley-By-Bow.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Bromley-By-Bow.protect.md) 
 
-### [Sub~Bromley-By-Bow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Bromley-By-Bow.personal.md) 
+### [Sub~Bromley-By-Bow.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Bromley-By-Bow.private.md) 
 
-### [Sub~Bromley-By-Bow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Bromley-By-Bow.secret.md)
+### [Sub~Bromley-By-Bow.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Bromley-By-Bow.personal.md) 
+
+### [Sub~Bromley-By-Bow.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Bromley-By-Bow.secret.md)
 

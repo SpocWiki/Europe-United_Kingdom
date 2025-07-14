@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Scunthorpe.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.public.md) 
+### [Scunthorpe](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.md) 
 
-### [Scunthorpe.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.internal.md) 
+### [Scunthorpe.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.public.md) 
 
-### [Scunthorpe.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.protect.md) 
+### [Scunthorpe.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.internal.md) 
 
-### [Scunthorpe.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.private.md) 
+### [Scunthorpe.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.protect.md) 
 
-### [Scunthorpe.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.personal.md) 
+### [Scunthorpe.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.private.md) 
 
-### [Scunthorpe.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.secret.md)
+### [Scunthorpe.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.personal.md) 
+
+### [Scunthorpe.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.secret.md)
 

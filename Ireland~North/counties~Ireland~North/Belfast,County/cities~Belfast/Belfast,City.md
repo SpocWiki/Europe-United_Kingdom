@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belfast,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.public.md) 
+### [Belfast,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County/cities~Belfast/Belfast,City.md) 
 
-### [Belfast,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.internal.md) 
+### [Belfast,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County/cities~Belfast/Belfast,City.public.md) 
 
-### [Belfast,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.protect.md) 
+### [Belfast,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County/cities~Belfast/Belfast,City.internal.md) 
 
-### [Belfast,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.private.md) 
+### [Belfast,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County/cities~Belfast/Belfast,City.protect.md) 
 
-### [Belfast,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.personal.md) 
+### [Belfast,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County/cities~Belfast/Belfast,City.private.md) 
 
-### [Belfast,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.secret.md)
+### [Belfast,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County/cities~Belfast/Belfast,City.personal.md) 
+
+### [Belfast,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Belfast,County/cities~Belfast/Belfast,City.secret.md)
 

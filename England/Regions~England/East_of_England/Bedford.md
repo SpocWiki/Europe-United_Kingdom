@@ -41,15 +41,17 @@ markerFolder: ./Bedford/
 
 ## Confidential Links & Embeds: 
 
-### [Bedford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandBedford.public.md) 
+### [Bedford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.md) 
 
-### [Bedford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandBedford.internal.md) 
+### [Bedford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.public.md) 
 
-### [Bedford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandBedford.protect.md) 
+### [Bedford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.internal.md) 
 
-### [Bedford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandBedford.private.md) 
+### [Bedford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.protect.md) 
 
-### [Bedford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandBedford.personal.md) 
+### [Bedford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.private.md) 
 
-### [Bedford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandBedford.secret.md)
+### [Bedford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.personal.md) 
+
+### [Bedford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Swindon/
 
 ## Confidential Links & Embeds: 
 
-### [Swindon,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSwindon,County.public.md) 
+### [Swindon,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.md) 
 
-### [Swindon,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSwindon,County.internal.md) 
+### [Swindon,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.public.md) 
 
-### [Swindon,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSwindon,County.protect.md) 
+### [Swindon,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.internal.md) 
 
-### [Swindon,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSwindon,County.private.md) 
+### [Swindon,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.protect.md) 
 
-### [Swindon,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSwindon,County.personal.md) 
+### [Swindon,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.private.md) 
 
-### [Swindon,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSwindon,County.secret.md)
+### [Swindon,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.personal.md) 
+
+### [Swindon,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.secret.md)
 

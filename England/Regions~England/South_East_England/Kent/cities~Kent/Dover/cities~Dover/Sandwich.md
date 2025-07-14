@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sandwich.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverSandwich.public.md) 
+### [Sandwich](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Sandwich.md) 
 
-### [Sandwich.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverSandwich.internal.md) 
+### [Sandwich.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Sandwich.public.md) 
 
-### [Sandwich.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverSandwich.protect.md) 
+### [Sandwich.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Sandwich.internal.md) 
 
-### [Sandwich.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverSandwich.private.md) 
+### [Sandwich.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Sandwich.protect.md) 
 
-### [Sandwich.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverSandwich.personal.md) 
+### [Sandwich.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Sandwich.private.md) 
 
-### [Sandwich.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverSandwich.secret.md)
+### [Sandwich.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Sandwich.personal.md) 
+
+### [Sandwich.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Sandwich.secret.md)
 

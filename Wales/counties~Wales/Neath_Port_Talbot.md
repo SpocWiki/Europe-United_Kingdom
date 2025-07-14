@@ -41,15 +41,17 @@ markerFolder: ./Neath_Port_Talbot/
 
 ## Confidential Links & Embeds: 
 
-### [Neath_Port_Talbot.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNeath_Port_Talbot.public.md) 
+### [Neath_Port_Talbot](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.md) 
 
-### [Neath_Port_Talbot.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNeath_Port_Talbot.internal.md) 
+### [Neath_Port_Talbot.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.public.md) 
 
-### [Neath_Port_Talbot.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNeath_Port_Talbot.protect.md) 
+### [Neath_Port_Talbot.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.internal.md) 
 
-### [Neath_Port_Talbot.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNeath_Port_Talbot.private.md) 
+### [Neath_Port_Talbot.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.protect.md) 
 
-### [Neath_Port_Talbot.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNeath_Port_Talbot.personal.md) 
+### [Neath_Port_Talbot.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.private.md) 
 
-### [Neath_Port_Talbot.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNeath_Port_Talbot.secret.md)
+### [Neath_Port_Talbot.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.personal.md) 
+
+### [Neath_Port_Talbot.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lanark.public](/_public/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.public.md) 
+### [Lanark](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/Lanark.md) 
 
-### [Lanark.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.internal.md) 
+### [Lanark.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/Lanark.public.md) 
 
-### [Lanark.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.protect.md) 
+### [Lanark.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/Lanark.internal.md) 
 
-### [Lanark.private](/_private/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.private.md) 
+### [Lanark.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/Lanark.protect.md) 
 
-### [Lanark.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.personal.md) 
+### [Lanark.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/Lanark.private.md) 
 
-### [Lanark.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.secret.md)
+### [Lanark.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/Lanark.personal.md) 
+
+### [Lanark.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/Lanark.secret.md)
 

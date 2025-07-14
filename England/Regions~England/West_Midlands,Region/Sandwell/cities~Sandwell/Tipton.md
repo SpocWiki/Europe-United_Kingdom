@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tipton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.public.md) 
+### [Tipton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.md) 
 
-### [Tipton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.internal.md) 
+### [Tipton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.public.md) 
 
-### [Tipton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.protect.md) 
+### [Tipton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.internal.md) 
 
-### [Tipton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.private.md) 
+### [Tipton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.protect.md) 
 
-### [Tipton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.personal.md) 
+### [Tipton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.private.md) 
 
-### [Tipton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.secret.md)
+### [Tipton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.personal.md) 
+
+### [Tipton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.secret.md)
 

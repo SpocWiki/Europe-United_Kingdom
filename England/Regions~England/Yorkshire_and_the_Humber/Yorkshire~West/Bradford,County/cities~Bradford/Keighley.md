@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Keighley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.public.md) 
+### [Keighley](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Keighley.md) 
 
-### [Keighley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.internal.md) 
+### [Keighley.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Keighley.public.md) 
 
-### [Keighley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.protect.md) 
+### [Keighley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Keighley.internal.md) 
 
-### [Keighley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.private.md) 
+### [Keighley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Keighley.protect.md) 
 
-### [Keighley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.personal.md) 
+### [Keighley.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Keighley.private.md) 
 
-### [Keighley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.secret.md)
+### [Keighley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Keighley.personal.md) 
+
+### [Keighley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Keighley.secret.md)
 

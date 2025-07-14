@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mildenhall.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.public.md) 
+### [Mildenhall](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/ForestHeath/cities~ForestHeath/Mildenhall.md) 
 
-### [Mildenhall.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.internal.md) 
+### [Mildenhall.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/ForestHeath/cities~ForestHeath/Mildenhall.public.md) 
 
-### [Mildenhall.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.protect.md) 
+### [Mildenhall.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/ForestHeath/cities~ForestHeath/Mildenhall.internal.md) 
 
-### [Mildenhall.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.private.md) 
+### [Mildenhall.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/ForestHeath/cities~ForestHeath/Mildenhall.protect.md) 
 
-### [Mildenhall.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.personal.md) 
+### [Mildenhall.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/ForestHeath/cities~ForestHeath/Mildenhall.private.md) 
 
-### [Mildenhall.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.secret.md)
+### [Mildenhall.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/ForestHeath/cities~ForestHeath/Mildenhall.personal.md) 
+
+### [Mildenhall.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/ForestHeath/cities~ForestHeath/Mildenhall.secret.md)
 

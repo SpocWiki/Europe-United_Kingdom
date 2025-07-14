@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lerwick.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Shetland_IslandsLerwick.public.md) 
+### [Lerwick](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands/Lerwick.md) 
 
-### [Lerwick.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Shetland_IslandsLerwick.internal.md) 
+### [Lerwick.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands/Lerwick.public.md) 
 
-### [Lerwick.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Shetland_IslandsLerwick.protect.md) 
+### [Lerwick.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands/Lerwick.internal.md) 
 
-### [Lerwick.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Shetland_IslandsLerwick.private.md) 
+### [Lerwick.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands/Lerwick.protect.md) 
 
-### [Lerwick.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Shetland_IslandsLerwick.personal.md) 
+### [Lerwick.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands/Lerwick.private.md) 
 
-### [Lerwick.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Shetland_IslandsLerwick.secret.md)
+### [Lerwick.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands/Lerwick.personal.md) 
+
+### [Lerwick.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands/Lerwick.secret.md)
 

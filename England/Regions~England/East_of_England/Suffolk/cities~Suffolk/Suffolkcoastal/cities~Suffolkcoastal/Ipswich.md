@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ipswich.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.public.md) 
+### [Ipswich](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Ipswich.md) 
 
-### [Ipswich.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.internal.md) 
+### [Ipswich.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Ipswich.public.md) 
 
-### [Ipswich.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.protect.md) 
+### [Ipswich.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Ipswich.internal.md) 
 
-### [Ipswich.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.private.md) 
+### [Ipswich.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Ipswich.protect.md) 
 
-### [Ipswich.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.personal.md) 
+### [Ipswich.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Ipswich.private.md) 
 
-### [Ipswich.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.secret.md)
+### [Ipswich.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Ipswich.personal.md) 
+
+### [Ipswich.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Ipswich.secret.md)
 

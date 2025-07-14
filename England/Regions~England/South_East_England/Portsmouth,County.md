@@ -41,15 +41,17 @@ markerFolder: ./Portsmouth/
 
 ## Confidential Links & Embeds: 
 
-### [Portsmouth,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.public.md) 
+### [Portsmouth,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County.md) 
 
-### [Portsmouth,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.internal.md) 
+### [Portsmouth,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County.public.md) 
 
-### [Portsmouth,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.protect.md) 
+### [Portsmouth,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County.internal.md) 
 
-### [Portsmouth,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.private.md) 
+### [Portsmouth,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County.protect.md) 
 
-### [Portsmouth,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.personal.md) 
+### [Portsmouth,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County.private.md) 
 
-### [Portsmouth,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.secret.md)
+### [Portsmouth,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County.personal.md) 
+
+### [Portsmouth,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County.secret.md)
 

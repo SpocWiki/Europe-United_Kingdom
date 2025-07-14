@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [West_Bromwich.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellWest_Bromwich.public.md) 
+### [West_Bromwich](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/West_Bromwich.md) 
 
-### [West_Bromwich.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellWest_Bromwich.internal.md) 
+### [West_Bromwich.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/West_Bromwich.public.md) 
 
-### [West_Bromwich.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellWest_Bromwich.protect.md) 
+### [West_Bromwich.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/West_Bromwich.internal.md) 
 
-### [West_Bromwich.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellWest_Bromwich.private.md) 
+### [West_Bromwich.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/West_Bromwich.protect.md) 
 
-### [West_Bromwich.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellWest_Bromwich.personal.md) 
+### [West_Bromwich.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/West_Bromwich.private.md) 
 
-### [West_Bromwich.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellWest_Bromwich.secret.md)
+### [West_Bromwich.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/West_Bromwich.personal.md) 
+
+### [West_Bromwich.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/West_Bromwich.secret.md)
 

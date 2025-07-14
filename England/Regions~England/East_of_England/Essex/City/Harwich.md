@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harwich.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\CityHarwich.public.md) 
+### [Harwich](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/City/Harwich.md) 
 
-### [Harwich.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\CityHarwich.internal.md) 
+### [Harwich.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/City/Harwich.public.md) 
 
-### [Harwich.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\CityHarwich.protect.md) 
+### [Harwich.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/City/Harwich.internal.md) 
 
-### [Harwich.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\CityHarwich.private.md) 
+### [Harwich.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/City/Harwich.protect.md) 
 
-### [Harwich.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\CityHarwich.personal.md) 
+### [Harwich.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/City/Harwich.private.md) 
 
-### [Harwich.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\CityHarwich.secret.md)
+### [Harwich.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/City/Harwich.personal.md) 
+
+### [Harwich.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/City/Harwich.secret.md)
 

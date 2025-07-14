@@ -41,15 +41,17 @@ markerFolder: ./Warrington/
 
 ## Confidential Links & Embeds: 
 
-### [Warrington,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandWarrington,County.public.md) 
+### [Warrington,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County.md) 
 
-### [Warrington,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandWarrington,County.internal.md) 
+### [Warrington,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County.public.md) 
 
-### [Warrington,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandWarrington,County.protect.md) 
+### [Warrington,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County.internal.md) 
 
-### [Warrington,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandWarrington,County.private.md) 
+### [Warrington,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County.protect.md) 
 
-### [Warrington,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandWarrington,County.personal.md) 
+### [Warrington,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County.private.md) 
 
-### [Warrington,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandWarrington,County.secret.md)
+### [Warrington,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County.personal.md) 
+
+### [Warrington,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County.secret.md)
 

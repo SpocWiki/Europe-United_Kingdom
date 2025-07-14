@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Spurn_Head.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.public.md) 
+### [Island~Spurn_Head](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.md) 
 
-### [Island~Spurn_Head.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.internal.md) 
+### [Island~Spurn_Head.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.public.md) 
 
-### [Island~Spurn_Head.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.protect.md) 
+### [Island~Spurn_Head.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.internal.md) 
 
-### [Island~Spurn_Head.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.private.md) 
+### [Island~Spurn_Head.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.protect.md) 
 
-### [Island~Spurn_Head.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.personal.md) 
+### [Island~Spurn_Head.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.private.md) 
 
-### [Island~Spurn_Head.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.secret.md)
+### [Island~Spurn_Head.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.personal.md) 
+
+### [Island~Spurn_Head.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.secret.md)
 

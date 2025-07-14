@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Shrewsbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.public.md) 
+### [Shrewsbury](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Shrewsbury.md) 
 
-### [Shrewsbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.internal.md) 
+### [Shrewsbury.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Shrewsbury.public.md) 
 
-### [Shrewsbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.protect.md) 
+### [Shrewsbury.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Shrewsbury.internal.md) 
 
-### [Shrewsbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.private.md) 
+### [Shrewsbury.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Shrewsbury.protect.md) 
 
-### [Shrewsbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.personal.md) 
+### [Shrewsbury.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Shrewsbury.private.md) 
 
-### [Shrewsbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.secret.md)
+### [Shrewsbury.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Shrewsbury.personal.md) 
+
+### [Shrewsbury.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Shrewsbury.secret.md)
 

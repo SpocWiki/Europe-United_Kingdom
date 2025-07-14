@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nottingham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.public.md) 
+### [Nottingham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County/cities~Nottingham/Nottingham.md) 
 
-### [Nottingham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.internal.md) 
+### [Nottingham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County/cities~Nottingham/Nottingham.public.md) 
 
-### [Nottingham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.protect.md) 
+### [Nottingham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County/cities~Nottingham/Nottingham.internal.md) 
 
-### [Nottingham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.private.md) 
+### [Nottingham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County/cities~Nottingham/Nottingham.protect.md) 
 
-### [Nottingham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.personal.md) 
+### [Nottingham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County/cities~Nottingham/Nottingham.private.md) 
 
-### [Nottingham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.secret.md)
+### [Nottingham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County/cities~Nottingham/Nottingham.personal.md) 
+
+### [Nottingham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County/cities~Nottingham/Nottingham.secret.md)
 

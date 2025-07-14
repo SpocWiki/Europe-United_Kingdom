@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maidstone.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.public.md) 
+### [Maidstone](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Maidstone/cities~Maidstone/Maidstone.md) 
 
-### [Maidstone.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.internal.md) 
+### [Maidstone.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Maidstone/cities~Maidstone/Maidstone.public.md) 
 
-### [Maidstone.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.protect.md) 
+### [Maidstone.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Maidstone/cities~Maidstone/Maidstone.internal.md) 
 
-### [Maidstone.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.private.md) 
+### [Maidstone.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Maidstone/cities~Maidstone/Maidstone.protect.md) 
 
-### [Maidstone.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.personal.md) 
+### [Maidstone.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Maidstone/cities~Maidstone/Maidstone.private.md) 
 
-### [Maidstone.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.secret.md)
+### [Maidstone.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Maidstone/cities~Maidstone/Maidstone.personal.md) 
+
+### [Maidstone.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Maidstone/cities~Maidstone/Maidstone.secret.md)
 

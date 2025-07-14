@@ -41,15 +41,17 @@ markerFolder: ./Northumberland/
 
 ## Confidential Links & Embeds: 
 
-### [Northumberland.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.public.md) 
+### [Northumberland](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.md) 
 
-### [Northumberland.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.internal.md) 
+### [Northumberland.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.public.md) 
 
-### [Northumberland.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.protect.md) 
+### [Northumberland.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.internal.md) 
 
-### [Northumberland.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.private.md) 
+### [Northumberland.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.protect.md) 
 
-### [Northumberland.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.personal.md) 
+### [Northumberland.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.private.md) 
 
-### [Northumberland.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.secret.md)
+### [Northumberland.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.personal.md) 
+
+### [Northumberland.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.secret.md)
 

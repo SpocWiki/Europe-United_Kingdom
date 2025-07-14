@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Deal.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.public.md) 
+### [Deal](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Deal.md) 
 
-### [Deal.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.internal.md) 
+### [Deal.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Deal.public.md) 
 
-### [Deal.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.protect.md) 
+### [Deal.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Deal.internal.md) 
 
-### [Deal.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.private.md) 
+### [Deal.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Deal.protect.md) 
 
-### [Deal.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.personal.md) 
+### [Deal.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Deal.private.md) 
 
-### [Deal.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.secret.md)
+### [Deal.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Deal.personal.md) 
+
+### [Deal.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Deal.secret.md)
 

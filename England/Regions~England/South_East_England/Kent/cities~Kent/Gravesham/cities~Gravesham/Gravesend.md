@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gravesend.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Gravesham\cities~GraveshamGravesend.public.md) 
+### [Gravesend](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.md) 
 
-### [Gravesend.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Gravesham\cities~GraveshamGravesend.internal.md) 
+### [Gravesend.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.public.md) 
 
-### [Gravesend.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Gravesham\cities~GraveshamGravesend.protect.md) 
+### [Gravesend.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.internal.md) 
 
-### [Gravesend.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Gravesham\cities~GraveshamGravesend.private.md) 
+### [Gravesend.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.protect.md) 
 
-### [Gravesend.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Gravesham\cities~GraveshamGravesend.personal.md) 
+### [Gravesend.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.private.md) 
 
-### [Gravesend.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Gravesham\cities~GraveshamGravesend.secret.md)
+### [Gravesend.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.personal.md) 
+
+### [Gravesend.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.secret.md)
 

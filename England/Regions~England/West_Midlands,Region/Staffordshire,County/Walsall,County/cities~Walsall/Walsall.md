@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Walsall.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\Walsall,County\cities~WalsallWalsall.public.md) 
+### [Walsall](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County/cities~Walsall/Walsall.md) 
 
-### [Walsall.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\Walsall,County\cities~WalsallWalsall.internal.md) 
+### [Walsall.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County/cities~Walsall/Walsall.public.md) 
 
-### [Walsall.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\Walsall,County\cities~WalsallWalsall.protect.md) 
+### [Walsall.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County/cities~Walsall/Walsall.internal.md) 
 
-### [Walsall.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\Walsall,County\cities~WalsallWalsall.private.md) 
+### [Walsall.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County/cities~Walsall/Walsall.protect.md) 
 
-### [Walsall.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\Walsall,County\cities~WalsallWalsall.personal.md) 
+### [Walsall.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County/cities~Walsall/Walsall.private.md) 
 
-### [Walsall.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\Walsall,County\cities~WalsallWalsall.secret.md)
+### [Walsall.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County/cities~Walsall/Walsall.personal.md) 
+
+### [Walsall.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County/cities~Walsall/Walsall.secret.md)
 

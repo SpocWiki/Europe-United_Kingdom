@@ -41,15 +41,17 @@ markerFolder: ./Denbighshire/
 
 ## Confidential Links & Embeds: 
 
-### [Denbighshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesDenbighshire.public.md) 
+### [Denbighshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire.md) 
 
-### [Denbighshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesDenbighshire.internal.md) 
+### [Denbighshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire.public.md) 
 
-### [Denbighshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesDenbighshire.protect.md) 
+### [Denbighshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire.internal.md) 
 
-### [Denbighshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesDenbighshire.private.md) 
+### [Denbighshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire.protect.md) 
 
-### [Denbighshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesDenbighshire.personal.md) 
+### [Denbighshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire.private.md) 
 
-### [Denbighshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesDenbighshire.secret.md)
+### [Denbighshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire.personal.md) 
+
+### [Denbighshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire.secret.md)
 

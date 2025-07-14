@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trowbridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.public.md) 
+### [Trowbridge](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Trowbridge.md) 
 
-### [Trowbridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.internal.md) 
+### [Trowbridge.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Trowbridge.public.md) 
 
-### [Trowbridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.protect.md) 
+### [Trowbridge.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Trowbridge.internal.md) 
 
-### [Trowbridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.private.md) 
+### [Trowbridge.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Trowbridge.protect.md) 
 
-### [Trowbridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.personal.md) 
+### [Trowbridge.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Trowbridge.private.md) 
 
-### [Trowbridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.secret.md)
+### [Trowbridge.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Trowbridge.personal.md) 
+
+### [Trowbridge.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Trowbridge.secret.md)
 

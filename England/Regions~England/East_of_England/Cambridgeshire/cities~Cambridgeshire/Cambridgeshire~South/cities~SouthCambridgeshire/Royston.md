@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Royston.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.public.md) 
+### [Royston](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridgeshire~South/cities~SouthCambridgeshire/Royston.md) 
 
-### [Royston.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.internal.md) 
+### [Royston.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridgeshire~South/cities~SouthCambridgeshire/Royston.public.md) 
 
-### [Royston.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.protect.md) 
+### [Royston.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridgeshire~South/cities~SouthCambridgeshire/Royston.internal.md) 
 
-### [Royston.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.private.md) 
+### [Royston.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridgeshire~South/cities~SouthCambridgeshire/Royston.protect.md) 
 
-### [Royston.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.personal.md) 
+### [Royston.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridgeshire~South/cities~SouthCambridgeshire/Royston.private.md) 
 
-### [Royston.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.secret.md)
+### [Royston.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridgeshire~South/cities~SouthCambridgeshire/Royston.personal.md) 
+
+### [Royston.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridgeshire~South/cities~SouthCambridgeshire/Royston.secret.md)
 

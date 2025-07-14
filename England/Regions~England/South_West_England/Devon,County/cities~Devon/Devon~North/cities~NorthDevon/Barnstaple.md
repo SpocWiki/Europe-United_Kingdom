@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barnstaple.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.public.md) 
+### [Barnstaple](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~North/cities~NorthDevon/Barnstaple.md) 
 
-### [Barnstaple.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.internal.md) 
+### [Barnstaple.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~North/cities~NorthDevon/Barnstaple.public.md) 
 
-### [Barnstaple.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.protect.md) 
+### [Barnstaple.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~North/cities~NorthDevon/Barnstaple.internal.md) 
 
-### [Barnstaple.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.private.md) 
+### [Barnstaple.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~North/cities~NorthDevon/Barnstaple.protect.md) 
 
-### [Barnstaple.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.personal.md) 
+### [Barnstaple.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~North/cities~NorthDevon/Barnstaple.private.md) 
 
-### [Barnstaple.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.secret.md)
+### [Barnstaple.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~North/cities~NorthDevon/Barnstaple.personal.md) 
+
+### [Barnstaple.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~North/cities~NorthDevon/Barnstaple.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Luton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Luton,County\cities~LutonLuton.public.md) 
+### [Luton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County/cities~Luton/Luton.md) 
 
-### [Luton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Luton,County\cities~LutonLuton.internal.md) 
+### [Luton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County/cities~Luton/Luton.public.md) 
 
-### [Luton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Luton,County\cities~LutonLuton.protect.md) 
+### [Luton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County/cities~Luton/Luton.internal.md) 
 
-### [Luton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Luton,County\cities~LutonLuton.private.md) 
+### [Luton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County/cities~Luton/Luton.protect.md) 
 
-### [Luton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Luton,County\cities~LutonLuton.personal.md) 
+### [Luton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County/cities~Luton/Luton.private.md) 
 
-### [Luton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Luton,County\cities~LutonLuton.secret.md)
+### [Luton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County/cities~Luton/Luton.personal.md) 
+
+### [Luton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County/cities~Luton/Luton.secret.md)
 

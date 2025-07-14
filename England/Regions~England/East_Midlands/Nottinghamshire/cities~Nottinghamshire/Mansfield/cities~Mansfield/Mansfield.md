@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mansfield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.public.md) 
+### [Mansfield](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire/cities~Nottinghamshire/Mansfield/cities~Mansfield/Mansfield.md) 
 
-### [Mansfield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.internal.md) 
+### [Mansfield.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire/cities~Nottinghamshire/Mansfield/cities~Mansfield/Mansfield.public.md) 
 
-### [Mansfield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.protect.md) 
+### [Mansfield.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire/cities~Nottinghamshire/Mansfield/cities~Mansfield/Mansfield.internal.md) 
 
-### [Mansfield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.private.md) 
+### [Mansfield.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire/cities~Nottinghamshire/Mansfield/cities~Mansfield/Mansfield.protect.md) 
 
-### [Mansfield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.personal.md) 
+### [Mansfield.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire/cities~Nottinghamshire/Mansfield/cities~Mansfield/Mansfield.private.md) 
 
-### [Mansfield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.secret.md)
+### [Mansfield.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire/cities~Nottinghamshire/Mansfield/cities~Mansfield/Mansfield.personal.md) 
+
+### [Mansfield.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire/cities~Nottinghamshire/Mansfield/cities~Mansfield/Mansfield.secret.md)
 

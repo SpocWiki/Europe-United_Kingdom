@@ -41,15 +41,17 @@ markerFolder: ./Nottingham/
 
 ## Confidential Links & Embeds: 
 
-### [Nottingham,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNottingham,County.public.md) 
+### [Nottingham,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.md) 
 
-### [Nottingham,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNottingham,County.internal.md) 
+### [Nottingham,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.public.md) 
 
-### [Nottingham,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNottingham,County.protect.md) 
+### [Nottingham,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.internal.md) 
 
-### [Nottingham,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNottingham,County.private.md) 
+### [Nottingham,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.protect.md) 
 
-### [Nottingham,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNottingham,County.personal.md) 
+### [Nottingham,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.private.md) 
 
-### [Nottingham,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNottingham,County.secret.md)
+### [Nottingham,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.personal.md) 
+
+### [Nottingham,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.secret.md)
 

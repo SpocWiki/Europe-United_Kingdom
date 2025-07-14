@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Newry.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.public.md) 
+### [City~Newry](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne/City~Newry.md) 
 
-### [City~Newry.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.internal.md) 
+### [City~Newry.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne/City~Newry.public.md) 
 
-### [City~Newry.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.protect.md) 
+### [City~Newry.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne/City~Newry.internal.md) 
 
-### [City~Newry.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.private.md) 
+### [City~Newry.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne/City~Newry.protect.md) 
 
-### [City~Newry.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.personal.md) 
+### [City~Newry.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne/City~Newry.private.md) 
 
-### [City~Newry.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.secret.md)
+### [City~Newry.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne/City~Newry.personal.md) 
+
+### [City~Newry.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne/City~Newry.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Southampton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.public.md) 
+### [Southampton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.md) 
 
-### [Southampton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.internal.md) 
+### [Southampton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.public.md) 
 
-### [Southampton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.protect.md) 
+### [Southampton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.internal.md) 
 
-### [Southampton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.private.md) 
+### [Southampton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.protect.md) 
 
-### [Southampton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.personal.md) 
+### [Southampton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.private.md) 
 
-### [Southampton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.secret.md)
+### [Southampton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.personal.md) 
+
+### [Southampton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.secret.md)
 

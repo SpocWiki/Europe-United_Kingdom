@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Ruislip_Manor.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Manor.public.md) 
+### [Sub~Ruislip_Manor](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Manor.md) 
 
-### [Sub~Ruislip_Manor.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Manor.internal.md) 
+### [Sub~Ruislip_Manor.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Manor.public.md) 
 
-### [Sub~Ruislip_Manor.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Manor.protect.md) 
+### [Sub~Ruislip_Manor.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Manor.internal.md) 
 
-### [Sub~Ruislip_Manor.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Manor.private.md) 
+### [Sub~Ruislip_Manor.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Manor.protect.md) 
 
-### [Sub~Ruislip_Manor.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Manor.personal.md) 
+### [Sub~Ruislip_Manor.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Manor.private.md) 
 
-### [Sub~Ruislip_Manor.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ruislip_Manor.secret.md)
+### [Sub~Ruislip_Manor.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Manor.personal.md) 
+
+### [Sub~Ruislip_Manor.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Ruislip_Manor.secret.md)
 

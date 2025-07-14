@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Merhyr_Tydfil.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.public.md) 
+### [Merhyr_Tydfil](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~Merthyr_Tydfil/Merhyr_Tydfil.md) 
 
-### [Merhyr_Tydfil.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.internal.md) 
+### [Merhyr_Tydfil.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~Merthyr_Tydfil/Merhyr_Tydfil.public.md) 
 
-### [Merhyr_Tydfil.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.protect.md) 
+### [Merhyr_Tydfil.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~Merthyr_Tydfil/Merhyr_Tydfil.internal.md) 
 
-### [Merhyr_Tydfil.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.private.md) 
+### [Merhyr_Tydfil.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~Merthyr_Tydfil/Merhyr_Tydfil.protect.md) 
 
-### [Merhyr_Tydfil.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.personal.md) 
+### [Merhyr_Tydfil.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~Merthyr_Tydfil/Merhyr_Tydfil.private.md) 
 
-### [Merhyr_Tydfil.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.secret.md)
+### [Merhyr_Tydfil.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~Merthyr_Tydfil/Merhyr_Tydfil.personal.md) 
+
+### [Merhyr_Tydfil.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil/cities~Merthyr_Tydfil/Merhyr_Tydfil.secret.md)
 

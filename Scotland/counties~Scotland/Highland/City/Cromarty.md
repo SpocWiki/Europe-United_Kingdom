@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cromarty.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\CityCromarty.public.md) 
+### [Cromarty](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/City/Cromarty.md) 
 
-### [Cromarty.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\CityCromarty.internal.md) 
+### [Cromarty.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/City/Cromarty.public.md) 
 
-### [Cromarty.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\CityCromarty.protect.md) 
+### [Cromarty.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/City/Cromarty.internal.md) 
 
-### [Cromarty.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\CityCromarty.private.md) 
+### [Cromarty.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/City/Cromarty.protect.md) 
 
-### [Cromarty.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\CityCromarty.personal.md) 
+### [Cromarty.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/City/Cromarty.private.md) 
 
-### [Cromarty.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\CityCromarty.secret.md)
+### [Cromarty.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/City/Cromarty.personal.md) 
+
+### [Cromarty.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/City/Cromarty.secret.md)
 

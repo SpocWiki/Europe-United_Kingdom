@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Winchelsea.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.public.md) 
+### [Winchelsea](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.md) 
 
-### [Winchelsea.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.internal.md) 
+### [Winchelsea.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.public.md) 
 
-### [Winchelsea.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.protect.md) 
+### [Winchelsea.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.internal.md) 
 
-### [Winchelsea.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.private.md) 
+### [Winchelsea.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.protect.md) 
 
-### [Winchelsea.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.personal.md) 
+### [Winchelsea.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.private.md) 
 
-### [Winchelsea.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.secret.md)
+### [Winchelsea.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.personal.md) 
+
+### [Winchelsea.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.secret.md)
 

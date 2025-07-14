@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Accrington.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.public.md) 
+### [Accrington](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Hyndburn/cities~Hyndburn/Accrington.md) 
 
-### [Accrington.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.internal.md) 
+### [Accrington.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Hyndburn/cities~Hyndburn/Accrington.public.md) 
 
-### [Accrington.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.protect.md) 
+### [Accrington.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Hyndburn/cities~Hyndburn/Accrington.internal.md) 
 
-### [Accrington.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.private.md) 
+### [Accrington.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Hyndburn/cities~Hyndburn/Accrington.protect.md) 
 
-### [Accrington.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.personal.md) 
+### [Accrington.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Hyndburn/cities~Hyndburn/Accrington.private.md) 
 
-### [Accrington.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.secret.md)
+### [Accrington.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Hyndburn/cities~Hyndburn/Accrington.personal.md) 
+
+### [Accrington.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Hyndburn/cities~Hyndburn/Accrington.secret.md)
 

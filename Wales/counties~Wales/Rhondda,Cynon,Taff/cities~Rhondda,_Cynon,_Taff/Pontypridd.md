@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pontypridd.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.public.md) 
+### [Pontypridd](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.md) 
 
-### [Pontypridd.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.internal.md) 
+### [Pontypridd.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.public.md) 
 
-### [Pontypridd.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.protect.md) 
+### [Pontypridd.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.internal.md) 
 
-### [Pontypridd.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.private.md) 
+### [Pontypridd.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.protect.md) 
 
-### [Pontypridd.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.personal.md) 
+### [Pontypridd.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.private.md) 
 
-### [Pontypridd.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.secret.md)
+### [Pontypridd.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.personal.md) 
+
+### [Pontypridd.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.secret.md)
 

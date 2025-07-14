@@ -65,15 +65,17 @@ markerFolder: ./Sandwell/
 
 ## Confidential Links & Embeds: 
 
-### [Sandwell.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.public.md) 
+### [Sandwell](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell.md) 
 
-### [Sandwell.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.internal.md) 
+### [Sandwell.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell.public.md) 
 
-### [Sandwell.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.protect.md) 
+### [Sandwell.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell.internal.md) 
 
-### [Sandwell.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.private.md) 
+### [Sandwell.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell.protect.md) 
 
-### [Sandwell.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.personal.md) 
+### [Sandwell.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell.private.md) 
 
-### [Sandwell.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.secret.md)
+### [Sandwell.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell.personal.md) 
+
+### [Sandwell.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell.secret.md)
 

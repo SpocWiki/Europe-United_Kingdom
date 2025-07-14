@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lymm.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.public.md) 
+### [Lymm](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.md) 
 
-### [Lymm.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.internal.md) 
+### [Lymm.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.public.md) 
 
-### [Lymm.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.protect.md) 
+### [Lymm.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.internal.md) 
 
-### [Lymm.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.private.md) 
+### [Lymm.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.protect.md) 
 
-### [Lymm.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.personal.md) 
+### [Lymm.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.private.md) 
 
-### [Lymm.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.secret.md)
+### [Lymm.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.personal.md) 
+
+### [Lymm.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.secret.md)
 

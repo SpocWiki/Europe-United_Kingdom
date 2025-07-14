@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Inverary.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.public.md) 
+### [Inverary](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Inverary.md) 
 
-### [Inverary.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.internal.md) 
+### [Inverary.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Inverary.public.md) 
 
-### [Inverary.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.protect.md) 
+### [Inverary.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Inverary.internal.md) 
 
-### [Inverary.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.private.md) 
+### [Inverary.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Inverary.protect.md) 
 
-### [Inverary.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.personal.md) 
+### [Inverary.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Inverary.private.md) 
 
-### [Inverary.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.secret.md)
+### [Inverary.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Inverary.personal.md) 
+
+### [Inverary.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/cities~Argyll_and_Bute/Inverary.secret.md)
 

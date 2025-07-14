@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leith.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.public.md) 
+### [Leith](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Leith.md) 
 
-### [Leith.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.internal.md) 
+### [Leith.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Leith.public.md) 
 
-### [Leith.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.protect.md) 
+### [Leith.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Leith.internal.md) 
 
-### [Leith.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.private.md) 
+### [Leith.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Leith.protect.md) 
 
-### [Leith.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.personal.md) 
+### [Leith.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Leith.private.md) 
 
-### [Leith.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.secret.md)
+### [Leith.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Leith.personal.md) 
+
+### [Leith.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Leith.secret.md)
 

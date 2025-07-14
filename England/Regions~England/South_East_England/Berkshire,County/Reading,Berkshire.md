@@ -51,15 +51,17 @@ markerFolder: ./Reading/
 
 ## Confidential Links & Embeds: 
 
-### [Reading,Berkshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.public.md) 
+### [Reading,Berkshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.md) 
 
-### [Reading,Berkshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.internal.md) 
+### [Reading,Berkshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.public.md) 
 
-### [Reading,Berkshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.protect.md) 
+### [Reading,Berkshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.internal.md) 
 
-### [Reading,Berkshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.private.md) 
+### [Reading,Berkshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.protect.md) 
 
-### [Reading,Berkshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.personal.md) 
+### [Reading,Berkshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.private.md) 
 
-### [Reading,Berkshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.secret.md)
+### [Reading,Berkshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.personal.md) 
+
+### [Reading,Berkshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.secret.md)
 

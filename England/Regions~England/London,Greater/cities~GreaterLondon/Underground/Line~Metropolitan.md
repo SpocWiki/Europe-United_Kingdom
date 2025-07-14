@@ -88,15 +88,17 @@ FROM outgoing([[Line~Metropolitan]])
 
 ## Confidential Links & Embeds: 
 
-### [Line~Metropolitan.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Metropolitan.public.md) 
+### [Line~Metropolitan](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.md) 
 
-### [Line~Metropolitan.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Metropolitan.internal.md) 
+### [Line~Metropolitan.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.public.md) 
 
-### [Line~Metropolitan.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Metropolitan.protect.md) 
+### [Line~Metropolitan.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.internal.md) 
 
-### [Line~Metropolitan.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Metropolitan.private.md) 
+### [Line~Metropolitan.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.protect.md) 
 
-### [Line~Metropolitan.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Metropolitan.personal.md) 
+### [Line~Metropolitan.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.private.md) 
 
-### [Line~Metropolitan.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Metropolitan.secret.md)
+### [Line~Metropolitan.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.personal.md) 
+
+### [Line~Metropolitan.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.secret.md)
 

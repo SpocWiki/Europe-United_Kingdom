@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Farnham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.public.md) 
+### [Farnham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.md) 
 
-### [Farnham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.internal.md) 
+### [Farnham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.public.md) 
 
-### [Farnham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.protect.md) 
+### [Farnham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.internal.md) 
 
-### [Farnham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.private.md) 
+### [Farnham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.protect.md) 
 
-### [Farnham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.personal.md) 
+### [Farnham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.private.md) 
 
-### [Farnham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.secret.md)
+### [Farnham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.personal.md) 
+
+### [Farnham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.secret.md)
 

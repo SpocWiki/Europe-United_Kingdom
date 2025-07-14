@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waltham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.public.md) 
+### [Waltham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.md) 
 
-### [Waltham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.internal.md) 
+### [Waltham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.public.md) 
 
-### [Waltham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.protect.md) 
+### [Waltham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.internal.md) 
 
-### [Waltham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.private.md) 
+### [Waltham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.protect.md) 
 
-### [Waltham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.personal.md) 
+### [Waltham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.private.md) 
 
-### [Waltham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.secret.md)
+### [Waltham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.personal.md) 
+
+### [Waltham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.secret.md)
 

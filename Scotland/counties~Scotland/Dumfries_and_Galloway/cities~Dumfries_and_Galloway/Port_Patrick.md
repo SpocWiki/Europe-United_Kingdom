@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Port_Patrick.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.public.md) 
+### [Port_Patrick](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.md) 
 
-### [Port_Patrick.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.internal.md) 
+### [Port_Patrick.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.public.md) 
 
-### [Port_Patrick.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.protect.md) 
+### [Port_Patrick.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.internal.md) 
 
-### [Port_Patrick.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.private.md) 
+### [Port_Patrick.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.protect.md) 
 
-### [Port_Patrick.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.personal.md) 
+### [Port_Patrick.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.private.md) 
 
-### [Port_Patrick.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.secret.md)
+### [Port_Patrick.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.personal.md) 
+
+### [Port_Patrick.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.secret.md)
 

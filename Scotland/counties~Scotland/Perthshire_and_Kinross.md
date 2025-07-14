@@ -41,15 +41,17 @@ markerFolder: ./Perthshire_and_Kinross/
 
 ## Confidential Links & Embeds: 
 
-### [Perthshire_and_Kinross.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerthshire_and_Kinross.public.md) 
+### [Perthshire_and_Kinross](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross.md) 
 
-### [Perthshire_and_Kinross.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerthshire_and_Kinross.internal.md) 
+### [Perthshire_and_Kinross.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross.public.md) 
 
-### [Perthshire_and_Kinross.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerthshire_and_Kinross.protect.md) 
+### [Perthshire_and_Kinross.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross.internal.md) 
 
-### [Perthshire_and_Kinross.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerthshire_and_Kinross.private.md) 
+### [Perthshire_and_Kinross.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross.protect.md) 
 
-### [Perthshire_and_Kinross.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerthshire_and_Kinross.personal.md) 
+### [Perthshire_and_Kinross.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross.private.md) 
 
-### [Perthshire_and_Kinross.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerthshire_and_Kinross.secret.md)
+### [Perthshire_and_Kinross.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross.personal.md) 
+
+### [Perthshire_and_Kinross.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross.secret.md)
 

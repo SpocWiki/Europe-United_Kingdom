@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tynemouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.public.md) 
+### [Tynemouth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~NorthTyneside/Tynemouth.md) 
 
-### [Tynemouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.internal.md) 
+### [Tynemouth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~NorthTyneside/Tynemouth.public.md) 
 
-### [Tynemouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.protect.md) 
+### [Tynemouth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~NorthTyneside/Tynemouth.internal.md) 
 
-### [Tynemouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.private.md) 
+### [Tynemouth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~NorthTyneside/Tynemouth.protect.md) 
 
-### [Tynemouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.personal.md) 
+### [Tynemouth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~NorthTyneside/Tynemouth.private.md) 
 
-### [Tynemouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.secret.md)
+### [Tynemouth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~NorthTyneside/Tynemouth.personal.md) 
+
+### [Tynemouth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~North/cities~NorthTyneside/Tynemouth.secret.md)
 

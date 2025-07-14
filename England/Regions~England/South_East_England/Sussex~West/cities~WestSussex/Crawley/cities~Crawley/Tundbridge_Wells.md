@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tundbridge_Wells.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.public.md) 
+### [Tundbridge_Wells](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Crawley/cities~Crawley/Tundbridge_Wells.md) 
 
-### [Tundbridge_Wells.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.internal.md) 
+### [Tundbridge_Wells.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Crawley/cities~Crawley/Tundbridge_Wells.public.md) 
 
-### [Tundbridge_Wells.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.protect.md) 
+### [Tundbridge_Wells.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Crawley/cities~Crawley/Tundbridge_Wells.internal.md) 
 
-### [Tundbridge_Wells.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.private.md) 
+### [Tundbridge_Wells.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Crawley/cities~Crawley/Tundbridge_Wells.protect.md) 
 
-### [Tundbridge_Wells.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.personal.md) 
+### [Tundbridge_Wells.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Crawley/cities~Crawley/Tundbridge_Wells.private.md) 
 
-### [Tundbridge_Wells.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.secret.md)
+### [Tundbridge_Wells.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Crawley/cities~Crawley/Tundbridge_Wells.personal.md) 
+
+### [Tundbridge_Wells.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Crawley/cities~Crawley/Tundbridge_Wells.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carmathen.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.public.md) 
+### [Carmathen](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.md) 
 
-### [Carmathen.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.internal.md) 
+### [Carmathen.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.public.md) 
 
-### [Carmathen.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.protect.md) 
+### [Carmathen.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.internal.md) 
 
-### [Carmathen.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.private.md) 
+### [Carmathen.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.protect.md) 
 
-### [Carmathen.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.personal.md) 
+### [Carmathen.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.private.md) 
 
-### [Carmathen.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.secret.md)
+### [Carmathen.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.personal.md) 
+
+### [Carmathen.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.secret.md)
 

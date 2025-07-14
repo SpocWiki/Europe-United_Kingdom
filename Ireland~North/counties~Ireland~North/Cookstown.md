@@ -41,15 +41,17 @@ markerFolder: ./Cookstown/
 
 ## Confidential Links & Embeds: 
 
-### [Cookstown.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCookstown.public.md) 
+### [Cookstown](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown.md) 
 
-### [Cookstown.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCookstown.internal.md) 
+### [Cookstown.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown.public.md) 
 
-### [Cookstown.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCookstown.protect.md) 
+### [Cookstown.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown.internal.md) 
 
-### [Cookstown.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCookstown.private.md) 
+### [Cookstown.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown.protect.md) 
 
-### [Cookstown.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCookstown.personal.md) 
+### [Cookstown.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown.private.md) 
 
-### [Cookstown.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthCookstown.secret.md)
+### [Cookstown.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown.personal.md) 
+
+### [Cookstown.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Stockport/
 
 ## Confidential Links & Embeds: 
 
-### [Stockport,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyStockport,County.public.md) 
+### [Stockport,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County.md) 
 
-### [Stockport,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyStockport,County.internal.md) 
+### [Stockport,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County.public.md) 
 
-### [Stockport,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyStockport,County.protect.md) 
+### [Stockport,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County.internal.md) 
 
-### [Stockport,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyStockport,County.private.md) 
+### [Stockport,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County.protect.md) 
 
-### [Stockport,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyStockport,County.personal.md) 
+### [Stockport,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County.private.md) 
 
-### [Stockport,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyStockport,County.secret.md)
+### [Stockport,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County.personal.md) 
+
+### [Stockport,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County.secret.md)
 

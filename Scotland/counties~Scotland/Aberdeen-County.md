@@ -41,15 +41,17 @@ markerFolder: ./Aberdeen/
 
 ## Confidential Links & Embeds: 
 
-### [Aberdeen-County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAberdeen-County.public.md) 
+### [Aberdeen-County](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.md) 
 
-### [Aberdeen-County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAberdeen-County.internal.md) 
+### [Aberdeen-County.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.public.md) 
 
-### [Aberdeen-County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAberdeen-County.protect.md) 
+### [Aberdeen-County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.internal.md) 
 
-### [Aberdeen-County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAberdeen-County.private.md) 
+### [Aberdeen-County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.protect.md) 
 
-### [Aberdeen-County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAberdeen-County.personal.md) 
+### [Aberdeen-County.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.private.md) 
 
-### [Aberdeen-County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAberdeen-County.secret.md)
+### [Aberdeen-County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.personal.md) 
+
+### [Aberdeen-County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.secret.md)
 

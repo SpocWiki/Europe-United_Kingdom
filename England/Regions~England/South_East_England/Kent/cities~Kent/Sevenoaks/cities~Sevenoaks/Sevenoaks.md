@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sevenoaks.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.public.md) 
+### [Sevenoaks](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.md) 
 
-### [Sevenoaks.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.internal.md) 
+### [Sevenoaks.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.public.md) 
 
-### [Sevenoaks.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.protect.md) 
+### [Sevenoaks.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.internal.md) 
 
-### [Sevenoaks.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.private.md) 
+### [Sevenoaks.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.protect.md) 
 
-### [Sevenoaks.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.personal.md) 
+### [Sevenoaks.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.private.md) 
 
-### [Sevenoaks.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.secret.md)
+### [Sevenoaks.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.personal.md) 
+
+### [Sevenoaks.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Edinburgh-City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.public.md) 
+### [Edinburgh-City](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.md) 
 
-### [Edinburgh-City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.internal.md) 
+### [Edinburgh-City.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.public.md) 
 
-### [Edinburgh-City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.protect.md) 
+### [Edinburgh-City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.internal.md) 
 
-### [Edinburgh-City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.private.md) 
+### [Edinburgh-City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.protect.md) 
 
-### [Edinburgh-City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.personal.md) 
+### [Edinburgh-City.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.private.md) 
 
-### [Edinburgh-City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.secret.md)
+### [Edinburgh-City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.personal.md) 
+
+### [Edinburgh-City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.secret.md)
 

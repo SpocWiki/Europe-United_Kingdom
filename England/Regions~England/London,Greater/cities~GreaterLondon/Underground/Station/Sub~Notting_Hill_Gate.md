@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Notting_Hill_Gate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Notting_Hill_Gate.public.md) 
+### [Sub~Notting_Hill_Gate](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Notting_Hill_Gate.md) 
 
-### [Sub~Notting_Hill_Gate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Notting_Hill_Gate.internal.md) 
+### [Sub~Notting_Hill_Gate.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Notting_Hill_Gate.public.md) 
 
-### [Sub~Notting_Hill_Gate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Notting_Hill_Gate.protect.md) 
+### [Sub~Notting_Hill_Gate.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Notting_Hill_Gate.internal.md) 
 
-### [Sub~Notting_Hill_Gate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Notting_Hill_Gate.private.md) 
+### [Sub~Notting_Hill_Gate.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Notting_Hill_Gate.protect.md) 
 
-### [Sub~Notting_Hill_Gate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Notting_Hill_Gate.personal.md) 
+### [Sub~Notting_Hill_Gate.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Notting_Hill_Gate.private.md) 
 
-### [Sub~Notting_Hill_Gate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Notting_Hill_Gate.secret.md)
+### [Sub~Notting_Hill_Gate.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Notting_Hill_Gate.personal.md) 
+
+### [Sub~Notting_Hill_Gate.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Notting_Hill_Gate.secret.md)
 

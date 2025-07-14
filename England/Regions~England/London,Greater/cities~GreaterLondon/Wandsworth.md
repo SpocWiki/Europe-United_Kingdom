@@ -41,15 +41,17 @@ markerFolder: ./Wandsworth/
 
 ## Confidential Links & Embeds: 
 
-### [Wandsworth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWandsworth.public.md) 
+### [Wandsworth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Wandsworth.md) 
 
-### [Wandsworth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWandsworth.internal.md) 
+### [Wandsworth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Wandsworth.public.md) 
 
-### [Wandsworth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWandsworth.protect.md) 
+### [Wandsworth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Wandsworth.internal.md) 
 
-### [Wandsworth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWandsworth.private.md) 
+### [Wandsworth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Wandsworth.protect.md) 
 
-### [Wandsworth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWandsworth.personal.md) 
+### [Wandsworth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Wandsworth.private.md) 
 
-### [Wandsworth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWandsworth.secret.md)
+### [Wandsworth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Wandsworth.personal.md) 
+
+### [Wandsworth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Wandsworth.secret.md)
 

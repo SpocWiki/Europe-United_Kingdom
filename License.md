@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~North\UKLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~North/UK/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~North/UK/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~North\UKLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~North/UK/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/License.secret.md)
 

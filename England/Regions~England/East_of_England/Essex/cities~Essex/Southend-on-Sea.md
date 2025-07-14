@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Southend-on-Sea.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.public.md) 
+### [Southend-on-Sea](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Southend-on-Sea.md) 
 
-### [Southend-on-Sea.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.internal.md) 
+### [Southend-on-Sea.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Southend-on-Sea.public.md) 
 
-### [Southend-on-Sea.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.protect.md) 
+### [Southend-on-Sea.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Southend-on-Sea.internal.md) 
 
-### [Southend-on-Sea.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.private.md) 
+### [Southend-on-Sea.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Southend-on-Sea.protect.md) 
 
-### [Southend-on-Sea.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.personal.md) 
+### [Southend-on-Sea.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Southend-on-Sea.private.md) 
 
-### [Southend-on-Sea.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.secret.md)
+### [Southend-on-Sea.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Southend-on-Sea.personal.md) 
+
+### [Southend-on-Sea.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Southend-on-Sea.secret.md)
 

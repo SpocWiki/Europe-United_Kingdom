@@ -41,15 +41,17 @@ markerFolder: ./Ballymoney/
 
 ## Confidential Links & Embeds: 
 
-### [Ballymoney.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBallymoney.public.md) 
+### [Ballymoney](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ballymoney.md) 
 
-### [Ballymoney.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBallymoney.internal.md) 
+### [Ballymoney.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ballymoney.public.md) 
 
-### [Ballymoney.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBallymoney.protect.md) 
+### [Ballymoney.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ballymoney.internal.md) 
 
-### [Ballymoney.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBallymoney.private.md) 
+### [Ballymoney.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ballymoney.protect.md) 
 
-### [Ballymoney.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBallymoney.personal.md) 
+### [Ballymoney.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ballymoney.private.md) 
 
-### [Ballymoney.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthBallymoney.secret.md)
+### [Ballymoney.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ballymoney.personal.md) 
+
+### [Ballymoney.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ballymoney.secret.md)
 

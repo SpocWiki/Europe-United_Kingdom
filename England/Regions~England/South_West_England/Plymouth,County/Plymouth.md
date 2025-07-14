@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Plymouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.public.md) 
+### [Plymouth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County/Plymouth.md) 
 
-### [Plymouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.internal.md) 
+### [Plymouth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County/Plymouth.public.md) 
 
-### [Plymouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.protect.md) 
+### [Plymouth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County/Plymouth.internal.md) 
 
-### [Plymouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.private.md) 
+### [Plymouth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County/Plymouth.protect.md) 
 
-### [Plymouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.personal.md) 
+### [Plymouth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County/Plymouth.private.md) 
 
-### [Plymouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.secret.md)
+### [Plymouth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County/Plymouth.personal.md) 
+
+### [Plymouth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County/Plymouth.secret.md)
 

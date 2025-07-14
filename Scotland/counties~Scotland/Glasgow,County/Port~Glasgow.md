@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Port~Glasgow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.public.md) 
+### [Port~Glasgow](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.md) 
 
-### [Port~Glasgow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.internal.md) 
+### [Port~Glasgow.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.public.md) 
 
-### [Port~Glasgow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.protect.md) 
+### [Port~Glasgow.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.internal.md) 
 
-### [Port~Glasgow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.private.md) 
+### [Port~Glasgow.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.protect.md) 
 
-### [Port~Glasgow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.personal.md) 
+### [Port~Glasgow.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.private.md) 
 
-### [Port~Glasgow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.secret.md)
+### [Port~Glasgow.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.personal.md) 
+
+### [Port~Glasgow.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.secret.md)
 

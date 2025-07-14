@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yarm.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.public.md) 
+### [Yarm](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/Middlesbrough/cities~Middlesbrough/Yarm.md) 
 
-### [Yarm.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.internal.md) 
+### [Yarm.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/Middlesbrough/cities~Middlesbrough/Yarm.public.md) 
 
-### [Yarm.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.protect.md) 
+### [Yarm.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/Middlesbrough/cities~Middlesbrough/Yarm.internal.md) 
 
-### [Yarm.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.private.md) 
+### [Yarm.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/Middlesbrough/cities~Middlesbrough/Yarm.protect.md) 
 
-### [Yarm.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.personal.md) 
+### [Yarm.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/Middlesbrough/cities~Middlesbrough/Yarm.private.md) 
 
-### [Yarm.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.secret.md)
+### [Yarm.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/Middlesbrough/cities~Middlesbrough/Yarm.personal.md) 
+
+### [Yarm.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/Middlesbrough/cities~Middlesbrough/Yarm.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Cornwall/
 
 ## Confidential Links & Embeds: 
 
-### [Cornwall.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandCornwall.public.md) 
+### [Cornwall](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.md) 
 
-### [Cornwall.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandCornwall.internal.md) 
+### [Cornwall.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.public.md) 
 
-### [Cornwall.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandCornwall.protect.md) 
+### [Cornwall.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.internal.md) 
 
-### [Cornwall.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandCornwall.private.md) 
+### [Cornwall.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.protect.md) 
 
-### [Cornwall.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandCornwall.personal.md) 
+### [Cornwall.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.private.md) 
 
-### [Cornwall.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandCornwall.secret.md)
+### [Cornwall.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.personal.md) 
+
+### [Cornwall.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.secret.md)
 

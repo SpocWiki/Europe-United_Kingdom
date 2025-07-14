@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [New_Romney.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.public.md) 
+### [New_Romney](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.md) 
 
-### [New_Romney.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.internal.md) 
+### [New_Romney.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.public.md) 
 
-### [New_Romney.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.protect.md) 
+### [New_Romney.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.internal.md) 
 
-### [New_Romney.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.private.md) 
+### [New_Romney.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.protect.md) 
 
-### [New_Romney.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.personal.md) 
+### [New_Romney.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.private.md) 
 
-### [New_Romney.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.secret.md)
+### [New_Romney.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.personal.md) 
+
+### [New_Romney.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Manchester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.public.md) 
+### [Manchester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.md) 
 
-### [Manchester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.internal.md) 
+### [Manchester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.public.md) 
 
-### [Manchester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.protect.md) 
+### [Manchester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.internal.md) 
 
-### [Manchester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.private.md) 
+### [Manchester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.protect.md) 
 
-### [Manchester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.personal.md) 
+### [Manchester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.private.md) 
 
-### [Manchester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.secret.md)
+### [Manchester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.personal.md) 
+
+### [Manchester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Buckinghamshire/
 
 ## Confidential Links & Embeds: 
 
-### [Buckinghamshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.public.md) 
+### [Buckinghamshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.md) 
 
-### [Buckinghamshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.internal.md) 
+### [Buckinghamshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.public.md) 
 
-### [Buckinghamshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.protect.md) 
+### [Buckinghamshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.internal.md) 
 
-### [Buckinghamshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.private.md) 
+### [Buckinghamshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.protect.md) 
 
-### [Buckinghamshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.personal.md) 
+### [Buckinghamshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.private.md) 
 
-### [Buckinghamshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.secret.md)
+### [Buckinghamshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.personal.md) 
+
+### [Buckinghamshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.secret.md)
 

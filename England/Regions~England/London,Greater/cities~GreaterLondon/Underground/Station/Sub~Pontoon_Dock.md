@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Pontoon_Dock.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pontoon_Dock.public.md) 
+### [Sub~Pontoon_Dock](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Pontoon_Dock.md) 
 
-### [Sub~Pontoon_Dock.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pontoon_Dock.internal.md) 
+### [Sub~Pontoon_Dock.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Pontoon_Dock.public.md) 
 
-### [Sub~Pontoon_Dock.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pontoon_Dock.protect.md) 
+### [Sub~Pontoon_Dock.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Pontoon_Dock.internal.md) 
 
-### [Sub~Pontoon_Dock.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pontoon_Dock.private.md) 
+### [Sub~Pontoon_Dock.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Pontoon_Dock.protect.md) 
 
-### [Sub~Pontoon_Dock.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pontoon_Dock.personal.md) 
+### [Sub~Pontoon_Dock.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Pontoon_Dock.private.md) 
 
-### [Sub~Pontoon_Dock.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pontoon_Dock.secret.md)
+### [Sub~Pontoon_Dock.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Pontoon_Dock.personal.md) 
+
+### [Sub~Pontoon_Dock.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Pontoon_Dock.secret.md)
 

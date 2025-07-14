@@ -46,15 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bury,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.public.md) 
+### [Bury,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bury,Borough/cities~Bury/Bury,City.md) 
 
-### [Bury,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.internal.md) 
+### [Bury,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bury,Borough/cities~Bury/Bury,City.public.md) 
 
-### [Bury,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.protect.md) 
+### [Bury,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bury,Borough/cities~Bury/Bury,City.internal.md) 
 
-### [Bury,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.private.md) 
+### [Bury,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bury,Borough/cities~Bury/Bury,City.protect.md) 
 
-### [Bury,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.personal.md) 
+### [Bury,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bury,Borough/cities~Bury/Bury,City.private.md) 
 
-### [Bury,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.secret.md)
+### [Bury,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bury,Borough/cities~Bury/Bury,City.personal.md) 
+
+### [Bury,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Bury,Borough/cities~Bury/Bury,City.secret.md)
 

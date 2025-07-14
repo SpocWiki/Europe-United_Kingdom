@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greenock.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\InverclydeGreenock.public.md) 
+### [Greenock](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.md) 
 
-### [Greenock.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\InverclydeGreenock.internal.md) 
+### [Greenock.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.public.md) 
 
-### [Greenock.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\InverclydeGreenock.protect.md) 
+### [Greenock.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.internal.md) 
 
-### [Greenock.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\InverclydeGreenock.private.md) 
+### [Greenock.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.protect.md) 
 
-### [Greenock.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\InverclydeGreenock.personal.md) 
+### [Greenock.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.private.md) 
 
-### [Greenock.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\InverclydeGreenock.secret.md)
+### [Greenock.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.personal.md) 
+
+### [Greenock.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.secret.md)
 

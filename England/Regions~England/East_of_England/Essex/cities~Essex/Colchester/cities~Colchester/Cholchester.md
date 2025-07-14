@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cholchester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.public.md) 
+### [Cholchester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Colchester/cities~Colchester/Cholchester.md) 
 
-### [Cholchester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.internal.md) 
+### [Cholchester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Colchester/cities~Colchester/Cholchester.public.md) 
 
-### [Cholchester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.protect.md) 
+### [Cholchester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Colchester/cities~Colchester/Cholchester.internal.md) 
 
-### [Cholchester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.private.md) 
+### [Cholchester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Colchester/cities~Colchester/Cholchester.protect.md) 
 
-### [Cholchester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.personal.md) 
+### [Cholchester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Colchester/cities~Colchester/Cholchester.private.md) 
 
-### [Cholchester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.secret.md)
+### [Cholchester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Colchester/cities~Colchester/Cholchester.personal.md) 
+
+### [Cholchester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/Colchester/cities~Colchester/Cholchester.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Winchester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.public.md) 
+### [Winchester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.md) 
 
-### [Winchester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.internal.md) 
+### [Winchester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.public.md) 
 
-### [Winchester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.protect.md) 
+### [Winchester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.internal.md) 
 
-### [Winchester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.private.md) 
+### [Winchester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.protect.md) 
 
-### [Winchester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.personal.md) 
+### [Winchester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.private.md) 
 
-### [Winchester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.secret.md)
+### [Winchester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.personal.md) 
+
+### [Winchester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.secret.md)
 

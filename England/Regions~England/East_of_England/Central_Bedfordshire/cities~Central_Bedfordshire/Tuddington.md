@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tuddington.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.public.md) 
+### [Tuddington](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.md) 
 
-### [Tuddington.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.internal.md) 
+### [Tuddington.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.public.md) 
 
-### [Tuddington.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.protect.md) 
+### [Tuddington.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.internal.md) 
 
-### [Tuddington.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.private.md) 
+### [Tuddington.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.protect.md) 
 
-### [Tuddington.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.personal.md) 
+### [Tuddington.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.private.md) 
 
-### [Tuddington.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.secret.md)
+### [Tuddington.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.personal.md) 
+
+### [Tuddington.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.secret.md)
 

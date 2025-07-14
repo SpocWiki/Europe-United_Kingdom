@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bedford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.public.md) 
+### [Bedford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/SaintEdmundsbury/cities~SaintEdmundsbury/Bedford.md) 
 
-### [Bedford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.internal.md) 
+### [Bedford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/SaintEdmundsbury/cities~SaintEdmundsbury/Bedford.public.md) 
 
-### [Bedford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.protect.md) 
+### [Bedford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/SaintEdmundsbury/cities~SaintEdmundsbury/Bedford.internal.md) 
 
-### [Bedford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.private.md) 
+### [Bedford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/SaintEdmundsbury/cities~SaintEdmundsbury/Bedford.protect.md) 
 
-### [Bedford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.personal.md) 
+### [Bedford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/SaintEdmundsbury/cities~SaintEdmundsbury/Bedford.private.md) 
 
-### [Bedford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.secret.md)
+### [Bedford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/SaintEdmundsbury/cities~SaintEdmundsbury/Bedford.personal.md) 
+
+### [Bedford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/SaintEdmundsbury/cities~SaintEdmundsbury/Bedford.secret.md)
 

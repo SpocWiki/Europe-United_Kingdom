@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Folkestone.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.public.md) 
+### [Folkestone](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/Folkestone.md) 
 
-### [Folkestone.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.internal.md) 
+### [Folkestone.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/Folkestone.public.md) 
 
-### [Folkestone.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.protect.md) 
+### [Folkestone.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/Folkestone.internal.md) 
 
-### [Folkestone.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.private.md) 
+### [Folkestone.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/Folkestone.protect.md) 
 
-### [Folkestone.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.personal.md) 
+### [Folkestone.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/Folkestone.private.md) 
 
-### [Folkestone.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.secret.md)
+### [Folkestone.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/Folkestone.personal.md) 
+
+### [Folkestone.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/Folkestone.secret.md)
 

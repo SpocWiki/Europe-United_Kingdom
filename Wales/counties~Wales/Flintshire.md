@@ -41,15 +41,17 @@ markerFolder: ./Flintshire/
 
 ## Confidential Links & Embeds: 
 
-### [Flintshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.public.md) 
+### [Flintshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Flintshire.md) 
 
-### [Flintshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.internal.md) 
+### [Flintshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Flintshire.public.md) 
 
-### [Flintshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.protect.md) 
+### [Flintshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Flintshire.internal.md) 
 
-### [Flintshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.private.md) 
+### [Flintshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Flintshire.protect.md) 
 
-### [Flintshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.personal.md) 
+### [Flintshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Flintshire.private.md) 
 
-### [Flintshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.secret.md)
+### [Flintshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Flintshire.personal.md) 
+
+### [Flintshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Flintshire.secret.md)
 

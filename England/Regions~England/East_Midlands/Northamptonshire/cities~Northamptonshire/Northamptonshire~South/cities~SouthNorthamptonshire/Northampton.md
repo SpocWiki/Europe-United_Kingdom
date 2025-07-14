@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Northampton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.public.md) 
+### [Northampton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.md) 
 
-### [Northampton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.internal.md) 
+### [Northampton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.public.md) 
 
-### [Northampton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.protect.md) 
+### [Northampton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.internal.md) 
 
-### [Northampton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.private.md) 
+### [Northampton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.protect.md) 
 
-### [Northampton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.personal.md) 
+### [Northampton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.private.md) 
 
-### [Northampton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.secret.md)
+### [Northampton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.personal.md) 
+
+### [Northampton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.secret.md)
 

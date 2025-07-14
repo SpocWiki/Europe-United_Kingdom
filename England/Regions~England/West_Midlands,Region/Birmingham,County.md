@@ -41,15 +41,17 @@ markerFolder: ./Birmingham/
 
 ## Confidential Links & Embeds: 
 
-### [Birmingham,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.public.md) 
+### [Birmingham,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County.md) 
 
-### [Birmingham,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.internal.md) 
+### [Birmingham,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County.public.md) 
 
-### [Birmingham,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.protect.md) 
+### [Birmingham,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County.internal.md) 
 
-### [Birmingham,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.private.md) 
+### [Birmingham,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County.protect.md) 
 
-### [Birmingham,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.personal.md) 
+### [Birmingham,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County.private.md) 
 
-### [Birmingham,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.secret.md)
+### [Birmingham,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County.personal.md) 
+
+### [Birmingham,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County.secret.md)
 

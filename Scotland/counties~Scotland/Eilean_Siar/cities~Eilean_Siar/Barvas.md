@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barvas.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Eilean_Siar\cities~Eilean_SiarBarvas.public.md) 
+### [Barvas](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.md) 
 
-### [Barvas.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Eilean_Siar\cities~Eilean_SiarBarvas.internal.md) 
+### [Barvas.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.public.md) 
 
-### [Barvas.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Eilean_Siar\cities~Eilean_SiarBarvas.protect.md) 
+### [Barvas.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.internal.md) 
 
-### [Barvas.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Eilean_Siar\cities~Eilean_SiarBarvas.private.md) 
+### [Barvas.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.protect.md) 
 
-### [Barvas.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Eilean_Siar\cities~Eilean_SiarBarvas.personal.md) 
+### [Barvas.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.private.md) 
 
-### [Barvas.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Eilean_Siar\cities~Eilean_SiarBarvas.secret.md)
+### [Barvas.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.personal.md) 
+
+### [Barvas.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montrose.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusMontrose.public.md) 
+### [Montrose](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Montrose.md) 
 
-### [Montrose.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusMontrose.internal.md) 
+### [Montrose.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Montrose.public.md) 
 
-### [Montrose.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusMontrose.protect.md) 
+### [Montrose.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Montrose.internal.md) 
 
-### [Montrose.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusMontrose.private.md) 
+### [Montrose.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Montrose.protect.md) 
 
-### [Montrose.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusMontrose.personal.md) 
+### [Montrose.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Montrose.private.md) 
 
-### [Montrose.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusMontrose.secret.md)
+### [Montrose.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Montrose.personal.md) 
+
+### [Montrose.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Montrose.secret.md)
 

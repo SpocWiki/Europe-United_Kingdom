@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Halifax.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.public.md) 
+### [Halifax](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Calderdale/cities~Calderdale/Halifax.md) 
 
-### [Halifax.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.internal.md) 
+### [Halifax.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Calderdale/cities~Calderdale/Halifax.public.md) 
 
-### [Halifax.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.protect.md) 
+### [Halifax.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Calderdale/cities~Calderdale/Halifax.internal.md) 
 
-### [Halifax.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.private.md) 
+### [Halifax.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Calderdale/cities~Calderdale/Halifax.protect.md) 
 
-### [Halifax.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.personal.md) 
+### [Halifax.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Calderdale/cities~Calderdale/Halifax.private.md) 
 
-### [Halifax.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.secret.md)
+### [Halifax.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Calderdale/cities~Calderdale/Halifax.personal.md) 
+
+### [Halifax.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Calderdale/cities~Calderdale/Halifax.secret.md)
 

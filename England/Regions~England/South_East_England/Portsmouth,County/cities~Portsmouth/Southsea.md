@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Southsea.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.public.md) 
+### [Southsea](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.md) 
 
-### [Southsea.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.internal.md) 
+### [Southsea.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.public.md) 
 
-### [Southsea.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.protect.md) 
+### [Southsea.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.internal.md) 
 
-### [Southsea.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.private.md) 
+### [Southsea.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.protect.md) 
 
-### [Southsea.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.personal.md) 
+### [Southsea.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.private.md) 
 
-### [Southsea.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.secret.md)
+### [Southsea.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.personal.md) 
+
+### [Southsea.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.secret.md)
 

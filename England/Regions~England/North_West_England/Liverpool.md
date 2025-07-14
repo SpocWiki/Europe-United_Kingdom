@@ -41,15 +41,17 @@ markerFolder: ./Liverpool/
 
 ## Confidential Links & Embeds: 
 
-### [Liverpool.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLiverpool.public.md) 
+### [Liverpool](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.md) 
 
-### [Liverpool.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLiverpool.internal.md) 
+### [Liverpool.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.public.md) 
 
-### [Liverpool.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLiverpool.protect.md) 
+### [Liverpool.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.internal.md) 
 
-### [Liverpool.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLiverpool.private.md) 
+### [Liverpool.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.protect.md) 
 
-### [Liverpool.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLiverpool.personal.md) 
+### [Liverpool.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.private.md) 
 
-### [Liverpool.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLiverpool.secret.md)
+### [Liverpool.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.personal.md) 
+
+### [Liverpool.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.secret.md)
 

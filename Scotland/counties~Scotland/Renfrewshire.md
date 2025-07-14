@@ -41,15 +41,17 @@ markerFolder: ./Renfrewshire/
 
 ## Confidential Links & Embeds: 
 
-### [Renfrewshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandRenfrewshire.public.md) 
+### [Renfrewshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire.md) 
 
-### [Renfrewshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandRenfrewshire.internal.md) 
+### [Renfrewshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire.public.md) 
 
-### [Renfrewshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandRenfrewshire.protect.md) 
+### [Renfrewshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire.internal.md) 
 
-### [Renfrewshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandRenfrewshire.private.md) 
+### [Renfrewshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire.protect.md) 
 
-### [Renfrewshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandRenfrewshire.personal.md) 
+### [Renfrewshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire.private.md) 
 
-### [Renfrewshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandRenfrewshire.secret.md)
+### [Renfrewshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire.personal.md) 
+
+### [Renfrewshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire.secret.md)
 

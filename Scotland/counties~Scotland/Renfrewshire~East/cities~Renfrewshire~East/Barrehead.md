@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barrehead.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.public.md) 
+### [Barrehead](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.md) 
 
-### [Barrehead.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.internal.md) 
+### [Barrehead.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.public.md) 
 
-### [Barrehead.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.protect.md) 
+### [Barrehead.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.internal.md) 
 
-### [Barrehead.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.private.md) 
+### [Barrehead.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.protect.md) 
 
-### [Barrehead.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.personal.md) 
+### [Barrehead.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.private.md) 
 
-### [Barrehead.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.secret.md)
+### [Barrehead.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.personal.md) 
+
+### [Barrehead.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.secret.md)
 

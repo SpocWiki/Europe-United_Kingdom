@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Renfrew.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.public.md) 
+### [City~Renfrew](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/City~Renfrew.md) 
 
-### [City~Renfrew.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.internal.md) 
+### [City~Renfrew.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/City~Renfrew.public.md) 
 
-### [City~Renfrew.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.protect.md) 
+### [City~Renfrew.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/City~Renfrew.internal.md) 
 
-### [City~Renfrew.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.private.md) 
+### [City~Renfrew.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/City~Renfrew.protect.md) 
 
-### [City~Renfrew.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.personal.md) 
+### [City~Renfrew.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/City~Renfrew.private.md) 
 
-### [City~Renfrew.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.secret.md)
+### [City~Renfrew.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/City~Renfrew.personal.md) 
+
+### [City~Renfrew.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/City~Renfrew.secret.md)
 

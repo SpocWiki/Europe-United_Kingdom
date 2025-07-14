@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Largs.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthLargs.public.md) 
+### [Largs](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Largs.md) 
 
-### [Largs.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthLargs.internal.md) 
+### [Largs.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Largs.public.md) 
 
-### [Largs.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthLargs.protect.md) 
+### [Largs.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Largs.internal.md) 
 
-### [Largs.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthLargs.private.md) 
+### [Largs.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Largs.protect.md) 
 
-### [Largs.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthLargs.personal.md) 
+### [Largs.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Largs.private.md) 
 
-### [Largs.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthLargs.secret.md)
+### [Largs.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Largs.personal.md) 
+
+### [Largs.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Largs.secret.md)
 

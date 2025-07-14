@@ -41,15 +41,17 @@ markerFolder: ./Powys/
 
 ## Confidential Links & Embeds: 
 
-### [Powys.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesPowys.public.md) 
+### [Powys](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.md) 
 
-### [Powys.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesPowys.internal.md) 
+### [Powys.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.public.md) 
 
-### [Powys.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesPowys.protect.md) 
+### [Powys.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.internal.md) 
 
-### [Powys.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesPowys.private.md) 
+### [Powys.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.protect.md) 
 
-### [Powys.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesPowys.personal.md) 
+### [Powys.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.private.md) 
 
-### [Powys.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesPowys.secret.md)
+### [Powys.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.personal.md) 
+
+### [Powys.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.secret.md)
 

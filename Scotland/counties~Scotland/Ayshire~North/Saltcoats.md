@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saltcoats.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~NorthSaltcoats.public.md) 
+### [Saltcoats](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/Saltcoats.md) 
 
-### [Saltcoats.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~NorthSaltcoats.internal.md) 
+### [Saltcoats.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/Saltcoats.public.md) 
 
-### [Saltcoats.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~NorthSaltcoats.protect.md) 
+### [Saltcoats.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/Saltcoats.internal.md) 
 
-### [Saltcoats.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~NorthSaltcoats.private.md) 
+### [Saltcoats.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/Saltcoats.protect.md) 
 
-### [Saltcoats.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~NorthSaltcoats.personal.md) 
+### [Saltcoats.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/Saltcoats.private.md) 
 
-### [Saltcoats.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~NorthSaltcoats.secret.md)
+### [Saltcoats.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/Saltcoats.personal.md) 
+
+### [Saltcoats.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/Saltcoats.secret.md)
 

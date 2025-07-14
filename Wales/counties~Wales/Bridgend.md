@@ -41,15 +41,17 @@ markerFolder: ./Bridgend/
 
 ## Confidential Links & Embeds: 
 
-### [Bridgend.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBridgend.public.md) 
+### [Bridgend](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.md) 
 
-### [Bridgend.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBridgend.internal.md) 
+### [Bridgend.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.public.md) 
 
-### [Bridgend.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBridgend.protect.md) 
+### [Bridgend.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.internal.md) 
 
-### [Bridgend.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBridgend.private.md) 
+### [Bridgend.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.protect.md) 
 
-### [Bridgend.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBridgend.personal.md) 
+### [Bridgend.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.private.md) 
 
-### [Bridgend.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBridgend.secret.md)
+### [Bridgend.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.personal.md) 
+
+### [Bridgend.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.secret.md)
 

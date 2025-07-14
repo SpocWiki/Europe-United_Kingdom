@@ -41,15 +41,17 @@ markerFolder: ./Sheffield/
 
 ## Confidential Links & Embeds: 
 
-### [Sheffield,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.public.md) 
+### [Sheffield,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County.md) 
 
-### [Sheffield,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.internal.md) 
+### [Sheffield,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County.public.md) 
 
-### [Sheffield,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.protect.md) 
+### [Sheffield,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County.internal.md) 
 
-### [Sheffield,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.private.md) 
+### [Sheffield,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County.protect.md) 
 
-### [Sheffield,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.personal.md) 
+### [Sheffield,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County.private.md) 
 
-### [Sheffield,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.secret.md)
+### [Sheffield,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County.personal.md) 
+
+### [Sheffield,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County.secret.md)
 

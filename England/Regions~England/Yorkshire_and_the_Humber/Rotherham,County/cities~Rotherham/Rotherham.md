@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rotherham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.public.md) 
+### [Rotherham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Rotherham,County/cities~Rotherham/Rotherham.md) 
 
-### [Rotherham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.internal.md) 
+### [Rotherham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Rotherham,County/cities~Rotherham/Rotherham.public.md) 
 
-### [Rotherham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.protect.md) 
+### [Rotherham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Rotherham,County/cities~Rotherham/Rotherham.internal.md) 
 
-### [Rotherham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.private.md) 
+### [Rotherham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Rotherham,County/cities~Rotherham/Rotherham.protect.md) 
 
-### [Rotherham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.personal.md) 
+### [Rotherham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Rotherham,County/cities~Rotherham/Rotherham.private.md) 
 
-### [Rotherham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.secret.md)
+### [Rotherham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Rotherham,County/cities~Rotherham/Rotherham.personal.md) 
+
+### [Rotherham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Rotherham,County/cities~Rotherham/Rotherham.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Glasgow/
 
 ## Confidential Links & Embeds: 
 
-### [Glasgow,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandGlasgow,County.public.md) 
+### [Glasgow,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.md) 
 
-### [Glasgow,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandGlasgow,County.internal.md) 
+### [Glasgow,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.public.md) 
 
-### [Glasgow,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandGlasgow,County.protect.md) 
+### [Glasgow,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.internal.md) 
 
-### [Glasgow,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandGlasgow,County.private.md) 
+### [Glasgow,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.protect.md) 
 
-### [Glasgow,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandGlasgow,County.personal.md) 
+### [Glasgow,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.private.md) 
 
-### [Glasgow,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandGlasgow,County.secret.md)
+### [Glasgow,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.personal.md) 
+
+### [Glasgow,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.secret.md)
 

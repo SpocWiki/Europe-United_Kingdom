@@ -41,15 +41,17 @@ markerFolder: ./Dumfries_and_Galloway/
 
 ## Confidential Links & Embeds: 
 
-### [Dumfries_and_Galloway.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDumfries_and_Galloway.public.md) 
+### [Dumfries_and_Galloway](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.md) 
 
-### [Dumfries_and_Galloway.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDumfries_and_Galloway.internal.md) 
+### [Dumfries_and_Galloway.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.public.md) 
 
-### [Dumfries_and_Galloway.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDumfries_and_Galloway.protect.md) 
+### [Dumfries_and_Galloway.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.internal.md) 
 
-### [Dumfries_and_Galloway.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDumfries_and_Galloway.private.md) 
+### [Dumfries_and_Galloway.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.protect.md) 
 
-### [Dumfries_and_Galloway.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDumfries_and_Galloway.personal.md) 
+### [Dumfries_and_Galloway.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.private.md) 
 
-### [Dumfries_and_Galloway.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandDumfries_and_Galloway.secret.md)
+### [Dumfries_and_Galloway.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.personal.md) 
+
+### [Dumfries_and_Galloway.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.secret.md)
 

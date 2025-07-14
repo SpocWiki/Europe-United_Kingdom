@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Tottenham_Hale.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Tottenham_Hale.public.md) 
+### [Sub~Tottenham_Hale](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Tottenham_Hale.md) 
 
-### [Sub~Tottenham_Hale.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Tottenham_Hale.internal.md) 
+### [Sub~Tottenham_Hale.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Tottenham_Hale.public.md) 
 
-### [Sub~Tottenham_Hale.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Tottenham_Hale.protect.md) 
+### [Sub~Tottenham_Hale.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Tottenham_Hale.internal.md) 
 
-### [Sub~Tottenham_Hale.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Tottenham_Hale.private.md) 
+### [Sub~Tottenham_Hale.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Tottenham_Hale.protect.md) 
 
-### [Sub~Tottenham_Hale.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Tottenham_Hale.personal.md) 
+### [Sub~Tottenham_Hale.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Tottenham_Hale.private.md) 
 
-### [Sub~Tottenham_Hale.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Tottenham_Hale.secret.md)
+### [Sub~Tottenham_Hale.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Tottenham_Hale.personal.md) 
+
+### [Sub~Tottenham_Hale.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Tottenham_Hale.secret.md)
 

@@ -44,15 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bell_Rock_Lighthouse.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.public.md) 
+### [Bell_Rock_Lighthouse](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.md) 
 
-### [Bell_Rock_Lighthouse.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.internal.md) 
+### [Bell_Rock_Lighthouse.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.public.md) 
 
-### [Bell_Rock_Lighthouse.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.protect.md) 
+### [Bell_Rock_Lighthouse.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.internal.md) 
 
-### [Bell_Rock_Lighthouse.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.private.md) 
+### [Bell_Rock_Lighthouse.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.protect.md) 
 
-### [Bell_Rock_Lighthouse.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.personal.md) 
+### [Bell_Rock_Lighthouse.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.private.md) 
 
-### [Bell_Rock_Lighthouse.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.secret.md)
+### [Bell_Rock_Lighthouse.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.personal.md) 
+
+### [Bell_Rock_Lighthouse.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.secret.md)
 

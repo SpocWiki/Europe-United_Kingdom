@@ -41,15 +41,17 @@ markerFolder: ./Dudley/
 
 ## Confidential Links & Embeds: 
 
-### [Dudley,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionDudley,Borough.public.md) 
+### [Dudley,Borough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.md) 
 
-### [Dudley,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionDudley,Borough.internal.md) 
+### [Dudley,Borough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.public.md) 
 
-### [Dudley,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionDudley,Borough.protect.md) 
+### [Dudley,Borough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.internal.md) 
 
-### [Dudley,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionDudley,Borough.private.md) 
+### [Dudley,Borough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.protect.md) 
 
-### [Dudley,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionDudley,Borough.personal.md) 
+### [Dudley,Borough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.private.md) 
 
-### [Dudley,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionDudley,Borough.secret.md)
+### [Dudley,Borough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.personal.md) 
+
+### [Dudley,Borough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Thurrock/
 
 ## Confidential Links & Embeds: 
 
-### [Thurrock.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.public.md) 
+### [Thurrock](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.md) 
 
-### [Thurrock.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.internal.md) 
+### [Thurrock.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.public.md) 
 
-### [Thurrock.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.protect.md) 
+### [Thurrock.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.internal.md) 
 
-### [Thurrock.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.private.md) 
+### [Thurrock.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.protect.md) 
 
-### [Thurrock.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.personal.md) 
+### [Thurrock.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.private.md) 
 
-### [Thurrock.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.secret.md)
+### [Thurrock.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.personal.md) 
+
+### [Thurrock.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.secret.md)
 

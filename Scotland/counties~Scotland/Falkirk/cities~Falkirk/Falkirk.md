@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Falkirk.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.public.md) 
+### [Falkirk](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.md) 
 
-### [Falkirk.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.internal.md) 
+### [Falkirk.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.public.md) 
 
-### [Falkirk.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.protect.md) 
+### [Falkirk.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.internal.md) 
 
-### [Falkirk.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.private.md) 
+### [Falkirk.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.protect.md) 
 
-### [Falkirk.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.personal.md) 
+### [Falkirk.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.private.md) 
 
-### [Falkirk.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.secret.md)
+### [Falkirk.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.personal.md) 
+
+### [Falkirk.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.secret.md)
 

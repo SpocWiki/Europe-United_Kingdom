@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Troon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.public.md) 
+### [Troon](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Troon.md) 
 
-### [Troon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.internal.md) 
+### [Troon.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Troon.public.md) 
 
-### [Troon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.protect.md) 
+### [Troon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Troon.internal.md) 
 
-### [Troon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.private.md) 
+### [Troon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Troon.protect.md) 
 
-### [Troon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.personal.md) 
+### [Troon.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Troon.private.md) 
 
-### [Troon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.secret.md)
+### [Troon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Troon.personal.md) 
+
+### [Troon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Troon.secret.md)
 

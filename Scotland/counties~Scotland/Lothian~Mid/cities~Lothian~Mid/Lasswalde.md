@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lasswalde.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.public.md) 
+### [Lasswalde](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.md) 
 
-### [Lasswalde.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.internal.md) 
+### [Lasswalde.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.public.md) 
 
-### [Lasswalde.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.protect.md) 
+### [Lasswalde.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.internal.md) 
 
-### [Lasswalde.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.private.md) 
+### [Lasswalde.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.protect.md) 
 
-### [Lasswalde.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.personal.md) 
+### [Lasswalde.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.private.md) 
 
-### [Lasswalde.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.secret.md)
+### [Lasswalde.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.personal.md) 
+
+### [Lasswalde.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.secret.md)
 

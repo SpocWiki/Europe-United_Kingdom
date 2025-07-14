@@ -41,15 +41,17 @@ markerFolder: ./Halton/
 
 ## Confidential Links & Embeds: 
 
-### [Halton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandHalton.public.md) 
+### [Halton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Halton.md) 
 
-### [Halton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandHalton.internal.md) 
+### [Halton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Halton.public.md) 
 
-### [Halton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandHalton.protect.md) 
+### [Halton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Halton.internal.md) 
 
-### [Halton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandHalton.private.md) 
+### [Halton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Halton.protect.md) 
 
-### [Halton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandHalton.personal.md) 
+### [Halton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Halton.private.md) 
 
-### [Halton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandHalton.secret.md)
+### [Halton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Halton.personal.md) 
+
+### [Halton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Halton.secret.md)
 

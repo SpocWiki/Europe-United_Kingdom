@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [West_Hartlepool.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.public.md) 
+### [West_Hartlepool](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/West_Hartlepool.md) 
 
-### [West_Hartlepool.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.internal.md) 
+### [West_Hartlepool.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/West_Hartlepool.public.md) 
 
-### [West_Hartlepool.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.protect.md) 
+### [West_Hartlepool.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/West_Hartlepool.internal.md) 
 
-### [West_Hartlepool.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.private.md) 
+### [West_Hartlepool.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/West_Hartlepool.protect.md) 
 
-### [West_Hartlepool.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.personal.md) 
+### [West_Hartlepool.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/West_Hartlepool.private.md) 
 
-### [West_Hartlepool.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.secret.md)
+### [West_Hartlepool.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/West_Hartlepool.personal.md) 
+
+### [West_Hartlepool.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/West_Hartlepool.secret.md)
 

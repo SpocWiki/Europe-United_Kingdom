@@ -41,15 +41,17 @@ markerFolder: ./Lancashire/
 
 ## Confidential Links & Embeds: 
 
-### [Lancashire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLancashire.public.md) 
+### [Lancashire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.md) 
 
-### [Lancashire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLancashire.internal.md) 
+### [Lancashire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.public.md) 
 
-### [Lancashire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLancashire.protect.md) 
+### [Lancashire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.internal.md) 
 
-### [Lancashire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLancashire.private.md) 
+### [Lancashire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.protect.md) 
 
-### [Lancashire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLancashire.personal.md) 
+### [Lancashire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.private.md) 
 
-### [Lancashire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandLancashire.secret.md)
+### [Lancashire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.personal.md) 
+
+### [Lancashire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.secret.md)
 

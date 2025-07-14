@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Forfar.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusForfar.public.md) 
+### [Forfar](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.md) 
 
-### [Forfar.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusForfar.internal.md) 
+### [Forfar.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.public.md) 
 
-### [Forfar.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusForfar.protect.md) 
+### [Forfar.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.internal.md) 
 
-### [Forfar.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusForfar.private.md) 
+### [Forfar.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.protect.md) 
 
-### [Forfar.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusForfar.personal.md) 
+### [Forfar.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.private.md) 
 
-### [Forfar.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusForfar.secret.md)
+### [Forfar.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.personal.md) 
+
+### [Forfar.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.secret.md)
 

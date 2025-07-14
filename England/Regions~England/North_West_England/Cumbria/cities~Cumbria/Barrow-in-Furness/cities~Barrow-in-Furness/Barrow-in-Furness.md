@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barrow-in-Furness.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.public.md) 
+### [Barrow-in-Furness](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Barrow-in-Furness/cities~Barrow-in-Furness/Barrow-in-Furness.md) 
 
-### [Barrow-in-Furness.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.internal.md) 
+### [Barrow-in-Furness.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Barrow-in-Furness/cities~Barrow-in-Furness/Barrow-in-Furness.public.md) 
 
-### [Barrow-in-Furness.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.protect.md) 
+### [Barrow-in-Furness.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Barrow-in-Furness/cities~Barrow-in-Furness/Barrow-in-Furness.internal.md) 
 
-### [Barrow-in-Furness.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.private.md) 
+### [Barrow-in-Furness.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Barrow-in-Furness/cities~Barrow-in-Furness/Barrow-in-Furness.protect.md) 
 
-### [Barrow-in-Furness.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.personal.md) 
+### [Barrow-in-Furness.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Barrow-in-Furness/cities~Barrow-in-Furness/Barrow-in-Furness.private.md) 
 
-### [Barrow-in-Furness.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.secret.md)
+### [Barrow-in-Furness.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Barrow-in-Furness/cities~Barrow-in-Furness/Barrow-in-Furness.personal.md) 
+
+### [Barrow-in-Furness.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Barrow-in-Furness/cities~Barrow-in-Furness/Barrow-in-Furness.secret.md)
 

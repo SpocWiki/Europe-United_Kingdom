@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sartton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.public.md) 
+### [Sartton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~Dales/cities~DerbyshireDales/Sartton.md) 
 
-### [Sartton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.internal.md) 
+### [Sartton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~Dales/cities~DerbyshireDales/Sartton.public.md) 
 
-### [Sartton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.protect.md) 
+### [Sartton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~Dales/cities~DerbyshireDales/Sartton.internal.md) 
 
-### [Sartton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.private.md) 
+### [Sartton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~Dales/cities~DerbyshireDales/Sartton.protect.md) 
 
-### [Sartton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.personal.md) 
+### [Sartton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~Dales/cities~DerbyshireDales/Sartton.private.md) 
 
-### [Sartton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.secret.md)
+### [Sartton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~Dales/cities~DerbyshireDales/Sartton.personal.md) 
+
+### [Sartton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire/cities~Derbyshire/Derbyshire~Dales/cities~DerbyshireDales/Sartton.secret.md)
 

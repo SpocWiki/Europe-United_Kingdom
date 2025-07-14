@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marlborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.public.md) 
+### [Marlborough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Marlborough.md) 
 
-### [Marlborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.internal.md) 
+### [Marlborough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Marlborough.public.md) 
 
-### [Marlborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.protect.md) 
+### [Marlborough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Marlborough.internal.md) 
 
-### [Marlborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.private.md) 
+### [Marlborough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Marlborough.protect.md) 
 
-### [Marlborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.personal.md) 
+### [Marlborough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Marlborough.private.md) 
 
-### [Marlborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.secret.md)
+### [Marlborough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Marlborough.personal.md) 
+
+### [Marlborough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Marlborough.secret.md)
 

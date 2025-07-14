@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bristol.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.public.md) 
+### [Bristol](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.md) 
 
-### [Bristol.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.internal.md) 
+### [Bristol.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.public.md) 
 
-### [Bristol.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.protect.md) 
+### [Bristol.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.internal.md) 
 
-### [Bristol.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.private.md) 
+### [Bristol.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.protect.md) 
 
-### [Bristol.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.personal.md) 
+### [Bristol.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.private.md) 
 
-### [Bristol.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.secret.md)
+### [Bristol.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.personal.md) 
+
+### [Bristol.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.secret.md)
 

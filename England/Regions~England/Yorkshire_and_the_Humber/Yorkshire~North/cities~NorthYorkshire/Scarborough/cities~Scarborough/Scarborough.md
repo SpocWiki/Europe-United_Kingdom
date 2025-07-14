@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Scarborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.public.md) 
+### [Scarborough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Scarborough.md) 
 
-### [Scarborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.internal.md) 
+### [Scarborough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Scarborough.public.md) 
 
-### [Scarborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.protect.md) 
+### [Scarborough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Scarborough.internal.md) 
 
-### [Scarborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.private.md) 
+### [Scarborough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Scarborough.protect.md) 
 
-### [Scarborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.personal.md) 
+### [Scarborough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Scarborough.private.md) 
 
-### [Scarborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.secret.md)
+### [Scarborough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Scarborough.personal.md) 
+
+### [Scarborough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/cities~NorthYorkshire/Scarborough/cities~Scarborough/Scarborough.secret.md)
 

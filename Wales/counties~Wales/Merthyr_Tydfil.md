@@ -41,15 +41,17 @@ markerFolder: ./Merthyr_Tydfil/
 
 ## Confidential Links & Embeds: 
 
-### [Merthyr_Tydfil.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMerthyr_Tydfil.public.md) 
+### [Merthyr_Tydfil](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.md) 
 
-### [Merthyr_Tydfil.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMerthyr_Tydfil.internal.md) 
+### [Merthyr_Tydfil.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.public.md) 
 
-### [Merthyr_Tydfil.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMerthyr_Tydfil.protect.md) 
+### [Merthyr_Tydfil.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.internal.md) 
 
-### [Merthyr_Tydfil.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMerthyr_Tydfil.private.md) 
+### [Merthyr_Tydfil.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.protect.md) 
 
-### [Merthyr_Tydfil.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMerthyr_Tydfil.personal.md) 
+### [Merthyr_Tydfil.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.private.md) 
 
-### [Merthyr_Tydfil.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesMerthyr_Tydfil.secret.md)
+### [Merthyr_Tydfil.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.personal.md) 
+
+### [Merthyr_Tydfil.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.secret.md)
 

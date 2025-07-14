@@ -41,15 +41,17 @@ markerFolder: ./Fife/
 
 ## Confidential Links & Embeds: 
 
-### [Fife.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFife.public.md) 
+### [Fife](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife.md) 
 
-### [Fife.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFife.internal.md) 
+### [Fife.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife.public.md) 
 
-### [Fife.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFife.protect.md) 
+### [Fife.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife.internal.md) 
 
-### [Fife.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFife.private.md) 
+### [Fife.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife.protect.md) 
 
-### [Fife.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFife.personal.md) 
+### [Fife.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife.private.md) 
 
-### [Fife.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFife.secret.md)
+### [Fife.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife.personal.md) 
+
+### [Fife.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife.secret.md)
 

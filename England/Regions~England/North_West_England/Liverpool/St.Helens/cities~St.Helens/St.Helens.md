@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Helens.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.public.md) 
+### [St.Helens](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens/cities~St.Helens/St.Helens.md) 
 
-### [St.Helens.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.internal.md) 
+### [St.Helens.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens/cities~St.Helens/St.Helens.public.md) 
 
-### [St.Helens.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.protect.md) 
+### [St.Helens.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens/cities~St.Helens/St.Helens.internal.md) 
 
-### [St.Helens.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.private.md) 
+### [St.Helens.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens/cities~St.Helens/St.Helens.protect.md) 
 
-### [St.Helens.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.personal.md) 
+### [St.Helens.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens/cities~St.Helens/St.Helens.private.md) 
 
-### [St.Helens.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.secret.md)
+### [St.Helens.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens/cities~St.Helens/St.Helens.personal.md) 
+
+### [St.Helens.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens/cities~St.Helens/St.Helens.secret.md)
 

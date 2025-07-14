@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aldershof.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.public.md) 
+### [Aldershof](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.md) 
 
-### [Aldershof.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.internal.md) 
+### [Aldershof.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.public.md) 
 
-### [Aldershof.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.protect.md) 
+### [Aldershof.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.internal.md) 
 
-### [Aldershof.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.private.md) 
+### [Aldershof.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.protect.md) 
 
-### [Aldershof.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.personal.md) 
+### [Aldershof.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.private.md) 
 
-### [Aldershof.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.secret.md)
+### [Aldershof.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.personal.md) 
+
+### [Aldershof.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.secret.md)
 

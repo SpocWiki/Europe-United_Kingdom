@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peterborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.public.md) 
+### [Peterborough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.md) 
 
-### [Peterborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.internal.md) 
+### [Peterborough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.public.md) 
 
-### [Peterborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.protect.md) 
+### [Peterborough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.internal.md) 
 
-### [Peterborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.private.md) 
+### [Peterborough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.protect.md) 
 
-### [Peterborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.personal.md) 
+### [Peterborough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.private.md) 
 
-### [Peterborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.secret.md)
+### [Peterborough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.personal.md) 
+
+### [Peterborough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.secret.md)
 

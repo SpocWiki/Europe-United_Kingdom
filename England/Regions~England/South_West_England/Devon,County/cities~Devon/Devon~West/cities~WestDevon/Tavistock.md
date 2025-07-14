@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tavistock.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.public.md) 
+### [Tavistock](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~West/cities~WestDevon/Tavistock.md) 
 
-### [Tavistock.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.internal.md) 
+### [Tavistock.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~West/cities~WestDevon/Tavistock.public.md) 
 
-### [Tavistock.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.protect.md) 
+### [Tavistock.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~West/cities~WestDevon/Tavistock.internal.md) 
 
-### [Tavistock.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.private.md) 
+### [Tavistock.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~West/cities~WestDevon/Tavistock.protect.md) 
 
-### [Tavistock.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.personal.md) 
+### [Tavistock.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~West/cities~WestDevon/Tavistock.private.md) 
 
-### [Tavistock.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.secret.md)
+### [Tavistock.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~West/cities~WestDevon/Tavistock.personal.md) 
+
+### [Tavistock.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~West/cities~WestDevon/Tavistock.secret.md)
 

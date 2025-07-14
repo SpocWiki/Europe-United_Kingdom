@@ -42,15 +42,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Chalfont_&_Latimer.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Chalfont_&_Latimer.public.md) 
+### [Sub~Chalfont_&_Latimer](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Chalfont_&_Latimer.md) 
 
-### [Sub~Chalfont_&_Latimer.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Chalfont_&_Latimer.internal.md) 
+### [Sub~Chalfont_&_Latimer.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Chalfont_&_Latimer.public.md) 
 
-### [Sub~Chalfont_&_Latimer.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Chalfont_&_Latimer.protect.md) 
+### [Sub~Chalfont_&_Latimer.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Chalfont_&_Latimer.internal.md) 
 
-### [Sub~Chalfont_&_Latimer.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Chalfont_&_Latimer.private.md) 
+### [Sub~Chalfont_&_Latimer.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Chalfont_&_Latimer.protect.md) 
 
-### [Sub~Chalfont_&_Latimer.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Chalfont_&_Latimer.personal.md) 
+### [Sub~Chalfont_&_Latimer.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Chalfont_&_Latimer.private.md) 
 
-### [Sub~Chalfont_&_Latimer.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Chalfont_&_Latimer.secret.md)
+### [Sub~Chalfont_&_Latimer.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Chalfont_&_Latimer.personal.md) 
+
+### [Sub~Chalfont_&_Latimer.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Chalfont_&_Latimer.secret.md)
 

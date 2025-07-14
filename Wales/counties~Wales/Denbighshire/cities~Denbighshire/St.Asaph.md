@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Asaph.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.public.md) 
+### [St.Asaph](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.md) 
 
-### [St.Asaph.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.internal.md) 
+### [St.Asaph.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.public.md) 
 
-### [St.Asaph.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.protect.md) 
+### [St.Asaph.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.internal.md) 
 
-### [St.Asaph.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.private.md) 
+### [St.Asaph.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.protect.md) 
 
-### [St.Asaph.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.personal.md) 
+### [St.Asaph.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.private.md) 
 
-### [St.Asaph.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.secret.md)
+### [St.Asaph.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.personal.md) 
+
+### [St.Asaph.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.secret.md)
 

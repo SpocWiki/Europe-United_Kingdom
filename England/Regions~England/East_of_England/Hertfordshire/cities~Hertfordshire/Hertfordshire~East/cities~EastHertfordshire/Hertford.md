@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hertford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.public.md) 
+### [Hertford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.md) 
 
-### [Hertford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.internal.md) 
+### [Hertford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.public.md) 
 
-### [Hertford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.protect.md) 
+### [Hertford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.internal.md) 
 
-### [Hertford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.private.md) 
+### [Hertford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.protect.md) 
 
-### [Hertford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.personal.md) 
+### [Hertford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.private.md) 
 
-### [Hertford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.secret.md)
+### [Hertford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.personal.md) 
+
+### [Hertford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.secret.md)
 

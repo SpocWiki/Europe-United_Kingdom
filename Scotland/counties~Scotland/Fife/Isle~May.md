@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Isle~May.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FifeIsle~May.public.md) 
+### [Isle~May](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.md) 
 
-### [Isle~May.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FifeIsle~May.internal.md) 
+### [Isle~May.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.public.md) 
 
-### [Isle~May.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FifeIsle~May.protect.md) 
+### [Isle~May.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.internal.md) 
 
-### [Isle~May.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FifeIsle~May.private.md) 
+### [Isle~May.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.protect.md) 
 
-### [Isle~May.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FifeIsle~May.personal.md) 
+### [Isle~May.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.private.md) 
 
-### [Isle~May.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FifeIsle~May.secret.md)
+### [Isle~May.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.personal.md) 
+
+### [Isle~May.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.secret.md)
 

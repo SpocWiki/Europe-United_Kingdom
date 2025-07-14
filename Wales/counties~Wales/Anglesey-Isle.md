@@ -42,15 +42,17 @@ markerFolder: ./Anglesey/
 
 ## Confidential Links & Embeds: 
 
-### [Anglesey-Isle.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesAnglesey-Isle.public.md) 
+### [Anglesey-Isle](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle.md) 
 
-### [Anglesey-Isle.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesAnglesey-Isle.internal.md) 
+### [Anglesey-Isle.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle.public.md) 
 
-### [Anglesey-Isle.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesAnglesey-Isle.protect.md) 
+### [Anglesey-Isle.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle.internal.md) 
 
-### [Anglesey-Isle.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesAnglesey-Isle.private.md) 
+### [Anglesey-Isle.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle.protect.md) 
 
-### [Anglesey-Isle.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesAnglesey-Isle.personal.md) 
+### [Anglesey-Isle.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle.private.md) 
 
-### [Anglesey-Isle.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesAnglesey-Isle.secret.md)
+### [Anglesey-Isle.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle.personal.md) 
+
+### [Anglesey-Isle.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle.secret.md)
 

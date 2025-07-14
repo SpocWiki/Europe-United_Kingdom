@@ -41,15 +41,17 @@ markerFolder: ./Rhondda,_Cynon,_Taff/
 
 ## Confidential Links & Embeds: 
 
-### [Rhondda,Cynon,Taff.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesRhondda,Cynon,Taff.public.md) 
+### [Rhondda,Cynon,Taff](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.md) 
 
-### [Rhondda,Cynon,Taff.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesRhondda,Cynon,Taff.internal.md) 
+### [Rhondda,Cynon,Taff.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.public.md) 
 
-### [Rhondda,Cynon,Taff.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesRhondda,Cynon,Taff.protect.md) 
+### [Rhondda,Cynon,Taff.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.internal.md) 
 
-### [Rhondda,Cynon,Taff.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesRhondda,Cynon,Taff.private.md) 
+### [Rhondda,Cynon,Taff.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.protect.md) 
 
-### [Rhondda,Cynon,Taff.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesRhondda,Cynon,Taff.personal.md) 
+### [Rhondda,Cynon,Taff.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.private.md) 
 
-### [Rhondda,Cynon,Taff.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesRhondda,Cynon,Taff.secret.md)
+### [Rhondda,Cynon,Taff.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.personal.md) 
+
+### [Rhondda,Cynon,Taff.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.secret.md)
 

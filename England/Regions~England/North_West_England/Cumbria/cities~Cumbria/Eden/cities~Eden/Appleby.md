@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Appleby.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.public.md) 
+### [Appleby](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.md) 
 
-### [Appleby.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.internal.md) 
+### [Appleby.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.public.md) 
 
-### [Appleby.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.protect.md) 
+### [Appleby.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.internal.md) 
 
-### [Appleby.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.private.md) 
+### [Appleby.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.protect.md) 
 
-### [Appleby.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.personal.md) 
+### [Appleby.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.private.md) 
 
-### [Appleby.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.secret.md)
+### [Appleby.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.personal.md) 
+
+### [Appleby.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.secret.md)
 

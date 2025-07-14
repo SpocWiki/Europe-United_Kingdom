@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [South_Foreland.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.public.md) 
+### [South_Foreland](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.md) 
 
-### [South_Foreland.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.internal.md) 
+### [South_Foreland.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.public.md) 
 
-### [South_Foreland.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.protect.md) 
+### [South_Foreland.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.internal.md) 
 
-### [South_Foreland.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.private.md) 
+### [South_Foreland.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.protect.md) 
 
-### [South_Foreland.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.personal.md) 
+### [South_Foreland.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.private.md) 
 
-### [South_Foreland.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.secret.md)
+### [South_Foreland.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.personal.md) 
+
+### [South_Foreland.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.secret.md)
 

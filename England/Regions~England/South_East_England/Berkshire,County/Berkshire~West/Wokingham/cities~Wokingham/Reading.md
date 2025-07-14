@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reading.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Wokingham\cities~WokinghamReading.public.md) 
+### [Reading](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham/cities~Wokingham/Reading.md) 
 
-### [Reading.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Wokingham\cities~WokinghamReading.internal.md) 
+### [Reading.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham/cities~Wokingham/Reading.public.md) 
 
-### [Reading.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Wokingham\cities~WokinghamReading.protect.md) 
+### [Reading.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham/cities~Wokingham/Reading.internal.md) 
 
-### [Reading.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Wokingham\cities~WokinghamReading.private.md) 
+### [Reading.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham/cities~Wokingham/Reading.protect.md) 
 
-### [Reading.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Wokingham\cities~WokinghamReading.personal.md) 
+### [Reading.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham/cities~Wokingham/Reading.private.md) 
 
-### [Reading.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Wokingham\cities~WokinghamReading.secret.md)
+### [Reading.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham/cities~Wokingham/Reading.personal.md) 
+
+### [Reading.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham/cities~Wokingham/Reading.secret.md)
 

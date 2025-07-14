@@ -41,15 +41,17 @@ markerFolder: ./Lambeth/
 
 ## Confidential Links & Embeds: 
 
-### [Lambeth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonLambeth.public.md) 
+### [Lambeth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lambeth.md) 
 
-### [Lambeth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonLambeth.internal.md) 
+### [Lambeth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lambeth.public.md) 
 
-### [Lambeth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonLambeth.protect.md) 
+### [Lambeth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lambeth.internal.md) 
 
-### [Lambeth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonLambeth.private.md) 
+### [Lambeth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lambeth.protect.md) 
 
-### [Lambeth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonLambeth.personal.md) 
+### [Lambeth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lambeth.private.md) 
 
-### [Lambeth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonLambeth.secret.md)
+### [Lambeth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lambeth.personal.md) 
+
+### [Lambeth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lambeth.secret.md)
 

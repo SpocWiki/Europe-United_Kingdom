@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Perth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.public.md) 
+### [Perth](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross/cities~Perthshire_and_Kinross/Perth.md) 
 
-### [Perth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.internal.md) 
+### [Perth.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross/cities~Perthshire_and_Kinross/Perth.public.md) 
 
-### [Perth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.protect.md) 
+### [Perth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross/cities~Perthshire_and_Kinross/Perth.internal.md) 
 
-### [Perth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.private.md) 
+### [Perth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross/cities~Perthshire_and_Kinross/Perth.protect.md) 
 
-### [Perth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.personal.md) 
+### [Perth.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross/cities~Perthshire_and_Kinross/Perth.private.md) 
 
-### [Perth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.secret.md)
+### [Perth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross/cities~Perthshire_and_Kinross/Perth.personal.md) 
+
+### [Perth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perthshire_and_Kinross/cities~Perthshire_and_Kinross/Perth.secret.md)
 

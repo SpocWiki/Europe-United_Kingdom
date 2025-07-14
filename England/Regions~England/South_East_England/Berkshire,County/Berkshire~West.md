@@ -41,15 +41,17 @@ markerFolder: ./West_Berkshire/
 
 ## Confidential Links & Embeds: 
 
-### [Berkshire~West.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.public.md) 
+### [Berkshire~West](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West.md) 
 
-### [Berkshire~West.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.internal.md) 
+### [Berkshire~West.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West.public.md) 
 
-### [Berkshire~West.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.protect.md) 
+### [Berkshire~West.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West.internal.md) 
 
-### [Berkshire~West.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.private.md) 
+### [Berkshire~West.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West.protect.md) 
 
-### [Berkshire~West.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.personal.md) 
+### [Berkshire~West.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West.private.md) 
 
-### [Berkshire~West.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.secret.md)
+### [Berkshire~West.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West.personal.md) 
+
+### [Berkshire~West.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West.secret.md)
 

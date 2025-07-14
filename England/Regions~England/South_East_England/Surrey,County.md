@@ -41,15 +41,17 @@ markerFolder: ./Surrey/
 
 ## Confidential Links & Embeds: 
 
-### [Surrey,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSurrey,County.public.md) 
+### [Surrey,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County.md) 
 
-### [Surrey,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSurrey,County.internal.md) 
+### [Surrey,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County.public.md) 
 
-### [Surrey,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSurrey,County.protect.md) 
+### [Surrey,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County.internal.md) 
 
-### [Surrey,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSurrey,County.private.md) 
+### [Surrey,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County.protect.md) 
 
-### [Surrey,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSurrey,County.personal.md) 
+### [Surrey,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County.private.md) 
 
-### [Surrey,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSurrey,County.secret.md)
+### [Surrey,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County.personal.md) 
+
+### [Surrey,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County.secret.md)
 

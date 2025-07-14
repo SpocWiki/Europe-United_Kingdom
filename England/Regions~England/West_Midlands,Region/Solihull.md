@@ -41,15 +41,17 @@ markerFolder: ./Solihull/
 
 ## Confidential Links & Embeds: 
 
-### [Solihull.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSolihull.public.md) 
+### [Solihull](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Solihull.md) 
 
-### [Solihull.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSolihull.internal.md) 
+### [Solihull.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Solihull.public.md) 
 
-### [Solihull.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSolihull.protect.md) 
+### [Solihull.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Solihull.internal.md) 
 
-### [Solihull.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSolihull.private.md) 
+### [Solihull.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Solihull.protect.md) 
 
-### [Solihull.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSolihull.personal.md) 
+### [Solihull.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Solihull.private.md) 
 
-### [Solihull.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSolihull.secret.md)
+### [Solihull.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Solihull.personal.md) 
+
+### [Solihull.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Solihull.secret.md)
 

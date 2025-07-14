@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirkcaldy.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeKirkcaldy.public.md) 
+### [Kirkcaldy](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Kirkcaldy.md) 
 
-### [Kirkcaldy.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeKirkcaldy.internal.md) 
+### [Kirkcaldy.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Kirkcaldy.public.md) 
 
-### [Kirkcaldy.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeKirkcaldy.protect.md) 
+### [Kirkcaldy.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Kirkcaldy.internal.md) 
 
-### [Kirkcaldy.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeKirkcaldy.private.md) 
+### [Kirkcaldy.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Kirkcaldy.protect.md) 
 
-### [Kirkcaldy.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeKirkcaldy.personal.md) 
+### [Kirkcaldy.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Kirkcaldy.private.md) 
 
-### [Kirkcaldy.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeKirkcaldy.secret.md)
+### [Kirkcaldy.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Kirkcaldy.personal.md) 
+
+### [Kirkcaldy.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Kirkcaldy.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stockton-on-Tees.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.public.md) 
+### [Stockton-on-Tees](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Stockton-on-Tees,County/cities~Stockton-on-Tees/Stockton-on-Tees.md) 
 
-### [Stockton-on-Tees.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.internal.md) 
+### [Stockton-on-Tees.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Stockton-on-Tees,County/cities~Stockton-on-Tees/Stockton-on-Tees.public.md) 
 
-### [Stockton-on-Tees.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.protect.md) 
+### [Stockton-on-Tees.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Stockton-on-Tees,County/cities~Stockton-on-Tees/Stockton-on-Tees.internal.md) 
 
-### [Stockton-on-Tees.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.private.md) 
+### [Stockton-on-Tees.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Stockton-on-Tees,County/cities~Stockton-on-Tees/Stockton-on-Tees.protect.md) 
 
-### [Stockton-on-Tees.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.personal.md) 
+### [Stockton-on-Tees.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Stockton-on-Tees,County/cities~Stockton-on-Tees/Stockton-on-Tees.private.md) 
 
-### [Stockton-on-Tees.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.secret.md)
+### [Stockton-on-Tees.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Stockton-on-Tees,County/cities~Stockton-on-Tees/Stockton-on-Tees.personal.md) 
+
+### [Stockton-on-Tees.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Stockton-on-Tees,County/cities~Stockton-on-Tees/Stockton-on-Tees.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Shaftesbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.public.md) 
+### [Shaftesbury](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.md) 
 
-### [Shaftesbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.internal.md) 
+### [Shaftesbury.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.public.md) 
 
-### [Shaftesbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.protect.md) 
+### [Shaftesbury.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.internal.md) 
 
-### [Shaftesbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.private.md) 
+### [Shaftesbury.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.protect.md) 
 
-### [Shaftesbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.personal.md) 
+### [Shaftesbury.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.private.md) 
 
-### [Shaftesbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.secret.md)
+### [Shaftesbury.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.personal.md) 
+
+### [Shaftesbury.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.secret.md)
 

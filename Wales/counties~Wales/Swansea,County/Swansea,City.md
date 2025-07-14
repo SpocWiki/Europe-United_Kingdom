@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Swansea,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.public.md) 
+### [Swansea,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County/Swansea,City.md) 
 
-### [Swansea,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.internal.md) 
+### [Swansea,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County/Swansea,City.public.md) 
 
-### [Swansea,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.protect.md) 
+### [Swansea,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County/Swansea,City.internal.md) 
 
-### [Swansea,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.private.md) 
+### [Swansea,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County/Swansea,City.protect.md) 
 
-### [Swansea,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.personal.md) 
+### [Swansea,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County/Swansea,City.private.md) 
 
-### [Swansea,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.secret.md)
+### [Swansea,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County/Swansea,City.personal.md) 
+
+### [Swansea,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County/Swansea,City.secret.md)
 

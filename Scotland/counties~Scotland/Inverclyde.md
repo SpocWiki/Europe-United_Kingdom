@@ -41,15 +41,17 @@ markerFolder: ./Inverclyde/
 
 ## Confidential Links & Embeds: 
 
-### [Inverclyde.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandInverclyde.public.md) 
+### [Inverclyde](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde.md) 
 
-### [Inverclyde.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandInverclyde.internal.md) 
+### [Inverclyde.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde.public.md) 
 
-### [Inverclyde.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandInverclyde.protect.md) 
+### [Inverclyde.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde.internal.md) 
 
-### [Inverclyde.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandInverclyde.private.md) 
+### [Inverclyde.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde.protect.md) 
 
-### [Inverclyde.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandInverclyde.personal.md) 
+### [Inverclyde.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde.private.md) 
 
-### [Inverclyde.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandInverclyde.secret.md)
+### [Inverclyde.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde.personal.md) 
+
+### [Inverclyde.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde.secret.md)
 

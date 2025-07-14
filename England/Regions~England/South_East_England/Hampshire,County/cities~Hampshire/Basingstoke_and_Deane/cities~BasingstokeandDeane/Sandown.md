@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sandown.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Basingstoke_and_Deane\cities~BasingstokeandDeaneSandown.public.md) 
+### [Sandown](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Basingstoke_and_Deane/cities~BasingstokeandDeane/Sandown.md) 
 
-### [Sandown.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Basingstoke_and_Deane\cities~BasingstokeandDeaneSandown.internal.md) 
+### [Sandown.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Basingstoke_and_Deane/cities~BasingstokeandDeane/Sandown.public.md) 
 
-### [Sandown.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Basingstoke_and_Deane\cities~BasingstokeandDeaneSandown.protect.md) 
+### [Sandown.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Basingstoke_and_Deane/cities~BasingstokeandDeane/Sandown.internal.md) 
 
-### [Sandown.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Basingstoke_and_Deane\cities~BasingstokeandDeaneSandown.private.md) 
+### [Sandown.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Basingstoke_and_Deane/cities~BasingstokeandDeane/Sandown.protect.md) 
 
-### [Sandown.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Basingstoke_and_Deane\cities~BasingstokeandDeaneSandown.personal.md) 
+### [Sandown.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Basingstoke_and_Deane/cities~BasingstokeandDeane/Sandown.private.md) 
 
-### [Sandown.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Basingstoke_and_Deane\cities~BasingstokeandDeaneSandown.secret.md)
+### [Sandown.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Basingstoke_and_Deane/cities~BasingstokeandDeane/Sandown.personal.md) 
+
+### [Sandown.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Basingstoke_and_Deane/cities~BasingstokeandDeane/Sandown.secret.md)
 

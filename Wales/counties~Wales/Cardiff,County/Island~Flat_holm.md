@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Flat_holm.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.public.md) 
+### [Island~Flat_holm](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.md) 
 
-### [Island~Flat_holm.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.internal.md) 
+### [Island~Flat_holm.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.public.md) 
 
-### [Island~Flat_holm.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.protect.md) 
+### [Island~Flat_holm.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.internal.md) 
 
-### [Island~Flat_holm.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.private.md) 
+### [Island~Flat_holm.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.protect.md) 
 
-### [Island~Flat_holm.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.personal.md) 
+### [Island~Flat_holm.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.private.md) 
 
-### [Island~Flat_holm.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.secret.md)
+### [Island~Flat_holm.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.personal.md) 
+
+### [Island~Flat_holm.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.secret.md)
 

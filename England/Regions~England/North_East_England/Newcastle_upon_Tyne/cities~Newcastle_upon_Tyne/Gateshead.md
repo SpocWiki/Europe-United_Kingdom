@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gateshead.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.public.md) 
+### [Gateshead](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.md) 
 
-### [Gateshead.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.internal.md) 
+### [Gateshead.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.public.md) 
 
-### [Gateshead.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.protect.md) 
+### [Gateshead.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.internal.md) 
 
-### [Gateshead.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.private.md) 
+### [Gateshead.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.protect.md) 
 
-### [Gateshead.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.personal.md) 
+### [Gateshead.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.private.md) 
 
-### [Gateshead.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.secret.md)
+### [Gateshead.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.personal.md) 
+
+### [Gateshead.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.secret.md)
 

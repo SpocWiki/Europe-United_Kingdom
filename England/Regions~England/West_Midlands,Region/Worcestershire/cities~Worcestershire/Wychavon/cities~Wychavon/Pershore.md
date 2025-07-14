@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pershore.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.public.md) 
+### [Pershore](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Wychavon/cities~Wychavon/Pershore.md) 
 
-### [Pershore.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.internal.md) 
+### [Pershore.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Wychavon/cities~Wychavon/Pershore.public.md) 
 
-### [Pershore.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.protect.md) 
+### [Pershore.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Wychavon/cities~Wychavon/Pershore.internal.md) 
 
-### [Pershore.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.private.md) 
+### [Pershore.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Wychavon/cities~Wychavon/Pershore.protect.md) 
 
-### [Pershore.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.personal.md) 
+### [Pershore.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Wychavon/cities~Wychavon/Pershore.private.md) 
 
-### [Pershore.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.secret.md)
+### [Pershore.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Wychavon/cities~Wychavon/Pershore.personal.md) 
+
+### [Pershore.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Wychavon/cities~Wychavon/Pershore.secret.md)
 

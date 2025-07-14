@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hereford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireHereford.public.md) 
+### [Hereford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Hereford.md) 
 
-### [Hereford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireHereford.internal.md) 
+### [Hereford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Hereford.public.md) 
 
-### [Hereford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireHereford.protect.md) 
+### [Hereford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Hereford.internal.md) 
 
-### [Hereford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireHereford.private.md) 
+### [Hereford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Hereford.protect.md) 
 
-### [Hereford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireHereford.personal.md) 
+### [Hereford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Hereford.private.md) 
 
-### [Hereford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireHereford.secret.md)
+### [Hereford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Hereford.personal.md) 
+
+### [Hereford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Hereford.secret.md)
 

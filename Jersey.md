@@ -124,15 +124,17 @@ Continent :: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### [Jersey.public](/_public/\Earth\Continent\Europe\Europe~North\UKJersey.public.md) 
+### [Jersey](/_Standards/Earth/Continent/Europe/Europe~North/UK/Jersey.md) 
 
-### [Jersey.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKJersey.internal.md) 
+### [Jersey.public](/_public/Earth/Continent/Europe/Europe~North/UK/Jersey.public.md) 
 
-### [Jersey.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKJersey.protect.md) 
+### [Jersey.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Jersey.internal.md) 
 
-### [Jersey.private](/_private/\Earth\Continent\Europe\Europe~North\UKJersey.private.md) 
+### [Jersey.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Jersey.protect.md) 
 
-### [Jersey.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKJersey.personal.md) 
+### [Jersey.private](/_private/Earth/Continent/Europe/Europe~North/UK/Jersey.private.md) 
 
-### [Jersey.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKJersey.secret.md)
+### [Jersey.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Jersey.personal.md) 
+
+### [Jersey.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Jersey.secret.md)
 

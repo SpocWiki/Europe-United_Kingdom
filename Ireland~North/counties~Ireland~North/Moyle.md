@@ -41,15 +41,17 @@ markerFolder: ./Moyle/
 
 ## Confidential Links & Embeds: 
 
-### [Moyle.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMoyle.public.md) 
+### [Moyle](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Moyle.md) 
 
-### [Moyle.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMoyle.internal.md) 
+### [Moyle.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Moyle.public.md) 
 
-### [Moyle.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMoyle.protect.md) 
+### [Moyle.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Moyle.internal.md) 
 
-### [Moyle.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMoyle.private.md) 
+### [Moyle.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Moyle.protect.md) 
 
-### [Moyle.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMoyle.personal.md) 
+### [Moyle.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Moyle.private.md) 
 
-### [Moyle.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthMoyle.secret.md)
+### [Moyle.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Moyle.personal.md) 
+
+### [Moyle.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Moyle.secret.md)
 

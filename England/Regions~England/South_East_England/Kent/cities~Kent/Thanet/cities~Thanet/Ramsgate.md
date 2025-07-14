@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ramsgate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.public.md) 
+### [Ramsgate](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.md) 
 
-### [Ramsgate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.internal.md) 
+### [Ramsgate.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.public.md) 
 
-### [Ramsgate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.protect.md) 
+### [Ramsgate.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.internal.md) 
 
-### [Ramsgate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.private.md) 
+### [Ramsgate.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.protect.md) 
 
-### [Ramsgate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.personal.md) 
+### [Ramsgate.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.private.md) 
 
-### [Ramsgate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.secret.md)
+### [Ramsgate.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.personal.md) 
+
+### [Ramsgate.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.secret.md)
 

@@ -11,19 +11,19 @@ maxZoom: 18
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [NA.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexNA.public.md) 
+### [NA](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/NA.md) 
 
-### [NA.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexNA.internal.md) 
+### [NA.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/NA.public.md) 
 
-### [NA.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexNA.protect.md) 
+### [NA.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/NA.internal.md) 
 
-### [NA.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexNA.private.md) 
+### [NA.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/NA.protect.md) 
 
-### [NA.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexNA.personal.md) 
+### [NA.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/NA.private.md) 
 
-### [NA.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexNA.secret.md)
+### [NA.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/NA.personal.md) 
+
+### [NA.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Essex/cities~Essex/NA.secret.md)
 

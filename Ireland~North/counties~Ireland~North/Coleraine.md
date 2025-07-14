@@ -41,15 +41,17 @@ markerFolder: ./Coleraine/
 
 ## Confidential Links & Embeds: 
 
-### [Coleraine.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthColeraine.public.md) 
+### [Coleraine](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Coleraine.md) 
 
-### [Coleraine.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthColeraine.internal.md) 
+### [Coleraine.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Coleraine.public.md) 
 
-### [Coleraine.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthColeraine.protect.md) 
+### [Coleraine.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Coleraine.internal.md) 
 
-### [Coleraine.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthColeraine.private.md) 
+### [Coleraine.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Coleraine.protect.md) 
 
-### [Coleraine.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthColeraine.personal.md) 
+### [Coleraine.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Coleraine.private.md) 
 
-### [Coleraine.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthColeraine.secret.md)
+### [Coleraine.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Coleraine.personal.md) 
+
+### [Coleraine.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Coleraine.secret.md)
 

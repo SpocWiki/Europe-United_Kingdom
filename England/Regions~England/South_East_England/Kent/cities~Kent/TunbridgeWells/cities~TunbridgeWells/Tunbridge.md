@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tunbridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.public.md) 
+### [Tunbridge](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.md) 
 
-### [Tunbridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.internal.md) 
+### [Tunbridge.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.public.md) 
 
-### [Tunbridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.protect.md) 
+### [Tunbridge.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.internal.md) 
 
-### [Tunbridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.private.md) 
+### [Tunbridge.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.protect.md) 
 
-### [Tunbridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.personal.md) 
+### [Tunbridge.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.private.md) 
 
-### [Tunbridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.secret.md)
+### [Tunbridge.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.personal.md) 
+
+### [Tunbridge.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.secret.md)
 

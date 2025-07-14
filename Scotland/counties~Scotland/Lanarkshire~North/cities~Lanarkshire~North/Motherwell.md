@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Motherwell.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.public.md) 
+### [Motherwell](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Motherwell.md) 
 
-### [Motherwell.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.internal.md) 
+### [Motherwell.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Motherwell.public.md) 
 
-### [Motherwell.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.protect.md) 
+### [Motherwell.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Motherwell.internal.md) 
 
-### [Motherwell.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.private.md) 
+### [Motherwell.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Motherwell.protect.md) 
 
-### [Motherwell.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.personal.md) 
+### [Motherwell.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Motherwell.private.md) 
 
-### [Motherwell.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.secret.md)
+### [Motherwell.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Motherwell.personal.md) 
+
+### [Motherwell.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North/cities~Lanarkshire~North/Motherwell.secret.md)
 

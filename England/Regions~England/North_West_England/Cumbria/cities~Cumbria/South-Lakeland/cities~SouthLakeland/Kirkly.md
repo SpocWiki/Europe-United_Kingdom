@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirkly.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.public.md) 
+### [Kirkly](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.md) 
 
-### [Kirkly.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.internal.md) 
+### [Kirkly.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.public.md) 
 
-### [Kirkly.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.protect.md) 
+### [Kirkly.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.internal.md) 
 
-### [Kirkly.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.private.md) 
+### [Kirkly.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.protect.md) 
 
-### [Kirkly.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.personal.md) 
+### [Kirkly.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.private.md) 
 
-### [Kirkly.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.secret.md)
+### [Kirkly.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.personal.md) 
+
+### [Kirkly.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.secret.md)
 

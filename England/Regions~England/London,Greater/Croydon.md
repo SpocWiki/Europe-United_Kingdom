@@ -41,15 +41,17 @@ markerFolder: ./Croydon/
 
 ## Confidential Links & Embeds: 
 
-### [Croydon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,GreaterCroydon.public.md) 
+### [Croydon](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.md) 
 
-### [Croydon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,GreaterCroydon.internal.md) 
+### [Croydon.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.public.md) 
 
-### [Croydon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,GreaterCroydon.protect.md) 
+### [Croydon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.internal.md) 
 
-### [Croydon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,GreaterCroydon.private.md) 
+### [Croydon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.protect.md) 
 
-### [Croydon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,GreaterCroydon.personal.md) 
+### [Croydon.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.private.md) 
 
-### [Croydon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,GreaterCroydon.secret.md)
+### [Croydon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.personal.md) 
+
+### [Croydon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Cumbria/
 
 ## Confidential Links & Embeds: 
 
-### [Cumbria.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCumbria.public.md) 
+### [Cumbria](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.md) 
 
-### [Cumbria.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCumbria.internal.md) 
+### [Cumbria.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.public.md) 
 
-### [Cumbria.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCumbria.protect.md) 
+### [Cumbria.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.internal.md) 
 
-### [Cumbria.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCumbria.private.md) 
+### [Cumbria.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.protect.md) 
 
-### [Cumbria.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCumbria.personal.md) 
+### [Cumbria.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.private.md) 
 
-### [Cumbria.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCumbria.secret.md)
+### [Cumbria.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.personal.md) 
+
+### [Cumbria.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.secret.md)
 

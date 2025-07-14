@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Swindon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.public.md) 
+### [Swindon](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County/cities~Swindon/Swindon.md) 
 
-### [Swindon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.internal.md) 
+### [Swindon.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County/cities~Swindon/Swindon.public.md) 
 
-### [Swindon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.protect.md) 
+### [Swindon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County/cities~Swindon/Swindon.internal.md) 
 
-### [Swindon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.private.md) 
+### [Swindon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County/cities~Swindon/Swindon.protect.md) 
 
-### [Swindon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.personal.md) 
+### [Swindon.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County/cities~Swindon/Swindon.private.md) 
 
-### [Swindon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.secret.md)
+### [Swindon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County/cities~Swindon/Swindon.personal.md) 
+
+### [Swindon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County/cities~Swindon/Swindon.secret.md)
 

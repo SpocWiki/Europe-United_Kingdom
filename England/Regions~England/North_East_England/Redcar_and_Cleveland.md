@@ -41,15 +41,17 @@ markerFolder: ./Redcar_and_Cleveland/
 
 ## Confidential Links & Embeds: 
 
-### [Redcar_and_Cleveland.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.public.md) 
+### [Redcar_and_Cleveland](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Redcar_and_Cleveland.md) 
 
-### [Redcar_and_Cleveland.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.internal.md) 
+### [Redcar_and_Cleveland.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Redcar_and_Cleveland.public.md) 
 
-### [Redcar_and_Cleveland.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.protect.md) 
+### [Redcar_and_Cleveland.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Redcar_and_Cleveland.internal.md) 
 
-### [Redcar_and_Cleveland.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.private.md) 
+### [Redcar_and_Cleveland.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Redcar_and_Cleveland.protect.md) 
 
-### [Redcar_and_Cleveland.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.personal.md) 
+### [Redcar_and_Cleveland.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Redcar_and_Cleveland.private.md) 
 
-### [Redcar_and_Cleveland.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.secret.md)
+### [Redcar_and_Cleveland.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Redcar_and_Cleveland.personal.md) 
+
+### [Redcar_and_Cleveland.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Redcar_and_Cleveland.secret.md)
 

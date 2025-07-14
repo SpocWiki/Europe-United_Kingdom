@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Burnley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.public.md) 
+### [Burnley](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.md) 
 
-### [Burnley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.internal.md) 
+### [Burnley.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.public.md) 
 
-### [Burnley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.protect.md) 
+### [Burnley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.internal.md) 
 
-### [Burnley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.private.md) 
+### [Burnley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.protect.md) 
 
-### [Burnley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.personal.md) 
+### [Burnley.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.private.md) 
 
-### [Burnley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.secret.md)
+### [Burnley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.personal.md) 
+
+### [Burnley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.secret.md)
 

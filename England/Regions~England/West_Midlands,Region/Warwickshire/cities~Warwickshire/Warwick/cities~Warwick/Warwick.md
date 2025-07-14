@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Warwick.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Warwick\cities~WarwickWarwick.public.md) 
+### [Warwick](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Warwick/cities~Warwick/Warwick.md) 
 
-### [Warwick.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Warwick\cities~WarwickWarwick.internal.md) 
+### [Warwick.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Warwick/cities~Warwick/Warwick.public.md) 
 
-### [Warwick.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Warwick\cities~WarwickWarwick.protect.md) 
+### [Warwick.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Warwick/cities~Warwick/Warwick.internal.md) 
 
-### [Warwick.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Warwick\cities~WarwickWarwick.private.md) 
+### [Warwick.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Warwick/cities~Warwick/Warwick.protect.md) 
 
-### [Warwick.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Warwick\cities~WarwickWarwick.personal.md) 
+### [Warwick.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Warwick/cities~Warwick/Warwick.private.md) 
 
-### [Warwick.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Warwick\cities~WarwickWarwick.secret.md)
+### [Warwick.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Warwick/cities~Warwick/Warwick.personal.md) 
+
+### [Warwick.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Warwick/cities~Warwick/Warwick.secret.md)
 

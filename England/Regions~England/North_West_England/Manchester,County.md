@@ -41,15 +41,17 @@ markerFolder: ./Manchester/
 
 ## Confidential Links & Embeds: 
 
-### [Manchester,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.public.md) 
+### [Manchester,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.md) 
 
-### [Manchester,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.internal.md) 
+### [Manchester,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.public.md) 
 
-### [Manchester,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.protect.md) 
+### [Manchester,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.internal.md) 
 
-### [Manchester,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.private.md) 
+### [Manchester,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.protect.md) 
 
-### [Manchester,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.personal.md) 
+### [Manchester,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.private.md) 
 
-### [Manchester,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.secret.md)
+### [Manchester,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.personal.md) 
+
+### [Manchester,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.secret.md)
 

@@ -50,15 +50,17 @@ markerFolder: ./Sefton/
 
 ## Confidential Links & Embeds: 
 
-### [Sefton,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.public.md) 
+### [Sefton,Borough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.md) 
 
-### [Sefton,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.internal.md) 
+### [Sefton,Borough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.public.md) 
 
-### [Sefton,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.protect.md) 
+### [Sefton,Borough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.internal.md) 
 
-### [Sefton,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.private.md) 
+### [Sefton,Borough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.protect.md) 
 
-### [Sefton,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.personal.md) 
+### [Sefton,Borough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.private.md) 
 
-### [Sefton,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.secret.md)
+### [Sefton,Borough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.personal.md) 
+
+### [Sefton,Borough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.secret.md)
 

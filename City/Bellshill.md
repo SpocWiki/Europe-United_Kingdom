@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bellshill.public](/_public/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.public.md) 
+### [Bellshill](/_Standards/Earth/Continent/Europe/Europe~North/UK/City/Bellshill.md) 
 
-### [Bellshill.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.internal.md) 
+### [Bellshill.public](/_public/Earth/Continent/Europe/Europe~North/UK/City/Bellshill.public.md) 
 
-### [Bellshill.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.protect.md) 
+### [Bellshill.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/City/Bellshill.internal.md) 
 
-### [Bellshill.private](/_private/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.private.md) 
+### [Bellshill.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/City/Bellshill.protect.md) 
 
-### [Bellshill.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.personal.md) 
+### [Bellshill.private](/_private/Earth/Continent/Europe/Europe~North/UK/City/Bellshill.private.md) 
 
-### [Bellshill.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.secret.md)
+### [Bellshill.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/City/Bellshill.personal.md) 
+
+### [Bellshill.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/City/Bellshill.secret.md)
 

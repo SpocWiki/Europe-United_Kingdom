@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dover.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDover.public.md) 
+### [Dover](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Dover.md) 
 
-### [Dover.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDover.internal.md) 
+### [Dover.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Dover.public.md) 
 
-### [Dover.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDover.protect.md) 
+### [Dover.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Dover.internal.md) 
 
-### [Dover.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDover.private.md) 
+### [Dover.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Dover.protect.md) 
 
-### [Dover.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDover.personal.md) 
+### [Dover.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Dover.private.md) 
 
-### [Dover.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDover.secret.md)
+### [Dover.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Dover.personal.md) 
+
+### [Dover.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Dover/cities~Dover/Dover.secret.md)
 
