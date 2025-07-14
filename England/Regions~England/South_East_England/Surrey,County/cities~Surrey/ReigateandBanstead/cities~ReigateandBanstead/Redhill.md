@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Redhill|Redhill]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Redhill.public|Redhill.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Redhill.internal|Redhill.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Redhill.protect|Redhill.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Redhill.private|Redhill.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Redhill.personal|Redhill.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Redhill.secret|Redhill.secret]] 
+
+### [Redhill.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.public.md) 
+
+### [Redhill.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.internal.md) 
+
+### [Redhill.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.protect.md) 
+
+### [Redhill.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.private.md) 
+
+### [Redhill.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.personal.md) 
+
+### [Redhill.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadRedhill.secret.md)
+

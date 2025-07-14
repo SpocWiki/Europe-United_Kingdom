@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Salford|Salford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Salford.public|Salford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Salford.internal|Salford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Salford.protect|Salford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Salford.private|Salford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Salford.personal|Salford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Salford.secret|Salford.secret]] 
+
+### [Salford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.public.md) 
+
+### [Salford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.internal.md) 
+
+### [Salford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.protect.md) 
+
+### [Salford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.private.md) 
+
+### [Salford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.personal.md) 
+
+### [Salford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Salford,County\cities~SalfordSalford.secret.md)
+

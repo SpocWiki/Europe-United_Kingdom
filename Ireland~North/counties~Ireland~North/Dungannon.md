@@ -40,11 +40,16 @@ markerFolder: ./Dungannon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Dungannon|Dungannon]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Dungannon.public|Dungannon.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Dungannon.internal|Dungannon.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Dungannon.protect|Dungannon.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Dungannon.private|Dungannon.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Dungannon.personal|Dungannon.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Dungannon.secret|Dungannon.secret]] 
+
+### [Dungannon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthDungannon.public.md) 
+
+### [Dungannon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthDungannon.internal.md) 
+
+### [Dungannon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthDungannon.protect.md) 
+
+### [Dungannon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthDungannon.private.md) 
+
+### [Dungannon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthDungannon.personal.md) 
+
+### [Dungannon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthDungannon.secret.md)
 

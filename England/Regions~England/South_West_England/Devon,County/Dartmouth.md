@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dartmouth|Dartmouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dartmouth.public|Dartmouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dartmouth.internal|Dartmouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dartmouth.protect|Dartmouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dartmouth.private|Dartmouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dartmouth.personal|Dartmouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dartmouth.secret|Dartmouth.secret]] 
+
+### [Dartmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDartmouth.public.md) 
+
+### [Dartmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDartmouth.internal.md) 
+
+### [Dartmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDartmouth.protect.md) 
+
+### [Dartmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDartmouth.private.md) 
+
+### [Dartmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDartmouth.personal.md) 
+
+### [Dartmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDartmouth.secret.md)
+

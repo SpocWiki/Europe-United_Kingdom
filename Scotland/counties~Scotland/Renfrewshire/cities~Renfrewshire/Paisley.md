@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Paisley|Paisley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Paisley.public|Paisley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Paisley.internal|Paisley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Paisley.protect|Paisley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Paisley.private|Paisley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Paisley.personal|Paisley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Paisley.secret|Paisley.secret]] 
+
+### [Paisley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.public.md) 
+
+### [Paisley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.internal.md) 
+
+### [Paisley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.protect.md) 
+
+### [Paisley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.private.md) 
+
+### [Paisley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.personal.md) 
+
+### [Paisley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshirePaisley.secret.md)
+

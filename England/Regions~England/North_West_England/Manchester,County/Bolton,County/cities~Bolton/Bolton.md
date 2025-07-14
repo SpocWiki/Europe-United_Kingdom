@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bolton|Bolton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bolton.public|Bolton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bolton.internal|Bolton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bolton.protect|Bolton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bolton.private|Bolton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bolton.personal|Bolton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bolton.secret|Bolton.secret]] 
+
+### [Bolton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.public.md) 
+
+### [Bolton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.internal.md) 
+
+### [Bolton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.protect.md) 
+
+### [Bolton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.private.md) 
+
+### [Bolton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.personal.md) 
+
+### [Bolton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bolton,County\cities~BoltonBolton.secret.md)
+

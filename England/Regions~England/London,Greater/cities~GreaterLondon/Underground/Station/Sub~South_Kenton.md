@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Kenton|Sub~South_Kenton]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Kenton.public|Sub~South_Kenton.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Kenton.internal|Sub~South_Kenton.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Kenton.protect|Sub~South_Kenton.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Kenton.private|Sub~South_Kenton.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Kenton.personal|Sub~South_Kenton.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~South_Kenton.secret|Sub~South_Kenton.secret]] 
+
+### [Sub~South_Kenton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Kenton.public.md) 
+
+### [Sub~South_Kenton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Kenton.internal.md) 
+
+### [Sub~South_Kenton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Kenton.protect.md) 
+
+### [Sub~South_Kenton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Kenton.private.md) 
+
+### [Sub~South_Kenton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Kenton.personal.md) 
+
+### [Sub~South_Kenton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~South_Kenton.secret.md)
+

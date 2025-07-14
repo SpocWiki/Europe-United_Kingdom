@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Preston_Road|Sub~Preston_Road]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Preston_Road.public|Sub~Preston_Road.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Preston_Road.internal|Sub~Preston_Road.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Preston_Road.protect|Sub~Preston_Road.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Preston_Road.private|Sub~Preston_Road.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Preston_Road.personal|Sub~Preston_Road.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Preston_Road.secret|Sub~Preston_Road.secret]] 
+
+### [Sub~Preston_Road.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Preston_Road.public.md) 
+
+### [Sub~Preston_Road.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Preston_Road.internal.md) 
+
+### [Sub~Preston_Road.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Preston_Road.protect.md) 
+
+### [Sub~Preston_Road.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Preston_Road.private.md) 
+
+### [Sub~Preston_Road.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Preston_Road.personal.md) 
+
+### [Sub~Preston_Road.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Preston_Road.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.David|St.David]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.David.public|St.David.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.David.internal|St.David.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.David.protect|St.David.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.David.private|St.David.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.David.personal|St.David.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.David.secret|St.David.secret]] 
+
+### [St.David.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.public.md) 
+
+### [St.David.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.internal.md) 
+
+### [St.David.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.protect.md) 
+
+### [St.David.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.private.md) 
+
+### [St.David.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.personal.md) 
+
+### [St.David.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireSt.David.secret.md)
+

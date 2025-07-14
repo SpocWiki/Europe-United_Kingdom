@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Inverary|Inverary]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Inverary.public|Inverary.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Inverary.internal|Inverary.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Inverary.protect|Inverary.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Inverary.private|Inverary.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Inverary.personal|Inverary.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Inverary.secret|Inverary.secret]] 
+
+### [Inverary.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.public.md) 
+
+### [Inverary.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.internal.md) 
+
+### [Inverary.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.protect.md) 
+
+### [Inverary.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.private.md) 
+
+### [Inverary.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.personal.md) 
+
+### [Inverary.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeInverary.secret.md)
+

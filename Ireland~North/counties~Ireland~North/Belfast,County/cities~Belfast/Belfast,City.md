@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Belfast|Belfast]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Belfast.public|Belfast.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Belfast.internal|Belfast.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Belfast.protect|Belfast.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Belfast.private|Belfast.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Belfast.personal|Belfast.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Belfast.secret|Belfast.secret]] 
+
+### [Belfast,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.public.md) 
+
+### [Belfast,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.internal.md) 
+
+### [Belfast,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.protect.md) 
+
+### [Belfast,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.private.md) 
+
+### [Belfast,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.personal.md) 
+
+### [Belfast,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Belfast,County\cities~BelfastBelfast,City.secret.md)
+

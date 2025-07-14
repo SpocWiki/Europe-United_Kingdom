@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Dundee|City~Dundee]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Dundee.internal|Dundee.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Dundee.protect|Dundee.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Dundee.private|Dundee.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Dundee.personal|Dundee.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Dundee.secret|Dundee.secret]] 
+
+### [City~Dundee.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.public.md) 
+
+### [City~Dundee.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.internal.md) 
+
+### [City~Dundee.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.protect.md) 
+
+### [City~Dundee.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.private.md) 
+
+### [City~Dundee.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.personal.md) 
+
+### [City~Dundee.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dundee-CountyCity~Dundee.secret.md)
+

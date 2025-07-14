@@ -40,11 +40,16 @@ markerFolder: ./Lincolnshire~North/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North|Lincolnshire~North]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North.public|Lincolnshire~North.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North.internal|Lincolnshire~North.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North.protect|Lincolnshire~North.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North.private|Lincolnshire~North.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North.personal|Lincolnshire~North.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire~North.secret|Lincolnshire~North.secret]] 
+
+### [Lincolnshire~North.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North.public.md) 
+
+### [Lincolnshire~North.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North.internal.md) 
+
+### [Lincolnshire~North.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North.protect.md) 
+
+### [Lincolnshire~North.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North.private.md) 
+
+### [Lincolnshire~North.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North.personal.md) 
+
+### [Lincolnshire~North.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire~North.secret.md)
 

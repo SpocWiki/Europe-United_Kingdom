@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Edinburgh-City|Edinburgh-City]] 
-- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Edinburgh.internal|Edinburgh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Edinburgh.protect|Edinburgh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Edinburgh.private|Edinburgh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Edinburgh.personal|Edinburgh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Edinburgh.secret|Edinburgh.secret]] 
+
+### [Edinburgh-City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.public.md) 
+
+### [Edinburgh-City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.internal.md) 
+
+### [Edinburgh-City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.protect.md) 
+
+### [Edinburgh-City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.private.md) 
+
+### [Edinburgh-City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.personal.md) 
+
+### [Edinburgh-City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghEdinburgh-City.secret.md)
+

@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~East_Acton|Sub~East_Acton]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~East_Acton.public|Sub~East_Acton.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~East_Acton.internal|Sub~East_Acton.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~East_Acton.protect|Sub~East_Acton.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~East_Acton.private|Sub~East_Acton.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~East_Acton.personal|Sub~East_Acton.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~East_Acton.secret|Sub~East_Acton.secret]] 
+
+### [Sub~East_Acton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~East_Acton.public.md) 
+
+### [Sub~East_Acton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~East_Acton.internal.md) 
+
+### [Sub~East_Acton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~East_Acton.protect.md) 
+
+### [Sub~East_Acton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~East_Acton.private.md) 
+
+### [Sub~East_Acton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~East_Acton.personal.md) 
+
+### [Sub~East_Acton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~East_Acton.secret.md)
+

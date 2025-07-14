@@ -39,10 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[Sub~Boston_Manor|Sub~Boston_Manor]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Boston_Manor.internal|Sub~Boston_Manor.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Boston_Manor.protect|Sub~Boston_Manor.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Boston_Manor.private|Sub~Boston_Manor.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Boston_Manor.personal|Sub~Boston_Manor.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Boston_Manor.secret|Sub~Boston_Manor.secret]] 
+
+### [Sub~Boston_Manor.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Boston_Manor.public.md) 
+
+### [Sub~Boston_Manor.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Boston_Manor.internal.md) 
+
+### [Sub~Boston_Manor.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Boston_Manor.protect.md) 
+
+### [Sub~Boston_Manor.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Boston_Manor.private.md) 
+
+### [Sub~Boston_Manor.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Boston_Manor.personal.md) 
+
+### [Sub~Boston_Manor.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Boston_Manor.secret.md)
+

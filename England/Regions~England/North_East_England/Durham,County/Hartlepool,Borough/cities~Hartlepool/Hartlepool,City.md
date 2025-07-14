@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hartlepool|Hartlepool]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.public|Hartlepool.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.internal|Hartlepool.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.protect|Hartlepool.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.private|Hartlepool.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.personal|Hartlepool.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hartlepool.secret|Hartlepool.secret]] 
+
+### [Hartlepool,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolHartlepool,City.public.md) 
+
+### [Hartlepool,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolHartlepool,City.internal.md) 
+
+### [Hartlepool,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolHartlepool,City.protect.md) 
+
+### [Hartlepool,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolHartlepool,City.private.md) 
+
+### [Hartlepool,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolHartlepool,City.personal.md) 
+
+### [Hartlepool,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolHartlepool,City.secret.md)
+

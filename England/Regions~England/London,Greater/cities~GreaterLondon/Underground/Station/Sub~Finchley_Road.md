@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Finchley_Road|Sub~Finchley_Road]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Finchley_Road.public|Sub~Finchley_Road.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Finchley_Road.internal|Sub~Finchley_Road.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Finchley_Road.protect|Sub~Finchley_Road.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Finchley_Road.private|Sub~Finchley_Road.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Finchley_Road.personal|Sub~Finchley_Road.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Finchley_Road.secret|Sub~Finchley_Road.secret]] 
+
+### [Sub~Finchley_Road.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Finchley_Road.public.md) 
+
+### [Sub~Finchley_Road.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Finchley_Road.internal.md) 
+
+### [Sub~Finchley_Road.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Finchley_Road.protect.md) 
+
+### [Sub~Finchley_Road.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Finchley_Road.private.md) 
+
+### [Sub~Finchley_Road.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Finchley_Road.personal.md) 
+
+### [Sub~Finchley_Road.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Finchley_Road.secret.md)
+

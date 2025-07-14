@@ -40,11 +40,16 @@ markerFolder: ./Leeds/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Leeds|Leeds]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Leeds.public|Leeds.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Leeds.internal|Leeds.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Leeds.protect|Leeds.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Leeds.private|Leeds.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Leeds.personal|Leeds.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Leeds.secret|Leeds.secret]] 
+
+### [Leeds,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestLeeds,County.public.md) 
+
+### [Leeds,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestLeeds,County.internal.md) 
+
+### [Leeds,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestLeeds,County.protect.md) 
+
+### [Leeds,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestLeeds,County.private.md) 
+
+### [Leeds,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestLeeds,County.personal.md) 
+
+### [Leeds,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestLeeds,County.secret.md)
 

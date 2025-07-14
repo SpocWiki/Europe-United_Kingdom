@@ -40,11 +40,16 @@ markerFolder: ./Worcestershire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Worcestershire|Worcestershire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Worcestershire.public|Worcestershire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Worcestershire.internal|Worcestershire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Worcestershire.protect|Worcestershire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Worcestershire.private|Worcestershire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Worcestershire.personal|Worcestershire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Worcestershire.secret|Worcestershire.secret]] 
+
+### [Worcestershire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.public.md) 
+
+### [Worcestershire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.internal.md) 
+
+### [Worcestershire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.protect.md) 
+
+### [Worcestershire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.private.md) 
+
+### [Worcestershire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.personal.md) 
+
+### [Worcestershire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWorcestershire.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Shaftesbury|Shaftesbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Shaftesbury.public|Shaftesbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Shaftesbury.internal|Shaftesbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Shaftesbury.protect|Shaftesbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Shaftesbury.private|Shaftesbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Shaftesbury.personal|Shaftesbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Shaftesbury.secret|Shaftesbury.secret]] 
+
+### [Shaftesbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.public.md) 
+
+### [Shaftesbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.internal.md) 
+
+### [Shaftesbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.protect.md) 
+
+### [Shaftesbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.private.md) 
+
+### [Shaftesbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.personal.md) 
+
+### [Shaftesbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeShaftesbury.secret.md)
+

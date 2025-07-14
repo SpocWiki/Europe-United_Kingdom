@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hastings|Hastings]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hastings.public|Hastings.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hastings.internal|Hastings.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hastings.protect|Hastings.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hastings.private|Hastings.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hastings.personal|Hastings.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hastings.secret|Hastings.secret]] 
+
+### [Hastings.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~EastHastings.public.md) 
+
+### [Hastings.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~EastHastings.internal.md) 
+
+### [Hastings.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~EastHastings.protect.md) 
+
+### [Hastings.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~EastHastings.private.md) 
+
+### [Hastings.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~EastHastings.personal.md) 
+
+### [Hastings.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~EastHastings.secret.md)
+

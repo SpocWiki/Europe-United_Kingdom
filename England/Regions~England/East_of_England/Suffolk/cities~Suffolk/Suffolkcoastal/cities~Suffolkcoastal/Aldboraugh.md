@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh|Aldboraugh]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.public|Aldboraugh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.internal|Aldboraugh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.protect|Aldboraugh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.private|Aldboraugh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.personal|Aldboraugh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Aldboraugh.secret|Aldboraugh.secret]] 
+
+### [Aldboraugh.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalAldboraugh.public.md) 
+
+### [Aldboraugh.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalAldboraugh.internal.md) 
+
+### [Aldboraugh.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalAldboraugh.protect.md) 
+
+### [Aldboraugh.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalAldboraugh.private.md) 
+
+### [Aldboraugh.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalAldboraugh.personal.md) 
+
+### [Aldboraugh.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalAldboraugh.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch|Kirkintilloch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.public|Kirkintilloch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.internal|Kirkintilloch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.protect|Kirkintilloch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.private|Kirkintilloch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.personal|Kirkintilloch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Kirkintilloch.secret|Kirkintilloch.secret]] 
+
+### [Kirkintilloch.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.public.md) 
+
+### [Kirkintilloch.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.internal.md) 
+
+### [Kirkintilloch.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.protect.md) 
+
+### [Kirkintilloch.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.private.md) 
+
+### [Kirkintilloch.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.personal.md) 
+
+### [Kirkintilloch.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~East\cities~Dunbartonshire~EastKirkintilloch.secret.md)
+

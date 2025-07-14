@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Teddington|Teddington]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Teddington.public|Teddington.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Teddington.internal|Teddington.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Teddington.protect|Teddington.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Teddington.private|Teddington.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Teddington.personal|Teddington.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Teddington.secret|Teddington.secret]] 
+
+### [Teddington.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTeddington.public.md) 
+
+### [Teddington.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTeddington.internal.md) 
+
+### [Teddington.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTeddington.protect.md) 
+
+### [Teddington.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTeddington.private.md) 
+
+### [Teddington.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTeddington.personal.md) 
+
+### [Teddington.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTeddington.secret.md)
+

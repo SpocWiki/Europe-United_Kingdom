@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Hyde_Park_Corner|Sub~Hyde_Park_Corner]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Hyde_Park_Corner.public|Sub~Hyde_Park_Corner.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Hyde_Park_Corner.internal|Sub~Hyde_Park_Corner.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Hyde_Park_Corner.protect|Sub~Hyde_Park_Corner.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Hyde_Park_Corner.private|Sub~Hyde_Park_Corner.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Hyde_Park_Corner.personal|Sub~Hyde_Park_Corner.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Hyde_Park_Corner.secret|Sub~Hyde_Park_Corner.secret]] 
+
+### [Sub~Hyde_Park_Corner.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Hyde_Park_Corner.public.md) 
+
+### [Sub~Hyde_Park_Corner.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Hyde_Park_Corner.internal.md) 
+
+### [Sub~Hyde_Park_Corner.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Hyde_Park_Corner.protect.md) 
+
+### [Sub~Hyde_Park_Corner.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Hyde_Park_Corner.private.md) 
+
+### [Sub~Hyde_Park_Corner.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Hyde_Park_Corner.personal.md) 
+
+### [Sub~Hyde_Park_Corner.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Hyde_Park_Corner.secret.md)
+

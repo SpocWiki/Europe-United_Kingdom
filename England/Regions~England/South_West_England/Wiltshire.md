@@ -40,11 +40,16 @@ markerFolder: ./Wiltshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Wiltshire|Wiltshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Wiltshire.public|Wiltshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Wiltshire.internal|Wiltshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Wiltshire.protect|Wiltshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Wiltshire.private|Wiltshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Wiltshire.personal|Wiltshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Wiltshire.secret|Wiltshire.secret]] 
+
+### [Wiltshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandWiltshire.public.md) 
+
+### [Wiltshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandWiltshire.internal.md) 
+
+### [Wiltshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandWiltshire.protect.md) 
+
+### [Wiltshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandWiltshire.private.md) 
+
+### [Wiltshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandWiltshire.personal.md) 
+
+### [Wiltshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandWiltshire.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Kirkly|Kirkly]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Kirkly.public|Kirkly.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Kirkly.internal|Kirkly.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Kirkly.protect|Kirkly.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Kirkly.private|Kirkly.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Kirkly.personal|Kirkly.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Kirkly.secret|Kirkly.secret]] 
+
+### [Kirkly.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.public.md) 
+
+### [Kirkly.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.internal.md) 
+
+### [Kirkly.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.protect.md) 
+
+### [Kirkly.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.private.md) 
+
+### [Kirkly.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.personal.md) 
+
+### [Kirkly.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\South-Lakeland\cities~SouthLakelandKirkly.secret.md)
+

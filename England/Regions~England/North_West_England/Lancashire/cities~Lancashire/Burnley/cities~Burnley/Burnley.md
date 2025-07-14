@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Burnley|Burnley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Burnley.public|Burnley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Burnley.internal|Burnley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Burnley.protect|Burnley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Burnley.private|Burnley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Burnley.personal|Burnley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Burnley.secret|Burnley.secret]] 
+
+### [Burnley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.public.md) 
+
+### [Burnley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.internal.md) 
+
+### [Burnley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.protect.md) 
+
+### [Burnley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.private.md) 
+
+### [Burnley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.personal.md) 
+
+### [Burnley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Burnley\cities~BurnleyBurnley.secret.md)
+

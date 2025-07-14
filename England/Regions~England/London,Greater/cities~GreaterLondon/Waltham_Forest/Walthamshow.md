@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow|Walthamshow]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.public|Walthamshow.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.internal|Walthamshow.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.protect|Walthamshow.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.private|Walthamshow.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.personal|Walthamshow.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest/Walthamshow.secret|Walthamshow.secret]] 
+
+### [Walthamshow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Waltham_ForestWalthamshow.public.md) 
+
+### [Walthamshow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Waltham_ForestWalthamshow.internal.md) 
+
+### [Walthamshow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Waltham_ForestWalthamshow.protect.md) 
+
+### [Walthamshow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Waltham_ForestWalthamshow.private.md) 
+
+### [Walthamshow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Waltham_ForestWalthamshow.personal.md) 
+
+### [Walthamshow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Waltham_ForestWalthamshow.secret.md)
+

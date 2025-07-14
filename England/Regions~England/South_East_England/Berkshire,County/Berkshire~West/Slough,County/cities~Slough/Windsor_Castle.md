@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Windsor_Castle|Windsor_Castle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Windsor_Castle.public|Windsor_Castle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Windsor_Castle.internal|Windsor_Castle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Windsor_Castle.protect|Windsor_Castle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Windsor_Castle.private|Windsor_Castle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Windsor_Castle.personal|Windsor_Castle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Windsor_Castle.secret|Windsor_Castle.secret]] 
+
+### [Windsor_Castle.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughWindsor_Castle.public.md) 
+
+### [Windsor_Castle.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughWindsor_Castle.internal.md) 
+
+### [Windsor_Castle.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughWindsor_Castle.protect.md) 
+
+### [Windsor_Castle.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughWindsor_Castle.private.md) 
+
+### [Windsor_Castle.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughWindsor_Castle.personal.md) 
+
+### [Windsor_Castle.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughWindsor_Castle.secret.md)
+

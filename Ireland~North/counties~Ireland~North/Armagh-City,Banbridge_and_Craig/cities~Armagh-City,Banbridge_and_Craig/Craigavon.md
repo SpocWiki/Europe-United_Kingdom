@@ -40,11 +40,16 @@ markerFolder: ./Craigavon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Craigavon|Craigavon]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Craigavon.public|Craigavon.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Craigavon.internal|Craigavon.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Craigavon.protect|Craigavon.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Craigavon.private|Craigavon.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Craigavon.personal|Craigavon.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Craigavon.secret|Craigavon.secret]] 
+
+### [Craigavon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigCraigavon.public.md) 
+
+### [Craigavon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigCraigavon.internal.md) 
+
+### [Craigavon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigCraigavon.protect.md) 
+
+### [Craigavon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigCraigavon.private.md) 
+
+### [Craigavon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigCraigavon.personal.md) 
+
+### [Craigavon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigCraigavon.secret.md)
 

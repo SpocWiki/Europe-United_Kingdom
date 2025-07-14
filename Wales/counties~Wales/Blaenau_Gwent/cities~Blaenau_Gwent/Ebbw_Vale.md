@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ebbw_Vale|Ebbw_Vale]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ebbw_Vale.public|Ebbw_Vale.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ebbw_Vale.internal|Ebbw_Vale.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ebbw_Vale.protect|Ebbw_Vale.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ebbw_Vale.private|Ebbw_Vale.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ebbw_Vale.personal|Ebbw_Vale.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ebbw_Vale.secret|Ebbw_Vale.secret]] 
+
+### [Ebbw_Vale.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.public.md) 
+
+### [Ebbw_Vale.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.internal.md) 
+
+### [Ebbw_Vale.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.protect.md) 
+
+### [Ebbw_Vale.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.private.md) 
+
+### [Ebbw_Vale.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.personal.md) 
+
+### [Ebbw_Vale.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Blaenau_Gwent\cities~Blaenau_GwentEbbw_Vale.secret.md)
+

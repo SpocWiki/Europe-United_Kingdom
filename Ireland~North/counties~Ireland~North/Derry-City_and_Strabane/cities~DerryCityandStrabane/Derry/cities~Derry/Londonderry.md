@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Londonderry|Londonderry]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Londonderry.public|Londonderry.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Londonderry.internal|Londonderry.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Londonderry.protect|Londonderry.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Londonderry.private|Londonderry.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Londonderry.personal|Londonderry.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Londonderry.secret|Londonderry.secret]] 
+
+### [Londonderry.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\Derry\cities~DerryLondonderry.public.md) 
+
+### [Londonderry.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\Derry\cities~DerryLondonderry.internal.md) 
+
+### [Londonderry.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\Derry\cities~DerryLondonderry.protect.md) 
+
+### [Londonderry.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\Derry\cities~DerryLondonderry.private.md) 
+
+### [Londonderry.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\Derry\cities~DerryLondonderry.personal.md) 
+
+### [Londonderry.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\Derry\cities~DerryLondonderry.secret.md)
+

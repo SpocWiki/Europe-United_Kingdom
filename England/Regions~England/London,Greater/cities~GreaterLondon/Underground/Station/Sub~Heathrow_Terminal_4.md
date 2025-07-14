@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminal_4|Sub~Heathrow_Terminal_4]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminal_4.public|Sub~Heathrow_Terminal_4.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminal_4.internal|Sub~Heathrow_Terminal_4.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminal_4.protect|Sub~Heathrow_Terminal_4.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminal_4.private|Sub~Heathrow_Terminal_4.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminal_4.personal|Sub~Heathrow_Terminal_4.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Heathrow_Terminal_4.secret|Sub~Heathrow_Terminal_4.secret]] 
+
+### [Sub~Heathrow_Terminal_4.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminal_4.public.md) 
+
+### [Sub~Heathrow_Terminal_4.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminal_4.internal.md) 
+
+### [Sub~Heathrow_Terminal_4.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminal_4.protect.md) 
+
+### [Sub~Heathrow_Terminal_4.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminal_4.private.md) 
+
+### [Sub~Heathrow_Terminal_4.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminal_4.personal.md) 
+
+### [Sub~Heathrow_Terminal_4.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Heathrow_Terminal_4.secret.md)
+

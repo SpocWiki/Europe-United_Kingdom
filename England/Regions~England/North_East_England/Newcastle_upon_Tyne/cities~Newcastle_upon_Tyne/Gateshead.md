@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Gateshead|Gateshead]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Gateshead.public|Gateshead.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Gateshead.internal|Gateshead.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Gateshead.protect|Gateshead.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Gateshead.private|Gateshead.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Gateshead.personal|Gateshead.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Gateshead.secret|Gateshead.secret]] 
+
+### [Gateshead.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.public.md) 
+
+### [Gateshead.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.internal.md) 
+
+### [Gateshead.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.protect.md) 
+
+### [Gateshead.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.private.md) 
+
+### [Gateshead.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.personal.md) 
+
+### [Gateshead.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Newcastle_upon_Tyne\cities~Newcastle_upon_TyneGateshead.secret.md)
+

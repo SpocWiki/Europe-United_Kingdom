@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Carlisle|Carlisle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Carlisle.public|Carlisle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Carlisle.internal|Carlisle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Carlisle.protect|Carlisle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Carlisle.private|Carlisle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Carlisle.personal|Carlisle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Carlisle.secret|Carlisle.secret]] 
+
+### [Carlisle.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.public.md) 
+
+### [Carlisle.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.internal.md) 
+
+### [Carlisle.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.protect.md) 
+
+### [Carlisle.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.private.md) 
+
+### [Carlisle.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.personal.md) 
+
+### [Carlisle.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~CumbriaCarlisle.secret.md)
+

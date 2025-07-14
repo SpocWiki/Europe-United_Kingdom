@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Leicester|Leicester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Leicester.public|Leicester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Leicester.internal|Leicester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Leicester.protect|Leicester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Leicester.private|Leicester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Leicester.personal|Leicester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Leicester.secret|Leicester.secret]] 
+
+### [Leicester,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.public.md) 
+
+### [Leicester,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.internal.md) 
+
+### [Leicester,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.protect.md) 
+
+### [Leicester,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.private.md) 
+
+### [Leicester,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.personal.md) 
+
+### [Leicester,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\LeicestershireLeicester,City.secret.md)
+

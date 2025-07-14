@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Cookstown|City~Cookstown]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Cookstown.internal|Cookstown.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Cookstown.protect|Cookstown.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Cookstown.private|Cookstown.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Cookstown.personal|Cookstown.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Cookstown.secret|Cookstown.secret]] 
+
+### [City~Cookstown.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\CookstownCity~Cookstown.public.md) 
+
+### [City~Cookstown.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\CookstownCity~Cookstown.internal.md) 
+
+### [City~Cookstown.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\CookstownCity~Cookstown.protect.md) 
+
+### [City~Cookstown.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\CookstownCity~Cookstown.private.md) 
+
+### [City~Cookstown.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\CookstownCity~Cookstown.personal.md) 
+
+### [City~Cookstown.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\CookstownCity~Cookstown.secret.md)
+

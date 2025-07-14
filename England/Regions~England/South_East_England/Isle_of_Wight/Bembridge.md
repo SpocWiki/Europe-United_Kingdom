@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bembridge|Bembridge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bembridge.public|Bembridge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bembridge.internal|Bembridge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bembridge.protect|Bembridge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bembridge.private|Bembridge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bembridge.personal|Bembridge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bembridge.secret|Bembridge.secret]] 
+
+### [Bembridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.public.md) 
+
+### [Bembridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.internal.md) 
+
+### [Bembridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.protect.md) 
+
+### [Bembridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.private.md) 
+
+### [Bembridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.personal.md) 
+
+### [Bembridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightBembridge.secret.md)
+

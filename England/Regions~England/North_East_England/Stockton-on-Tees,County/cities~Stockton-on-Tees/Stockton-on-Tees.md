@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Stockton-on-Tees|Stockton-on-Tees]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Stockton-on-Tees.public|Stockton-on-Tees.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Stockton-on-Tees.internal|Stockton-on-Tees.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Stockton-on-Tees.protect|Stockton-on-Tees.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Stockton-on-Tees.private|Stockton-on-Tees.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Stockton-on-Tees.personal|Stockton-on-Tees.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Stockton-on-Tees.secret|Stockton-on-Tees.secret]] 
+
+### [Stockton-on-Tees.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.public.md) 
+
+### [Stockton-on-Tees.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.internal.md) 
+
+### [Stockton-on-Tees.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.protect.md) 
+
+### [Stockton-on-Tees.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.private.md) 
+
+### [Stockton-on-Tees.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.personal.md) 
+
+### [Stockton-on-Tees.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Stockton-on-Tees,County\cities~Stockton-on-TeesStockton-on-Tees.secret.md)
+

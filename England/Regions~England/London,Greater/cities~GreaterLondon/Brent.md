@@ -40,11 +40,16 @@ markerFolder: ./Brent/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent|Brent]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.public|Brent.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.internal|Brent.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.protect|Brent.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.private|Brent.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.personal|Brent.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Brent.secret|Brent.secret]] 
+
+### [Brent.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBrent.public.md) 
+
+### [Brent.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBrent.internal.md) 
+
+### [Brent.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBrent.protect.md) 
+
+### [Brent.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBrent.private.md) 
+
+### [Brent.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBrent.personal.md) 
+
+### [Brent.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBrent.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Brecon|Brecon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Brecon.public|Brecon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Brecon.internal|Brecon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Brecon.protect|Brecon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Brecon.private|Brecon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Brecon.personal|Brecon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Brecon.secret|Brecon.secret]] 
+
+### [Brecon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysBrecon.public.md) 
+
+### [Brecon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysBrecon.internal.md) 
+
+### [Brecon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysBrecon.protect.md) 
+
+### [Brecon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysBrecon.private.md) 
+
+### [Brecon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysBrecon.personal.md) 
+
+### [Brecon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysBrecon.secret.md)
+

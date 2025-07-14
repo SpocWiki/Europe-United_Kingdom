@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras|Sub~King's_Cross_St._Pancras]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.public|Sub~King's_Cross_St._Pancras.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.internal|Sub~King's_Cross_St._Pancras.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.protect|Sub~King's_Cross_St._Pancras.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.private|Sub~King's_Cross_St._Pancras.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.personal|Sub~King's_Cross_St._Pancras.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~King's_Cross_St._Pancras.secret|Sub~King's_Cross_St._Pancras.secret]] 
+
+### [Sub~King's_Cross_St._Pancras.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~King's_Cross_St._Pancras.public.md) 
+
+### [Sub~King's_Cross_St._Pancras.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~King's_Cross_St._Pancras.internal.md) 
+
+### [Sub~King's_Cross_St._Pancras.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~King's_Cross_St._Pancras.protect.md) 
+
+### [Sub~King's_Cross_St._Pancras.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~King's_Cross_St._Pancras.private.md) 
+
+### [Sub~King's_Cross_St._Pancras.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~King's_Cross_St._Pancras.personal.md) 
+
+### [Sub~King's_Cross_St._Pancras.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~King's_Cross_St._Pancras.secret.md)
+

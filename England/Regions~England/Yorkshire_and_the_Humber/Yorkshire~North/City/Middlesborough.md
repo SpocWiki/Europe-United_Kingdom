@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Middlesborough|Middlesborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.public|Middlesborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.internal|Middlesborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.protect|Middlesborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.private|Middlesborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.personal|Middlesborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Middlesborough.secret|Middlesborough.secret]] 
+
+### [Middlesborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\CityMiddlesborough.public.md) 
+
+### [Middlesborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\CityMiddlesborough.internal.md) 
+
+### [Middlesborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\CityMiddlesborough.protect.md) 
+
+### [Middlesborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\CityMiddlesborough.private.md) 
+
+### [Middlesborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\CityMiddlesborough.personal.md) 
+
+### [Middlesborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\CityMiddlesborough.secret.md)
+

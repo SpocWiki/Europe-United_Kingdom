@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Piccadilly_Circus|Sub~Piccadilly_Circus]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Piccadilly_Circus.public|Sub~Piccadilly_Circus.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Piccadilly_Circus.internal|Sub~Piccadilly_Circus.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Piccadilly_Circus.protect|Sub~Piccadilly_Circus.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Piccadilly_Circus.private|Sub~Piccadilly_Circus.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Piccadilly_Circus.personal|Sub~Piccadilly_Circus.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Piccadilly_Circus.secret|Sub~Piccadilly_Circus.secret]] 
+
+### [Sub~Piccadilly_Circus.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Piccadilly_Circus.public.md) 
+
+### [Sub~Piccadilly_Circus.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Piccadilly_Circus.internal.md) 
+
+### [Sub~Piccadilly_Circus.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Piccadilly_Circus.protect.md) 
+
+### [Sub~Piccadilly_Circus.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Piccadilly_Circus.private.md) 
+
+### [Sub~Piccadilly_Circus.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Piccadilly_Circus.personal.md) 
+
+### [Sub~Piccadilly_Circus.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Piccadilly_Circus.secret.md)
+

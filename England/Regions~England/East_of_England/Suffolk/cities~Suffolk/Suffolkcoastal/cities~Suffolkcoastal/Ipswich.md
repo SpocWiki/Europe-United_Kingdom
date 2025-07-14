@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ipswich|Ipswich]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ipswich.public|Ipswich.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ipswich.internal|Ipswich.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ipswich.protect|Ipswich.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ipswich.private|Ipswich.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ipswich.personal|Ipswich.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ipswich.secret|Ipswich.secret]] 
+
+### [Ipswich.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.public.md) 
+
+### [Ipswich.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.internal.md) 
+
+### [Ipswich.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.protect.md) 
+
+### [Ipswich.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.private.md) 
+
+### [Ipswich.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.personal.md) 
+
+### [Ipswich.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalIpswich.secret.md)
+

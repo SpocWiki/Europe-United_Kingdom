@@ -40,11 +40,16 @@ markerFolder: ./Eilean_Siar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Eilean_Siar|Eilean_Siar]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Eilean_Siar.public|Eilean_Siar.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Eilean_Siar.internal|Eilean_Siar.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Eilean_Siar.protect|Eilean_Siar.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Eilean_Siar.private|Eilean_Siar.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Eilean_Siar.personal|Eilean_Siar.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Eilean_Siar.secret|Eilean_Siar.secret]] 
+
+### [Eilean_Siar.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEilean_Siar.public.md) 
+
+### [Eilean_Siar.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEilean_Siar.internal.md) 
+
+### [Eilean_Siar.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEilean_Siar.protect.md) 
+
+### [Eilean_Siar.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEilean_Siar.private.md) 
+
+### [Eilean_Siar.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEilean_Siar.personal.md) 
+
+### [Eilean_Siar.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEilean_Siar.secret.md)
 

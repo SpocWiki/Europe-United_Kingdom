@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Catherines_Point|St.Catherines_Point]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Catherines_Point.public|St.Catherines_Point.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Catherines_Point.internal|St.Catherines_Point.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Catherines_Point.protect|St.Catherines_Point.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Catherines_Point.private|St.Catherines_Point.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Catherines_Point.personal|St.Catherines_Point.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Catherines_Point.secret|St.Catherines_Point.secret]] 
+
+### [St.Catherines_Point.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightSt.Catherines_Point.public.md) 
+
+### [St.Catherines_Point.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightSt.Catherines_Point.internal.md) 
+
+### [St.Catherines_Point.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightSt.Catherines_Point.protect.md) 
+
+### [St.Catherines_Point.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightSt.Catherines_Point.private.md) 
+
+### [St.Catherines_Point.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightSt.Catherines_Point.personal.md) 
+
+### [St.Catherines_Point.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightSt.Catherines_Point.secret.md)
+

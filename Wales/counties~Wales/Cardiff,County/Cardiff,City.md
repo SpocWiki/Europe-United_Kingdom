@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Cardiff|Cardiff]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Cardiff.public|Cardiff.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Cardiff.internal|Cardiff.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Cardiff.protect|Cardiff.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Cardiff.private|Cardiff.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Cardiff.personal|Cardiff.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Cardiff.secret|Cardiff.secret]] 
+
+### [Cardiff,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.public.md) 
+
+### [Cardiff,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.internal.md) 
+
+### [Cardiff,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.protect.md) 
+
+### [Cardiff,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.private.md) 
+
+### [Cardiff,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.personal.md) 
+
+### [Cardiff,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyCardiff,City.secret.md)
+

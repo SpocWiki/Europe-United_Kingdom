@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Havering/Romford|Romford]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Havering/Romford.public|Romford.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Havering/Romford.internal|Romford.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Havering/Romford.protect|Romford.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Havering/Romford.private|Romford.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Havering/Romford.personal|Romford.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Havering/Romford.secret|Romford.secret]] 
+
+### [Romford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\HaveringRomford.public.md) 
+
+### [Romford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\HaveringRomford.internal.md) 
+
+### [Romford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\HaveringRomford.protect.md) 
+
+### [Romford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\HaveringRomford.private.md) 
+
+### [Romford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\HaveringRomford.personal.md) 
+
+### [Romford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\HaveringRomford.secret.md)
+

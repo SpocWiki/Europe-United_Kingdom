@@ -35,10 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames|Kingston~Thames]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.public|Kingston~Thames.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.internal|Kingston~Thames.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.protect|Kingston~Thames.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.private|Kingston~Thames.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.personal|Kingston~Thames.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Kingston~Thames.secret|Kingston~Thames.secret]] 
+
+### [Kingston~Thames.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.public.md) 
+
+### [Kingston~Thames.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.internal.md) 
+
+### [Kingston~Thames.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.protect.md) 
+
+### [Kingston~Thames.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.private.md) 
+
+### [Kingston~Thames.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.personal.md) 
+
+### [Kingston~Thames.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonKingston~Thames.secret.md)
+

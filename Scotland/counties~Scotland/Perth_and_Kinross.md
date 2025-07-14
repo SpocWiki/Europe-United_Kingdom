@@ -18,3 +18,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Perth%20and%20Kinross)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Perth_and_Kinross.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerth_and_Kinross.public.md) 
+
+### [Perth_and_Kinross.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerth_and_Kinross.internal.md) 
+
+### [Perth_and_Kinross.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerth_and_Kinross.protect.md) 
+
+### [Perth_and_Kinross.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerth_and_Kinross.private.md) 
+
+### [Perth_and_Kinross.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerth_and_Kinross.personal.md) 
+
+### [Perth_and_Kinross.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandPerth_and_Kinross.secret.md)
+

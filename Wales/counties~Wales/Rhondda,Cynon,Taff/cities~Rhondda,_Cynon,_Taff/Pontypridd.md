@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Pontypridd|Pontypridd]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.public|Pontypridd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.internal|Pontypridd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.protect|Pontypridd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.private|Pontypridd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.personal|Pontypridd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Pontypridd.secret|Pontypridd.secret]] 
+
+### [Pontypridd.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.public.md) 
+
+### [Pontypridd.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.internal.md) 
+
+### [Pontypridd.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.protect.md) 
+
+### [Pontypridd.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.private.md) 
+
+### [Pontypridd.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.personal.md) 
+
+### [Pontypridd.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Rhondda,Cynon,Taff\cities~Rhondda,_Cynon,_TaffPontypridd.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Weymouth|Weymouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Weymouth.public|Weymouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Weymouth.internal|Weymouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Weymouth.protect|Weymouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Weymouth.private|Weymouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Weymouth.personal|Weymouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Weymouth.secret|Weymouth.secret]] 
+
+### [Weymouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~DorsetWeymouth.public.md) 
+
+### [Weymouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~DorsetWeymouth.internal.md) 
+
+### [Weymouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~DorsetWeymouth.protect.md) 
+
+### [Weymouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~DorsetWeymouth.private.md) 
+
+### [Weymouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~DorsetWeymouth.personal.md) 
+
+### [Weymouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~DorsetWeymouth.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Stockport|Stockport]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Stockport.public|Stockport.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Stockport.internal|Stockport.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Stockport.protect|Stockport.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Stockport.private|Stockport.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Stockport.personal|Stockport.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Stockport.secret|Stockport.secret]] 
+
+### [Stockport.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Stockport,County\cities~StockportStockport.public.md) 
+
+### [Stockport.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Stockport,County\cities~StockportStockport.internal.md) 
+
+### [Stockport.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Stockport,County\cities~StockportStockport.protect.md) 
+
+### [Stockport.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Stockport,County\cities~StockportStockport.private.md) 
+
+### [Stockport.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Stockport,County\cities~StockportStockport.personal.md) 
+
+### [Stockport.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Stockport,County\cities~StockportStockport.secret.md)
+

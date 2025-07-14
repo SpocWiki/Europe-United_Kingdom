@@ -40,11 +40,16 @@ markerFolder: ./Plymouth/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Plymouth|Plymouth]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Plymouth.public|Plymouth.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Plymouth.internal|Plymouth.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Plymouth.protect|Plymouth.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Plymouth.private|Plymouth.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Plymouth.personal|Plymouth.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Plymouth.secret|Plymouth.secret]] 
+
+### [Plymouth,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandPlymouth,County.public.md) 
+
+### [Plymouth,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandPlymouth,County.internal.md) 
+
+### [Plymouth,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandPlymouth,County.protect.md) 
+
+### [Plymouth,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandPlymouth,County.private.md) 
+
+### [Plymouth,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandPlymouth,County.personal.md) 
+
+### [Plymouth,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandPlymouth,County.secret.md)
 

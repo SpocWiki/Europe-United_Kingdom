@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/York|York]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/York.public|York.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/York.internal|York.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/York.protect|York.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/York.private|York.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/York.personal|York.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/York.secret|York.secret]] 
+
+### [York.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\York,County\cities~YorkYork.public.md) 
+
+### [York.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\York,County\cities~YorkYork.internal.md) 
+
+### [York.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\York,County\cities~YorkYork.protect.md) 
+
+### [York.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\York,County\cities~YorkYork.private.md) 
+
+### [York.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\York,County\cities~YorkYork.personal.md) 
+
+### [York.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\York,County\cities~YorkYork.secret.md)
+

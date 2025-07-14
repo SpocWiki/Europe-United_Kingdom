@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tundbridge_Wells|Tundbridge_Wells]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tundbridge_Wells.public|Tundbridge_Wells.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tundbridge_Wells.internal|Tundbridge_Wells.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tundbridge_Wells.protect|Tundbridge_Wells.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tundbridge_Wells.private|Tundbridge_Wells.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tundbridge_Wells.personal|Tundbridge_Wells.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tundbridge_Wells.secret|Tundbridge_Wells.secret]] 
+
+### [Tundbridge_Wells.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.public.md) 
+
+### [Tundbridge_Wells.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.internal.md) 
+
+### [Tundbridge_Wells.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.protect.md) 
+
+### [Tundbridge_Wells.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.private.md) 
+
+### [Tundbridge_Wells.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.personal.md) 
+
+### [Tundbridge_Wells.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Crawley\cities~CrawleyTundbridge_Wells.secret.md)
+

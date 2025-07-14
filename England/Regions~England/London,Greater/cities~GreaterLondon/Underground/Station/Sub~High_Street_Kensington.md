@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~High_Street_Kensington|Sub~High_Street_Kensington]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~High_Street_Kensington.public|Sub~High_Street_Kensington.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~High_Street_Kensington.internal|Sub~High_Street_Kensington.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~High_Street_Kensington.protect|Sub~High_Street_Kensington.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~High_Street_Kensington.private|Sub~High_Street_Kensington.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~High_Street_Kensington.personal|Sub~High_Street_Kensington.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~High_Street_Kensington.secret|Sub~High_Street_Kensington.secret]] 
+
+### [Sub~High_Street_Kensington.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~High_Street_Kensington.public.md) 
+
+### [Sub~High_Street_Kensington.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~High_Street_Kensington.internal.md) 
+
+### [Sub~High_Street_Kensington.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~High_Street_Kensington.protect.md) 
+
+### [Sub~High_Street_Kensington.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~High_Street_Kensington.private.md) 
+
+### [Sub~High_Street_Kensington.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~High_Street_Kensington.personal.md) 
+
+### [Sub~High_Street_Kensington.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~High_Street_Kensington.secret.md)
+

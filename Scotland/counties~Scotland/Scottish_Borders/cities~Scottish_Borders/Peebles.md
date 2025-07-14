@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Peebles|Peebles]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Peebles.public|Peebles.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Peebles.internal|Peebles.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Peebles.protect|Peebles.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Peebles.private|Peebles.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Peebles.personal|Peebles.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Peebles.secret|Peebles.secret]] 
+
+### [Peebles.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersPeebles.public.md) 
+
+### [Peebles.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersPeebles.internal.md) 
+
+### [Peebles.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersPeebles.protect.md) 
+
+### [Peebles.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersPeebles.private.md) 
+
+### [Peebles.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersPeebles.personal.md) 
+
+### [Peebles.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersPeebles.secret.md)
+

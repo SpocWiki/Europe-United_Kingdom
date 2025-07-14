@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Makerston|Makerston]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Makerston.public|Makerston.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Makerston.internal|Makerston.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Makerston.protect|Makerston.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Makerston.private|Makerston.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Makerston.personal|Makerston.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Makerston.secret|Makerston.secret]] 
+
+### [Makerston.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersMakerston.public.md) 
+
+### [Makerston.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersMakerston.internal.md) 
+
+### [Makerston.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersMakerston.protect.md) 
+
+### [Makerston.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersMakerston.private.md) 
+
+### [Makerston.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersMakerston.personal.md) 
+
+### [Makerston.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersMakerston.secret.md)
+

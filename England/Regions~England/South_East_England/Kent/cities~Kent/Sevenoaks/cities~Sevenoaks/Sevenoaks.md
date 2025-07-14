@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks|Sevenoaks]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.public|Sevenoaks.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.internal|Sevenoaks.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.protect|Sevenoaks.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.private|Sevenoaks.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.personal|Sevenoaks.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sevenoaks.secret|Sevenoaks.secret]] 
+
+### [Sevenoaks.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.public.md) 
+
+### [Sevenoaks.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.internal.md) 
+
+### [Sevenoaks.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.protect.md) 
+
+### [Sevenoaks.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.private.md) 
+
+### [Sevenoaks.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.personal.md) 
+
+### [Sevenoaks.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Sevenoaks\cities~SevenoaksSevenoaks.secret.md)
+

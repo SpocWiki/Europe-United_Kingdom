@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Farnham|Farnham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Farnham.public|Farnham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Farnham.internal|Farnham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Farnham.protect|Farnham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Farnham.private|Farnham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Farnham.personal|Farnham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Farnham.secret|Farnham.secret]] 
+
+### [Farnham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.public.md) 
+
+### [Farnham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.internal.md) 
+
+### [Farnham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.protect.md) 
+
+### [Farnham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.private.md) 
+
+### [Farnham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.personal.md) 
+
+### [Farnham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Waverley\cities~WaverleyFarnham.secret.md)
+

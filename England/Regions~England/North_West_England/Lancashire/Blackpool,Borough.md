@@ -59,13 +59,17 @@ markerFolder: ./Blackpool/
 > [Wikipedia](https://en.wikipedia.org/wiki/Borough%20of%20Blackpool)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Blackpool|Blackpool]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Blackpool.public|Blackpool.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Blackpool.internal|Blackpool.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Blackpool.protect|Blackpool.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Blackpool.private|Blackpool.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Blackpool.personal|Blackpool.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Blackpool.secret|Blackpool.secret]] 
+
+### [Blackpool,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.public.md) 
+
+### [Blackpool,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.internal.md) 
+
+### [Blackpool,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.protect.md) 
+
+### [Blackpool,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.private.md) 
+
+### [Blackpool,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.personal.md) 
+
+### [Blackpool,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LancashireBlackpool,Borough.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Worcester|Worcester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Worcester.public|Worcester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Worcester.internal|Worcester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Worcester.protect|Worcester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Worcester.private|Worcester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Worcester.personal|Worcester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Worcester.secret|Worcester.secret]] 
+
+### [Worcester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.public.md) 
+
+### [Worcester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.internal.md) 
+
+### [Worcester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.protect.md) 
+
+### [Worcester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.private.md) 
+
+### [Worcester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.personal.md) 
+
+### [Worcester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Worcester\cities~WorcesterWorcester.secret.md)
+

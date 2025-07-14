@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Aberdare|Aberdare]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Aberdare.public|Aberdare.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Aberdare.internal|Aberdare.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Aberdare.protect|Aberdare.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Aberdare.private|Aberdare.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Aberdare.personal|Aberdare.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Aberdare.secret|Aberdare.secret]] 
+
+### [Aberdare.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.public.md) 
+
+### [Aberdare.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.internal.md) 
+
+### [Aberdare.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.protect.md) 
+
+### [Aberdare.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.private.md) 
+
+### [Aberdare.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.personal.md) 
+
+### [Aberdare.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~MerthyrTydfilAberdare.secret.md)
+

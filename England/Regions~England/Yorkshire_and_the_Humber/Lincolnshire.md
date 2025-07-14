@@ -40,21 +40,16 @@ markerFolder: ./Lincolnshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire|Lincolnshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire.public|Lincolnshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire.internal|Lincolnshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire.protect|Lincolnshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire.private|Lincolnshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire.personal|Lincolnshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Lincolnshire.secret|Lincolnshire.secret]] 
 
+### [Lincolnshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.public.md) 
 
-```leaflet
-id: England
-geojsonFolder: ./Lincolnshire//
-markerFolder: ./Lincolnshire/
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-```
+### [Lincolnshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.internal.md) 
+
+### [Lincolnshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.protect.md) 
+
+### [Lincolnshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.private.md) 
+
+### [Lincolnshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.personal.md) 
+
+### [Lincolnshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberLincolnshire.secret.md)
 

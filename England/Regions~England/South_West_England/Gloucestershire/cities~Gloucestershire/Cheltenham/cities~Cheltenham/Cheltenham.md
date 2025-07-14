@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Cheltenham|Cheltenham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.public|Cheltenham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.internal|Cheltenham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.protect|Cheltenham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.private|Cheltenham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.personal|Cheltenham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Cheltenham.secret|Cheltenham.secret]] 
+
+### [Cheltenham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Cheltenham\cities~CheltenhamCheltenham.public.md) 
+
+### [Cheltenham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Cheltenham\cities~CheltenhamCheltenham.internal.md) 
+
+### [Cheltenham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Cheltenham\cities~CheltenhamCheltenham.protect.md) 
+
+### [Cheltenham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Cheltenham\cities~CheltenhamCheltenham.private.md) 
+
+### [Cheltenham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Cheltenham\cities~CheltenhamCheltenham.personal.md) 
+
+### [Cheltenham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Cheltenham\cities~CheltenhamCheltenham.secret.md)
+

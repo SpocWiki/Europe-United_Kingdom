@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/South_Foreland|South_Foreland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/South_Foreland.public|South_Foreland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/South_Foreland.internal|South_Foreland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/South_Foreland.protect|South_Foreland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/South_Foreland.private|South_Foreland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/South_Foreland.personal|South_Foreland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/South_Foreland.secret|South_Foreland.secret]] 
+
+### [South_Foreland.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.public.md) 
+
+### [South_Foreland.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.internal.md) 
+
+### [South_Foreland.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.protect.md) 
+
+### [South_Foreland.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.private.md) 
+
+### [South_Foreland.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.personal.md) 
+
+### [South_Foreland.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSouth_Foreland.secret.md)
+

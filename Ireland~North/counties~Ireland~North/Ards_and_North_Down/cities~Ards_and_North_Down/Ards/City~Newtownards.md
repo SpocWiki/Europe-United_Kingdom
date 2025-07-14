@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Newtownards|City~Newtownards]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newtownards.internal|Newtownards.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newtownards.protect|Newtownards.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newtownards.private|Newtownards.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newtownards.personal|Newtownards.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newtownards.secret|Newtownards.secret]] 
+
+### [City~Newtownards.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_Down\ArdsCity~Newtownards.public.md) 
+
+### [City~Newtownards.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_Down\ArdsCity~Newtownards.internal.md) 
+
+### [City~Newtownards.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_Down\ArdsCity~Newtownards.protect.md) 
+
+### [City~Newtownards.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_Down\ArdsCity~Newtownards.private.md) 
+
+### [City~Newtownards.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_Down\ArdsCity~Newtownards.personal.md) 
+
+### [City~Newtownards.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_Down\ArdsCity~Newtownards.secret.md)
+

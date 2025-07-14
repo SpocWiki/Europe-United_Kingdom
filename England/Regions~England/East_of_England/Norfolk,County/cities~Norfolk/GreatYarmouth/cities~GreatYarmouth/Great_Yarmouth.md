@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Great_Yarmouth|Great_Yarmouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Great_Yarmouth.public|Great_Yarmouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Great_Yarmouth.internal|Great_Yarmouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Great_Yarmouth.protect|Great_Yarmouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Great_Yarmouth.private|Great_Yarmouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Great_Yarmouth.personal|Great_Yarmouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Great_Yarmouth.secret|Great_Yarmouth.secret]] 
+
+### [Great_Yarmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\GreatYarmouth\cities~GreatYarmouthGreat_Yarmouth.public.md) 
+
+### [Great_Yarmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\GreatYarmouth\cities~GreatYarmouthGreat_Yarmouth.internal.md) 
+
+### [Great_Yarmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\GreatYarmouth\cities~GreatYarmouthGreat_Yarmouth.protect.md) 
+
+### [Great_Yarmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\GreatYarmouth\cities~GreatYarmouthGreat_Yarmouth.private.md) 
+
+### [Great_Yarmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\GreatYarmouth\cities~GreatYarmouthGreat_Yarmouth.personal.md) 
+
+### [Great_Yarmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\GreatYarmouth\cities~GreatYarmouthGreat_Yarmouth.secret.md)
+

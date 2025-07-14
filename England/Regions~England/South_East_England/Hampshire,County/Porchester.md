@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Porchester|Porchester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Porchester.public|Porchester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Porchester.internal|Porchester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Porchester.protect|Porchester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Porchester.private|Porchester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Porchester.personal|Porchester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Porchester.secret|Porchester.secret]] 
+
+### [Porchester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,CountyPorchester.public.md) 
+
+### [Porchester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,CountyPorchester.internal.md) 
+
+### [Porchester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,CountyPorchester.protect.md) 
+
+### [Porchester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,CountyPorchester.private.md) 
+
+### [Porchester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,CountyPorchester.personal.md) 
+
+### [Porchester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,CountyPorchester.secret.md)
+

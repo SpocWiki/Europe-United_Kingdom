@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Kirkwall|Kirkwall]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Kirkwall.public|Kirkwall.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Kirkwall.internal|Kirkwall.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Kirkwall.protect|Kirkwall.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Kirkwall.private|Kirkwall.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Kirkwall.personal|Kirkwall.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Kirkwall.secret|Kirkwall.secret]] 
+
+### [Kirkwall.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.public.md) 
+
+### [Kirkwall.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.internal.md) 
+
+### [Kirkwall.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.protect.md) 
+
+### [Kirkwall.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.private.md) 
+
+### [Kirkwall.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.personal.md) 
+
+### [Kirkwall.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Orkney\cities~OrkneyKirkwall.secret.md)
+

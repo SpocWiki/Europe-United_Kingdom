@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Royston|Royston]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Royston.public|Royston.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Royston.internal|Royston.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Royston.protect|Royston.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Royston.private|Royston.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Royston.personal|Royston.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Royston.secret|Royston.secret]] 
+
+### [Royston.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.public.md) 
+
+### [Royston.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.internal.md) 
+
+### [Royston.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.protect.md) 
+
+### [Royston.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.private.md) 
+
+### [Royston.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.personal.md) 
+
+### [Royston.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Cambridgeshire~South\cities~SouthCambridgeshireRoyston.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Barnsley|Barnsley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Barnsley.public|Barnsley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Barnsley.internal|Barnsley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Barnsley.protect|Barnsley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Barnsley.private|Barnsley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Barnsley.personal|Barnsley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Barnsley.secret|Barnsley.secret]] 
+
+### [Barnsley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.public.md) 
+
+### [Barnsley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.internal.md) 
+
+### [Barnsley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.protect.md) 
+
+### [Barnsley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.private.md) 
+
+### [Barnsley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.personal.md) 
+
+### [Barnsley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsBarnsley.secret.md)
+

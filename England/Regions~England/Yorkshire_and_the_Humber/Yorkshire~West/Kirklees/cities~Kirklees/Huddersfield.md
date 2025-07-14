@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Huddersfield|Huddersfield]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.public|Huddersfield.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.internal|Huddersfield.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.protect|Huddersfield.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.private|Huddersfield.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.personal|Huddersfield.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Huddersfield.secret|Huddersfield.secret]] 
+
+### [Huddersfield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.public.md) 
+
+### [Huddersfield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.internal.md) 
+
+### [Huddersfield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.protect.md) 
+
+### [Huddersfield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.private.md) 
+
+### [Huddersfield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.personal.md) 
+
+### [Huddersfield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Kirklees\cities~KirkleesHuddersfield.secret.md)
+

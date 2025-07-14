@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Shisbury|Shisbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Shisbury.public|Shisbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Shisbury.internal|Shisbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Shisbury.protect|Shisbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Shisbury.private|Shisbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Shisbury.personal|Shisbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Shisbury.secret|Shisbury.secret]] 
+
+### [Shisbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.public.md) 
+
+### [Shisbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.internal.md) 
+
+### [Shisbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.protect.md) 
+
+### [Shisbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.private.md) 
+
+### [Shisbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.personal.md) 
+
+### [Shisbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireShisbury.secret.md)
+

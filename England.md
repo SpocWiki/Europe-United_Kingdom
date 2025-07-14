@@ -14,12 +14,17 @@ maxZoom: 18
 ```
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England|England]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England.public|England.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England.internal|England.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England.protect|England.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England.private|England.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England.personal|England.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England.secret|England.secret]] 
+
+### [England.public](/_public/\Earth\Continent\Europe\Europe~North\UKEngland.public.md) 
+
+### [England.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKEngland.internal.md) 
+
+### [England.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKEngland.protect.md) 
+
+### [England.private](/_private/\Earth\Continent\Europe\Europe~North\UKEngland.private.md) 
+
+### [England.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKEngland.personal.md) 
+
+### [England.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKEngland.secret.md)
+

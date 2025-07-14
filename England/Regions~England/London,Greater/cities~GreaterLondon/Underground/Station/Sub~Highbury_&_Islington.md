@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Highbury_&_Islington|Sub~Highbury_&_Islington]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Highbury_&_Islington.public|Sub~Highbury_&_Islington.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Highbury_&_Islington.internal|Sub~Highbury_&_Islington.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Highbury_&_Islington.protect|Sub~Highbury_&_Islington.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Highbury_&_Islington.private|Sub~Highbury_&_Islington.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Highbury_&_Islington.personal|Sub~Highbury_&_Islington.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Highbury_&_Islington.secret|Sub~Highbury_&_Islington.secret]] 
+
+### [Sub~Highbury_&_Islington.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Highbury_&_Islington.public.md) 
+
+### [Sub~Highbury_&_Islington.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Highbury_&_Islington.internal.md) 
+
+### [Sub~Highbury_&_Islington.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Highbury_&_Islington.protect.md) 
+
+### [Sub~Highbury_&_Islington.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Highbury_&_Islington.private.md) 
+
+### [Sub~Highbury_&_Islington.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Highbury_&_Islington.personal.md) 
+
+### [Sub~Highbury_&_Islington.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Highbury_&_Islington.secret.md)
+

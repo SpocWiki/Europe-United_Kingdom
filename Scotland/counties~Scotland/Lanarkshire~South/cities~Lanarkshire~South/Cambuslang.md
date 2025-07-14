@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Cambuslang|Cambuslang]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.public|Cambuslang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.internal|Cambuslang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.protect|Cambuslang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.private|Cambuslang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.personal|Cambuslang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Cambuslang.secret|Cambuslang.secret]] 
+
+### [Cambuslang.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.public.md) 
+
+### [Cambuslang.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.internal.md) 
+
+### [Cambuslang.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.protect.md) 
+
+### [Cambuslang.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.private.md) 
+
+### [Cambuslang.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.personal.md) 
+
+### [Cambuslang.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthCambuslang.secret.md)
+

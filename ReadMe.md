@@ -148,12 +148,17 @@ Capital :: [[UK/City~London]]
 [has_place_latitude::52.8829]
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/UK|UK]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/UK.public|UK.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/UK.internal|UK.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/UK.protect|UK.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/UK.private|UK.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/UK.personal|UK.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/UK.secret|UK.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~North\UKReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~North\UKReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKReadMe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ramsgate|Ramsgate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.public|Ramsgate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.internal|Ramsgate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.protect|Ramsgate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.private|Ramsgate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.personal|Ramsgate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ramsgate.secret|Ramsgate.secret]] 
+
+### [Ramsgate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.public.md) 
+
+### [Ramsgate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.internal.md) 
+
+### [Ramsgate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.protect.md) 
+
+### [Ramsgate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.private.md) 
+
+### [Ramsgate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.personal.md) 
+
+### [Ramsgate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Thanet\cities~ThanetRamsgate.secret.md)
+

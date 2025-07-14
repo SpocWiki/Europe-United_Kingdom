@@ -40,11 +40,16 @@ markerFolder: ./Calderdale/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Calderdale|Calderdale]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Calderdale.public|Calderdale.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Calderdale.internal|Calderdale.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Calderdale.protect|Calderdale.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Calderdale.private|Calderdale.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Calderdale.personal|Calderdale.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Calderdale.secret|Calderdale.secret]] 
+
+### [Calderdale.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestCalderdale.public.md) 
+
+### [Calderdale.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestCalderdale.internal.md) 
+
+### [Calderdale.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestCalderdale.protect.md) 
+
+### [Calderdale.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestCalderdale.private.md) 
+
+### [Calderdale.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestCalderdale.personal.md) 
+
+### [Calderdale.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~WestCalderdale.secret.md)
 

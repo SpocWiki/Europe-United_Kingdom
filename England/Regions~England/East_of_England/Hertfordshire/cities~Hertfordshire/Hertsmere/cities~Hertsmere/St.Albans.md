@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Albans|St.Albans]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Albans.public|St.Albans.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Albans.internal|St.Albans.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Albans.protect|St.Albans.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Albans.private|St.Albans.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Albans.personal|St.Albans.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Albans.secret|St.Albans.secret]] 
+
+### [St.Albans.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.public.md) 
+
+### [St.Albans.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.internal.md) 
+
+### [St.Albans.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.protect.md) 
+
+### [St.Albans.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.private.md) 
+
+### [St.Albans.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.personal.md) 
+
+### [St.Albans.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertsmere\cities~HertsmereSt.Albans.secret.md)
+

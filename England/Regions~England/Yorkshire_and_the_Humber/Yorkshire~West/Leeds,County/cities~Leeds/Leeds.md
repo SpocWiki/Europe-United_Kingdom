@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Leeds|Leeds]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Leeds.public|Leeds.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Leeds.internal|Leeds.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Leeds.protect|Leeds.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Leeds.private|Leeds.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Leeds.personal|Leeds.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Leeds.secret|Leeds.secret]] 
+
+### [Leeds.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.public.md) 
+
+### [Leeds.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.internal.md) 
+
+### [Leeds.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.protect.md) 
+
+### [Leeds.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.private.md) 
+
+### [Leeds.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.personal.md) 
+
+### [Leeds.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Leeds,County\cities~LeedsLeeds.secret.md)
+

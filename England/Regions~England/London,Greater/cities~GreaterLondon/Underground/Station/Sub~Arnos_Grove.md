@@ -39,10 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[Sub~Arnos_Grove|Sub~Arnos_Grove]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Arnos_Grove.internal|Sub~Arnos_Grove.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Arnos_Grove.protect|Sub~Arnos_Grove.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Arnos_Grove.private|Sub~Arnos_Grove.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Arnos_Grove.personal|Sub~Arnos_Grove.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Arnos_Grove.secret|Sub~Arnos_Grove.secret]] 
+
+### [Sub~Arnos_Grove.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Arnos_Grove.public.md) 
+
+### [Sub~Arnos_Grove.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Arnos_Grove.internal.md) 
+
+### [Sub~Arnos_Grove.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Arnos_Grove.protect.md) 
+
+### [Sub~Arnos_Grove.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Arnos_Grove.private.md) 
+
+### [Sub~Arnos_Grove.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Arnos_Grove.personal.md) 
+
+### [Sub~Arnos_Grove.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Arnos_Grove.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ledburg|Ledburg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ledburg.public|Ledburg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ledburg.internal|Ledburg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ledburg.protect|Ledburg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ledburg.private|Ledburg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ledburg.personal|Ledburg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ledburg.secret|Ledburg.secret]] 
+
+### [Ledburg.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.public.md) 
+
+### [Ledburg.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.internal.md) 
+
+### [Ledburg.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.protect.md) 
+
+### [Ledburg.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.private.md) 
+
+### [Ledburg.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.personal.md) 
+
+### [Ledburg.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Herefordshire\cities~HerefordshireLedburg.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Stonyhurst|Stonyhurst]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Stonyhurst.public|Stonyhurst.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Stonyhurst.internal|Stonyhurst.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Stonyhurst.protect|Stonyhurst.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Stonyhurst.private|Stonyhurst.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Stonyhurst.personal|Stonyhurst.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Stonyhurst.secret|Stonyhurst.secret]] 
+
+### [Stonyhurst.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.public.md) 
+
+### [Stonyhurst.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.internal.md) 
+
+### [Stonyhurst.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.protect.md) 
+
+### [Stonyhurst.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.private.md) 
+
+### [Stonyhurst.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.personal.md) 
+
+### [Stonyhurst.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\RibbleValley\cities~RibbleValleyStonyhurst.secret.md)
+

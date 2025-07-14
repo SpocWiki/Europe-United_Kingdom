@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Troon|Troon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Troon.public|Troon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Troon.internal|Troon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Troon.protect|Troon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Troon.private|Troon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Troon.personal|Troon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Troon.secret|Troon.secret]] 
+
+### [Troon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.public.md) 
+
+### [Troon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.internal.md) 
+
+### [Troon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.protect.md) 
+
+### [Troon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.private.md) 
+
+### [Troon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.personal.md) 
+
+### [Troon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~South\cities~Ayrshire~SouthTroon.secret.md)
+

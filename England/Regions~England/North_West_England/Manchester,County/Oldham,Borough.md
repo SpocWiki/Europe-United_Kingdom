@@ -40,11 +40,16 @@ markerFolder: ./Oldham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Oldham|Oldham]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Oldham.public|Oldham.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Oldham.internal|Oldham.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Oldham.protect|Oldham.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Oldham.private|Oldham.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Oldham.personal|Oldham.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Oldham.secret|Oldham.secret]] 
+
+### [Oldham,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.public.md) 
+
+### [Oldham,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.internal.md) 
+
+### [Oldham,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.protect.md) 
+
+### [Oldham,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.private.md) 
+
+### [Oldham,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.personal.md) 
+
+### [Oldham,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyOldham,Borough.secret.md)
 

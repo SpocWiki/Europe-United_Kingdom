@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Cholchester|Cholchester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Cholchester.public|Cholchester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Cholchester.internal|Cholchester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Cholchester.protect|Cholchester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Cholchester.private|Cholchester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Cholchester.personal|Cholchester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Cholchester.secret|Cholchester.secret]] 
+
+### [Cholchester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.public.md) 
+
+### [Cholchester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.internal.md) 
+
+### [Cholchester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.protect.md) 
+
+### [Cholchester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.private.md) 
+
+### [Cholchester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.personal.md) 
+
+### [Cholchester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~Essex\Colchester\cities~ColchesterCholchester.secret.md)
+

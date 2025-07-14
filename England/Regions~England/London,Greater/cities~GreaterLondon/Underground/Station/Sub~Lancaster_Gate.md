@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Lancaster_Gate|Sub~Lancaster_Gate]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Lancaster_Gate.public|Sub~Lancaster_Gate.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Lancaster_Gate.internal|Sub~Lancaster_Gate.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Lancaster_Gate.protect|Sub~Lancaster_Gate.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Lancaster_Gate.private|Sub~Lancaster_Gate.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Lancaster_Gate.personal|Sub~Lancaster_Gate.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Lancaster_Gate.secret|Sub~Lancaster_Gate.secret]] 
+
+### [Sub~Lancaster_Gate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Lancaster_Gate.public.md) 
+
+### [Sub~Lancaster_Gate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Lancaster_Gate.internal.md) 
+
+### [Sub~Lancaster_Gate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Lancaster_Gate.protect.md) 
+
+### [Sub~Lancaster_Gate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Lancaster_Gate.private.md) 
+
+### [Sub~Lancaster_Gate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Lancaster_Gate.personal.md) 
+
+### [Sub~Lancaster_Gate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Lancaster_Gate.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Longhborough|Longhborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Longhborough.public|Longhborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Longhborough.internal|Longhborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Longhborough.protect|Longhborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Longhborough.private|Longhborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Longhborough.personal|Longhborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Longhborough.secret|Longhborough.secret]] 
+
+### [Longhborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Charnwood\cities~CharnwoodLonghborough.public.md) 
+
+### [Longhborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Charnwood\cities~CharnwoodLonghborough.internal.md) 
+
+### [Longhborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Charnwood\cities~CharnwoodLonghborough.protect.md) 
+
+### [Longhborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Charnwood\cities~CharnwoodLonghborough.private.md) 
+
+### [Longhborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Charnwood\cities~CharnwoodLonghborough.personal.md) 
+
+### [Longhborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Charnwood\cities~CharnwoodLonghborough.secret.md)
+

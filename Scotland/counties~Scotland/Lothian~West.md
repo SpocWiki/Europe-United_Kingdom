@@ -40,11 +40,16 @@ markerFolder: ./Lothian~West/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~West|Lothian~West]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~West.public|Lothian~West.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~West.internal|Lothian~West.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~West.protect|Lothian~West.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~West.private|Lothian~West.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~West.personal|Lothian~West.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~West.secret|Lothian~West.secret]] 
+
+### [Lothian~West.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~West.public.md) 
+
+### [Lothian~West.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~West.internal.md) 
+
+### [Lothian~West.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~West.protect.md) 
+
+### [Lothian~West.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~West.private.md) 
+
+### [Lothian~West.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~West.personal.md) 
+
+### [Lothian~West.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~West.secret.md)
 

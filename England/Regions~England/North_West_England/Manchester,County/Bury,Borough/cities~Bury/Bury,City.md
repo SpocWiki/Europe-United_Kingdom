@@ -44,12 +44,17 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Bury,%20Greater%20Manchester)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bury|Bury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bury.public|Bury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bury.internal|Bury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bury.protect|Bury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bury.private|Bury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bury.personal|Bury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bury.secret|Bury.secret]] 
+
+### [Bury,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.public.md) 
+
+### [Bury,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.internal.md) 
+
+### [Bury,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.protect.md) 
+
+### [Bury,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.private.md) 
+
+### [Bury,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.personal.md) 
+
+### [Bury,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Bury,Borough\cities~BuryBury,City.secret.md)
+

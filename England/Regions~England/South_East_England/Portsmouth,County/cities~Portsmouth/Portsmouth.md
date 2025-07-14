@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Portsmouth|Portsmouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Portsmouth.public|Portsmouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Portsmouth.internal|Portsmouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Portsmouth.protect|Portsmouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Portsmouth.private|Portsmouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Portsmouth.personal|Portsmouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Portsmouth.secret|Portsmouth.secret]] 
+
+### [Portsmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.public.md) 
+
+### [Portsmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.internal.md) 
+
+### [Portsmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.protect.md) 
+
+### [Portsmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.private.md) 
+
+### [Portsmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.personal.md) 
+
+### [Portsmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthPortsmouth.secret.md)
+

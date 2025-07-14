@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Armagh|City~Armagh]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Armagh.internal|Armagh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Armagh.protect|Armagh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Armagh.private|Armagh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Armagh.personal|Armagh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Armagh.secret|Armagh.secret]] 
+
+### [City~Armagh.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\ArmaghCity~Armagh.public.md) 
+
+### [City~Armagh.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\ArmaghCity~Armagh.internal.md) 
+
+### [City~Armagh.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\ArmaghCity~Armagh.protect.md) 
+
+### [City~Armagh.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\ArmaghCity~Armagh.private.md) 
+
+### [City~Armagh.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\ArmaghCity~Armagh.personal.md) 
+
+### [City~Armagh.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\ArmaghCity~Armagh.secret.md)
+

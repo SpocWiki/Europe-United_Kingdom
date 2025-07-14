@@ -35,10 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Sutton|Sutton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Sutton.public|Sutton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Sutton.internal|Sutton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Sutton.protect|Sutton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Sutton.private|Sutton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Sutton.personal|Sutton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Sutton.secret|Sutton.secret]] 
+
+### [Sutton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonSutton.public.md) 
+
+### [Sutton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonSutton.internal.md) 
+
+### [Sutton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonSutton.protect.md) 
+
+### [Sutton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonSutton.private.md) 
+
+### [Sutton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonSutton.personal.md) 
+
+### [Sutton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonSutton.secret.md)
+

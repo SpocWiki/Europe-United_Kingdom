@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Winterton|Winterton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Winterton.public|Winterton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Winterton.internal|Winterton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Winterton.protect|Winterton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Winterton.private|Winterton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Winterton.personal|Winterton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Winterton.secret|Winterton.secret]] 
+
+### [Winterton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.public.md) 
+
+### [Winterton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.internal.md) 
+
+### [Winterton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.protect.md) 
+
+### [Winterton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.private.md) 
+
+### [Winterton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.personal.md) 
+
+### [Winterton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~NorfolkWinterton.secret.md)
+

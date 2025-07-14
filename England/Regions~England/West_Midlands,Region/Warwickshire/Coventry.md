@@ -61,13 +61,17 @@ markerFolder: ./Coventry/
 > [Wikipedia](https://en.wikipedia.org/wiki/Coventry)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Coventry|Coventry]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Coventry.public|Coventry.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Coventry.internal|Coventry.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Coventry.protect|Coventry.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Coventry.private|Coventry.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Coventry.personal|Coventry.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Coventry.secret|Coventry.secret]] 
+
+### [Coventry.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.public.md) 
+
+### [Coventry.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.internal.md) 
+
+### [Coventry.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.protect.md) 
+
+### [Coventry.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.private.md) 
+
+### [Coventry.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.personal.md) 
+
+### [Coventry.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\WarwickshireCoventry.secret.md)
 

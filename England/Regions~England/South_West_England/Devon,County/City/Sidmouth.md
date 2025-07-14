@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sidmouth|Sidmouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.public|Sidmouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.internal|Sidmouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.protect|Sidmouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.private|Sidmouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.personal|Sidmouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sidmouth.secret|Sidmouth.secret]] 
+
+### [Sidmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CitySidmouth.public.md) 
+
+### [Sidmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CitySidmouth.internal.md) 
+
+### [Sidmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CitySidmouth.protect.md) 
+
+### [Sidmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CitySidmouth.private.md) 
+
+### [Sidmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CitySidmouth.personal.md) 
+
+### [Sidmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CitySidmouth.secret.md)
+

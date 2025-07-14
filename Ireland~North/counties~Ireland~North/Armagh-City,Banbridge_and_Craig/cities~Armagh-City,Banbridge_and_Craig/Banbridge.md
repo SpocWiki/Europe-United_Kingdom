@@ -40,11 +40,16 @@ markerFolder: ./Banbridge/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Banbridge|Banbridge]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Banbridge.public|Banbridge.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Banbridge.internal|Banbridge.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Banbridge.protect|Banbridge.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Banbridge.private|Banbridge.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Banbridge.personal|Banbridge.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Banbridge.secret|Banbridge.secret]] 
+
+### [Banbridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigBanbridge.public.md) 
+
+### [Banbridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigBanbridge.internal.md) 
+
+### [Banbridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigBanbridge.protect.md) 
+
+### [Banbridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigBanbridge.private.md) 
+
+### [Banbridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigBanbridge.personal.md) 
+
+### [Banbridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigBanbridge.secret.md)
 

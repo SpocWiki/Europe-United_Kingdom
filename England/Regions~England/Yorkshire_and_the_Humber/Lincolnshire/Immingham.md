@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Immingham|Immingham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Immingham.public|Immingham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Immingham.internal|Immingham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Immingham.protect|Immingham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Immingham.private|Immingham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Immingham.personal|Immingham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Immingham.secret|Immingham.secret]] 
+
+### [Immingham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\LincolnshireImmingham.public.md) 
+
+### [Immingham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\LincolnshireImmingham.internal.md) 
+
+### [Immingham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\LincolnshireImmingham.protect.md) 
+
+### [Immingham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\LincolnshireImmingham.private.md) 
+
+### [Immingham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\LincolnshireImmingham.personal.md) 
+
+### [Immingham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\LincolnshireImmingham.secret.md)
+

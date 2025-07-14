@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tavistock|Tavistock]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tavistock.public|Tavistock.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tavistock.internal|Tavistock.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tavistock.protect|Tavistock.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tavistock.private|Tavistock.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tavistock.personal|Tavistock.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tavistock.secret|Tavistock.secret]] 
+
+### [Tavistock.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.public.md) 
+
+### [Tavistock.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.internal.md) 
+
+### [Tavistock.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.protect.md) 
+
+### [Tavistock.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.private.md) 
+
+### [Tavistock.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.personal.md) 
+
+### [Tavistock.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~West\cities~WestDevonTavistock.secret.md)
+

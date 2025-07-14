@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Birmingham|Birmingham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Birmingham.public|Birmingham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Birmingham.internal|Birmingham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Birmingham.protect|Birmingham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Birmingham.private|Birmingham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Birmingham.personal|Birmingham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Birmingham.secret|Birmingham.secret]] 
+
+### [Birmingham,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.public.md) 
+
+### [Birmingham,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.internal.md) 
+
+### [Birmingham,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.protect.md) 
+
+### [Birmingham,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.private.md) 
+
+### [Birmingham,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.personal.md) 
+
+### [Birmingham,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Birmingham,County\cities~BirminghamBirmingham,City.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tewskbury|Tewskbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tewskbury.public|Tewskbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tewskbury.internal|Tewskbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tewskbury.protect|Tewskbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tewskbury.private|Tewskbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tewskbury.personal|Tewskbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tewskbury.secret|Tewskbury.secret]] 
+
+### [Tewskbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewskbury.public.md) 
+
+### [Tewskbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewskbury.internal.md) 
+
+### [Tewskbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewskbury.protect.md) 
+
+### [Tewskbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewskbury.private.md) 
+
+### [Tewskbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewskbury.personal.md) 
+
+### [Tewskbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Tewkesbury\cities~TewkesburyTewskbury.secret.md)
+

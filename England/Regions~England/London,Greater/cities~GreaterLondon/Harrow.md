@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Harrow|Harrow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Harrow.public|Harrow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Harrow.internal|Harrow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Harrow.protect|Harrow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Harrow.private|Harrow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Harrow.personal|Harrow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Harrow.secret|Harrow.secret]] 
+
+### [Harrow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHarrow.public.md) 
+
+### [Harrow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHarrow.internal.md) 
+
+### [Harrow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHarrow.protect.md) 
+
+### [Harrow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHarrow.private.md) 
+
+### [Harrow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHarrow.personal.md) 
+
+### [Harrow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHarrow.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Devon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Devon|Devon]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Devon.public|Devon.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Devon.internal|Devon.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Devon.protect|Devon.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Devon.private|Devon.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Devon.personal|Devon.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Devon.secret|Devon.secret]] 
+
+### [Devon,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandDevon,County.public.md) 
+
+### [Devon,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandDevon,County.internal.md) 
+
+### [Devon,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandDevon,County.protect.md) 
+
+### [Devon,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandDevon,County.private.md) 
+
+### [Devon,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandDevon,County.personal.md) 
+
+### [Devon,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandDevon,County.secret.md)
 

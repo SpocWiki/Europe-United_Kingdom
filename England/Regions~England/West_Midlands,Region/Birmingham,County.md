@@ -40,11 +40,16 @@ markerFolder: ./Birmingham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Birmingham|Birmingham]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Birmingham.public|Birmingham.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Birmingham.internal|Birmingham.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Birmingham.protect|Birmingham.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Birmingham.private|Birmingham.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Birmingham.personal|Birmingham.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Birmingham.secret|Birmingham.secret]] 
+
+### [Birmingham,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.public.md) 
+
+### [Birmingham,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.internal.md) 
+
+### [Birmingham,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.protect.md) 
+
+### [Birmingham,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.private.md) 
+
+### [Birmingham,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.personal.md) 
+
+### [Birmingham,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionBirmingham,County.secret.md)
 

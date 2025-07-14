@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Grantham|Grantham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Grantham.public|Grantham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Grantham.internal|Grantham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Grantham.protect|Grantham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Grantham.private|Grantham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Grantham.personal|Grantham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Grantham.secret|Grantham.secret]] 
+
+### [Grantham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.public.md) 
+
+### [Grantham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.internal.md) 
+
+### [Grantham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.protect.md) 
+
+### [Grantham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.private.md) 
+
+### [Grantham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.personal.md) 
+
+### [Grantham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenGrantham.secret.md)
+

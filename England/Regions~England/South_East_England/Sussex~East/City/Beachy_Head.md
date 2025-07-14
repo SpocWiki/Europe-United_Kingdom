@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Beachy_Head|Beachy_Head]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Beachy_Head.public|Beachy_Head.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Beachy_Head.internal|Beachy_Head.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Beachy_Head.protect|Beachy_Head.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Beachy_Head.private|Beachy_Head.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Beachy_Head.personal|Beachy_Head.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Beachy_Head.secret|Beachy_Head.secret]] 
+
+### [Beachy_Head.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\CityBeachy_Head.public.md) 
+
+### [Beachy_Head.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\CityBeachy_Head.internal.md) 
+
+### [Beachy_Head.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\CityBeachy_Head.protect.md) 
+
+### [Beachy_Head.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\CityBeachy_Head.private.md) 
+
+### [Beachy_Head.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\CityBeachy_Head.personal.md) 
+
+### [Beachy_Head.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\CityBeachy_Head.secret.md)
+

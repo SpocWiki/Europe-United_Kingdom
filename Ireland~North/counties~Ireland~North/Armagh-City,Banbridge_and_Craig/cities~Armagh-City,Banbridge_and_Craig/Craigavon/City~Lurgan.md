@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[/../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan|Lurgan]] 
-- [[/../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.public|Lurgan.public]] 
-- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.internal|Lurgan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.protect|Lurgan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.private|Lurgan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.personal|Lurgan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lurgan.secret|Lurgan.secret]] 
+
+### [City~Lurgan.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Lurgan.public.md) 
+
+### [City~Lurgan.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Lurgan.internal.md) 
+
+### [City~Lurgan.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Lurgan.protect.md) 
+
+### [City~Lurgan.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Lurgan.private.md) 
+
+### [City~Lurgan.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Lurgan.personal.md) 
+
+### [City~Lurgan.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Lurgan.secret.md)
+

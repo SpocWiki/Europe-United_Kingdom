@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Falmouth|Falmouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Falmouth.public|Falmouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Falmouth.internal|Falmouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Falmouth.protect|Falmouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Falmouth.private|Falmouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Falmouth.personal|Falmouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Falmouth.secret|Falmouth.secret]] 
+
+### [Falmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.public.md) 
+
+### [Falmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.internal.md) 
+
+### [Falmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.protect.md) 
+
+### [Falmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.private.md) 
+
+### [Falmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.personal.md) 
+
+### [Falmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\CornwallFalmouth.secret.md)
+

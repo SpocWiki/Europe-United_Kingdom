@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hasborough|Hasborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hasborough.public|Hasborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hasborough.internal|Hasborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hasborough.protect|Hasborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hasborough.private|Hasborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hasborough.personal|Hasborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hasborough.secret|Hasborough.secret]] 
+
+### [Hasborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.public.md) 
+
+### [Hasborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.internal.md) 
+
+### [Hasborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.protect.md) 
+
+### [Hasborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.private.md) 
+
+### [Hasborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.personal.md) 
+
+### [Hasborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\Norfolk~North\cities~NorthNorfolkHasborough.secret.md)
+

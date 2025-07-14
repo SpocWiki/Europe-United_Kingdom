@@ -80,12 +80,17 @@ FROM outgoing([[Line~Hammersmith]])
 ```
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Hammersmith|Line~Hammersmith]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Hammersmith.public|Line~Hammersmith.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Hammersmith.internal|Line~Hammersmith.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Hammersmith.protect|Line~Hammersmith.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Hammersmith.private|Line~Hammersmith.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Hammersmith.personal|Line~Hammersmith.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Hammersmith.secret|Line~Hammersmith.secret]] 
+
+### [Line~Hammersmith.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Hammersmith.public.md) 
+
+### [Line~Hammersmith.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Hammersmith.internal.md) 
+
+### [Line~Hammersmith.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Hammersmith.protect.md) 
+
+### [Line~Hammersmith.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Hammersmith.private.md) 
+
+### [Line~Hammersmith.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Hammersmith.personal.md) 
+
+### [Line~Hammersmith.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Hammersmith.secret.md)
+

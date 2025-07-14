@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Grimsby|Grimsby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Grimsby.public|Grimsby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Grimsby.internal|Grimsby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Grimsby.protect|Grimsby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Grimsby.private|Grimsby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Grimsby.personal|Grimsby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Grimsby.secret|Grimsby.secret]] 
+
+### [Grimsby.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.public.md) 
+
+### [Grimsby.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.internal.md) 
+
+### [Grimsby.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.protect.md) 
+
+### [Grimsby.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.private.md) 
+
+### [Grimsby.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.personal.md) 
+
+### [Grimsby.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North-East\cities~Lincolnshire~North-EastGrimsby.secret.md)
+

@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena|Sub~Crossharbour_&_London_Arena]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.public|Sub~Crossharbour_&_London_Arena.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.internal|Sub~Crossharbour_&_London_Arena.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.protect|Sub~Crossharbour_&_London_Arena.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.private|Sub~Crossharbour_&_London_Arena.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.personal|Sub~Crossharbour_&_London_Arena.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Crossharbour_&_London_Arena.secret|Sub~Crossharbour_&_London_Arena.secret]] 
+
+### [Sub~Crossharbour_&_London_Arena.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Crossharbour_&_London_Arena.public.md) 
+
+### [Sub~Crossharbour_&_London_Arena.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Crossharbour_&_London_Arena.internal.md) 
+
+### [Sub~Crossharbour_&_London_Arena.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Crossharbour_&_London_Arena.protect.md) 
+
+### [Sub~Crossharbour_&_London_Arena.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Crossharbour_&_London_Arena.private.md) 
+
+### [Sub~Crossharbour_&_London_Arena.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Crossharbour_&_London_Arena.personal.md) 
+
+### [Sub~Crossharbour_&_London_Arena.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Crossharbour_&_London_Arena.secret.md)
+

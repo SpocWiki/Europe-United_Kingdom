@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Guildford|Guildford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Guildford.public|Guildford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Guildford.internal|Guildford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Guildford.protect|Guildford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Guildford.private|Guildford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Guildford.personal|Guildford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Guildford.secret|Guildford.secret]] 
+
+### [Guildford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.public.md) 
+
+### [Guildford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.internal.md) 
+
+### [Guildford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.protect.md) 
+
+### [Guildford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.private.md) 
+
+### [Guildford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.personal.md) 
+
+### [Guildford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\Guildford\cities~GuildfordGuildford.secret.md)
+

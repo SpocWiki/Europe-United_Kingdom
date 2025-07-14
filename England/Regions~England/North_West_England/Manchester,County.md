@@ -40,11 +40,16 @@ markerFolder: ./Manchester/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Manchester|Manchester]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Manchester.public|Manchester.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Manchester.internal|Manchester.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Manchester.protect|Manchester.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Manchester.private|Manchester.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Manchester.personal|Manchester.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Manchester.secret|Manchester.secret]] 
+
+### [Manchester,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.public.md) 
+
+### [Manchester,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.internal.md) 
+
+### [Manchester,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.protect.md) 
+
+### [Manchester,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.private.md) 
+
+### [Manchester,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.personal.md) 
+
+### [Manchester,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandManchester,County.secret.md)
 

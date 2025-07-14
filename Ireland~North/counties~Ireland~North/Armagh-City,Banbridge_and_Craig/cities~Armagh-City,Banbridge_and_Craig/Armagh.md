@@ -40,11 +40,16 @@ markerFolder: ./Armagh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Armagh|Armagh]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Armagh.public|Armagh.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Armagh.internal|Armagh.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Armagh.protect|Armagh.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Armagh.private|Armagh.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Armagh.personal|Armagh.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Armagh.secret|Armagh.secret]] 
+
+### [Armagh.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigArmagh.public.md) 
+
+### [Armagh.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigArmagh.internal.md) 
+
+### [Armagh.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigArmagh.protect.md) 
+
+### [Armagh.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigArmagh.private.md) 
+
+### [Armagh.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigArmagh.personal.md) 
+
+### [Armagh.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_CraigArmagh.secret.md)
 

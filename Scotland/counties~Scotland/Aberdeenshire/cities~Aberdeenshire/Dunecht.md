@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dunecht|Dunecht]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dunecht.public|Dunecht.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dunecht.internal|Dunecht.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dunecht.protect|Dunecht.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dunecht.private|Dunecht.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dunecht.personal|Dunecht.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dunecht.secret|Dunecht.secret]] 
+
+### [Dunecht.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireDunecht.public.md) 
+
+### [Dunecht.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireDunecht.internal.md) 
+
+### [Dunecht.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireDunecht.protect.md) 
+
+### [Dunecht.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireDunecht.private.md) 
+
+### [Dunecht.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireDunecht.personal.md) 
+
+### [Dunecht.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireDunecht.secret.md)
+

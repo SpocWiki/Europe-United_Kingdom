@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dumfries|Dumfries]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dumfries.public|Dumfries.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dumfries.internal|Dumfries.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dumfries.protect|Dumfries.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dumfries.private|Dumfries.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dumfries.personal|Dumfries.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dumfries.secret|Dumfries.secret]] 
+
+### [Dumfries.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.public.md) 
+
+### [Dumfries.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.internal.md) 
+
+### [Dumfries.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.protect.md) 
+
+### [Dumfries.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.private.md) 
+
+### [Dumfries.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.personal.md) 
+
+### [Dumfries.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayDumfries.secret.md)
+

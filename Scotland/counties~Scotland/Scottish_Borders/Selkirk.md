@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Selkirk|Selkirk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Selkirk.public|Selkirk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Selkirk.internal|Selkirk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Selkirk.protect|Selkirk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Selkirk.private|Selkirk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Selkirk.personal|Selkirk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Selkirk.secret|Selkirk.secret]] 
+
+### [Selkirk.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_BordersSelkirk.public.md) 
+
+### [Selkirk.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_BordersSelkirk.internal.md) 
+
+### [Selkirk.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_BordersSelkirk.protect.md) 
+
+### [Selkirk.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_BordersSelkirk.private.md) 
+
+### [Selkirk.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_BordersSelkirk.personal.md) 
+
+### [Selkirk.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_BordersSelkirk.secret.md)
+

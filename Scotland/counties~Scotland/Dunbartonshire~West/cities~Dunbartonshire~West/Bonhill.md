@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bonhill|Bonhill]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bonhill.public|Bonhill.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bonhill.internal|Bonhill.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bonhill.protect|Bonhill.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bonhill.private|Bonhill.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bonhill.personal|Bonhill.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bonhill.secret|Bonhill.secret]] 
+
+### [Bonhill.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.public.md) 
+
+### [Bonhill.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.internal.md) 
+
+### [Bonhill.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.protect.md) 
+
+### [Bonhill.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.private.md) 
+
+### [Bonhill.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.personal.md) 
+
+### [Bonhill.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestBonhill.secret.md)
+

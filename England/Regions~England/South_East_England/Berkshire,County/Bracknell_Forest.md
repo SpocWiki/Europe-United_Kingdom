@@ -40,11 +40,16 @@ markerFolder: ./Bracknell_Forest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest|Bracknell_Forest]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.public|Bracknell_Forest.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.internal|Bracknell_Forest.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.protect|Bracknell_Forest.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.private|Bracknell_Forest.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.personal|Bracknell_Forest.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Bracknell_Forest.secret|Bracknell_Forest.secret]] 
+
+### [Bracknell_Forest.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.public.md) 
+
+### [Bracknell_Forest.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.internal.md) 
+
+### [Bracknell_Forest.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.protect.md) 
+
+### [Bracknell_Forest.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.private.md) 
+
+### [Bracknell_Forest.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.personal.md) 
+
+### [Bracknell_Forest.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBracknell_Forest.secret.md)
 

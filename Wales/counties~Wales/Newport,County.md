@@ -40,11 +40,16 @@ markerFolder: ./Newport/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Newport|Newport]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Newport.public|Newport.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Newport.internal|Newport.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Newport.protect|Newport.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Newport.private|Newport.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Newport.personal|Newport.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Newport.secret|Newport.secret]] 
+
+### [Newport,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.public.md) 
+
+### [Newport,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.internal.md) 
+
+### [Newport,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.protect.md) 
+
+### [Newport,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.private.md) 
+
+### [Newport,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.personal.md) 
+
+### [Newport,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesNewport,County.secret.md)
 

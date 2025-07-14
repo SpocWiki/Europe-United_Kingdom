@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Totteridge_&_Whetstone|Sub~Totteridge_&_Whetstone]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Totteridge_&_Whetstone.public|Sub~Totteridge_&_Whetstone.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Totteridge_&_Whetstone.internal|Sub~Totteridge_&_Whetstone.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Totteridge_&_Whetstone.protect|Sub~Totteridge_&_Whetstone.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Totteridge_&_Whetstone.private|Sub~Totteridge_&_Whetstone.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Totteridge_&_Whetstone.personal|Sub~Totteridge_&_Whetstone.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Totteridge_&_Whetstone.secret|Sub~Totteridge_&_Whetstone.secret]] 
+
+### [Sub~Totteridge_&_Whetstone.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Totteridge_&_Whetstone.public.md) 
+
+### [Sub~Totteridge_&_Whetstone.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Totteridge_&_Whetstone.internal.md) 
+
+### [Sub~Totteridge_&_Whetstone.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Totteridge_&_Whetstone.protect.md) 
+
+### [Sub~Totteridge_&_Whetstone.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Totteridge_&_Whetstone.private.md) 
+
+### [Sub~Totteridge_&_Whetstone.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Totteridge_&_Whetstone.personal.md) 
+
+### [Sub~Totteridge_&_Whetstone.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Totteridge_&_Whetstone.secret.md)
+

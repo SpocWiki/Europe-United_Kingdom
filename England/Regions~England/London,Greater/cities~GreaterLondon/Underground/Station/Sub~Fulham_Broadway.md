@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Fulham_Broadway|Sub~Fulham_Broadway]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Fulham_Broadway.public|Sub~Fulham_Broadway.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Fulham_Broadway.internal|Sub~Fulham_Broadway.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Fulham_Broadway.protect|Sub~Fulham_Broadway.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Fulham_Broadway.private|Sub~Fulham_Broadway.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Fulham_Broadway.personal|Sub~Fulham_Broadway.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Fulham_Broadway.secret|Sub~Fulham_Broadway.secret]] 
+
+### [Sub~Fulham_Broadway.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Fulham_Broadway.public.md) 
+
+### [Sub~Fulham_Broadway.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Fulham_Broadway.internal.md) 
+
+### [Sub~Fulham_Broadway.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Fulham_Broadway.protect.md) 
+
+### [Sub~Fulham_Broadway.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Fulham_Broadway.private.md) 
+
+### [Sub~Fulham_Broadway.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Fulham_Broadway.personal.md) 
+
+### [Sub~Fulham_Broadway.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Fulham_Broadway.secret.md)
+

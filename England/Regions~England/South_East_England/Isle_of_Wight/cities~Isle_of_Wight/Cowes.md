@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Cowes|Cowes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Cowes.public|Cowes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Cowes.internal|Cowes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Cowes.protect|Cowes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Cowes.private|Cowes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Cowes.personal|Cowes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Cowes.secret|Cowes.secret]] 
+
+### [Cowes.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.public.md) 
+
+### [Cowes.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.internal.md) 
+
+### [Cowes.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.protect.md) 
+
+### [Cowes.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.private.md) 
+
+### [Cowes.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.personal.md) 
+
+### [Cowes.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightCowes.secret.md)
+

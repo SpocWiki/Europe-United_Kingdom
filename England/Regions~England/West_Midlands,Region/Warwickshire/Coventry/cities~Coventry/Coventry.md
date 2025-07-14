@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Coventry|Coventry]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Coventry.public|Coventry.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Coventry.internal|Coventry.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Coventry.protect|Coventry.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Coventry.private|Coventry.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Coventry.personal|Coventry.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Coventry.secret|Coventry.secret]] 
+
+### [Coventry.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.public.md) 
+
+### [Coventry.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.internal.md) 
+
+### [Coventry.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.protect.md) 
+
+### [Coventry.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.private.md) 
+
+### [Coventry.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.personal.md) 
+
+### [Coventry.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\Coventry\cities~CoventryCoventry.secret.md)
+

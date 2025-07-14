@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Aberystwith|Aberystwith]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.public|Aberystwith.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.internal|Aberystwith.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.protect|Aberystwith.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.private|Aberystwith.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.personal|Aberystwith.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Aberystwith.secret|Aberystwith.secret]] 
+
+### [Aberystwith.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionAberystwith.public.md) 
+
+### [Aberystwith.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionAberystwith.internal.md) 
+
+### [Aberystwith.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionAberystwith.protect.md) 
+
+### [Aberystwith.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionAberystwith.private.md) 
+
+### [Aberystwith.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionAberystwith.personal.md) 
+
+### [Aberystwith.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionAberystwith.secret.md)
+

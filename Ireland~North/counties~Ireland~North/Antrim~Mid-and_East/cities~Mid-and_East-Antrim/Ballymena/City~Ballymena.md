@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Ballymena|City~Ballymena]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Ballymena.internal|Ballymena.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Ballymena.protect|Ballymena.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Ballymena.private|Ballymena.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Ballymena.personal|Ballymena.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Ballymena.secret|Ballymena.secret]] 
+
+### [City~Ballymena.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\BallymenaCity~Ballymena.public.md) 
+
+### [City~Ballymena.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\BallymenaCity~Ballymena.internal.md) 
+
+### [City~Ballymena.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\BallymenaCity~Ballymena.protect.md) 
+
+### [City~Ballymena.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\BallymenaCity~Ballymena.private.md) 
+
+### [City~Ballymena.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\BallymenaCity~Ballymena.personal.md) 
+
+### [City~Ballymena.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\BallymenaCity~Ballymena.secret.md)
+

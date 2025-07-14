@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Canterbury|Canterbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Canterbury.public|Canterbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Canterbury.internal|Canterbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Canterbury.protect|Canterbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Canterbury.private|Canterbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Canterbury.personal|Canterbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Canterbury.secret|Canterbury.secret]] 
+
+### [Canterbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.public.md) 
+
+### [Canterbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.internal.md) 
+
+### [Canterbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.protect.md) 
+
+### [Canterbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.private.md) 
+
+### [Canterbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.personal.md) 
+
+### [Canterbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Canterbury\cities~CanterburyCanterbury.secret.md)
+

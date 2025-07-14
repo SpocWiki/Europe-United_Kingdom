@@ -40,11 +40,16 @@ markerFolder: ./Milton_Keynes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Milton_Keynes|Milton_Keynes]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Milton_Keynes.public|Milton_Keynes.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Milton_Keynes.internal|Milton_Keynes.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Milton_Keynes.protect|Milton_Keynes.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Milton_Keynes.private|Milton_Keynes.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Milton_Keynes.personal|Milton_Keynes.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Milton_Keynes.secret|Milton_Keynes.secret]] 
+
+### [Milton_Keynes.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandMilton_Keynes.public.md) 
+
+### [Milton_Keynes.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandMilton_Keynes.internal.md) 
+
+### [Milton_Keynes.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandMilton_Keynes.protect.md) 
+
+### [Milton_Keynes.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandMilton_Keynes.private.md) 
+
+### [Milton_Keynes.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandMilton_Keynes.personal.md) 
+
+### [Milton_Keynes.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandMilton_Keynes.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./North_Down/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/North_Down|North_Down]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/North_Down.public|North_Down.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/North_Down.internal|North_Down.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/North_Down.protect|North_Down.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/North_Down.private|North_Down.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/North_Down.personal|North_Down.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/North_Down.secret|North_Down.secret]] 
+
+### [North_Down.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownNorth_Down.public.md) 
+
+### [North_Down.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownNorth_Down.internal.md) 
+
+### [North_Down.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownNorth_Down.protect.md) 
+
+### [North_Down.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownNorth_Down.private.md) 
+
+### [North_Down.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownNorth_Down.personal.md) 
+
+### [North_Down.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownNorth_Down.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Edinburgh/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh|Edinburgh]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.public|Edinburgh.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.internal|Edinburgh.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.protect|Edinburgh.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.private|Edinburgh.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.personal|Edinburgh.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Edinburgh.secret|Edinburgh.secret]] 
+
+### [Edinburgh-County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEdinburgh-County.public.md) 
+
+### [Edinburgh-County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEdinburgh-County.internal.md) 
+
+### [Edinburgh-County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEdinburgh-County.protect.md) 
+
+### [Edinburgh-County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEdinburgh-County.private.md) 
+
+### [Edinburgh-County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEdinburgh-County.personal.md) 
+
+### [Edinburgh-County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandEdinburgh-County.secret.md)
 

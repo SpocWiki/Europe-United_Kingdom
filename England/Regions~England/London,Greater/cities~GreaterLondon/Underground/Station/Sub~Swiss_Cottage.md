@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Swiss_Cottage|Sub~Swiss_Cottage]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Swiss_Cottage.public|Sub~Swiss_Cottage.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Swiss_Cottage.internal|Sub~Swiss_Cottage.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Swiss_Cottage.protect|Sub~Swiss_Cottage.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Swiss_Cottage.private|Sub~Swiss_Cottage.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Swiss_Cottage.personal|Sub~Swiss_Cottage.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Swiss_Cottage.secret|Sub~Swiss_Cottage.secret]] 
+
+### [Sub~Swiss_Cottage.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Swiss_Cottage.public.md) 
+
+### [Sub~Swiss_Cottage.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Swiss_Cottage.internal.md) 
+
+### [Sub~Swiss_Cottage.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Swiss_Cottage.protect.md) 
+
+### [Sub~Swiss_Cottage.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Swiss_Cottage.private.md) 
+
+### [Sub~Swiss_Cottage.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Swiss_Cottage.personal.md) 
+
+### [Sub~Swiss_Cottage.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Swiss_Cottage.secret.md)
+

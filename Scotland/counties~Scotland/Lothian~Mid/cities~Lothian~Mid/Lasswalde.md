@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lasswalde|Lasswalde]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.public|Lasswalde.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.internal|Lasswalde.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.protect|Lasswalde.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.private|Lasswalde.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.personal|Lasswalde.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lasswalde.secret|Lasswalde.secret]] 
+
+### [Lasswalde.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.public.md) 
+
+### [Lasswalde.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.internal.md) 
+
+### [Lasswalde.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.protect.md) 
+
+### [Lasswalde.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.private.md) 
+
+### [Lasswalde.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.personal.md) 
+
+### [Lasswalde.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~Mid\cities~Lothian~MidLasswalde.secret.md)
+

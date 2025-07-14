@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Newry|City~Newry]]
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newry.internal|Newry.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newry.protect|Newry.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newry.private|Newry.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newry.personal|Newry.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Newry.secret|Newry.secret]] 
+
+### [City~Newry.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.public.md) 
+
+### [City~Newry.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.internal.md) 
+
+### [City~Newry.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.protect.md) 
+
+### [City~Newry.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.private.md) 
+
+### [City~Newry.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.personal.md) 
+
+### [City~Newry.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Newry_and_MourneCity~Newry.secret.md)
+

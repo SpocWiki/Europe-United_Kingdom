@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Peterhead|Peterhead]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Peterhead.public|Peterhead.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Peterhead.internal|Peterhead.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Peterhead.protect|Peterhead.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Peterhead.private|Peterhead.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Peterhead.personal|Peterhead.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Peterhead.secret|Peterhead.secret]] 
+
+### [Peterhead.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshirePeterhead.public.md) 
+
+### [Peterhead.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshirePeterhead.internal.md) 
+
+### [Peterhead.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshirePeterhead.protect.md) 
+
+### [Peterhead.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshirePeterhead.private.md) 
+
+### [Peterhead.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshirePeterhead.personal.md) 
+
+### [Peterhead.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshirePeterhead.secret.md)
+

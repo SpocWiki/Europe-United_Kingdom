@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Penzance|Penzance]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Penzance.public|Penzance.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Penzance.internal|Penzance.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Penzance.protect|Penzance.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Penzance.private|Penzance.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Penzance.personal|Penzance.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Penzance.secret|Penzance.secret]] 
+
+### [Penzance.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPenzance.public.md) 
+
+### [Penzance.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPenzance.internal.md) 
+
+### [Penzance.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPenzance.protect.md) 
+
+### [Penzance.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPenzance.private.md) 
+
+### [Penzance.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPenzance.personal.md) 
+
+### [Penzance.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPenzance.secret.md)
+

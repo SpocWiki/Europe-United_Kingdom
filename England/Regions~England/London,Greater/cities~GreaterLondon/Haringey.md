@@ -45,13 +45,17 @@ markerFolder: ./Haringey/
 > [Wikipedia](https://en.wikipedia.org/wiki/London%20Borough%20of%20Haringey)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey|Haringey]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.public|Haringey.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.internal|Haringey.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.protect|Haringey.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.private|Haringey.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.personal|Haringey.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Haringey.secret|Haringey.secret]] 
+
+### [Haringey.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHaringey.public.md) 
+
+### [Haringey.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHaringey.internal.md) 
+
+### [Haringey.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHaringey.protect.md) 
+
+### [Haringey.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHaringey.private.md) 
+
+### [Haringey.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHaringey.personal.md) 
+
+### [Haringey.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonHaringey.secret.md)
 

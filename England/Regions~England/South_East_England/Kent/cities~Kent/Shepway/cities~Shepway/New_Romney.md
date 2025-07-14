@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/New_Romney|New_Romney]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/New_Romney.public|New_Romney.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/New_Romney.internal|New_Romney.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/New_Romney.protect|New_Romney.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/New_Romney.private|New_Romney.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/New_Romney.personal|New_Romney.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/New_Romney.secret|New_Romney.secret]] 
+
+### [New_Romney.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.public.md) 
+
+### [New_Romney.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.internal.md) 
+
+### [New_Romney.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.protect.md) 
+
+### [New_Romney.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.private.md) 
+
+### [New_Romney.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.personal.md) 
+
+### [New_Romney.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayNew_Romney.secret.md)
+

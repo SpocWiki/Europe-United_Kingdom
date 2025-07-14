@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Crewe|Crewe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Crewe.public|Crewe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Crewe.internal|Crewe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Crewe.protect|Crewe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Crewe.private|Crewe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Crewe.personal|Crewe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Crewe.secret|Crewe.secret]] 
+
+### [Crewe.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastCrewe.public.md) 
+
+### [Crewe.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastCrewe.internal.md) 
+
+### [Crewe.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastCrewe.protect.md) 
+
+### [Crewe.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastCrewe.private.md) 
+
+### [Crewe.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastCrewe.personal.md) 
+
+### [Crewe.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cheshire-East\cities~Cheshire-EastCrewe.secret.md)
+

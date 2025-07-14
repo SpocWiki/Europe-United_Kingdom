@@ -57,13 +57,17 @@ markerFolder: ./Middlesbrough/
 > [Wikipedia](https://en.wikipedia.org/wiki/Middlesbrough)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Middlesbrough|Middlesbrough]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Middlesbrough.public|Middlesbrough.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Middlesbrough.internal|Middlesbrough.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Middlesbrough.protect|Middlesbrough.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Middlesbrough.private|Middlesbrough.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Middlesbrough.personal|Middlesbrough.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Middlesbrough.secret|Middlesbrough.secret]] 
+
+### [Middlesbrough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~NorthMiddlesbrough.public.md) 
+
+### [Middlesbrough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~NorthMiddlesbrough.internal.md) 
+
+### [Middlesbrough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~NorthMiddlesbrough.protect.md) 
+
+### [Middlesbrough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~NorthMiddlesbrough.private.md) 
+
+### [Middlesbrough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~NorthMiddlesbrough.personal.md) 
+
+### [Middlesbrough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~NorthMiddlesbrough.secret.md)
 

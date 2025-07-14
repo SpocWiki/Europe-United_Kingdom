@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Barnstaple|Barnstaple]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.public|Barnstaple.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.internal|Barnstaple.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.protect|Barnstaple.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.private|Barnstaple.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.personal|Barnstaple.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Barnstaple.secret|Barnstaple.secret]] 
+
+### [Barnstaple.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.public.md) 
+
+### [Barnstaple.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.internal.md) 
+
+### [Barnstaple.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.protect.md) 
+
+### [Barnstaple.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.private.md) 
+
+### [Barnstaple.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.personal.md) 
+
+### [Barnstaple.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~North\cities~NorthDevonBarnstaple.secret.md)
+

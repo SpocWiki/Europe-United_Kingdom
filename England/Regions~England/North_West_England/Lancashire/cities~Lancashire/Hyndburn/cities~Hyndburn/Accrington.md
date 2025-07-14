@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Accrington|Accrington]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Accrington.public|Accrington.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Accrington.internal|Accrington.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Accrington.protect|Accrington.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Accrington.private|Accrington.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Accrington.personal|Accrington.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Accrington.secret|Accrington.secret]] 
+
+### [Accrington.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.public.md) 
+
+### [Accrington.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.internal.md) 
+
+### [Accrington.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.protect.md) 
+
+### [Accrington.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.private.md) 
+
+### [Accrington.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.personal.md) 
+
+### [Accrington.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Hyndburn\cities~HyndburnAccrington.secret.md)
+

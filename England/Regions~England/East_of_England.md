@@ -12,3 +12,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/East%20of%20England)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [East_of_England.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_of_England.public.md) 
+
+### [East_of_England.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_of_England.internal.md) 
+
+### [East_of_England.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_of_England.protect.md) 
+
+### [East_of_England.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_of_England.private.md) 
+
+### [East_of_England.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_of_England.personal.md) 
+
+### [East_of_England.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_of_England.secret.md)
+

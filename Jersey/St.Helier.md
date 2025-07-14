@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Helier|St.Helier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Helier.public|St.Helier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Helier.internal|St.Helier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Helier.protect|St.Helier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Helier.private|St.Helier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Helier.personal|St.Helier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Helier.secret|St.Helier.secret]] 
+
+### [St.Helier.public](/_public/\Earth\Continent\Europe\Europe~North\UK\JerseySt.Helier.public.md) 
+
+### [St.Helier.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\JerseySt.Helier.internal.md) 
+
+### [St.Helier.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\JerseySt.Helier.protect.md) 
+
+### [St.Helier.private](/_private/\Earth\Continent\Europe\Europe~North\UK\JerseySt.Helier.private.md) 
+
+### [St.Helier.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\JerseySt.Helier.personal.md) 
+
+### [St.Helier.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\JerseySt.Helier.secret.md)
+

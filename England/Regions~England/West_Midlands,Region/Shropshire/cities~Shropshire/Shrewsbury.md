@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury|Shrewsbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.public|Shrewsbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.internal|Shrewsbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.protect|Shrewsbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.private|Shrewsbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.personal|Shrewsbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Shrewsbury.secret|Shrewsbury.secret]] 
+
+### [Shrewsbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.public.md) 
+
+### [Shrewsbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.internal.md) 
+
+### [Shrewsbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.protect.md) 
+
+### [Shrewsbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.private.md) 
+
+### [Shrewsbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.personal.md) 
+
+### [Shrewsbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireShrewsbury.secret.md)
+

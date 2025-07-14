@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Blackburn|Blackburn]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Blackburn.public|Blackburn.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Blackburn.internal|Blackburn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Blackburn.protect|Blackburn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Blackburn.private|Blackburn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Blackburn.personal|Blackburn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Blackburn.secret|Blackburn.secret]] 
+
+### [Blackburn.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.public.md) 
+
+### [Blackburn.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.internal.md) 
+
+### [Blackburn.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.protect.md) 
+
+### [Blackburn.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.private.md) 
+
+### [Blackburn.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.personal.md) 
+
+### [Blackburn.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackburn_with_Darwen\cities~Blackburn_with_DarwenBlackburn.secret.md)
+

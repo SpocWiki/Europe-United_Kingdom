@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Inverness|Inverness]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Inverness.public|Inverness.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Inverness.internal|Inverness.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Inverness.protect|Inverness.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Inverness.private|Inverness.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Inverness.personal|Inverness.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Inverness.secret|Inverness.secret]] 
+
+### [Inverness.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandInverness.public.md) 
+
+### [Inverness.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandInverness.internal.md) 
+
+### [Inverness.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandInverness.protect.md) 
+
+### [Inverness.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandInverness.private.md) 
+
+### [Inverness.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandInverness.personal.md) 
+
+### [Inverness.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandInverness.secret.md)
+

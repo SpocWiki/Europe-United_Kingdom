@@ -40,11 +40,16 @@ markerFolder: ./Essex/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Essex|Essex]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Essex.public|Essex.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Essex.internal|Essex.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Essex.protect|Essex.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Essex.private|Essex.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Essex.personal|Essex.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Essex.secret|Essex.secret]] 
+
+### [Essex.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.public.md) 
+
+### [Essex.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.internal.md) 
+
+### [Essex.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.protect.md) 
+
+### [Essex.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.private.md) 
+
+### [Essex.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.personal.md) 
+
+### [Essex.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandEssex.secret.md)
 

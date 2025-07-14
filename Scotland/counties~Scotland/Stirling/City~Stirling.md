@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Stirling|City~Stirling]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Stirling.internal|Stirling.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Stirling.protect|Stirling.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Stirling.private|Stirling.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Stirling.personal|Stirling.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Stirling.secret|Stirling.secret]] 
+
+### [City~Stirling.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\StirlingCity~Stirling.public.md) 
+
+### [City~Stirling.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\StirlingCity~Stirling.internal.md) 
+
+### [City~Stirling.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\StirlingCity~Stirling.protect.md) 
+
+### [City~Stirling.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\StirlingCity~Stirling.private.md) 
+
+### [City~Stirling.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\StirlingCity~Stirling.personal.md) 
+
+### [City~Stirling.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\StirlingCity~Stirling.secret.md)
+

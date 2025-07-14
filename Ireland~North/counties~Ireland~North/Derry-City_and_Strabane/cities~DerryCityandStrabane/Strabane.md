@@ -40,11 +40,16 @@ markerFolder: ./Strabane/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Strabane|Strabane]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Strabane.public|Strabane.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Strabane.internal|Strabane.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Strabane.protect|Strabane.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Strabane.private|Strabane.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Strabane.personal|Strabane.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Strabane.secret|Strabane.secret]] 
+
+### [Strabane.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabaneStrabane.public.md) 
+
+### [Strabane.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabaneStrabane.internal.md) 
+
+### [Strabane.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabaneStrabane.protect.md) 
+
+### [Strabane.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabaneStrabane.private.md) 
+
+### [Strabane.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabaneStrabane.personal.md) 
+
+### [Strabane.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabaneStrabane.secret.md)
 

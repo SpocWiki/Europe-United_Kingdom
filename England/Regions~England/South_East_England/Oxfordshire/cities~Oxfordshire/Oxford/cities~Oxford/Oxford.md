@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Oxford|Oxford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Oxford.public|Oxford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Oxford.internal|Oxford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Oxford.protect|Oxford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Oxford.private|Oxford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Oxford.personal|Oxford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Oxford.secret|Oxford.secret]] 
+
+### [Oxford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.public.md) 
+
+### [Oxford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.internal.md) 
+
+### [Oxford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.protect.md) 
+
+### [Oxford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.private.md) 
+
+### [Oxford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.personal.md) 
+
+### [Oxford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxford\cities~OxfordOxford.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Spurn_Head|Spurn_Head]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Spurn_Head.public|Spurn_Head.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Spurn_Head.internal|Spurn_Head.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Spurn_Head.protect|Spurn_Head.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Spurn_Head.private|Spurn_Head.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Spurn_Head.personal|Spurn_Head.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Spurn_Head.secret|Spurn_Head.secret]] 
+
+### [Island~Spurn_Head.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.public.md) 
+
+### [Island~Spurn_Head.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.internal.md) 
+
+### [Island~Spurn_Head.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.protect.md) 
+
+### [Island~Spurn_Head.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.private.md) 
+
+### [Island~Spurn_Head.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.personal.md) 
+
+### [Island~Spurn_Head.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingIsland~Spurn_Head.secret.md)
+

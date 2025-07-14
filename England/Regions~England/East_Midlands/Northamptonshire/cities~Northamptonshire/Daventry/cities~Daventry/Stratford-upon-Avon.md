@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon|Stratford-upon-Avon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.public|Stratford-upon-Avon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.internal|Stratford-upon-Avon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.protect|Stratford-upon-Avon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.private|Stratford-upon-Avon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.personal|Stratford-upon-Avon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Stratford-upon-Avon.secret|Stratford-upon-Avon.secret]] 
+
+### [Stratford-upon-Avon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Daventry\cities~DaventryStratford-upon-Avon.public.md) 
+
+### [Stratford-upon-Avon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Daventry\cities~DaventryStratford-upon-Avon.internal.md) 
+
+### [Stratford-upon-Avon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Daventry\cities~DaventryStratford-upon-Avon.protect.md) 
+
+### [Stratford-upon-Avon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Daventry\cities~DaventryStratford-upon-Avon.private.md) 
+
+### [Stratford-upon-Avon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Daventry\cities~DaventryStratford-upon-Avon.personal.md) 
+
+### [Stratford-upon-Avon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Daventry\cities~DaventryStratford-upon-Avon.secret.md)
+

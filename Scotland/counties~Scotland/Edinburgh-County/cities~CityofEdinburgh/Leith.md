@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Leith|Leith]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Leith.public|Leith.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Leith.internal|Leith.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Leith.protect|Leith.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Leith.private|Leith.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Leith.personal|Leith.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Leith.secret|Leith.secret]] 
+
+### [Leith.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.public.md) 
+
+### [Leith.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.internal.md) 
+
+### [Leith.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.protect.md) 
+
+### [Leith.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.private.md) 
+
+### [Leith.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.personal.md) 
+
+### [Leith.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghLeith.secret.md)
+

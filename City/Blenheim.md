@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Blenheim|Blenheim]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Blenheim.public|Blenheim.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Blenheim.internal|Blenheim.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Blenheim.protect|Blenheim.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Blenheim.private|Blenheim.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Blenheim.personal|Blenheim.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Blenheim.secret|Blenheim.secret]] 
+
+### [Blenheim.public](/_public/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.public.md) 
+
+### [Blenheim.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.internal.md) 
+
+### [Blenheim.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.protect.md) 
+
+### [Blenheim.private](/_private/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.private.md) 
+
+### [Blenheim.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.personal.md) 
+
+### [Blenheim.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\CityBlenheim.secret.md)
+

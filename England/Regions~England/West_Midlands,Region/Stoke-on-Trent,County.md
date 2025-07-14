@@ -40,11 +40,16 @@ markerFolder: ./Stoke-on-Trent/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent|Stoke-on-Trent]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.public|Stoke-on-Trent.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.internal|Stoke-on-Trent.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.protect|Stoke-on-Trent.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.private|Stoke-on-Trent.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.personal|Stoke-on-Trent.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Stoke-on-Trent.secret|Stoke-on-Trent.secret]] 
+
+### [Stoke-on-Trent,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStoke-on-Trent,County.public.md) 
+
+### [Stoke-on-Trent,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStoke-on-Trent,County.internal.md) 
+
+### [Stoke-on-Trent,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStoke-on-Trent,County.protect.md) 
+
+### [Stoke-on-Trent,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStoke-on-Trent,County.private.md) 
+
+### [Stoke-on-Trent,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStoke-on-Trent,County.personal.md) 
+
+### [Stoke-on-Trent,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionStoke-on-Trent,County.secret.md)
 

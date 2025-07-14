@@ -33,12 +33,17 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Greater%20London)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater|London~Greater]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater.public|London~Greater.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater.internal|London~Greater.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater.protect|London~Greater.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater.private|London~Greater.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater.personal|London~Greater.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater.secret|London~Greater.secret]] 
+
+### [London,Greater.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.public.md) 
+
+### [London,Greater.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.internal.md) 
+
+### [London,Greater.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.protect.md) 
+
+### [London,Greater.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.private.md) 
+
+### [London,Greater.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.personal.md) 
+
+### [London,Greater.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandLondon,Greater.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Chatam|Chatam]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Chatam.public|Chatam.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Chatam.internal|Chatam.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Chatam.protect|Chatam.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Chatam.private|Chatam.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Chatam.personal|Chatam.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Chatam.secret|Chatam.secret]] 
+
+### [Chatam.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.public.md) 
+
+### [Chatam.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.internal.md) 
+
+### [Chatam.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.protect.md) 
+
+### [Chatam.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.private.md) 
+
+### [Chatam.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.personal.md) 
+
+### [Chatam.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayChatam.secret.md)
+

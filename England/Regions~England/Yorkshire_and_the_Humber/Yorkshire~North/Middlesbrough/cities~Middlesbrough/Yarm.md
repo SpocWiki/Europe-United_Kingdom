@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Yarm|Yarm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Yarm.public|Yarm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Yarm.internal|Yarm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Yarm.protect|Yarm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Yarm.private|Yarm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Yarm.personal|Yarm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Yarm.secret|Yarm.secret]] 
+
+### [Yarm.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.public.md) 
+
+### [Yarm.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.internal.md) 
+
+### [Yarm.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.protect.md) 
+
+### [Yarm.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.private.md) 
+
+### [Yarm.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.personal.md) 
+
+### [Yarm.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\Middlesbrough\cities~MiddlesbroughYarm.secret.md)
+

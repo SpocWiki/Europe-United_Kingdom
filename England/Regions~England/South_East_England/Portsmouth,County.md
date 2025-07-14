@@ -40,11 +40,16 @@ markerFolder: ./Portsmouth/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Portsmouth|Portsmouth]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Portsmouth.public|Portsmouth.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Portsmouth.internal|Portsmouth.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Portsmouth.protect|Portsmouth.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Portsmouth.private|Portsmouth.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Portsmouth.personal|Portsmouth.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Portsmouth.secret|Portsmouth.secret]] 
+
+### [Portsmouth,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.public.md) 
+
+### [Portsmouth,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.internal.md) 
+
+### [Portsmouth,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.protect.md) 
+
+### [Portsmouth,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.private.md) 
+
+### [Portsmouth,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.personal.md) 
+
+### [Portsmouth,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandPortsmouth,County.secret.md)
 

@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Glasgow,City|Glasgow,City]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Glasgow~Schottland.internal|Glasgow~Schottland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Glasgow~Schottland.protect|Glasgow~Schottland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Glasgow~Schottland.private|Glasgow~Schottland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Glasgow~Schottland.personal|Glasgow~Schottland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Glasgow~Schottland.secret|Glasgow~Schottland.secret]] 
+
+### [Glasgow,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyGlasgow,City.public.md) 
+
+### [Glasgow,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyGlasgow,City.internal.md) 
+
+### [Glasgow,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyGlasgow,City.protect.md) 
+
+### [Glasgow,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyGlasgow,City.private.md) 
+
+### [Glasgow,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyGlasgow,City.personal.md) 
+
+### [Glasgow,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyGlasgow,City.secret.md)
+

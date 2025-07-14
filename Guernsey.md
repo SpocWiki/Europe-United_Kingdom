@@ -40,11 +40,16 @@ markerFolder: ./Guernsey/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Guernsey|Guernsey]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Guernsey.public|Guernsey.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Guernsey.internal|Guernsey.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Guernsey.protect|Guernsey.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Guernsey.private|Guernsey.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Guernsey.personal|Guernsey.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Guernsey.secret|Guernsey.secret]] 
+
+### [Guernsey.public](/_public/\Earth\Continent\Europe\Europe~North\UKGuernsey.public.md) 
+
+### [Guernsey.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKGuernsey.internal.md) 
+
+### [Guernsey.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKGuernsey.protect.md) 
+
+### [Guernsey.private](/_private/\Earth\Continent\Europe\Europe~North\UKGuernsey.private.md) 
+
+### [Guernsey.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKGuernsey.personal.md) 
+
+### [Guernsey.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKGuernsey.secret.md)
 

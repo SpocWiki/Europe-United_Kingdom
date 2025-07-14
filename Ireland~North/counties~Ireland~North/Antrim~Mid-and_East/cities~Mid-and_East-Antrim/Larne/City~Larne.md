@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Larne|City~Larne]]
-- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Larne.internal|Larne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Larne.protect|Larne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Larne.private|Larne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Larne.personal|Larne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Larne.secret|Larne.secret]] 
+
+### [City~Larne.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\LarneCity~Larne.public.md) 
+
+### [City~Larne.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\LarneCity~Larne.internal.md) 
+
+### [City~Larne.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\LarneCity~Larne.protect.md) 
+
+### [City~Larne.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\LarneCity~Larne.private.md) 
+
+### [City~Larne.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\LarneCity~Larne.personal.md) 
+
+### [City~Larne.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\LarneCity~Larne.secret.md)
 

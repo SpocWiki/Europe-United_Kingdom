@@ -40,11 +40,16 @@ markerFolder: ./Ayshire~North/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayshire~North|Ayshire~North]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayshire~North.public|Ayshire~North.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayshire~North.internal|Ayshire~North.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayshire~North.protect|Ayshire~North.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayshire~North.private|Ayshire~North.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayshire~North.personal|Ayshire~North.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayshire~North.secret|Ayshire~North.secret]] 
+
+### [Ayshire~North.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyshire~North.public.md) 
+
+### [Ayshire~North.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyshire~North.internal.md) 
+
+### [Ayshire~North.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyshire~North.protect.md) 
+
+### [Ayshire~North.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyshire~North.private.md) 
+
+### [Ayshire~North.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyshire~North.personal.md) 
+
+### [Ayshire~North.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyshire~North.secret.md)
 

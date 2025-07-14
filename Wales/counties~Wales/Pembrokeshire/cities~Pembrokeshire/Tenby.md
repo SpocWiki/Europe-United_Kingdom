@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tenby|Tenby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tenby.public|Tenby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tenby.internal|Tenby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tenby.protect|Tenby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tenby.private|Tenby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tenby.personal|Tenby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tenby.secret|Tenby.secret]] 
+
+### [Tenby.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.public.md) 
+
+### [Tenby.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.internal.md) 
+
+### [Tenby.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.protect.md) 
+
+### [Tenby.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.private.md) 
+
+### [Tenby.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.personal.md) 
+
+### [Tenby.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshireTenby.secret.md)
+

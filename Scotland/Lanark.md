@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark|Lanark]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.public|Lanark.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.internal|Lanark.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.protect|Lanark.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.private|Lanark.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.personal|Lanark.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Lanark.secret|Lanark.secret]] 
+
+### [Lanark.public](/_public/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.public.md) 
+
+### [Lanark.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.internal.md) 
+
+### [Lanark.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.protect.md) 
+
+### [Lanark.private](/_private/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.private.md) 
+
+### [Lanark.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.personal.md) 
+
+### [Lanark.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\ScotlandLanark.secret.md)
+

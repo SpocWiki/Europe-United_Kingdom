@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Shields|Shields]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Shields.public|Shields.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Shields.internal|Shields.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Shields.protect|Shields.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Shields.private|Shields.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Shields.personal|Shields.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Shields.secret|Shields.secret]] 
+
+### [Shields.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthShields.public.md) 
+
+### [Shields.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthShields.internal.md) 
+
+### [Shields.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthShields.protect.md) 
+
+### [Shields.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthShields.private.md) 
+
+### [Shields.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthShields.personal.md) 
+
+### [Shields.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~Tyneside~NorthShields.secret.md)
+

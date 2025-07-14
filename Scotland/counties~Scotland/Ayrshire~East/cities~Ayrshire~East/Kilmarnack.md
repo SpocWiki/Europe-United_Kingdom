@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Kilmarnack|Kilmarnack]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Kilmarnack.public|Kilmarnack.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Kilmarnack.internal|Kilmarnack.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Kilmarnack.protect|Kilmarnack.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Kilmarnack.private|Kilmarnack.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Kilmarnack.personal|Kilmarnack.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Kilmarnack.secret|Kilmarnack.secret]] 
+
+### [Kilmarnack.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.public.md) 
+
+### [Kilmarnack.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.internal.md) 
+
+### [Kilmarnack.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.protect.md) 
+
+### [Kilmarnack.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.private.md) 
+
+### [Kilmarnack.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.personal.md) 
+
+### [Kilmarnack.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastKilmarnack.secret.md)
+

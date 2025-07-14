@@ -48,13 +48,17 @@ markerFolder: ./Bury/
 > [Wikipedia](https://en.wikipedia.org/wiki/Metropolitan%20Borough%20of%20Bury)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Bury|Bury]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Bury.public|Bury.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bury.internal|Bury.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Bury.protect|Bury.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Bury.private|Bury.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bury.personal|Bury.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Bury.secret|Bury.secret]] 
+
+### [Bury,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyBury,Borough.public.md) 
+
+### [Bury,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyBury,Borough.internal.md) 
+
+### [Bury,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyBury,Borough.protect.md) 
+
+### [Bury,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyBury,Borough.private.md) 
+
+### [Bury,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyBury,Borough.personal.md) 
+
+### [Bury,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,CountyBury,Borough.secret.md)
 

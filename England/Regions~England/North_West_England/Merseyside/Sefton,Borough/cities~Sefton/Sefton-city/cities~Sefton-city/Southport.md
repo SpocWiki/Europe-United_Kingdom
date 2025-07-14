@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Southport|Southport]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Southport.public|Southport.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Southport.internal|Southport.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Southport.protect|Southport.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Southport.private|Southport.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Southport.personal|Southport.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Southport.secret|Southport.secret]] 
+
+### [Southport.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.public.md) 
+
+### [Southport.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.internal.md) 
+
+### [Southport.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.protect.md) 
+
+### [Southport.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.private.md) 
+
+### [Southport.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.personal.md) 
+
+### [Southport.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Sefton,Borough\cities~Sefton\Sefton-city\cities~Sefton-citySouthport.secret.md)
+

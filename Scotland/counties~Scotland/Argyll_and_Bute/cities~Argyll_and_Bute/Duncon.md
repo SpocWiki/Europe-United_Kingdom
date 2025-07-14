@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Duncon|Duncon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Duncon.public|Duncon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Duncon.internal|Duncon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Duncon.protect|Duncon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Duncon.private|Duncon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Duncon.personal|Duncon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Duncon.secret|Duncon.secret]] 
+
+### [Duncon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.public.md) 
+
+### [Duncon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.internal.md) 
+
+### [Duncon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.protect.md) 
+
+### [Duncon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.private.md) 
+
+### [Duncon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.personal.md) 
+
+### [Duncon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_Bute\cities~Argyll_and_ButeDuncon.secret.md)
+

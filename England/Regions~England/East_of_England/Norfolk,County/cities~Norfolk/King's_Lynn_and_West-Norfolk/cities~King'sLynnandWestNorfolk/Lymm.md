@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lymm|Lymm]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lymm.public|Lymm.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lymm.internal|Lymm.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lymm.protect|Lymm.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lymm.private|Lymm.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lymm.personal|Lymm.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lymm.secret|Lymm.secret]] 
+
+### [Lymm.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.public.md) 
+
+### [Lymm.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.internal.md) 
+
+### [Lymm.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.protect.md) 
+
+### [Lymm.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.private.md) 
+
+### [Lymm.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.personal.md) 
+
+### [Lymm.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Norfolk,County\cities~Norfolk\King's_Lynn_and_West-Norfolk\cities~King'sLynnandWestNorfolkLymm.secret.md)
+

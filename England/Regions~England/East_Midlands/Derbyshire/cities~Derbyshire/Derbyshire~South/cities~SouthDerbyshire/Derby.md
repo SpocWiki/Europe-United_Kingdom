@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Derby|Derby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Derby.public|Derby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Derby.internal|Derby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Derby.protect|Derby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Derby.private|Derby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Derby.personal|Derby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Derby.secret|Derby.secret]] 
+
+### [Derby.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.public.md) 
+
+### [Derby.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.internal.md) 
+
+### [Derby.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.protect.md) 
+
+### [Derby.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.private.md) 
+
+### [Derby.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.personal.md) 
+
+### [Derby.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~South\cities~SouthDerbyshireDerby.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lanceston|Lanceston]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lanceston.public|Lanceston.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lanceston.internal|Lanceston.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lanceston.protect|Lanceston.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lanceston.private|Lanceston.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lanceston.personal|Lanceston.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lanceston.secret|Lanceston.secret]] 
+
+### [Lanceston.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.public.md) 
+
+### [Lanceston.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.internal.md) 
+
+### [Lanceston.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.protect.md) 
+
+### [Lanceston.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.private.md) 
+
+### [Lanceston.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.personal.md) 
+
+### [Lanceston.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallLanceston.secret.md)
+

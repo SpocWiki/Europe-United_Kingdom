@@ -14,10 +14,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland|Scotland]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland.public|Scotland.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland.internal|Scotland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland.protect|Scotland.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland.private|Scotland.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland.personal|Scotland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland.secret|Scotland.secret]] 
+
+### [Scotland.public](/_public/\Earth\Continent\Europe\Europe~North\UKScotland.public.md) 
+
+### [Scotland.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKScotland.internal.md) 
+
+### [Scotland.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKScotland.protect.md) 
+
+### [Scotland.private](/_private/\Earth\Continent\Europe\Europe~North\UKScotland.private.md) 
+
+### [Scotland.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKScotland.personal.md) 
+
+### [Scotland.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKScotland.secret.md)
+

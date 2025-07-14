@@ -40,11 +40,16 @@ markerFolder: ./Gloucestershire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Gloucestershire|Gloucestershire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Gloucestershire.public|Gloucestershire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Gloucestershire.internal|Gloucestershire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Gloucestershire.protect|Gloucestershire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Gloucestershire.private|Gloucestershire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Gloucestershire.personal|Gloucestershire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Gloucestershire.secret|Gloucestershire.secret]] 
+
+### [Gloucestershire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.public.md) 
+
+### [Gloucestershire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.internal.md) 
+
+### [Gloucestershire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.protect.md) 
+
+### [Gloucestershire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.private.md) 
+
+### [Gloucestershire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.personal.md) 
+
+### [Gloucestershire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandGloucestershire.secret.md)
 

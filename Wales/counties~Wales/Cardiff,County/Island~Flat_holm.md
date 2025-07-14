@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Flatholme|Flatholme]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Flatholme.public|Flatholme.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Flatholme.internal|Flatholme.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Flatholme.protect|Flatholme.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Flatholme.private|Flatholme.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Flatholme.personal|Flatholme.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Flatholme.secret|Flatholme.secret]] 
+
+### [Island~Flat_holm.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.public.md) 
+
+### [Island~Flat_holm.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.internal.md) 
+
+### [Island~Flat_holm.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.protect.md) 
+
+### [Island~Flat_holm.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.private.md) 
+
+### [Island~Flat_holm.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.personal.md) 
+
+### [Island~Flat_holm.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Cardiff,CountyIsland~Flat_holm.secret.md)
+

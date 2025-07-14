@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Reigate|Reigate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Reigate.public|Reigate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Reigate.internal|Reigate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Reigate.protect|Reigate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Reigate.private|Reigate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Reigate.personal|Reigate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Reigate.secret|Reigate.secret]] 
+
+### [Reigate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.public.md) 
+
+### [Reigate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.internal.md) 
+
+### [Reigate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.protect.md) 
+
+### [Reigate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.private.md) 
+
+### [Reigate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.personal.md) 
+
+### [Reigate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\ReigateandBanstead\cities~ReigateandBansteadReigate.secret.md)
+

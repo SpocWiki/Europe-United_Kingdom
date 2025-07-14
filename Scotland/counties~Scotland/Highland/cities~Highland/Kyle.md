@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Kyle|Kyle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Kyle.public|Kyle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Kyle.internal|Kyle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Kyle.protect|Kyle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Kyle.private|Kyle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Kyle.personal|Kyle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Kyle.secret|Kyle.secret]] 
+
+### [Kyle.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandKyle.public.md) 
+
+### [Kyle.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandKyle.internal.md) 
+
+### [Kyle.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandKyle.protect.md) 
+
+### [Kyle.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandKyle.private.md) 
+
+### [Kyle.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandKyle.personal.md) 
+
+### [Kyle.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandKyle.secret.md)
+

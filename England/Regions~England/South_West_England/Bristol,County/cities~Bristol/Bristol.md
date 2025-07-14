@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bristol|Bristol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bristol.public|Bristol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bristol.internal|Bristol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bristol.protect|Bristol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bristol.private|Bristol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bristol.personal|Bristol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bristol.secret|Bristol.secret]] 
+
+### [Bristol.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.public.md) 
+
+### [Bristol.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.internal.md) 
+
+### [Bristol.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.protect.md) 
+
+### [Bristol.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.private.md) 
+
+### [Bristol.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.personal.md) 
+
+### [Bristol.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bristol,County\cities~BristolBristol.secret.md)
+

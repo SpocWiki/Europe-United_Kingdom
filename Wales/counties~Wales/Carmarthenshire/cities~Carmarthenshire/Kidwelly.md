@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Kidwelly|Kidwelly]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.public|Kidwelly.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.internal|Kidwelly.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.protect|Kidwelly.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.private|Kidwelly.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.personal|Kidwelly.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Kidwelly.secret|Kidwelly.secret]] 
+
+### [Kidwelly.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.public.md) 
+
+### [Kidwelly.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.internal.md) 
+
+### [Kidwelly.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.protect.md) 
+
+### [Kidwelly.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.private.md) 
+
+### [Kidwelly.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.personal.md) 
+
+### [Kidwelly.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireKidwelly.secret.md)
+

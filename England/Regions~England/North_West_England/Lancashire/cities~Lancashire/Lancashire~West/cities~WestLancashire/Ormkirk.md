@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ormkirk|Ormkirk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.public|Ormkirk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.internal|Ormkirk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.protect|Ormkirk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.private|Ormkirk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.personal|Ormkirk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ormkirk.secret|Ormkirk.secret]] 
+
+### [Ormkirk.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.public.md) 
+
+### [Ormkirk.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.internal.md) 
+
+### [Ormkirk.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.protect.md) 
+
+### [Ormkirk.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.private.md) 
+
+### [Ormkirk.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.personal.md) 
+
+### [Ormkirk.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\cities~Lancashire\Lancashire~West\cities~WestLancashireOrmkirk.secret.md)
+

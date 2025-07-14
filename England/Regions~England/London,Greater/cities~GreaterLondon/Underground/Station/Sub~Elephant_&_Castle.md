@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Elephant_&_Castle|Sub~Elephant_&_Castle]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Elephant_&_Castle.public|Sub~Elephant_&_Castle.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Elephant_&_Castle.internal|Sub~Elephant_&_Castle.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Elephant_&_Castle.protect|Sub~Elephant_&_Castle.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Elephant_&_Castle.private|Sub~Elephant_&_Castle.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Elephant_&_Castle.personal|Sub~Elephant_&_Castle.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Elephant_&_Castle.secret|Sub~Elephant_&_Castle.secret]] 
+
+### [Sub~Elephant_&_Castle.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Elephant_&_Castle.public.md) 
+
+### [Sub~Elephant_&_Castle.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Elephant_&_Castle.internal.md) 
+
+### [Sub~Elephant_&_Castle.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Elephant_&_Castle.protect.md) 
+
+### [Sub~Elephant_&_Castle.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Elephant_&_Castle.private.md) 
+
+### [Sub~Elephant_&_Castle.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Elephant_&_Castle.personal.md) 
+
+### [Sub~Elephant_&_Castle.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Elephant_&_Castle.secret.md)
+

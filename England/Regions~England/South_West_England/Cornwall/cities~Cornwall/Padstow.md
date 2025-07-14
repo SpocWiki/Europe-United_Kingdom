@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Padstow|Padstow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Padstow.public|Padstow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Padstow.internal|Padstow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Padstow.protect|Padstow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Padstow.private|Padstow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Padstow.personal|Padstow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Padstow.secret|Padstow.secret]] 
+
+### [Padstow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPadstow.public.md) 
+
+### [Padstow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPadstow.internal.md) 
+
+### [Padstow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPadstow.protect.md) 
+
+### [Padstow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPadstow.private.md) 
+
+### [Padstow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPadstow.personal.md) 
+
+### [Padstow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallPadstow.secret.md)
+

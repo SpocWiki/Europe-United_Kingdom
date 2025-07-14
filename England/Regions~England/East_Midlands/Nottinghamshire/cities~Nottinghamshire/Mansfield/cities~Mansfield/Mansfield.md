@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Mansfield|Mansfield]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Mansfield.public|Mansfield.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Mansfield.internal|Mansfield.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Mansfield.protect|Mansfield.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Mansfield.private|Mansfield.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Mansfield.personal|Mansfield.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Mansfield.secret|Mansfield.secret]] 
+
+### [Mansfield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.public.md) 
+
+### [Mansfield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.internal.md) 
+
+### [Mansfield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.protect.md) 
+
+### [Mansfield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.private.md) 
+
+### [Mansfield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.personal.md) 
+
+### [Mansfield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Mansfield\cities~MansfieldMansfield.secret.md)
+

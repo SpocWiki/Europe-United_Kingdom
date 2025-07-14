@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Chichester|Chichester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Chichester.public|Chichester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Chichester.internal|Chichester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Chichester.protect|Chichester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Chichester.private|Chichester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Chichester.personal|Chichester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Chichester.secret|Chichester.secret]] 
+
+### [Chichester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.public.md) 
+
+### [Chichester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.internal.md) 
+
+### [Chichester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.protect.md) 
+
+### [Chichester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.private.md) 
+
+### [Chichester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.personal.md) 
+
+### [Chichester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterChichester.secret.md)
+

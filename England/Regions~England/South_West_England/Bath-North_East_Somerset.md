@@ -40,11 +40,16 @@ markerFolder: ./Bath_and_North_East_Somerset/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset|Bath_and_North_East_Somerset]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.public|Bath_and_North_East_Somerset.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.internal|Bath_and_North_East_Somerset.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.protect|Bath_and_North_East_Somerset.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.private|Bath_and_North_East_Somerset.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.personal|Bath_and_North_East_Somerset.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Bath_and_North_East_Somerset.secret|Bath_and_North_East_Somerset.secret]] 
+
+### [Bath-North_East_Somerset.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBath-North_East_Somerset.public.md) 
+
+### [Bath-North_East_Somerset.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBath-North_East_Somerset.internal.md) 
+
+### [Bath-North_East_Somerset.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBath-North_East_Somerset.protect.md) 
+
+### [Bath-North_East_Somerset.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBath-North_East_Somerset.private.md) 
+
+### [Bath-North_East_Somerset.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBath-North_East_Somerset.personal.md) 
+
+### [Bath-North_East_Somerset.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandBath-North_East_Somerset.secret.md)
 

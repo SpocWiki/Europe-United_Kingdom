@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Aberdeen|City~Aberdeen]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Aberdeen.internal|Aberdeen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Aberdeen.protect|Aberdeen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Aberdeen.private|Aberdeen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Aberdeen.personal|Aberdeen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Aberdeen.secret|Aberdeen.secret]] 
+
+### [City~Aberdeen.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.public.md) 
+
+### [City~Aberdeen.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.internal.md) 
+
+### [City~Aberdeen.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.protect.md) 
+
+### [City~Aberdeen.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.private.md) 
+
+### [City~Aberdeen.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.personal.md) 
+
+### [City~Aberdeen.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeen-CountyCity~Aberdeen.secret.md)
+

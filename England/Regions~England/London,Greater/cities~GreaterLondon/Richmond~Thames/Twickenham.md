@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Twickenham|Twickenham]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Twickenham.public|Twickenham.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Twickenham.internal|Twickenham.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Twickenham.protect|Twickenham.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Twickenham.private|Twickenham.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Twickenham.personal|Twickenham.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Twickenham.secret|Twickenham.secret]] 
+
+### [Twickenham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTwickenham.public.md) 
+
+### [Twickenham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTwickenham.internal.md) 
+
+### [Twickenham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTwickenham.protect.md) 
+
+### [Twickenham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTwickenham.private.md) 
+
+### [Twickenham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTwickenham.personal.md) 
+
+### [Twickenham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesTwickenham.secret.md)
+

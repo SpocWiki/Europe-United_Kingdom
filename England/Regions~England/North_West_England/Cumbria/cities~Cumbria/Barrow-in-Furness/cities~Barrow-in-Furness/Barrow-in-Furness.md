@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Barrow-in-Furness|Barrow-in-Furness]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Barrow-in-Furness.public|Barrow-in-Furness.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Barrow-in-Furness.internal|Barrow-in-Furness.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Barrow-in-Furness.protect|Barrow-in-Furness.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Barrow-in-Furness.private|Barrow-in-Furness.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Barrow-in-Furness.personal|Barrow-in-Furness.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Barrow-in-Furness.secret|Barrow-in-Furness.secret]] 
+
+### [Barrow-in-Furness.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.public.md) 
+
+### [Barrow-in-Furness.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.internal.md) 
+
+### [Barrow-in-Furness.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.protect.md) 
+
+### [Barrow-in-Furness.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.private.md) 
+
+### [Barrow-in-Furness.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.personal.md) 
+
+### [Barrow-in-Furness.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Barrow-in-Furness\cities~Barrow-in-FurnessBarrow-in-Furness.secret.md)
+

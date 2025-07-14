@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Torquay|Torquay]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Torquay.public|Torquay.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Torquay.internal|Torquay.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Torquay.protect|Torquay.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Torquay.private|Torquay.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Torquay.personal|Torquay.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Torquay.secret|Torquay.secret]] 
+
+### [Torquay.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CityTorquay.public.md) 
+
+### [Torquay.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CityTorquay.internal.md) 
+
+### [Torquay.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CityTorquay.protect.md) 
+
+### [Torquay.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CityTorquay.private.md) 
+
+### [Torquay.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CityTorquay.personal.md) 
+
+### [Torquay.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\CityTorquay.secret.md)
+

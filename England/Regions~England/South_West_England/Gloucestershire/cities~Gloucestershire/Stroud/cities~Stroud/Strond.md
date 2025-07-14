@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Strond|Strond]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Strond.public|Strond.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Strond.internal|Strond.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Strond.protect|Strond.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Strond.private|Strond.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Strond.personal|Strond.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Strond.secret|Strond.secret]] 
+
+### [Strond.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Stroud\cities~StroudStrond.public.md) 
+
+### [Strond.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Stroud\cities~StroudStrond.internal.md) 
+
+### [Strond.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Stroud\cities~StroudStrond.protect.md) 
+
+### [Strond.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Stroud\cities~StroudStrond.private.md) 
+
+### [Strond.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Stroud\cities~StroudStrond.personal.md) 
+
+### [Strond.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Stroud\cities~StroudStrond.secret.md)
+

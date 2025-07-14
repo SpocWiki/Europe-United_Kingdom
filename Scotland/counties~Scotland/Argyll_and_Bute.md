@@ -40,11 +40,16 @@ markerFolder: ./Argyll_and_Bute/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Argyll_and_Bute|Argyll_and_Bute]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Argyll_and_Bute.public|Argyll_and_Bute.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Argyll_and_Bute.internal|Argyll_and_Bute.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Argyll_and_Bute.protect|Argyll_and_Bute.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Argyll_and_Bute.private|Argyll_and_Bute.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Argyll_and_Bute.personal|Argyll_and_Bute.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Argyll_and_Bute.secret|Argyll_and_Bute.secret]] 
+
+### [Argyll_and_Bute.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.public.md) 
+
+### [Argyll_and_Bute.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.internal.md) 
+
+### [Argyll_and_Bute.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.protect.md) 
+
+### [Argyll_and_Bute.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.private.md) 
+
+### [Argyll_and_Bute.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.personal.md) 
+
+### [Argyll_and_Bute.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandArgyll_and_Bute.secret.md)
 

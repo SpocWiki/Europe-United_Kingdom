@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sherborne|Sherborne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sherborne.public|Sherborne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sherborne.internal|Sherborne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sherborne.protect|Sherborne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sherborne.private|Sherborne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sherborne.personal|Sherborne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sherborne.secret|Sherborne.secret]] 
+
+### [Sherborne.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.public.md) 
+
+### [Sherborne.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.internal.md) 
+
+### [Sherborne.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.protect.md) 
+
+### [Sherborne.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.private.md) 
+
+### [Sherborne.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.personal.md) 
+
+### [Sherborne.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetSherborne.secret.md)
+

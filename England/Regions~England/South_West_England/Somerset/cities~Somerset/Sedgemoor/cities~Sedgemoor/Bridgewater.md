@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bridgewater|Bridgewater]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.public|Bridgewater.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.internal|Bridgewater.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.protect|Bridgewater.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.private|Bridgewater.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.personal|Bridgewater.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bridgewater.secret|Bridgewater.secret]] 
+
+### [Bridgewater.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Sedgemoor\cities~SedgemoorBridgewater.public.md) 
+
+### [Bridgewater.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Sedgemoor\cities~SedgemoorBridgewater.internal.md) 
+
+### [Bridgewater.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Sedgemoor\cities~SedgemoorBridgewater.protect.md) 
+
+### [Bridgewater.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Sedgemoor\cities~SedgemoorBridgewater.private.md) 
+
+### [Bridgewater.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Sedgemoor\cities~SedgemoorBridgewater.personal.md) 
+
+### [Bridgewater.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Sedgemoor\cities~SedgemoorBridgewater.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Barrehead|Barrehead]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Barrehead.public|Barrehead.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Barrehead.internal|Barrehead.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Barrehead.protect|Barrehead.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Barrehead.private|Barrehead.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Barrehead.personal|Barrehead.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Barrehead.secret|Barrehead.secret]] 
+
+### [Barrehead.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.public.md) 
+
+### [Barrehead.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.internal.md) 
+
+### [Barrehead.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.protect.md) 
+
+### [Barrehead.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.private.md) 
+
+### [Barrehead.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.personal.md) 
+
+### [Barrehead.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire~East\cities~Renfrewshire~EastBarrehead.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool|West_Hartlepool]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.public|West_Hartlepool.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.internal|West_Hartlepool.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.protect|West_Hartlepool.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.private|West_Hartlepool.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.personal|West_Hartlepool.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/West_Hartlepool.secret|West_Hartlepool.secret]] 
+
+### [West_Hartlepool.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.public.md) 
+
+### [West_Hartlepool.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.internal.md) 
+
+### [West_Hartlepool.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.protect.md) 
+
+### [West_Hartlepool.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.private.md) 
+
+### [West_Hartlepool.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.personal.md) 
+
+### [West_Hartlepool.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\Hartlepool,Borough\cities~HartlepoolWest_Hartlepool.secret.md)
+

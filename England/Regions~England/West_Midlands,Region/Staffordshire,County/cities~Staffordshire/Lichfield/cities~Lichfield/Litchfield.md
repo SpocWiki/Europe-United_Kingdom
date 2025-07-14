@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Litchfield|Litchfield]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Litchfield.public|Litchfield.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Litchfield.internal|Litchfield.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Litchfield.protect|Litchfield.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Litchfield.private|Litchfield.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Litchfield.personal|Litchfield.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Litchfield.secret|Litchfield.secret]] 
+
+### [Litchfield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.public.md) 
+
+### [Litchfield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.internal.md) 
+
+### [Litchfield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.protect.md) 
+
+### [Litchfield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.private.md) 
+
+### [Litchfield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.personal.md) 
+
+### [Litchfield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Lichfield\cities~LichfieldLitchfield.secret.md)
+

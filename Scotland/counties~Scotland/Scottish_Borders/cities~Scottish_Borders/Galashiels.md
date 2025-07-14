@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Galashiels|Galashiels]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Galashiels.public|Galashiels.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Galashiels.internal|Galashiels.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Galashiels.protect|Galashiels.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Galashiels.private|Galashiels.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Galashiels.personal|Galashiels.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Galashiels.secret|Galashiels.secret]] 
+
+### [Galashiels.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.public.md) 
+
+### [Galashiels.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.internal.md) 
+
+### [Galashiels.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.protect.md) 
+
+### [Galashiels.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.private.md) 
+
+### [Galashiels.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.personal.md) 
+
+### [Galashiels.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersGalashiels.secret.md)
+

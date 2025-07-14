@@ -40,11 +40,16 @@ markerFolder: ./Southampton/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Southampton|Southampton]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Southampton.public|Southampton.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Southampton.internal|Southampton.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Southampton.protect|Southampton.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Southampton.private|Southampton.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Southampton.personal|Southampton.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Southampton.secret|Southampton.secret]] 
+
+### [Southampton,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSouthampton,County.public.md) 
+
+### [Southampton,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSouthampton,County.internal.md) 
+
+### [Southampton,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSouthampton,County.protect.md) 
+
+### [Southampton,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSouthampton,County.private.md) 
+
+### [Southampton,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSouthampton,County.personal.md) 
+
+### [Southampton,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSouthampton,County.secret.md)
 

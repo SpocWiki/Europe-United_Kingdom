@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Port_Patrick|Port_Patrick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Port_Patrick.public|Port_Patrick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Port_Patrick.internal|Port_Patrick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Port_Patrick.protect|Port_Patrick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Port_Patrick.private|Port_Patrick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Port_Patrick.personal|Port_Patrick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Port_Patrick.secret|Port_Patrick.secret]] 
+
+### [Port_Patrick.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.public.md) 
+
+### [Port_Patrick.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.internal.md) 
+
+### [Port_Patrick.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.protect.md) 
+
+### [Port_Patrick.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.private.md) 
+
+### [Port_Patrick.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.personal.md) 
+
+### [Port_Patrick.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_Galloway\cities~Dumfries_and_GallowayPort_Patrick.secret.md)
+

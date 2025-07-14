@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Andrews|St.Andrews]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Andrews.public|St.Andrews.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Andrews.internal|St.Andrews.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Andrews.protect|St.Andrews.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Andrews.private|St.Andrews.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Andrews.personal|St.Andrews.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Andrews.secret|St.Andrews.secret]] 
+
+### [St.Andrews.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeSt.Andrews.public.md) 
+
+### [St.Andrews.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeSt.Andrews.internal.md) 
+
+### [St.Andrews.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeSt.Andrews.protect.md) 
+
+### [St.Andrews.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeSt.Andrews.private.md) 
+
+### [St.Andrews.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeSt.Andrews.personal.md) 
+
+### [St.Andrews.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeSt.Andrews.secret.md)
+

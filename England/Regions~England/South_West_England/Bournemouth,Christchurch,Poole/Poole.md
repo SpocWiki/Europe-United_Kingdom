@@ -40,11 +40,16 @@ markerFolder: ./Poole/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Poole|Poole]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Poole.public|Poole.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Poole.internal|Poole.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Poole.protect|Poole.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Poole.private|Poole.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Poole.personal|Poole.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Poole.secret|Poole.secret]] 
+
+### [Poole.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PoolePoole.public.md) 
+
+### [Poole.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PoolePoole.internal.md) 
+
+### [Poole.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PoolePoole.protect.md) 
+
+### [Poole.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PoolePoole.private.md) 
+
+### [Poole.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PoolePoole.personal.md) 
+
+### [Poole.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PoolePoole.secret.md)
 

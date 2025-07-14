@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Leigh|Leigh]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Leigh.public|Leigh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Leigh.internal|Leigh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Leigh.protect|Leigh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Leigh.private|Leigh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Leigh.personal|Leigh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Leigh.secret|Leigh.secret]] 
+
+### [Leigh.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.public.md) 
+
+### [Leigh.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.internal.md) 
+
+### [Leigh.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.protect.md) 
+
+### [Leigh.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.private.md) 
+
+### [Leigh.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.personal.md) 
+
+### [Leigh.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\Wigan\cities~WiganLeigh.secret.md)
+

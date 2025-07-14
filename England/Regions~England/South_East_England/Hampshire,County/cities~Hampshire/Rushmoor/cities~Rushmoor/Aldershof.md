@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Aldershof|Aldershof]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Aldershof.public|Aldershof.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Aldershof.internal|Aldershof.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Aldershof.protect|Aldershof.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Aldershof.private|Aldershof.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Aldershof.personal|Aldershof.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Aldershof.secret|Aldershof.secret]] 
+
+### [Aldershof.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.public.md) 
+
+### [Aldershof.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.internal.md) 
+
+### [Aldershof.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.protect.md) 
+
+### [Aldershof.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.private.md) 
+
+### [Aldershof.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.personal.md) 
+
+### [Aldershof.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Rushmoor\cities~RushmoorAldershof.secret.md)
+

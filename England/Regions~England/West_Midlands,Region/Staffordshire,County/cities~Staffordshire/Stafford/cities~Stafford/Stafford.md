@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Stafford|Stafford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Stafford.public|Stafford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Stafford.internal|Stafford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Stafford.protect|Stafford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Stafford.private|Stafford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Stafford.personal|Stafford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Stafford.secret|Stafford.secret]] 
+
+### [Stafford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.public.md) 
+
+### [Stafford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.internal.md) 
+
+### [Stafford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.protect.md) 
+
+### [Stafford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.private.md) 
+
+### [Stafford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.personal.md) 
+
+### [Stafford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Stafford\cities~StaffordStafford.secret.md)
+

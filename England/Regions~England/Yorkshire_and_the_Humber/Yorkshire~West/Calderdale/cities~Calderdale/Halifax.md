@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Halifax|Halifax]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Halifax.public|Halifax.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Halifax.internal|Halifax.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Halifax.protect|Halifax.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Halifax.private|Halifax.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Halifax.personal|Halifax.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Halifax.secret|Halifax.secret]] 
+
+### [Halifax.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.public.md) 
+
+### [Halifax.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.internal.md) 
+
+### [Halifax.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.protect.md) 
+
+### [Halifax.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.private.md) 
+
+### [Halifax.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.personal.md) 
+
+### [Halifax.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Calderdale\cities~CalderdaleHalifax.secret.md)
+

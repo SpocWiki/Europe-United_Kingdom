@@ -40,11 +40,16 @@ markerFolder: ./Shropshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Shropshire|Shropshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Shropshire.public|Shropshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Shropshire.internal|Shropshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Shropshire.protect|Shropshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Shropshire.private|Shropshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Shropshire.personal|Shropshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Shropshire.secret|Shropshire.secret]] 
+
+### [Shropshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionShropshire.public.md) 
+
+### [Shropshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionShropshire.internal.md) 
+
+### [Shropshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionShropshire.protect.md) 
+
+### [Shropshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionShropshire.private.md) 
+
+### [Shropshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionShropshire.personal.md) 
+
+### [Shropshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionShropshire.secret.md)
 

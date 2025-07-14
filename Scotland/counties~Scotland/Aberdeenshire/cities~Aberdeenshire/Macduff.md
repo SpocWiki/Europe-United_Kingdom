@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Macduff|Macduff]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Macduff.public|Macduff.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Macduff.internal|Macduff.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Macduff.protect|Macduff.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Macduff.private|Macduff.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Macduff.personal|Macduff.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Macduff.secret|Macduff.secret]] 
+
+### [Macduff.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.public.md) 
+
+### [Macduff.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.internal.md) 
+
+### [Macduff.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.protect.md) 
+
+### [Macduff.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.private.md) 
+
+### [Macduff.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.personal.md) 
+
+### [Macduff.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireMacduff.secret.md)
+

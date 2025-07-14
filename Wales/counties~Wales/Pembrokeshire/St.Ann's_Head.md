@@ -36,10 +36,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Anne|St.Anne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Anne.public|St.Anne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Anne.internal|St.Anne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Anne.protect|St.Anne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Anne.private|St.Anne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Anne.personal|St.Anne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Anne.secret|St.Anne.secret]] 
+
+### [St.Ann's_Head.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.public.md) 
+
+### [St.Ann's_Head.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.internal.md) 
+
+### [St.Ann's_Head.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.protect.md) 
+
+### [St.Ann's_Head.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.private.md) 
+
+### [St.Ann's_Head.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.personal.md) 
+
+### [St.Ann's_Head.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\PembrokeshireSt.Ann's_Head.secret.md)
+

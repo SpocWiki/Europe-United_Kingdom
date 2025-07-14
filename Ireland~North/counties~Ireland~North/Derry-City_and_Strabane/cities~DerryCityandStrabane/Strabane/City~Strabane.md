@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Strabane|City~Strabane]]
-- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Strabane.internal|Strabane.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Strabane.protect|Strabane.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Strabane.private|Strabane.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Strabane.personal|Strabane.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Strabane.secret|Strabane.secret]] 
+
+### [City~Strabane.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\StrabaneCity~Strabane.public.md) 
+
+### [City~Strabane.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\StrabaneCity~Strabane.internal.md) 
+
+### [City~Strabane.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\StrabaneCity~Strabane.protect.md) 
+
+### [City~Strabane.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\StrabaneCity~Strabane.private.md) 
+
+### [City~Strabane.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\StrabaneCity~Strabane.personal.md) 
+
+### [City~Strabane.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Derry-City_and_Strabane\cities~DerryCityandStrabane\StrabaneCity~Strabane.secret.md)
+

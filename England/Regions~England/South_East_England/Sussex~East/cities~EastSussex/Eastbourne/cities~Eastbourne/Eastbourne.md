@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Eastbourne|Eastbourne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Eastbourne.public|Eastbourne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Eastbourne.internal|Eastbourne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Eastbourne.protect|Eastbourne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Eastbourne.private|Eastbourne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Eastbourne.personal|Eastbourne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Eastbourne.secret|Eastbourne.secret]] 
+
+### [Eastbourne.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.public.md) 
+
+### [Eastbourne.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.internal.md) 
+
+### [Eastbourne.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.protect.md) 
+
+### [Eastbourne.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.private.md) 
+
+### [Eastbourne.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.personal.md) 
+
+### [Eastbourne.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Eastbourne\cities~EastbourneEastbourne.secret.md)
+

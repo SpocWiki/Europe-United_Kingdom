@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Portadown|City~Portadown]]
-- [[/../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Portadown.internal|Portadown.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Portadown.protect|Portadown.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Portadown.private|Portadown.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Portadown.personal|Portadown.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Portadown.secret|Portadown.secret]] 
+
+### [City~Portadown.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Portadown.public.md) 
+
+### [City~Portadown.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Portadown.internal.md) 
+
+### [City~Portadown.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Portadown.protect.md) 
+
+### [City~Portadown.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Portadown.private.md) 
+
+### [City~Portadown.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Portadown.personal.md) 
+
+### [City~Portadown.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\CraigavonCity~Portadown.secret.md)
+

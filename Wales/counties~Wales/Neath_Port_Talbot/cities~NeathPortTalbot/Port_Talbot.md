@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Port_Talbot|Port_Talbot]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Port_Talbot.public|Port_Talbot.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Port_Talbot.internal|Port_Talbot.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Port_Talbot.protect|Port_Talbot.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Port_Talbot.private|Port_Talbot.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Port_Talbot.personal|Port_Talbot.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Port_Talbot.secret|Port_Talbot.secret]] 
+
+### [Port_Talbot.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.public.md) 
+
+### [Port_Talbot.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.internal.md) 
+
+### [Port_Talbot.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.protect.md) 
+
+### [Port_Talbot.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.private.md) 
+
+### [Port_Talbot.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.personal.md) 
+
+### [Port_Talbot.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Neath_Port_Talbot\cities~NeathPortTalbotPort_Talbot.secret.md)
+

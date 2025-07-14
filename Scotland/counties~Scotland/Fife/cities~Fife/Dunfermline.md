@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dunfermline|Dunfermline]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.public|Dunfermline.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.internal|Dunfermline.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.protect|Dunfermline.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.private|Dunfermline.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.personal|Dunfermline.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dunfermline.secret|Dunfermline.secret]] 
+
+### [Dunfermline.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.public.md) 
+
+### [Dunfermline.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.internal.md) 
+
+### [Dunfermline.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.protect.md) 
+
+### [Dunfermline.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.private.md) 
+
+### [Dunfermline.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.personal.md) 
+
+### [Dunfermline.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\cities~FifeDunfermline.secret.md)
+

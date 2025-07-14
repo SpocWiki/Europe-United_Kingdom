@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Pershore|Pershore]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Pershore.public|Pershore.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Pershore.internal|Pershore.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Pershore.protect|Pershore.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Pershore.private|Pershore.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Pershore.personal|Pershore.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Pershore.secret|Pershore.secret]] 
+
+### [Pershore.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.public.md) 
+
+### [Pershore.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.internal.md) 
+
+### [Pershore.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.protect.md) 
+
+### [Pershore.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.private.md) 
+
+### [Pershore.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.personal.md) 
+
+### [Pershore.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Worcestershire\cities~Worcestershire\Wychavon\cities~WychavonPershore.secret.md)
+

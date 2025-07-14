@@ -40,11 +40,16 @@ markerFolder: ./Thurrock/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Thurrock|Thurrock]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Thurrock.public|Thurrock.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Thurrock.internal|Thurrock.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Thurrock.protect|Thurrock.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Thurrock.private|Thurrock.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Thurrock.personal|Thurrock.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Thurrock.secret|Thurrock.secret]] 
+
+### [Thurrock.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.public.md) 
+
+### [Thurrock.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.internal.md) 
+
+### [Thurrock.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.protect.md) 
+
+### [Thurrock.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.private.md) 
+
+### [Thurrock.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.personal.md) 
+
+### [Thurrock.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandThurrock.secret.md)
 

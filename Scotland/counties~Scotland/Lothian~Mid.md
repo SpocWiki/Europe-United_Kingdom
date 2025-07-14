@@ -40,11 +40,16 @@ markerFolder: ./Lothian~Mid/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~Mid|Lothian~Mid]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~Mid.public|Lothian~Mid.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~Mid.internal|Lothian~Mid.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~Mid.protect|Lothian~Mid.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~Mid.private|Lothian~Mid.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~Mid.personal|Lothian~Mid.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Lothian~Mid.secret|Lothian~Mid.secret]] 
+
+### [Lothian~Mid.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~Mid.public.md) 
+
+### [Lothian~Mid.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~Mid.internal.md) 
+
+### [Lothian~Mid.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~Mid.protect.md) 
+
+### [Lothian~Mid.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~Mid.private.md) 
+
+### [Lothian~Mid.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~Mid.personal.md) 
+
+### [Lothian~Mid.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandLothian~Mid.secret.md)
 

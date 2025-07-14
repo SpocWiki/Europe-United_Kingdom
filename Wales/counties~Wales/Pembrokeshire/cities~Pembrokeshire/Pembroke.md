@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke|Pembroke]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.public|Pembroke.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.internal|Pembroke.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.protect|Pembroke.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.private|Pembroke.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.personal|Pembroke.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Pembroke.secret|Pembroke.secret]] 
+
+### [Pembroke.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshirePembroke.public.md) 
+
+### [Pembroke.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshirePembroke.internal.md) 
+
+### [Pembroke.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshirePembroke.protect.md) 
+
+### [Pembroke.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshirePembroke.private.md) 
+
+### [Pembroke.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshirePembroke.personal.md) 
+
+### [Pembroke.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Pembrokeshire\cities~PembrokeshirePembroke.secret.md)
+

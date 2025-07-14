@@ -40,11 +40,16 @@ markerFolder: ./Newry_and_Mourne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newry_and_Mourne|Newry_and_Mourne]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newry_and_Mourne.public|Newry_and_Mourne.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newry_and_Mourne.internal|Newry_and_Mourne.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newry_and_Mourne.protect|Newry_and_Mourne.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newry_and_Mourne.private|Newry_and_Mourne.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newry_and_Mourne.personal|Newry_and_Mourne.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newry_and_Mourne.secret|Newry_and_Mourne.secret]] 
+
+### [Newry_and_Mourne.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthNewry_and_Mourne.public.md) 
+
+### [Newry_and_Mourne.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthNewry_and_Mourne.internal.md) 
+
+### [Newry_and_Mourne.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthNewry_and_Mourne.protect.md) 
+
+### [Newry_and_Mourne.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthNewry_and_Mourne.private.md) 
+
+### [Newry_and_Mourne.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthNewry_and_Mourne.personal.md) 
+
+### [Newry_and_Mourne.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~NorthNewry_and_Mourne.secret.md)
 

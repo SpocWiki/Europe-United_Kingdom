@@ -120,12 +120,17 @@ FROM outgoing([[Line~Piccadilly]])
 ```
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Piccadilly|Line~Piccadilly]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Piccadilly.public|Line~Piccadilly.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Piccadilly.internal|Line~Piccadilly.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Piccadilly.protect|Line~Piccadilly.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Piccadilly.private|Line~Piccadilly.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Piccadilly.personal|Line~Piccadilly.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Piccadilly.secret|Line~Piccadilly.secret]] 
+
+### [Line~Piccadilly.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Piccadilly.public.md) 
+
+### [Line~Piccadilly.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Piccadilly.internal.md) 
+
+### [Line~Piccadilly.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Piccadilly.protect.md) 
+
+### [Line~Piccadilly.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Piccadilly.private.md) 
+
+### [Line~Piccadilly.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Piccadilly.personal.md) 
+
+### [Line~Piccadilly.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Piccadilly.secret.md)
+

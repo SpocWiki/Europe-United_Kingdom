@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Mornington_Crescent|Sub~Mornington_Crescent]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Mornington_Crescent.public|Sub~Mornington_Crescent.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Mornington_Crescent.internal|Sub~Mornington_Crescent.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Mornington_Crescent.protect|Sub~Mornington_Crescent.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Mornington_Crescent.private|Sub~Mornington_Crescent.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Mornington_Crescent.personal|Sub~Mornington_Crescent.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Mornington_Crescent.secret|Sub~Mornington_Crescent.secret]] 
+
+### [Sub~Mornington_Crescent.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Mornington_Crescent.public.md) 
+
+### [Sub~Mornington_Crescent.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Mornington_Crescent.internal.md) 
+
+### [Sub~Mornington_Crescent.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Mornington_Crescent.protect.md) 
+
+### [Sub~Mornington_Crescent.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Mornington_Crescent.private.md) 
+
+### [Sub~Mornington_Crescent.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Mornington_Crescent.personal.md) 
+
+### [Sub~Mornington_Crescent.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Mornington_Crescent.secret.md)
+

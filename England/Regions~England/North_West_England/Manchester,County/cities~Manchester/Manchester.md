@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Manchester|Manchester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Manchester.public|Manchester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Manchester.internal|Manchester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Manchester.protect|Manchester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Manchester.private|Manchester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Manchester.personal|Manchester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Manchester.secret|Manchester.secret]] 
+
+### [Manchester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.public.md) 
+
+### [Manchester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.internal.md) 
+
+### [Manchester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.protect.md) 
+
+### [Manchester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.private.md) 
+
+### [Manchester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.personal.md) 
+
+### [Manchester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Manchester,County\cities~ManchesterManchester.secret.md)
+

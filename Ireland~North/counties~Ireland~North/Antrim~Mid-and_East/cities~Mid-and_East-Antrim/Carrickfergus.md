@@ -40,11 +40,16 @@ markerFolder: ./Carrickfergus/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Carrickfergus|Carrickfergus]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Carrickfergus.public|Carrickfergus.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Carrickfergus.internal|Carrickfergus.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Carrickfergus.protect|Carrickfergus.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Carrickfergus.private|Carrickfergus.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Carrickfergus.personal|Carrickfergus.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Carrickfergus.secret|Carrickfergus.secret]] 
+
+### [Carrickfergus.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimCarrickfergus.public.md) 
+
+### [Carrickfergus.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimCarrickfergus.internal.md) 
+
+### [Carrickfergus.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimCarrickfergus.protect.md) 
+
+### [Carrickfergus.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimCarrickfergus.private.md) 
+
+### [Carrickfergus.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimCarrickfergus.personal.md) 
+
+### [Carrickfergus.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimCarrickfergus.secret.md)
 

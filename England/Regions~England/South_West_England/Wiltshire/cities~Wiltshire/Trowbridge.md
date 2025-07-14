@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Trowbridge|Trowbridge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.public|Trowbridge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.internal|Trowbridge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.protect|Trowbridge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.private|Trowbridge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.personal|Trowbridge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Trowbridge.secret|Trowbridge.secret]] 
+
+### [Trowbridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.public.md) 
+
+### [Trowbridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.internal.md) 
+
+### [Trowbridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.protect.md) 
+
+### [Trowbridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.private.md) 
+
+### [Trowbridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.personal.md) 
+
+### [Trowbridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireTrowbridge.secret.md)
+

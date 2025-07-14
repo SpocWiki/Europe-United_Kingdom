@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Winchelsea|Winchelsea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.public|Winchelsea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.internal|Winchelsea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.protect|Winchelsea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.private|Winchelsea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.personal|Winchelsea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Winchelsea.secret|Winchelsea.secret]] 
+
+### [Winchelsea.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.public.md) 
+
+### [Winchelsea.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.internal.md) 
+
+### [Winchelsea.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.protect.md) 
+
+### [Winchelsea.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.private.md) 
+
+### [Winchelsea.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.personal.md) 
+
+### [Winchelsea.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Rother\cities~RotherWinchelsea.secret.md)
+

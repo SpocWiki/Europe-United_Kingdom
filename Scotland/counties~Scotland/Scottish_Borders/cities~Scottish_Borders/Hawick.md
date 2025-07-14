@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hawick|Hawick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hawick.public|Hawick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hawick.internal|Hawick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hawick.protect|Hawick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hawick.private|Hawick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hawick.personal|Hawick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hawick.secret|Hawick.secret]] 
+
+### [Hawick.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersHawick.public.md) 
+
+### [Hawick.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersHawick.internal.md) 
+
+### [Hawick.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersHawick.protect.md) 
+
+### [Hawick.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersHawick.private.md) 
+
+### [Hawick.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersHawick.personal.md) 
+
+### [Hawick.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Scottish_Borders\cities~Scottish_BordersHawick.secret.md)
+

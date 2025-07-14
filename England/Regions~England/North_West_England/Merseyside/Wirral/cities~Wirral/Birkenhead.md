@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Birkenhead|Birkenhead]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.public|Birkenhead.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.internal|Birkenhead.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.protect|Birkenhead.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.private|Birkenhead.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.personal|Birkenhead.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Birkenhead.secret|Birkenhead.secret]] 
+
+### [Birkenhead.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.public.md) 
+
+### [Birkenhead.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.internal.md) 
+
+### [Birkenhead.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.protect.md) 
+
+### [Birkenhead.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.private.md) 
+
+### [Birkenhead.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.personal.md) 
+
+### [Birkenhead.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Merseyside\Wirral\cities~WirralBirkenhead.secret.md)
+

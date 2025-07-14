@@ -40,11 +40,16 @@ markerFolder: ./Hertfordshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Hertfordshire|Hertfordshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Hertfordshire.public|Hertfordshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Hertfordshire.internal|Hertfordshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Hertfordshire.protect|Hertfordshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Hertfordshire.private|Hertfordshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Hertfordshire.personal|Hertfordshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Hertfordshire.secret|Hertfordshire.secret]] 
+
+### [Hertfordshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.public.md) 
+
+### [Hertfordshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.internal.md) 
+
+### [Hertfordshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.protect.md) 
+
+### [Hertfordshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.private.md) 
+
+### [Hertfordshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.personal.md) 
+
+### [Hertfordshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandHertfordshire.secret.md)
 

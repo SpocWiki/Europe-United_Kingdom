@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Asaph|St.Asaph]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.public|St.Asaph.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.internal|St.Asaph.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.protect|St.Asaph.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.private|St.Asaph.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.personal|St.Asaph.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Asaph.secret|St.Asaph.secret]] 
+
+### [St.Asaph.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.public.md) 
+
+### [St.Asaph.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.internal.md) 
+
+### [St.Asaph.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.protect.md) 
+
+### [St.Asaph.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.private.md) 
+
+### [St.Asaph.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.personal.md) 
+
+### [St.Asaph.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Denbighshire\cities~DenbighshireSt.Asaph.secret.md)
+

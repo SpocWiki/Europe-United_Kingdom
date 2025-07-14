@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tuddington|Tuddington]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tuddington.public|Tuddington.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tuddington.internal|Tuddington.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tuddington.protect|Tuddington.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tuddington.private|Tuddington.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tuddington.personal|Tuddington.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tuddington.secret|Tuddington.secret]] 
+
+### [Tuddington.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.public.md) 
+
+### [Tuddington.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.internal.md) 
+
+### [Tuddington.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.protect.md) 
+
+### [Tuddington.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.private.md) 
+
+### [Tuddington.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.personal.md) 
+
+### [Tuddington.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Central_Bedfordshire\cities~Central_BedfordshireTuddington.secret.md)
+

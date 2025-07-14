@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Ludlow|Ludlow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Ludlow.public|Ludlow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Ludlow.internal|Ludlow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Ludlow.protect|Ludlow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Ludlow.private|Ludlow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Ludlow.personal|Ludlow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Ludlow.secret|Ludlow.secret]] 
+
+### [Ludlow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.public.md) 
+
+### [Ludlow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.internal.md) 
+
+### [Ludlow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.protect.md) 
+
+### [Ludlow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.private.md) 
+
+### [Ludlow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.personal.md) 
+
+### [Ludlow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireLudlow.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Enniskilien|Enniskilien]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.public|Enniskilien.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.internal|Enniskilien.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.protect|Enniskilien.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.private|Enniskilien.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.personal|Enniskilien.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Enniskilien.secret|Enniskilien.secret]] 
+
+### [Enniskilien.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\Armagh\cities~ArmaghEnniskilien.public.md) 
+
+### [Enniskilien.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\Armagh\cities~ArmaghEnniskilien.internal.md) 
+
+### [Enniskilien.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\Armagh\cities~ArmaghEnniskilien.protect.md) 
+
+### [Enniskilien.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\Armagh\cities~ArmaghEnniskilien.private.md) 
+
+### [Enniskilien.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\Armagh\cities~ArmaghEnniskilien.personal.md) 
+
+### [Enniskilien.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Armagh-City,Banbridge_and_Craig\cities~Armagh-City,Banbridge_and_Craig\Armagh\cities~ArmaghEnniskilien.secret.md)
+

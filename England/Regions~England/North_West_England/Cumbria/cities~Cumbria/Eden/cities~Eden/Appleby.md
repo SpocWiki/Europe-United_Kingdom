@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Appleby|Appleby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Appleby.public|Appleby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Appleby.internal|Appleby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Appleby.protect|Appleby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Appleby.private|Appleby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Appleby.personal|Appleby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Appleby.secret|Appleby.secret]] 
+
+### [Appleby.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.public.md) 
+
+### [Appleby.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.internal.md) 
+
+### [Appleby.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.protect.md) 
+
+### [Appleby.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.private.md) 
+
+### [Appleby.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.personal.md) 
+
+### [Appleby.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Eden\cities~EdenAppleby.secret.md)
+

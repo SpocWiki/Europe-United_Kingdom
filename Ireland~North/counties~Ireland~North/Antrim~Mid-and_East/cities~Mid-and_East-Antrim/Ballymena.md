@@ -40,11 +40,16 @@ markerFolder: ./Ballymena/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena|Ballymena]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.public|Ballymena.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.internal|Ballymena.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.protect|Ballymena.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.private|Ballymena.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.personal|Ballymena.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ballymena.secret|Ballymena.secret]] 
+
+### [Ballymena.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimBallymena.public.md) 
+
+### [Ballymena.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimBallymena.internal.md) 
+
+### [Ballymena.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimBallymena.protect.md) 
+
+### [Ballymena.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimBallymena.private.md) 
+
+### [Ballymena.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimBallymena.personal.md) 
+
+### [Ballymena.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-AntrimBallymena.secret.md)
 

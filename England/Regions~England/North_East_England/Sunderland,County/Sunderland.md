@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sunderland|Sunderland]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sunderland.public|Sunderland.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sunderland.internal|Sunderland.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sunderland.protect|Sunderland.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sunderland.private|Sunderland.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sunderland.personal|Sunderland.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sunderland.secret|Sunderland.secret]] 
+
+### [Sunderland.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.public.md) 
+
+### [Sunderland.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.internal.md) 
+
+### [Sunderland.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.protect.md) 
+
+### [Sunderland.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.private.md) 
+
+### [Sunderland.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.personal.md) 
+
+### [Sunderland.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Sunderland,CountySunderland.secret.md)
+

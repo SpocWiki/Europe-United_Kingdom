@@ -40,11 +40,16 @@ markerFolder: ./Hampshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Hampshire|Hampshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Hampshire.public|Hampshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Hampshire.internal|Hampshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Hampshire.protect|Hampshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Hampshire.private|Hampshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Hampshire.personal|Hampshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Hampshire.secret|Hampshire.secret]] 
+
+### [Hampshire,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandHampshire,County.public.md) 
+
+### [Hampshire,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandHampshire,County.internal.md) 
+
+### [Hampshire,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandHampshire,County.protect.md) 
+
+### [Hampshire,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandHampshire,County.private.md) 
+
+### [Hampshire,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandHampshire,County.personal.md) 
+
+### [Hampshire,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandHampshire,County.secret.md)
 

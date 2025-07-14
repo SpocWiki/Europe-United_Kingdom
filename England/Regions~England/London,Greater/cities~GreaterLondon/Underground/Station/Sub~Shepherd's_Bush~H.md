@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H)|Sub~Shepherd's_Bush_(H)]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).public|Sub~Shepherd's_Bush_(H).public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).internal|Sub~Shepherd's_Bush_(H).internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).protect|Sub~Shepherd's_Bush_(H).protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).private|Sub~Shepherd's_Bush_(H).private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).personal|Sub~Shepherd's_Bush_(H).personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Shepherd's_Bush_(H).secret|Sub~Shepherd's_Bush_(H).secret]] 
+
+### [Sub~Shepherd's_Bush~H.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Shepherd's_Bush~H.public.md) 
+
+### [Sub~Shepherd's_Bush~H.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Shepherd's_Bush~H.internal.md) 
+
+### [Sub~Shepherd's_Bush~H.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Shepherd's_Bush~H.protect.md) 
+
+### [Sub~Shepherd's_Bush~H.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Shepherd's_Bush~H.private.md) 
+
+### [Sub~Shepherd's_Bush~H.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Shepherd's_Bush~H.personal.md) 
+
+### [Sub~Shepherd's_Bush~H.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Shepherd's_Bush~H.secret.md)
+

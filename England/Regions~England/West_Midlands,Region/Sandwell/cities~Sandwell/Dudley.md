@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dudley|Dudley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dudley.public|Dudley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dudley.internal|Dudley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dudley.protect|Dudley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dudley.private|Dudley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dudley.personal|Dudley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dudley.secret|Dudley.secret]] 
+
+### [Dudley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.public.md) 
+
+### [Dudley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.internal.md) 
+
+### [Dudley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.protect.md) 
+
+### [Dudley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.private.md) 
+
+### [Dudley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.personal.md) 
+
+### [Dudley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellDudley.secret.md)
+

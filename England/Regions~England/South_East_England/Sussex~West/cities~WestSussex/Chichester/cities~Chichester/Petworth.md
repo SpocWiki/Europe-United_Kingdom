@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Petworth|Petworth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Petworth.public|Petworth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Petworth.internal|Petworth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Petworth.protect|Petworth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Petworth.private|Petworth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Petworth.personal|Petworth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Petworth.secret|Petworth.secret]] 
+
+### [Petworth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.public.md) 
+
+### [Petworth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.internal.md) 
+
+### [Petworth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.protect.md) 
+
+### [Petworth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.private.md) 
+
+### [Petworth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.personal.md) 
+
+### [Petworth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~West\cities~WestSussex\Chichester\cities~ChichesterPetworth.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Huntley|Huntley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Huntley.public|Huntley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Huntley.internal|Huntley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Huntley.protect|Huntley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Huntley.private|Huntley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Huntley.personal|Huntley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Huntley.secret|Huntley.secret]] 
+
+### [Huntley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.public.md) 
+
+### [Huntley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.internal.md) 
+
+### [Huntley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.protect.md) 
+
+### [Huntley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.private.md) 
+
+### [Huntley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.personal.md) 
+
+### [Huntley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireHuntley.secret.md)
+

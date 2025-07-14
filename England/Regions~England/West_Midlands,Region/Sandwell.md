@@ -63,13 +63,17 @@ markerFolder: ./Sandwell/
 > [Wikipedia](https://en.wikipedia.org/wiki/Sandwell)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Sandwell|Sandwell]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Sandwell.public|Sandwell.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Sandwell.internal|Sandwell.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Sandwell.protect|Sandwell.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Sandwell.private|Sandwell.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Sandwell.personal|Sandwell.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Sandwell.secret|Sandwell.secret]] 
+
+### [Sandwell.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.public.md) 
+
+### [Sandwell.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.internal.md) 
+
+### [Sandwell.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.protect.md) 
+
+### [Sandwell.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.private.md) 
+
+### [Sandwell.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.personal.md) 
+
+### [Sandwell.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionSandwell.secret.md)
 

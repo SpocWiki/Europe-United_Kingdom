@@ -40,11 +40,16 @@ markerFolder: ./Isle_of_Wight/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Isle_of_Wight|Isle_of_Wight]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Isle_of_Wight.public|Isle_of_Wight.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Isle_of_Wight.internal|Isle_of_Wight.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Isle_of_Wight.protect|Isle_of_Wight.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Isle_of_Wight.private|Isle_of_Wight.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Isle_of_Wight.personal|Isle_of_Wight.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Isle_of_Wight.secret|Isle_of_Wight.secret]] 
+
+### [Isle_of_Wight.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandIsle_of_Wight.public.md) 
+
+### [Isle_of_Wight.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandIsle_of_Wight.internal.md) 
+
+### [Isle_of_Wight.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandIsle_of_Wight.protect.md) 
+
+### [Isle_of_Wight.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandIsle_of_Wight.private.md) 
+
+### [Isle_of_Wight.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandIsle_of_Wight.personal.md) 
+
+### [Isle_of_Wight.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandIsle_of_Wight.secret.md)
 

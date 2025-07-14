@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Glamis|Glamis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Glamis.public|Glamis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Glamis.internal|Glamis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Glamis.protect|Glamis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Glamis.private|Glamis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Glamis.personal|Glamis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Glamis.secret|Glamis.secret]] 
+
+### [Glamis.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusGlamis.public.md) 
+
+### [Glamis.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusGlamis.internal.md) 
+
+### [Glamis.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusGlamis.protect.md) 
+
+### [Glamis.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusGlamis.private.md) 
+
+### [Glamis.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusGlamis.personal.md) 
+
+### [Glamis.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Angus\cities~AngusGlamis.secret.md)
+

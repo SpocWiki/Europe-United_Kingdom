@@ -11,3 +11,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [West_Midlands,Region.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandWest_Midlands,Region.public.md) 
+
+### [West_Midlands,Region.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandWest_Midlands,Region.internal.md) 
+
+### [West_Midlands,Region.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandWest_Midlands,Region.protect.md) 
+
+### [West_Midlands,Region.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandWest_Midlands,Region.private.md) 
+
+### [West_Midlands,Region.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandWest_Midlands,Region.personal.md) 
+
+### [West_Midlands,Region.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandWest_Midlands,Region.secret.md)
+

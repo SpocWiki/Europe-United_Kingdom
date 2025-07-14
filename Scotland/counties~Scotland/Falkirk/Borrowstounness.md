@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Borrowstounness|Borrowstounness]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Borrowstounness.public|Borrowstounness.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Borrowstounness.internal|Borrowstounness.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Borrowstounness.protect|Borrowstounness.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Borrowstounness.private|Borrowstounness.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Borrowstounness.personal|Borrowstounness.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Borrowstounness.secret|Borrowstounness.secret]] 
+
+### [Borrowstounness.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FalkirkBorrowstounness.public.md) 
+
+### [Borrowstounness.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FalkirkBorrowstounness.internal.md) 
+
+### [Borrowstounness.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FalkirkBorrowstounness.protect.md) 
+
+### [Borrowstounness.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FalkirkBorrowstounness.private.md) 
+
+### [Borrowstounness.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FalkirkBorrowstounness.personal.md) 
+
+### [Borrowstounness.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\FalkirkBorrowstounness.secret.md)
+

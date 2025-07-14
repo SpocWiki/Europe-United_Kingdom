@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Exeter|Exeter]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Exeter.public|Exeter.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Exeter.internal|Exeter.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Exeter.protect|Exeter.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Exeter.private|Exeter.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Exeter.personal|Exeter.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Exeter.secret|Exeter.secret]] 
+
+### [Exeter.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.public.md) 
+
+### [Exeter.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.internal.md) 
+
+### [Exeter.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.protect.md) 
+
+### [Exeter.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.private.md) 
+
+### [Exeter.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.personal.md) 
+
+### [Exeter.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Exeter\cities~ExeterExeter.secret.md)
+

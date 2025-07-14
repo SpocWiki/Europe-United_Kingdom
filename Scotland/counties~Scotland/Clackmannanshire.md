@@ -40,11 +40,16 @@ markerFolder: ./Clackmannanshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Clackmannanshire|Clackmannanshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Clackmannanshire.public|Clackmannanshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Clackmannanshire.internal|Clackmannanshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Clackmannanshire.protect|Clackmannanshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Clackmannanshire.private|Clackmannanshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Clackmannanshire.personal|Clackmannanshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Clackmannanshire.secret|Clackmannanshire.secret]] 
+
+### [Clackmannanshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandClackmannanshire.public.md) 
+
+### [Clackmannanshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandClackmannanshire.internal.md) 
+
+### [Clackmannanshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandClackmannanshire.protect.md) 
+
+### [Clackmannanshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandClackmannanshire.private.md) 
+
+### [Clackmannanshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandClackmannanshire.personal.md) 
+
+### [Clackmannanshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandClackmannanshire.secret.md)
 

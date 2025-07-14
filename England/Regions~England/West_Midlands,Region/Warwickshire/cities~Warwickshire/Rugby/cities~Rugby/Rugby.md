@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Rugby|Rugby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Rugby.public|Rugby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Rugby.internal|Rugby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Rugby.protect|Rugby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Rugby.private|Rugby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Rugby.personal|Rugby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Rugby.secret|Rugby.secret]] 
+
+### [Rugby.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.public.md) 
+
+### [Rugby.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.internal.md) 
+
+### [Rugby.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.protect.md) 
+
+### [Rugby.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.private.md) 
+
+### [Rugby.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.personal.md) 
+
+### [Rugby.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Warwickshire\cities~Warwickshire\Rugby\cities~RugbyRugby.secret.md)
+

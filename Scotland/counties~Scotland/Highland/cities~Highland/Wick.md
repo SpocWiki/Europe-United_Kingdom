@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wick|Wick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wick.public|Wick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wick.internal|Wick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wick.protect|Wick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wick.private|Wick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wick.personal|Wick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wick.secret|Wick.secret]] 
+
+### [Wick.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandWick.public.md) 
+
+### [Wick.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandWick.internal.md) 
+
+### [Wick.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandWick.protect.md) 
+
+### [Wick.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandWick.private.md) 
+
+### [Wick.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandWick.personal.md) 
+
+### [Wick.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Highland\cities~HighlandWick.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Gloucester|Gloucester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Gloucester.public|Gloucester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Gloucester.internal|Gloucester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Gloucester.protect|Gloucester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Gloucester.private|Gloucester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Gloucester.personal|Gloucester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Gloucester.secret|Gloucester.secret]] 
+
+### [Gloucester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.public.md) 
+
+### [Gloucester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.internal.md) 
+
+### [Gloucester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.protect.md) 
+
+### [Gloucester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.private.md) 
+
+### [Gloucester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.personal.md) 
+
+### [Gloucester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Gloucestershire\cities~Gloucestershire\Gloucester\cities~GloucesterGloucester.secret.md)
+

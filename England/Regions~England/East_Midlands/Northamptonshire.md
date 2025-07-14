@@ -40,11 +40,16 @@ markerFolder: ./Northamptonshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Northamptonshire|Northamptonshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Northamptonshire.public|Northamptonshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Northamptonshire.internal|Northamptonshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Northamptonshire.protect|Northamptonshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Northamptonshire.private|Northamptonshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Northamptonshire.personal|Northamptonshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Northamptonshire.secret|Northamptonshire.secret]] 
+
+### [Northamptonshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.public.md) 
+
+### [Northamptonshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.internal.md) 
+
+### [Northamptonshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.protect.md) 
+
+### [Northamptonshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.private.md) 
+
+### [Northamptonshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.personal.md) 
+
+### [Northamptonshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsNorthamptonshire.secret.md)
 

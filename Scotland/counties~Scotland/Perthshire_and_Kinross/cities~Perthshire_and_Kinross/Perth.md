@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Perth|Perth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Perth.public|Perth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Perth.internal|Perth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Perth.protect|Perth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Perth.private|Perth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Perth.personal|Perth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Perth.secret|Perth.secret]] 
+
+### [Perth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.public.md) 
+
+### [Perth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.internal.md) 
+
+### [Perth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.protect.md) 
+
+### [Perth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.private.md) 
+
+### [Perth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.personal.md) 
+
+### [Perth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Perthshire_and_Kinross\cities~Perthshire_and_KinrossPerth.secret.md)
+

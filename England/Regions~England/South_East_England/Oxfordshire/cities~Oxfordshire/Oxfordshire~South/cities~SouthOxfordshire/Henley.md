@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Henley|Henley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Henley.public|Henley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Henley.internal|Henley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Henley.protect|Henley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Henley.private|Henley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Henley.personal|Henley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Henley.secret|Henley.secret]] 
+
+### [Henley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.public.md) 
+
+### [Henley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.internal.md) 
+
+### [Henley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.protect.md) 
+
+### [Henley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.private.md) 
+
+### [Henley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.personal.md) 
+
+### [Henley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireHenley.secret.md)
+

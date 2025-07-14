@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/Ireland/City/Coleraine|Coleraine]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/Ireland/City/Coleraine.public|Coleraine.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/Ireland/City/Coleraine.internal|Coleraine.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/Ireland/City/Coleraine.protect|Coleraine.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/Ireland/City/Coleraine.private|Coleraine.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/Ireland/City/Coleraine.personal|Coleraine.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/Ireland/City/Coleraine.secret|Coleraine.secret]] 
+
+### [Coleraine.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Causeway-Coast_and_Glens\cities~CausewayCoastandGlens\Coleraine\cities~ColeraineColeraine.public.md) 
+
+### [Coleraine.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Causeway-Coast_and_Glens\cities~CausewayCoastandGlens\Coleraine\cities~ColeraineColeraine.internal.md) 
+
+### [Coleraine.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Causeway-Coast_and_Glens\cities~CausewayCoastandGlens\Coleraine\cities~ColeraineColeraine.protect.md) 
+
+### [Coleraine.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Causeway-Coast_and_Glens\cities~CausewayCoastandGlens\Coleraine\cities~ColeraineColeraine.private.md) 
+
+### [Coleraine.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Causeway-Coast_and_Glens\cities~CausewayCoastandGlens\Coleraine\cities~ColeraineColeraine.personal.md) 
+
+### [Coleraine.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Causeway-Coast_and_Glens\cities~CausewayCoastandGlens\Coleraine\cities~ColeraineColeraine.secret.md)
+

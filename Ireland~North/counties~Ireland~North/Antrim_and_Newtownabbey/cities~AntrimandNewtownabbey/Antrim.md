@@ -40,11 +40,16 @@ markerFolder: ./Antrim/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim|Antrim]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.public|Antrim.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.internal|Antrim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.protect|Antrim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.private|Antrim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.personal|Antrim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Antrim.secret|Antrim.secret]] 
+
+### [Antrim.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyAntrim.public.md) 
+
+### [Antrim.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyAntrim.internal.md) 
+
+### [Antrim.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyAntrim.protect.md) 
+
+### [Antrim.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyAntrim.private.md) 
+
+### [Antrim.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyAntrim.personal.md) 
+
+### [Antrim.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyAntrim.secret.md)
 

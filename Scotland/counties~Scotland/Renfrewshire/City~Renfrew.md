@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Renfrew|City~Renfrew]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Renfrew.internal|Renfrew.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Renfrew.protect|Renfrew.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Renfrew.private|Renfrew.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Renfrew.personal|Renfrew.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Renfrew.secret|Renfrew.secret]] 
+
+### [City~Renfrew.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.public.md) 
+
+### [City~Renfrew.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.internal.md) 
+
+### [City~Renfrew.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.protect.md) 
+
+### [City~Renfrew.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.private.md) 
+
+### [City~Renfrew.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.personal.md) 
+
+### [City~Renfrew.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\RenfrewshireCity~Renfrew.secret.md)
+

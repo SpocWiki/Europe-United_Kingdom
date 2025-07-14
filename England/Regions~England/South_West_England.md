@@ -17,3 +17,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [South_West_England.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.public.md) 
+
+### [South_West_England.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.internal.md) 
+
+### [South_West_England.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.protect.md) 
+
+### [South_West_England.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.private.md) 
+
+### [South_West_England.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.personal.md) 
+
+### [South_West_England.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandSouth_West_England.secret.md)
+

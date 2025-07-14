@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bathgate|Bathgate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bathgate.public|Bathgate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bathgate.internal|Bathgate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bathgate.protect|Bathgate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bathgate.private|Bathgate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bathgate.personal|Bathgate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bathgate.secret|Bathgate.secret]] 
+
+### [Bathgate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.public.md) 
+
+### [Bathgate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.internal.md) 
+
+### [Bathgate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.protect.md) 
+
+### [Bathgate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.private.md) 
+
+### [Bathgate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.personal.md) 
+
+### [Bathgate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestBathgate.secret.md)
+

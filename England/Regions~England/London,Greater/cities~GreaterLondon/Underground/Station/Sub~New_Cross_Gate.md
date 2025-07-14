@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~New_Cross_Gate|Sub~New_Cross_Gate]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~New_Cross_Gate.public|Sub~New_Cross_Gate.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~New_Cross_Gate.internal|Sub~New_Cross_Gate.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~New_Cross_Gate.protect|Sub~New_Cross_Gate.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~New_Cross_Gate.private|Sub~New_Cross_Gate.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~New_Cross_Gate.personal|Sub~New_Cross_Gate.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~New_Cross_Gate.secret|Sub~New_Cross_Gate.secret]] 
+
+### [Sub~New_Cross_Gate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~New_Cross_Gate.public.md) 
+
+### [Sub~New_Cross_Gate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~New_Cross_Gate.internal.md) 
+
+### [Sub~New_Cross_Gate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~New_Cross_Gate.protect.md) 
+
+### [Sub~New_Cross_Gate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~New_Cross_Gate.private.md) 
+
+### [Sub~New_Cross_Gate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~New_Cross_Gate.personal.md) 
+
+### [Sub~New_Cross_Gate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~New_Cross_Gate.secret.md)
+

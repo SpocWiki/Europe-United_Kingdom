@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Worksop|Worksop]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Worksop.public|Worksop.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Worksop.internal|Worksop.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Worksop.protect|Worksop.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Worksop.private|Worksop.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Worksop.personal|Worksop.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Worksop.secret|Worksop.secret]] 
+
+### [Worksop.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Bassetlaw\cities~BassetlawWorksop.public.md) 
+
+### [Worksop.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Bassetlaw\cities~BassetlawWorksop.internal.md) 
+
+### [Worksop.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Bassetlaw\cities~BassetlawWorksop.protect.md) 
+
+### [Worksop.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Bassetlaw\cities~BassetlawWorksop.private.md) 
+
+### [Worksop.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Bassetlaw\cities~BassetlawWorksop.personal.md) 
+
+### [Worksop.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottinghamshire\cities~Nottinghamshire\Bassetlaw\cities~BassetlawWorksop.secret.md)
+

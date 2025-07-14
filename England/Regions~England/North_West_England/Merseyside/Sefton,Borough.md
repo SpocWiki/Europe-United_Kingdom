@@ -48,13 +48,17 @@ markerFolder: ./Sefton/
 > [Wikipedia](https://en.wikipedia.org/wiki/Metropolitan%20Borough%20of%20Sefton)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Sefton|Sefton]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Sefton.public|Sefton.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Sefton.internal|Sefton.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Sefton.protect|Sefton.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Sefton.private|Sefton.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Sefton.personal|Sefton.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Sefton.secret|Sefton.secret]] 
+
+### [Sefton,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.public.md) 
+
+### [Sefton,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.internal.md) 
+
+### [Sefton,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.protect.md) 
+
+### [Sefton,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.private.md) 
+
+### [Sefton,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.personal.md) 
+
+### [Sefton,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\MerseysideSefton,Borough.secret.md)
 

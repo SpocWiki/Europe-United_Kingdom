@@ -40,11 +40,16 @@ markerFolder: ./Blaenau_Gwent/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent|Blaenau_Gwent]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.public|Blaenau_Gwent.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.internal|Blaenau_Gwent.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.protect|Blaenau_Gwent.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.private|Blaenau_Gwent.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.personal|Blaenau_Gwent.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Blaenau_Gwent.secret|Blaenau_Gwent.secret]] 
+
+### [Blaenau_Gwent.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBlaenau_Gwent.public.md) 
+
+### [Blaenau_Gwent.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBlaenau_Gwent.internal.md) 
+
+### [Blaenau_Gwent.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBlaenau_Gwent.protect.md) 
+
+### [Blaenau_Gwent.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBlaenau_Gwent.private.md) 
+
+### [Blaenau_Gwent.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBlaenau_Gwent.personal.md) 
+
+### [Blaenau_Gwent.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesBlaenau_Gwent.secret.md)
 

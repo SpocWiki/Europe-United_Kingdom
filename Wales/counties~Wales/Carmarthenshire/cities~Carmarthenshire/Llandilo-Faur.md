@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Llandilo-Faur|Llandilo-Faur]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Llandilo-Faur.public|Llandilo-Faur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Llandilo-Faur.internal|Llandilo-Faur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Llandilo-Faur.protect|Llandilo-Faur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Llandilo-Faur.private|Llandilo-Faur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Llandilo-Faur.personal|Llandilo-Faur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Llandilo-Faur.secret|Llandilo-Faur.secret]] 
+
+### [Llandilo-Faur.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.public.md) 
+
+### [Llandilo-Faur.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.internal.md) 
+
+### [Llandilo-Faur.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.protect.md) 
+
+### [Llandilo-Faur.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.private.md) 
+
+### [Llandilo-Faur.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.personal.md) 
+
+### [Llandilo-Faur.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireLlandilo-Faur.secret.md)
+

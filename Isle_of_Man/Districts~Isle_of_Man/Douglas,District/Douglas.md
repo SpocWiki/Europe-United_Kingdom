@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Douglas|Douglas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Douglas.public|Douglas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Douglas.internal|Douglas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Douglas.protect|Douglas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Douglas.private|Douglas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Douglas.personal|Douglas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Douglas.secret|Douglas.secret]] 
+
+### [Douglas.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Isle_of_Man\Districts~Isle_of_Man\Douglas,DistrictDouglas.public.md) 
+
+### [Douglas.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Isle_of_Man\Districts~Isle_of_Man\Douglas,DistrictDouglas.internal.md) 
+
+### [Douglas.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Isle_of_Man\Districts~Isle_of_Man\Douglas,DistrictDouglas.protect.md) 
+
+### [Douglas.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Isle_of_Man\Districts~Isle_of_Man\Douglas,DistrictDouglas.private.md) 
+
+### [Douglas.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Isle_of_Man\Districts~Isle_of_Man\Douglas,DistrictDouglas.personal.md) 
+
+### [Douglas.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Isle_of_Man\Districts~Isle_of_Man\Douglas,DistrictDouglas.secret.md)
+

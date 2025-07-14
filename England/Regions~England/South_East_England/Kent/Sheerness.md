@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sheerness|Sheerness]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sheerness.public|Sheerness.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sheerness.internal|Sheerness.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sheerness.protect|Sheerness.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sheerness.private|Sheerness.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sheerness.personal|Sheerness.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sheerness.secret|Sheerness.secret]] 
+
+### [Sheerness.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.public.md) 
+
+### [Sheerness.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.internal.md) 
+
+### [Sheerness.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.protect.md) 
+
+### [Sheerness.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.private.md) 
+
+### [Sheerness.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.personal.md) 
+
+### [Sheerness.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\KentSheerness.secret.md)
+

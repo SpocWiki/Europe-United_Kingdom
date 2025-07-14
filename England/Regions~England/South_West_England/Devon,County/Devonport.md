@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Devonport|Devonport]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Devonport.public|Devonport.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Devonport.internal|Devonport.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Devonport.protect|Devonport.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Devonport.private|Devonport.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Devonport.personal|Devonport.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Devonport.secret|Devonport.secret]] 
+
+### [Devonport.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDevonport.public.md) 
+
+### [Devonport.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDevonport.internal.md) 
+
+### [Devonport.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDevonport.protect.md) 
+
+### [Devonport.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDevonport.private.md) 
+
+### [Devonport.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDevonport.personal.md) 
+
+### [Devonport.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyDevonport.secret.md)
+

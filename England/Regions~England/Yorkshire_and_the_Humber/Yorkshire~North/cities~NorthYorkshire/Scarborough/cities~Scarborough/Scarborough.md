@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Scarborough|Scarborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Scarborough.public|Scarborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Scarborough.internal|Scarborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Scarborough.protect|Scarborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Scarborough.private|Scarborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Scarborough.personal|Scarborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Scarborough.secret|Scarborough.secret]] 
+
+### [Scarborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.public.md) 
+
+### [Scarborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.internal.md) 
+
+### [Scarborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.protect.md) 
+
+### [Scarborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.private.md) 
+
+### [Scarborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.personal.md) 
+
+### [Scarborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughScarborough.secret.md)
+

@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Edgware_Road_(C)|Sub~Edgware_Road_(C)]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Edgware_Road_(C).public|Sub~Edgware_Road_(C).public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Edgware_Road_(C).internal|Sub~Edgware_Road_(C).internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Edgware_Road_(C).protect|Sub~Edgware_Road_(C).protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Edgware_Road_(C).private|Sub~Edgware_Road_(C).private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Edgware_Road_(C).personal|Sub~Edgware_Road_(C).personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Edgware_Road_(C).secret|Sub~Edgware_Road_(C).secret]] 
+
+### [Sub~Edgware_Road~C.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Edgware_Road~C.public.md) 
+
+### [Sub~Edgware_Road~C.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Edgware_Road~C.internal.md) 
+
+### [Sub~Edgware_Road~C.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Edgware_Road~C.protect.md) 
+
+### [Sub~Edgware_Road~C.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Edgware_Road~C.private.md) 
+
+### [Sub~Edgware_Road~C.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Edgware_Road~C.personal.md) 
+
+### [Sub~Edgware_Road~C.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Edgware_Road~C.secret.md)
+

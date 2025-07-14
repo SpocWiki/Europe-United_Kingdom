@@ -40,11 +40,16 @@ markerFolder: ./Wolverhampton/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Wolverhampton|Wolverhampton]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Wolverhampton.public|Wolverhampton.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Wolverhampton.internal|Wolverhampton.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Wolverhampton.protect|Wolverhampton.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Wolverhampton.private|Wolverhampton.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Wolverhampton.personal|Wolverhampton.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Wolverhampton.secret|Wolverhampton.secret]] 
+
+### [Wolverhampton,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWolverhampton,County.public.md) 
+
+### [Wolverhampton,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWolverhampton,County.internal.md) 
+
+### [Wolverhampton,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWolverhampton,County.protect.md) 
+
+### [Wolverhampton,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWolverhampton,County.private.md) 
+
+### [Wolverhampton,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWolverhampton,County.personal.md) 
+
+### [Wolverhampton,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,RegionWolverhampton,County.secret.md)
 

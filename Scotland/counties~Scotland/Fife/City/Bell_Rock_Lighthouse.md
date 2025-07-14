@@ -43,10 +43,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Belrock|Belrock]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Belrock.public|Belrock.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Belrock.internal|Belrock.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Belrock.protect|Belrock.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Belrock.private|Belrock.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Belrock.personal|Belrock.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Belrock.secret|Belrock.secret]] 
+
+### [Bell_Rock_Lighthouse.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.public.md) 
+
+### [Bell_Rock_Lighthouse.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.internal.md) 
+
+### [Bell_Rock_Lighthouse.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.protect.md) 
+
+### [Bell_Rock_Lighthouse.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.private.md) 
+
+### [Bell_Rock_Lighthouse.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.personal.md) 
+
+### [Bell_Rock_Lighthouse.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Fife\CityBell_Rock_Lighthouse.secret.md)
+

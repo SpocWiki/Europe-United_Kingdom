@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lesmahagow|Lesmahagow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lesmahagow.public|Lesmahagow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lesmahagow.internal|Lesmahagow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lesmahagow.protect|Lesmahagow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lesmahagow.private|Lesmahagow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lesmahagow.personal|Lesmahagow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lesmahagow.secret|Lesmahagow.secret]] 
+
+### [Lesmahagow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.public.md) 
+
+### [Lesmahagow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.internal.md) 
+
+### [Lesmahagow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.protect.md) 
+
+### [Lesmahagow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.private.md) 
+
+### [Lesmahagow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.personal.md) 
+
+### [Lesmahagow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~South\cities~Lanarkshire~SouthLesmahagow.secret.md)
+

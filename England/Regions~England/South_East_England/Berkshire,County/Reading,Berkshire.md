@@ -49,13 +49,17 @@ markerFolder: ./Reading/
 > [Wikipedia](https://en.wikipedia.org/wiki/Reading,%20Berkshire)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Reading|Reading]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Reading.public|Reading.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Reading.internal|Reading.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Reading.protect|Reading.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Reading.private|Reading.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Reading.personal|Reading.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Reading.secret|Reading.secret]] 
+
+### [Reading,Berkshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.public.md) 
+
+### [Reading,Berkshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.internal.md) 
+
+### [Reading,Berkshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.protect.md) 
+
+### [Reading,Berkshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.private.md) 
+
+### [Reading,Berkshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.personal.md) 
+
+### [Reading,Berkshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyReading,Berkshire.secret.md)
 

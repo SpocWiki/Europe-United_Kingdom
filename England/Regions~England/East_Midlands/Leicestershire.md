@@ -40,11 +40,16 @@ markerFolder: ./Leicestershire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Leicestershire|Leicestershire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Leicestershire.public|Leicestershire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Leicestershire.internal|Leicestershire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Leicestershire.protect|Leicestershire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Leicestershire.private|Leicestershire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Leicestershire.personal|Leicestershire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Leicestershire.secret|Leicestershire.secret]] 
+
+### [Leicestershire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsLeicestershire.public.md) 
+
+### [Leicestershire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsLeicestershire.internal.md) 
+
+### [Leicestershire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsLeicestershire.protect.md) 
+
+### [Leicestershire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsLeicestershire.private.md) 
+
+### [Leicestershire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsLeicestershire.personal.md) 
+
+### [Leicestershire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsLeicestershire.secret.md)
 

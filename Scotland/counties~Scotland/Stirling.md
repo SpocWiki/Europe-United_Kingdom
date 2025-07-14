@@ -40,11 +40,16 @@ markerFolder: ./Stirling/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Stirling|Stirling]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Stirling.public|Stirling.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Stirling.internal|Stirling.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Stirling.protect|Stirling.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Stirling.private|Stirling.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Stirling.personal|Stirling.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Stirling.secret|Stirling.secret]] 
+
+### [Stirling.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandStirling.public.md) 
+
+### [Stirling.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandStirling.internal.md) 
+
+### [Stirling.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandStirling.protect.md) 
+
+### [Stirling.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandStirling.private.md) 
+
+### [Stirling.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandStirling.personal.md) 
+
+### [Stirling.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandStirling.secret.md)
 

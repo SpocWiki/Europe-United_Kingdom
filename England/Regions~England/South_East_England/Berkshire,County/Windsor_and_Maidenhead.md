@@ -46,13 +46,17 @@ markerFolder: ./Royal_Borough_of_Windsor_and_Maidenhead/
 > [Wikipedia](https://en.wikipedia.org/wiki/Royal%20Borough%20of%20Windsor%20and%20Maidenhead)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead|Royal_Borough_of_Windsor_and_Maidenhead]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.public|Royal_Borough_of_Windsor_and_Maidenhead.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.internal|Royal_Borough_of_Windsor_and_Maidenhead.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.protect|Royal_Borough_of_Windsor_and_Maidenhead.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.private|Royal_Borough_of_Windsor_and_Maidenhead.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.personal|Royal_Borough_of_Windsor_and_Maidenhead.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Royal_Borough_of_Windsor_and_Maidenhead.secret|Royal_Borough_of_Windsor_and_Maidenhead.secret]] 
+
+### [Windsor_and_Maidenhead.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyWindsor_and_Maidenhead.public.md) 
+
+### [Windsor_and_Maidenhead.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyWindsor_and_Maidenhead.internal.md) 
+
+### [Windsor_and_Maidenhead.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyWindsor_and_Maidenhead.protect.md) 
+
+### [Windsor_and_Maidenhead.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyWindsor_and_Maidenhead.private.md) 
+
+### [Windsor_and_Maidenhead.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyWindsor_and_Maidenhead.personal.md) 
+
+### [Windsor_and_Maidenhead.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyWindsor_and_Maidenhead.secret.md)
 

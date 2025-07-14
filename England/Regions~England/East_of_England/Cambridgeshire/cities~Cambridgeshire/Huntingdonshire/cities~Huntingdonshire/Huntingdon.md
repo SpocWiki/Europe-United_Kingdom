@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Huntingdon|Huntingdon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Huntingdon.public|Huntingdon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Huntingdon.internal|Huntingdon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Huntingdon.protect|Huntingdon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Huntingdon.private|Huntingdon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Huntingdon.personal|Huntingdon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Huntingdon.secret|Huntingdon.secret]] 
+
+### [Huntingdon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Huntingdonshire\cities~HuntingdonshireHuntingdon.public.md) 
+
+### [Huntingdon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Huntingdonshire\cities~HuntingdonshireHuntingdon.internal.md) 
+
+### [Huntingdon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Huntingdonshire\cities~HuntingdonshireHuntingdon.protect.md) 
+
+### [Huntingdon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Huntingdonshire\cities~HuntingdonshireHuntingdon.private.md) 
+
+### [Huntingdon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Huntingdonshire\cities~HuntingdonshireHuntingdon.personal.md) 
+
+### [Huntingdon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Cambridgeshire\cities~Cambridgeshire\Huntingdonshire\cities~HuntingdonshireHuntingdon.secret.md)
+

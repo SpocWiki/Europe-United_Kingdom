@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Plymouth|Plymouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Plymouth.public|Plymouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Plymouth.internal|Plymouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Plymouth.protect|Plymouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Plymouth.private|Plymouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Plymouth.personal|Plymouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Plymouth.secret|Plymouth.secret]] 
+
+### [Plymouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.public.md) 
+
+### [Plymouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.internal.md) 
+
+### [Plymouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.protect.md) 
+
+### [Plymouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.private.md) 
+
+### [Plymouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.personal.md) 
+
+### [Plymouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Plymouth,CountyPlymouth.secret.md)
+

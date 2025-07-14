@@ -40,11 +40,16 @@ markerFolder: ./Peterborough/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Peterborough|Peterborough]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Peterborough.public|Peterborough.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Peterborough.internal|Peterborough.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Peterborough.protect|Peterborough.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Peterborough.private|Peterborough.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Peterborough.personal|Peterborough.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Peterborough.secret|Peterborough.secret]] 
+
+### [Peterborough,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandPeterborough,County.public.md) 
+
+### [Peterborough,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandPeterborough,County.internal.md) 
+
+### [Peterborough,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandPeterborough,County.protect.md) 
+
+### [Peterborough,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandPeterborough,County.private.md) 
+
+### [Peterborough,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandPeterborough,County.personal.md) 
+
+### [Peterborough,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandPeterborough,County.secret.md)
 

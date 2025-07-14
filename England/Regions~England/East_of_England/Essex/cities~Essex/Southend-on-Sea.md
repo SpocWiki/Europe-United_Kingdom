@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Southend-on-Sea|Southend-on-Sea]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Southend-on-Sea.public|Southend-on-Sea.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Southend-on-Sea.internal|Southend-on-Sea.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Southend-on-Sea.protect|Southend-on-Sea.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Southend-on-Sea.private|Southend-on-Sea.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Southend-on-Sea.personal|Southend-on-Sea.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Southend-on-Sea.secret|Southend-on-Sea.secret]] 
+
+### [Southend-on-Sea.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.public.md) 
+
+### [Southend-on-Sea.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.internal.md) 
+
+### [Southend-on-Sea.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.protect.md) 
+
+### [Southend-on-Sea.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.private.md) 
+
+### [Southend-on-Sea.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.personal.md) 
+
+### [Southend-on-Sea.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Essex\cities~EssexSouthend-on-Sea.secret.md)
+

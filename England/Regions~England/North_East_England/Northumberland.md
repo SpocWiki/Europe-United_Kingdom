@@ -40,11 +40,16 @@ markerFolder: ./Northumberland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland|Northumberland]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.public|Northumberland.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.internal|Northumberland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.protect|Northumberland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.private|Northumberland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.personal|Northumberland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Northumberland.secret|Northumberland.secret]] 
+
+### [Northumberland.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.public.md) 
+
+### [Northumberland.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.internal.md) 
+
+### [Northumberland.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.protect.md) 
+
+### [Northumberland.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.private.md) 
+
+### [Northumberland.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.personal.md) 
+
+### [Northumberland.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandNorthumberland.secret.md)
 

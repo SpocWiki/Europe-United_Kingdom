@@ -40,11 +40,16 @@ markerFolder: ./Oxfordshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Oxfordshire|Oxfordshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Oxfordshire.public|Oxfordshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Oxfordshire.internal|Oxfordshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Oxfordshire.protect|Oxfordshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Oxfordshire.private|Oxfordshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Oxfordshire.personal|Oxfordshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Oxfordshire.secret|Oxfordshire.secret]] 
+
+### [Oxfordshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandOxfordshire.public.md) 
+
+### [Oxfordshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandOxfordshire.internal.md) 
+
+### [Oxfordshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandOxfordshire.protect.md) 
+
+### [Oxfordshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandOxfordshire.private.md) 
+
+### [Oxfordshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandOxfordshire.personal.md) 
+
+### [Oxfordshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandOxfordshire.secret.md)
 

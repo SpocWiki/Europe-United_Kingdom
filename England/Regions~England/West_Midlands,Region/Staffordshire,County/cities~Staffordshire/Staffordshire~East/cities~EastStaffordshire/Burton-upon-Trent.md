@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent|Burton-upon-Trent]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.public|Burton-upon-Trent.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.internal|Burton-upon-Trent.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.protect|Burton-upon-Trent.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.private|Burton-upon-Trent.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.personal|Burton-upon-Trent.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Burton-upon-Trent.secret|Burton-upon-Trent.secret]] 
+
+### [Burton-upon-Trent.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Staffordshire~East\cities~EastStaffordshireBurton-upon-Trent.public.md) 
+
+### [Burton-upon-Trent.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Staffordshire~East\cities~EastStaffordshireBurton-upon-Trent.internal.md) 
+
+### [Burton-upon-Trent.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Staffordshire~East\cities~EastStaffordshireBurton-upon-Trent.protect.md) 
+
+### [Burton-upon-Trent.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Staffordshire~East\cities~EastStaffordshireBurton-upon-Trent.private.md) 
+
+### [Burton-upon-Trent.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Staffordshire~East\cities~EastStaffordshireBurton-upon-Trent.personal.md) 
+
+### [Burton-upon-Trent.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,County\cities~Staffordshire\Staffordshire~East\cities~EastStaffordshireBurton-upon-Trent.secret.md)
+

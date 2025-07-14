@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sartton|Sartton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sartton.public|Sartton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sartton.internal|Sartton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sartton.protect|Sartton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sartton.private|Sartton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sartton.personal|Sartton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sartton.secret|Sartton.secret]] 
+
+### [Sartton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.public.md) 
+
+### [Sartton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.internal.md) 
+
+### [Sartton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.protect.md) 
+
+### [Sartton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.private.md) 
+
+### [Sartton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.personal.md) 
+
+### [Sartton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Derbyshire\cities~Derbyshire\Derbyshire~Dales\cities~DerbyshireDalesSartton.secret.md)
+

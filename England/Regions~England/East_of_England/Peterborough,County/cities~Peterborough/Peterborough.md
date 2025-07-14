@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Peterborough|Peterborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Peterborough.public|Peterborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Peterborough.internal|Peterborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Peterborough.protect|Peterborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Peterborough.private|Peterborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Peterborough.personal|Peterborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Peterborough.secret|Peterborough.secret]] 
+
+### [Peterborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.public.md) 
+
+### [Peterborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.internal.md) 
+
+### [Peterborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.protect.md) 
+
+### [Peterborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.private.md) 
+
+### [Peterborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.personal.md) 
+
+### [Peterborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Peterborough,County\cities~PeterboroughPeterborough.secret.md)
+

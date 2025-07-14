@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hertford|Hertford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hertford.public|Hertford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hertford.internal|Hertford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hertford.protect|Hertford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hertford.private|Hertford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hertford.personal|Hertford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hertford.secret|Hertford.secret]] 
+
+### [Hertford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.public.md) 
+
+### [Hertford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.internal.md) 
+
+### [Hertford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.protect.md) 
+
+### [Hertford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.private.md) 
+
+### [Hertford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.personal.md) 
+
+### [Hertford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Hertfordshire\cities~Hertfordshire\Hertfordshire~East\cities~EastHertfordshireHertford.secret.md)
+

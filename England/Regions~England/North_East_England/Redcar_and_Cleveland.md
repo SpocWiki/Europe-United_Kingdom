@@ -40,11 +40,16 @@ markerFolder: ./Redcar_and_Cleveland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Redcar_and_Cleveland|Redcar_and_Cleveland]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Redcar_and_Cleveland.public|Redcar_and_Cleveland.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Redcar_and_Cleveland.internal|Redcar_and_Cleveland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Redcar_and_Cleveland.protect|Redcar_and_Cleveland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Redcar_and_Cleveland.private|Redcar_and_Cleveland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Redcar_and_Cleveland.personal|Redcar_and_Cleveland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Redcar_and_Cleveland.secret|Redcar_and_Cleveland.secret]] 
+
+### [Redcar_and_Cleveland.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.public.md) 
+
+### [Redcar_and_Cleveland.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.internal.md) 
+
+### [Redcar_and_Cleveland.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.protect.md) 
+
+### [Redcar_and_Cleveland.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.private.md) 
+
+### [Redcar_and_Cleveland.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.personal.md) 
+
+### [Redcar_and_Cleveland.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandRedcar_and_Cleveland.secret.md)
 

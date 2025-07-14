@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Stamford|Stamford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Stamford.public|Stamford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Stamford.internal|Stamford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Stamford.protect|Stamford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Stamford.private|Stamford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Stamford.personal|Stamford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Stamford.secret|Stamford.secret]] 
+
+### [Stamford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.public.md) 
+
+### [Stamford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.internal.md) 
+
+### [Stamford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.protect.md) 
+
+### [Stamford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.private.md) 
+
+### [Stamford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.personal.md) 
+
+### [Stamford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Kesteven~South\cities~SouthKestevenStamford.secret.md)
+

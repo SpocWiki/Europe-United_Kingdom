@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tynemouth|Tynemouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.public|Tynemouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.internal|Tynemouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.protect|Tynemouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.private|Tynemouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.personal|Tynemouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tynemouth.secret|Tynemouth.secret]] 
+
+### [Tynemouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.public.md) 
+
+### [Tynemouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.internal.md) 
+
+### [Tynemouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.protect.md) 
+
+### [Tynemouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.private.md) 
+
+### [Tynemouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.personal.md) 
+
+### [Tynemouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~North\cities~NorthTynesideTynemouth.secret.md)
+

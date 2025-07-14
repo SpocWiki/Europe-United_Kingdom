@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Portnahaven|Portnahaven]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.public|Portnahaven.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.internal|Portnahaven.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.protect|Portnahaven.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.private|Portnahaven.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.personal|Portnahaven.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Portnahaven.secret|Portnahaven.secret]] 
+
+### [Portnahaven.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_ButePortnahaven.public.md) 
+
+### [Portnahaven.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_ButePortnahaven.internal.md) 
+
+### [Portnahaven.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_ButePortnahaven.protect.md) 
+
+### [Portnahaven.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_ButePortnahaven.private.md) 
+
+### [Portnahaven.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_ButePortnahaven.personal.md) 
+
+### [Portnahaven.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Argyll_and_ButePortnahaven.secret.md)
+

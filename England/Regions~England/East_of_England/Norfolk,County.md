@@ -40,11 +40,16 @@ markerFolder: ./Norfolk/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Norfolk|Norfolk]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Norfolk.public|Norfolk.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Norfolk.internal|Norfolk.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Norfolk.protect|Norfolk.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Norfolk.private|Norfolk.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Norfolk.personal|Norfolk.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Norfolk.secret|Norfolk.secret]] 
+
+### [Norfolk,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.public.md) 
+
+### [Norfolk,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.internal.md) 
+
+### [Norfolk,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.protect.md) 
+
+### [Norfolk,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.private.md) 
+
+### [Norfolk,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.personal.md) 
+
+### [Norfolk,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandNorfolk,County.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wigtown|Wigtown]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wigtown.public|Wigtown.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wigtown.internal|Wigtown.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wigtown.protect|Wigtown.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wigtown.private|Wigtown.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wigtown.personal|Wigtown.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wigtown.secret|Wigtown.secret]] 
+
+### [Wigtown.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.public.md) 
+
+### [Wigtown.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.internal.md) 
+
+### [Wigtown.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.protect.md) 
+
+### [Wigtown.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.private.md) 
+
+### [Wigtown.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.personal.md) 
+
+### [Wigtown.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dumfries_and_GallowayWigtown.secret.md)
+

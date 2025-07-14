@@ -48,11 +48,16 @@ markerFolder: ./Walsall/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Walsall|Walsall]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Walsall.public|Walsall.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Walsall.internal|Walsall.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Walsall.protect|Walsall.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Walsall.private|Walsall.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Walsall.personal|Walsall.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Walsall.secret|Walsall.secret]] 
+
+### [Walsall,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.public.md) 
+
+### [Walsall,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.internal.md) 
+
+### [Walsall,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.protect.md) 
+
+### [Walsall,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.private.md) 
+
+### [Walsall,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.personal.md) 
+
+### [Walsall,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Staffordshire,CountyWalsall,County.secret.md)
 

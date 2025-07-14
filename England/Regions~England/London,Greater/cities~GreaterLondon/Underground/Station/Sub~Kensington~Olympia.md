@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Kensington_(Olympia)|Sub~Kensington_(Olympia)]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Kensington_(Olympia).public|Sub~Kensington_(Olympia).public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Kensington_(Olympia).internal|Sub~Kensington_(Olympia).internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Kensington_(Olympia).protect|Sub~Kensington_(Olympia).protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Kensington_(Olympia).private|Sub~Kensington_(Olympia).private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Kensington_(Olympia).personal|Sub~Kensington_(Olympia).personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Kensington_(Olympia).secret|Sub~Kensington_(Olympia).secret]] 
+
+### [Sub~Kensington~Olympia.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Kensington~Olympia.public.md) 
+
+### [Sub~Kensington~Olympia.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Kensington~Olympia.internal.md) 
+
+### [Sub~Kensington~Olympia.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Kensington~Olympia.protect.md) 
+
+### [Sub~Kensington~Olympia.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Kensington~Olympia.private.md) 
+
+### [Sub~Kensington~Olympia.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Kensington~Olympia.personal.md) 
+
+### [Sub~Kensington~Olympia.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Kensington~Olympia.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Southsea|Southsea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Southsea.public|Southsea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Southsea.internal|Southsea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Southsea.protect|Southsea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Southsea.private|Southsea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Southsea.personal|Southsea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Southsea.secret|Southsea.secret]] 
+
+### [Southsea.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.public.md) 
+
+### [Southsea.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.internal.md) 
+
+### [Southsea.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.protect.md) 
+
+### [Southsea.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.private.md) 
+
+### [Southsea.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.personal.md) 
+
+### [Southsea.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Portsmouth,County\cities~PortsmouthSouthsea.secret.md)
+

@@ -57,10 +57,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Rhayader|Rhayader]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Rhayader.public|Rhayader.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Rhayader.internal|Rhayader.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Rhayader.protect|Rhayader.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Rhayader.private|Rhayader.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Rhayader.personal|Rhayader.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Rhayader.secret|Rhayader.secret]] 
+
+### [Rhayader.public](/_public/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.public.md) 
+
+### [Rhayader.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.internal.md) 
+
+### [Rhayader.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.protect.md) 
+
+### [Rhayader.private](/_private/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.private.md) 
+
+### [Rhayader.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.personal.md) 
+
+### [Rhayader.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\CityRhayader.secret.md)
+

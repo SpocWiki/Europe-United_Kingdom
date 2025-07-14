@@ -58,12 +58,17 @@ FROM outgoing([[Line~Waterloo]])
 ```
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Waterloo|Line~Waterloo]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Waterloo.public|Line~Waterloo.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Waterloo.internal|Line~Waterloo.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Waterloo.protect|Line~Waterloo.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Waterloo.private|Line~Waterloo.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Waterloo.personal|Line~Waterloo.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Waterloo.secret|Line~Waterloo.secret]] 
+
+### [Line~Waterloo.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Waterloo.public.md) 
+
+### [Line~Waterloo.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Waterloo.internal.md) 
+
+### [Line~Waterloo.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Waterloo.protect.md) 
+
+### [Line~Waterloo.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Waterloo.private.md) 
+
+### [Line~Waterloo.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Waterloo.personal.md) 
+
+### [Line~Waterloo.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Waterloo.secret.md)
+

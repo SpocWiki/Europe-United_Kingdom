@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Warwick_Avenue|Sub~Warwick_Avenue]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Warwick_Avenue.public|Sub~Warwick_Avenue.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Warwick_Avenue.internal|Sub~Warwick_Avenue.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Warwick_Avenue.protect|Sub~Warwick_Avenue.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Warwick_Avenue.private|Sub~Warwick_Avenue.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Warwick_Avenue.personal|Sub~Warwick_Avenue.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Warwick_Avenue.secret|Sub~Warwick_Avenue.secret]] 
+
+### [Sub~Warwick_Avenue.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Warwick_Avenue.public.md) 
+
+### [Sub~Warwick_Avenue.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Warwick_Avenue.internal.md) 
+
+### [Sub~Warwick_Avenue.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Warwick_Avenue.protect.md) 
+
+### [Sub~Warwick_Avenue.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Warwick_Avenue.private.md) 
+
+### [Sub~Warwick_Avenue.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Warwick_Avenue.personal.md) 
+
+### [Sub~Warwick_Avenue.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Warwick_Avenue.secret.md)
+

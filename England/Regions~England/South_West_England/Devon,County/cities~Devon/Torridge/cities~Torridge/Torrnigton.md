@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Torrnigton|Torrnigton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Torrnigton.public|Torrnigton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Torrnigton.internal|Torrnigton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Torrnigton.protect|Torrnigton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Torrnigton.private|Torrnigton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Torrnigton.personal|Torrnigton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Torrnigton.secret|Torrnigton.secret]] 
+
+### [Torrnigton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeTorrnigton.public.md) 
+
+### [Torrnigton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeTorrnigton.internal.md) 
+
+### [Torrnigton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeTorrnigton.protect.md) 
+
+### [Torrnigton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeTorrnigton.private.md) 
+
+### [Torrnigton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeTorrnigton.personal.md) 
+
+### [Torrnigton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Torridge\cities~TorridgeTorrnigton.secret.md)
+

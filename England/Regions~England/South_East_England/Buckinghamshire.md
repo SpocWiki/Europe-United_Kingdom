@@ -40,11 +40,16 @@ markerFolder: ./Buckinghamshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Buckinghamshire|Buckinghamshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Buckinghamshire.public|Buckinghamshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Buckinghamshire.internal|Buckinghamshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Buckinghamshire.protect|Buckinghamshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Buckinghamshire.private|Buckinghamshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Buckinghamshire.personal|Buckinghamshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Buckinghamshire.secret|Buckinghamshire.secret]] 
+
+### [Buckinghamshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.public.md) 
+
+### [Buckinghamshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.internal.md) 
+
+### [Buckinghamshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.protect.md) 
+
+### [Buckinghamshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.private.md) 
+
+### [Buckinghamshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.personal.md) 
+
+### [Buckinghamshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBuckinghamshire.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk|Lowestoft~Suffolk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.public|Lowestoft~Suffolk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.internal|Lowestoft~Suffolk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.protect|Lowestoft~Suffolk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.private|Lowestoft~Suffolk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.personal|Lowestoft~Suffolk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lowestoft~Suffolk.secret|Lowestoft~Suffolk.secret]] 
+
+### [Lowestoft~Suffolk.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.public.md) 
+
+### [Lowestoft~Suffolk.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.internal.md) 
+
+### [Lowestoft~Suffolk.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.protect.md) 
+
+### [Lowestoft~Suffolk.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.private.md) 
+
+### [Lowestoft~Suffolk.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.personal.md) 
+
+### [Lowestoft~Suffolk.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Waveney\cities~WaveneyLowestoft~Suffolk.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Berwick|Berwick]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Berwick.public|Berwick.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Berwick.internal|Berwick.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Berwick.protect|Berwick.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Berwick.private|Berwick.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Berwick.personal|Berwick.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Berwick.secret|Berwick.secret]] 
+
+### [Berwick.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.public.md) 
+
+### [Berwick.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.internal.md) 
+
+### [Berwick.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.protect.md) 
+
+### [Berwick.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.private.md) 
+
+### [Berwick.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.personal.md) 
+
+### [Berwick.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Northumberland\cities~NorthumberlandBerwick.secret.md)
+

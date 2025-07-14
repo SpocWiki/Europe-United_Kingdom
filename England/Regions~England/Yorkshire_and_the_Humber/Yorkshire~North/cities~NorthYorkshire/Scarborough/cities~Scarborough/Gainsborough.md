@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Gainsborough|Gainsborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.public|Gainsborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.internal|Gainsborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.protect|Gainsborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.private|Gainsborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.personal|Gainsborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Gainsborough.secret|Gainsborough.secret]] 
+
+### [Gainsborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.public.md) 
+
+### [Gainsborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.internal.md) 
+
+### [Gainsborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.protect.md) 
+
+### [Gainsborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.private.md) 
+
+### [Gainsborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.personal.md) 
+
+### [Gainsborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Scarborough\cities~ScarboroughGainsborough.secret.md)
+

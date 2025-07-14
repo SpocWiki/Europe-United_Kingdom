@@ -35,10 +35,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Staples|Staples]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Staples.public|Staples.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Staples.internal|Staples.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Staples.protect|Staples.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Staples.private|Staples.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Staples.personal|Staples.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Staples.secret|Staples.secret]] 
+
+### [Island~Staple.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\NorthumberlandIsland~Staple.public.md) 
+
+### [Island~Staple.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\NorthumberlandIsland~Staple.internal.md) 
+
+### [Island~Staple.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\NorthumberlandIsland~Staple.protect.md) 
+
+### [Island~Staple.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\NorthumberlandIsland~Staple.private.md) 
+
+### [Island~Staple.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\NorthumberlandIsland~Staple.personal.md) 
+
+### [Island~Staple.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\NorthumberlandIsland~Staple.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./West_Berkshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/West_Berkshire|West_Berkshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/West_Berkshire.public|West_Berkshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/West_Berkshire.internal|West_Berkshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/West_Berkshire.protect|West_Berkshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/West_Berkshire.private|West_Berkshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/West_Berkshire.personal|West_Berkshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/West_Berkshire.secret|West_Berkshire.secret]] 
+
+### [Berkshire~West.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.public.md) 
+
+### [Berkshire~West.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.internal.md) 
+
+### [Berkshire~West.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.protect.md) 
+
+### [Berkshire~West.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.private.md) 
+
+### [Berkshire~West.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.personal.md) 
+
+### [Berkshire~West.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,CountyBerkshire~West.secret.md)
 

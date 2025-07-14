@@ -40,11 +40,16 @@ markerFolder: ./Sunderland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Sunderland|Sunderland]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Sunderland.public|Sunderland.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Sunderland.internal|Sunderland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Sunderland.protect|Sunderland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Sunderland.private|Sunderland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Sunderland.personal|Sunderland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Sunderland.secret|Sunderland.secret]] 
+
+### [Sunderland,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandSunderland,County.public.md) 
+
+### [Sunderland,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandSunderland,County.internal.md) 
+
+### [Sunderland,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandSunderland,County.protect.md) 
+
+### [Sunderland,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandSunderland,County.private.md) 
+
+### [Sunderland,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandSunderland,County.personal.md) 
+
+### [Sunderland,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandSunderland,County.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Portglenone|Portglenone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Portglenone.public|Portglenone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Portglenone.internal|Portglenone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Portglenone.protect|Portglenone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Portglenone.private|Portglenone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Portglenone.personal|Portglenone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Portglenone.secret|Portglenone.secret]] 
+
+### [Portglenone.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\Ballymena\cities~BallymenaPortglenone.public.md) 
+
+### [Portglenone.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\Ballymena\cities~BallymenaPortglenone.internal.md) 
+
+### [Portglenone.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\Ballymena\cities~BallymenaPortglenone.protect.md) 
+
+### [Portglenone.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\Ballymena\cities~BallymenaPortglenone.private.md) 
+
+### [Portglenone.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\Ballymena\cities~BallymenaPortglenone.personal.md) 
+
+### [Portglenone.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim~Mid-and_East\cities~Mid-and_East-Antrim\Ballymena\cities~BallymenaPortglenone.secret.md)
+

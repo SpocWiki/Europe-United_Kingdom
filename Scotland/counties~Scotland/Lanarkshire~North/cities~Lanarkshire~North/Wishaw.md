@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wishaw|Wishaw]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wishaw.public|Wishaw.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wishaw.internal|Wishaw.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wishaw.protect|Wishaw.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wishaw.private|Wishaw.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wishaw.personal|Wishaw.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wishaw.secret|Wishaw.secret]] 
+
+### [Wishaw.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.public.md) 
+
+### [Wishaw.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.internal.md) 
+
+### [Wishaw.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.protect.md) 
+
+### [Wishaw.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.private.md) 
+
+### [Wishaw.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.personal.md) 
+
+### [Wishaw.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthWishaw.secret.md)
+

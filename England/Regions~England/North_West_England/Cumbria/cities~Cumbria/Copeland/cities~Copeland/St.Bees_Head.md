@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Bees_Head|St.Bees_Head]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Bees_Head.public|St.Bees_Head.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Bees_Head.internal|St.Bees_Head.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Bees_Head.protect|St.Bees_Head.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Bees_Head.private|St.Bees_Head.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Bees_Head.personal|St.Bees_Head.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Bees_Head.secret|St.Bees_Head.secret]] 
+
+### [St.Bees_Head.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.public.md) 
+
+### [St.Bees_Head.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.internal.md) 
+
+### [St.Bees_Head.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.protect.md) 
+
+### [St.Bees_Head.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.private.md) 
+
+### [St.Bees_Head.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.personal.md) 
+
+### [St.Bees_Head.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Cumbria\cities~Cumbria\Copeland\cities~CopelandSt.Bees_Head.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Waltham_Forest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest|Waltham_Forest]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest.public|Waltham_Forest.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest.internal|Waltham_Forest.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest.protect|Waltham_Forest.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest.private|Waltham_Forest.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest.personal|Waltham_Forest.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Waltham_Forest.secret|Waltham_Forest.secret]] 
+
+### [Waltham_Forest.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWaltham_Forest.public.md) 
+
+### [Waltham_Forest.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWaltham_Forest.internal.md) 
+
+### [Waltham_Forest.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWaltham_Forest.protect.md) 
+
+### [Waltham_Forest.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWaltham_Forest.private.md) 
+
+### [Waltham_Forest.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWaltham_Forest.personal.md) 
+
+### [Waltham_Forest.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonWaltham_Forest.secret.md)
 

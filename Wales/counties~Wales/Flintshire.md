@@ -40,11 +40,16 @@ markerFolder: ./Flintshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Flintshire|Flintshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Flintshire.public|Flintshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Flintshire.internal|Flintshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Flintshire.protect|Flintshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Flintshire.private|Flintshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Flintshire.personal|Flintshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Counties/Flintshire.secret|Flintshire.secret]] 
+
+### [Flintshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.public.md) 
+
+### [Flintshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.internal.md) 
+
+### [Flintshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.protect.md) 
+
+### [Flintshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.private.md) 
+
+### [Flintshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.personal.md) 
+
+### [Flintshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~WalesFlintshire.secret.md)
 

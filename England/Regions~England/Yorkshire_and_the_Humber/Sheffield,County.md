@@ -40,11 +40,16 @@ markerFolder: ./Sheffield/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Sheffield|Sheffield]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Sheffield.public|Sheffield.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Sheffield.internal|Sheffield.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Sheffield.protect|Sheffield.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Sheffield.private|Sheffield.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Sheffield.personal|Sheffield.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Sheffield.secret|Sheffield.secret]] 
+
+### [Sheffield,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.public.md) 
+
+### [Sheffield,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.internal.md) 
+
+### [Sheffield,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.protect.md) 
+
+### [Sheffield,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.private.md) 
+
+### [Sheffield,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.personal.md) 
+
+### [Sheffield,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_HumberSheffield,County.secret.md)
 

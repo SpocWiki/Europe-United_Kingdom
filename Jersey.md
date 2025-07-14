@@ -122,12 +122,17 @@ Continent :: [[Europe]]
 [has_place_latitude::49.19] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/Jersey|Jersey]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/Jersey.public|Jersey.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/Jersey.internal|Jersey.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/Jersey.protect|Jersey.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/Jersey.private|Jersey.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/Jersey.personal|Jersey.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/Jersey.secret|Jersey.secret]] 
+
+### [Jersey.public](/_public/\Earth\Continent\Europe\Europe~North\UKJersey.public.md) 
+
+### [Jersey.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKJersey.internal.md) 
+
+### [Jersey.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKJersey.protect.md) 
+
+### [Jersey.private](/_private/\Earth\Continent\Europe\Europe~North\UKJersey.private.md) 
+
+### [Jersey.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKJersey.personal.md) 
+
+### [Jersey.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKJersey.secret.md)
+

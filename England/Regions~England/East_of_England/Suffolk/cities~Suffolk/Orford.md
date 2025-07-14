@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Orford|Orford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Orford.public|Orford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Orford.internal|Orford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Orford.protect|Orford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Orford.private|Orford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Orford.personal|Orford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Orford.secret|Orford.secret]] 
+
+### [Orford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~SuffolkOrford.public.md) 
+
+### [Orford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~SuffolkOrford.internal.md) 
+
+### [Orford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~SuffolkOrford.protect.md) 
+
+### [Orford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~SuffolkOrford.private.md) 
+
+### [Orford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~SuffolkOrford.personal.md) 
+
+### [Orford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~SuffolkOrford.secret.md)
+

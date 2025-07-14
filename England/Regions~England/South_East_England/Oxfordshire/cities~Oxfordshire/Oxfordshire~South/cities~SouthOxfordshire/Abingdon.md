@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Abingdon|Abingdon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Abingdon.public|Abingdon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Abingdon.internal|Abingdon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Abingdon.protect|Abingdon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Abingdon.private|Abingdon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Abingdon.personal|Abingdon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Abingdon.secret|Abingdon.secret]] 
+
+### [Abingdon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireAbingdon.public.md) 
+
+### [Abingdon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireAbingdon.internal.md) 
+
+### [Abingdon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireAbingdon.protect.md) 
+
+### [Abingdon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireAbingdon.private.md) 
+
+### [Abingdon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireAbingdon.personal.md) 
+
+### [Abingdon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Oxfordshire\cities~Oxfordshire\Oxfordshire~South\cities~SouthOxfordshireAbingdon.secret.md)
+

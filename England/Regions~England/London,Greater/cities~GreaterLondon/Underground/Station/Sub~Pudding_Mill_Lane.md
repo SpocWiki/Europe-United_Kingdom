@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Pudding_Mill_Lane|Sub~Pudding_Mill_Lane]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Pudding_Mill_Lane.public|Sub~Pudding_Mill_Lane.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Pudding_Mill_Lane.internal|Sub~Pudding_Mill_Lane.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Pudding_Mill_Lane.protect|Sub~Pudding_Mill_Lane.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Pudding_Mill_Lane.private|Sub~Pudding_Mill_Lane.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Pudding_Mill_Lane.personal|Sub~Pudding_Mill_Lane.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Pudding_Mill_Lane.secret|Sub~Pudding_Mill_Lane.secret]] 
+
+### [Sub~Pudding_Mill_Lane.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pudding_Mill_Lane.public.md) 
+
+### [Sub~Pudding_Mill_Lane.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pudding_Mill_Lane.internal.md) 
+
+### [Sub~Pudding_Mill_Lane.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pudding_Mill_Lane.protect.md) 
+
+### [Sub~Pudding_Mill_Lane.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pudding_Mill_Lane.private.md) 
+
+### [Sub~Pudding_Mill_Lane.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pudding_Mill_Lane.personal.md) 
+
+### [Sub~Pudding_Mill_Lane.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Pudding_Mill_Lane.secret.md)
+

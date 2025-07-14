@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Barnes|Barnes]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Barnes.public|Barnes.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Barnes.internal|Barnes.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Barnes.protect|Barnes.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Barnes.private|Barnes.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Barnes.personal|Barnes.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames/Barnes.secret|Barnes.secret]] 
+
+### [Barnes.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.public.md) 
+
+### [Barnes.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.internal.md) 
+
+### [Barnes.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.protect.md) 
+
+### [Barnes.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.private.md) 
+
+### [Barnes.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.personal.md) 
+
+### [Barnes.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Richmond~ThamesBarnes.secret.md)
+

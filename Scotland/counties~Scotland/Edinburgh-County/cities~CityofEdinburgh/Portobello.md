@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Portobello|Portobello]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Portobello.public|Portobello.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Portobello.internal|Portobello.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Portobello.protect|Portobello.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Portobello.private|Portobello.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Portobello.personal|Portobello.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Portobello.secret|Portobello.secret]] 
+
+### [Portobello.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.public.md) 
+
+### [Portobello.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.internal.md) 
+
+### [Portobello.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.protect.md) 
+
+### [Portobello.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.private.md) 
+
+### [Portobello.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.personal.md) 
+
+### [Portobello.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Edinburgh-County\cities~CityofEdinburghPortobello.secret.md)
+

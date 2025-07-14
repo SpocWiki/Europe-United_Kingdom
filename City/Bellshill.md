@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bellshill|Bellshill]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bellshill.public|Bellshill.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bellshill.internal|Bellshill.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bellshill.protect|Bellshill.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bellshill.private|Bellshill.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bellshill.personal|Bellshill.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bellshill.secret|Bellshill.secret]] 
+
+### [Bellshill.public](/_public/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.public.md) 
+
+### [Bellshill.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.internal.md) 
+
+### [Bellshill.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.protect.md) 
+
+### [Bellshill.private](/_private/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.private.md) 
+
+### [Bellshill.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.personal.md) 
+
+### [Bellshill.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\CityBellshill.secret.md)
+

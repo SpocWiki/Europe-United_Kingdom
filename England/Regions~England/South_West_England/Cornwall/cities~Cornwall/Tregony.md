@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tregony|Tregony]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tregony.public|Tregony.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tregony.internal|Tregony.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tregony.protect|Tregony.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tregony.private|Tregony.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tregony.personal|Tregony.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tregony.secret|Tregony.secret]] 
+
+### [Tregony.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.public.md) 
+
+### [Tregony.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.internal.md) 
+
+### [Tregony.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.protect.md) 
+
+### [Tregony.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.private.md) 
+
+### [Tregony.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.personal.md) 
+
+### [Tregony.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTregony.secret.md)
+

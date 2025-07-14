@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Pevensey|Pevensey]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Pevensey.public|Pevensey.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Pevensey.internal|Pevensey.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Pevensey.protect|Pevensey.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Pevensey.private|Pevensey.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Pevensey.personal|Pevensey.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Pevensey.secret|Pevensey.secret]] 
+
+### [Pevensey.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.public.md) 
+
+### [Pevensey.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.internal.md) 
+
+### [Pevensey.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.protect.md) 
+
+### [Pevensey.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.private.md) 
+
+### [Pevensey.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.personal.md) 
+
+### [Pevensey.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Sussex~East\cities~EastSussex\Wealden\cities~WealdenPevensey.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Cheshire-East/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-East|Cheshire-East]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-East.public|Cheshire-East.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-East.internal|Cheshire-East.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-East.protect|Cheshire-East.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-East.private|Cheshire-East.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-East.personal|Cheshire-East.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Cheshire-East.secret|Cheshire-East.secret]] 
+
+### [Cheshire-East.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.public.md) 
+
+### [Cheshire-East.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.internal.md) 
+
+### [Cheshire-East.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.protect.md) 
+
+### [Cheshire-East.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.private.md) 
+
+### [Cheshire-East.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.personal.md) 
+
+### [Cheshire-East.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_EnglandCheshire-East.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Banff|Banff]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Banff.public|Banff.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Banff.internal|Banff.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Banff.protect|Banff.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Banff.private|Banff.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Banff.personal|Banff.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Banff.secret|Banff.secret]] 
+
+### [Banff.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireBanff.public.md) 
+
+### [Banff.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireBanff.internal.md) 
+
+### [Banff.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireBanff.protect.md) 
+
+### [Banff.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireBanff.private.md) 
+
+### [Banff.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireBanff.personal.md) 
+
+### [Banff.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireBanff.secret.md)
+

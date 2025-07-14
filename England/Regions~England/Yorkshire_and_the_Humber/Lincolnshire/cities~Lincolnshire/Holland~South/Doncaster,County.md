@@ -40,11 +40,16 @@ markerFolder: ./Doncaster/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Doncaster|Doncaster]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Doncaster.public|Doncaster.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Doncaster.internal|Doncaster.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Doncaster.protect|Doncaster.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Doncaster.private|Doncaster.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Doncaster.personal|Doncaster.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Doncaster.secret|Doncaster.secret]] 
+
+### [Doncaster,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~SouthDoncaster,County.public.md) 
+
+### [Doncaster,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~SouthDoncaster,County.internal.md) 
+
+### [Doncaster,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~SouthDoncaster,County.protect.md) 
+
+### [Doncaster,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~SouthDoncaster,County.private.md) 
+
+### [Doncaster,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~SouthDoncaster,County.personal.md) 
+
+### [Doncaster,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire\cities~Lincolnshire\Holland~SouthDoncaster,County.secret.md)
 

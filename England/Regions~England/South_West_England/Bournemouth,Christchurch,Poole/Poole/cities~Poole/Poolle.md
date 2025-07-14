@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Poolle|Poolle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Poolle.public|Poolle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Poolle.internal|Poolle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Poolle.protect|Poolle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Poolle.private|Poolle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Poolle.personal|Poolle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Poolle.secret|Poolle.secret]] 
+
+### [Poolle.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.public.md) 
+
+### [Poolle.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.internal.md) 
+
+### [Poolle.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.protect.md) 
+
+### [Poolle.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.private.md) 
+
+### [Poolle.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.personal.md) 
+
+### [Poolle.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,Poole\Poole\cities~PoolePoolle.secret.md)
+

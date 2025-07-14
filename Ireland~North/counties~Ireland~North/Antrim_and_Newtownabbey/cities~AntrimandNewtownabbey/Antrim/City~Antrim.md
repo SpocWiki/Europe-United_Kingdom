@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Antrim|City~Antrim]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Antrim.internal|Antrim.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Antrim.protect|Antrim.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Antrim.private|Antrim.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Antrim.personal|Antrim.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Antrim.secret|Antrim.secret]] 
+
+### [City~Antrim.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.public.md) 
+
+### [City~Antrim.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.internal.md) 
+
+### [City~Antrim.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.protect.md) 
+
+### [City~Antrim.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.private.md) 
+
+### [City~Antrim.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.personal.md) 
+
+### [City~Antrim.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbey\AntrimCity~Antrim.secret.md)
+

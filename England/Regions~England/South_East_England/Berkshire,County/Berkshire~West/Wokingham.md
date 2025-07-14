@@ -40,11 +40,16 @@ markerFolder: ./Wokingham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Wokingham|Wokingham]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Wokingham.public|Wokingham.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Wokingham.internal|Wokingham.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Wokingham.protect|Wokingham.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Wokingham.private|Wokingham.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Wokingham.personal|Wokingham.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Wokingham.secret|Wokingham.secret]] 
+
+### [Wokingham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestWokingham.public.md) 
+
+### [Wokingham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestWokingham.internal.md) 
+
+### [Wokingham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestWokingham.protect.md) 
+
+### [Wokingham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestWokingham.private.md) 
+
+### [Wokingham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestWokingham.personal.md) 
+
+### [Wokingham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestWokingham.secret.md)
 

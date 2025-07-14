@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dumbarton|Dumbarton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.public|Dumbarton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.internal|Dumbarton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.protect|Dumbarton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.private|Dumbarton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.personal|Dumbarton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dumbarton.secret|Dumbarton.secret]] 
+
+### [Dumbarton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.public.md) 
+
+### [Dumbarton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.internal.md) 
+
+### [Dumbarton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.protect.md) 
+
+### [Dumbarton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.private.md) 
+
+### [Dumbarton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.personal.md) 
+
+### [Dumbarton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireDumbarton.secret.md)
+

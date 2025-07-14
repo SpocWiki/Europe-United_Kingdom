@@ -40,11 +40,16 @@ markerFolder: ./Moray/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Moray|Moray]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Moray.public|Moray.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Moray.internal|Moray.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Moray.protect|Moray.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Moray.private|Moray.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Moray.personal|Moray.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Moray.secret|Moray.secret]] 
+
+### [Moray.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandMoray.public.md) 
+
+### [Moray.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandMoray.internal.md) 
+
+### [Moray.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandMoray.protect.md) 
+
+### [Moray.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandMoray.private.md) 
+
+### [Moray.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandMoray.personal.md) 
+
+### [Moray.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandMoray.secret.md)
 

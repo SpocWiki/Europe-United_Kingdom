@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Dorchester|Dorchester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Dorchester.public|Dorchester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Dorchester.internal|Dorchester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Dorchester.protect|Dorchester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Dorchester.private|Dorchester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Dorchester.personal|Dorchester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Dorchester.secret|Dorchester.secret]] 
+
+### [Dorchester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.public.md) 
+
+### [Dorchester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.internal.md) 
+
+### [Dorchester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.protect.md) 
+
+### [Dorchester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.private.md) 
+
+### [Dorchester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.personal.md) 
+
+### [Dorchester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Dorset\cities~Dorset\WestDorset\cities~WestDorsetDorchester.secret.md)
+

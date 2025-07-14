@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Sheffield|Sheffield]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Sheffield.public|Sheffield.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Sheffield.internal|Sheffield.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Sheffield.protect|Sheffield.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Sheffield.private|Sheffield.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Sheffield.personal|Sheffield.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Sheffield.secret|Sheffield.secret]] 
+
+### [Sheffield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.public.md) 
+
+### [Sheffield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.internal.md) 
+
+### [Sheffield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.protect.md) 
+
+### [Sheffield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.private.md) 
+
+### [Sheffield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.personal.md) 
+
+### [Sheffield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Sheffield,County\cities~SheffieldSheffield.secret.md)
+

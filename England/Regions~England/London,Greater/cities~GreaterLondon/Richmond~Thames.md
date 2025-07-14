@@ -40,11 +40,16 @@ markerFolder: ./Richmond~Thames/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames|Richmond~Thames]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames.public|Richmond~Thames.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames.internal|Richmond~Thames.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames.protect|Richmond~Thames.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames.private|Richmond~Thames.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames.personal|Richmond~Thames.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Richmond~Thames.secret|Richmond~Thames.secret]] 
+
+### [Richmond~Thames.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.public.md) 
+
+### [Richmond~Thames.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.internal.md) 
+
+### [Richmond~Thames.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.protect.md) 
+
+### [Richmond~Thames.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.private.md) 
+
+### [Richmond~Thames.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.personal.md) 
+
+### [Richmond~Thames.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonRichmond~Thames.secret.md)
 

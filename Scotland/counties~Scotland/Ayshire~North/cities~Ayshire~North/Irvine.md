@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Irvine|Irvine]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Irvine.public|Irvine.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Irvine.internal|Irvine.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Irvine.protect|Irvine.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Irvine.private|Irvine.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Irvine.personal|Irvine.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Irvine.secret|Irvine.secret]] 
+
+### [Irvine.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.public.md) 
+
+### [Irvine.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.internal.md) 
+
+### [Irvine.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.protect.md) 
+
+### [Irvine.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.private.md) 
+
+### [Irvine.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.personal.md) 
+
+### [Irvine.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayshire~North\cities~Ayshire~NorthIrvine.secret.md)
+

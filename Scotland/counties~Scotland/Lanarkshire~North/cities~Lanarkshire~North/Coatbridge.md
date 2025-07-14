@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Coatbridge|Coatbridge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.public|Coatbridge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.internal|Coatbridge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.protect|Coatbridge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.private|Coatbridge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.personal|Coatbridge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Coatbridge.secret|Coatbridge.secret]] 
+
+### [Coatbridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.public.md) 
+
+### [Coatbridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.internal.md) 
+
+### [Coatbridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.protect.md) 
+
+### [Coatbridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.private.md) 
+
+### [Coatbridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.personal.md) 
+
+### [Coatbridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthCoatbridge.secret.md)
+

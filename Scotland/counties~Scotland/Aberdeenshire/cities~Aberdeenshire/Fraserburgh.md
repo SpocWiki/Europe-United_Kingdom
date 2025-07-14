@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh|Fraserburgh]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.public|Fraserburgh.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.internal|Fraserburgh.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.protect|Fraserburgh.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.private|Fraserburgh.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.personal|Fraserburgh.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Fraserburgh.secret|Fraserburgh.secret]] 
+
+### [Fraserburgh.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireFraserburgh.public.md) 
+
+### [Fraserburgh.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireFraserburgh.internal.md) 
+
+### [Fraserburgh.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireFraserburgh.protect.md) 
+
+### [Fraserburgh.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireFraserburgh.private.md) 
+
+### [Fraserburgh.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireFraserburgh.personal.md) 
+
+### [Fraserburgh.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Aberdeenshire\cities~AberdeenshireFraserburgh.secret.md)
+

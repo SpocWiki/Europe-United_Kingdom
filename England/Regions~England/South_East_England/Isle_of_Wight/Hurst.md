@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hurst|Hurst]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hurst.public|Hurst.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hurst.internal|Hurst.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hurst.protect|Hurst.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hurst.private|Hurst.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hurst.personal|Hurst.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hurst.secret|Hurst.secret]] 
+
+### [Hurst.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightHurst.public.md) 
+
+### [Hurst.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightHurst.internal.md) 
+
+### [Hurst.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightHurst.protect.md) 
+
+### [Hurst.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightHurst.private.md) 
+
+### [Hurst.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightHurst.personal.md) 
+
+### [Hurst.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_WightHurst.secret.md)
+

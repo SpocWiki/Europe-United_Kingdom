@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Forres|Forres]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Forres.public|Forres.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Forres.internal|Forres.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Forres.protect|Forres.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Forres.private|Forres.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Forres.personal|Forres.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Forres.secret|Forres.secret]] 
+
+### [Forres.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayForres.public.md) 
+
+### [Forres.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayForres.internal.md) 
+
+### [Forres.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayForres.protect.md) 
+
+### [Forres.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayForres.private.md) 
+
+### [Forres.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayForres.personal.md) 
+
+### [Forres.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Moray\cities~MorayForres.secret.md)
+

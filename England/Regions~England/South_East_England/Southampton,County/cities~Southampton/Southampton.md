@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Southampton|Southampton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Southampton.public|Southampton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Southampton.internal|Southampton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Southampton.protect|Southampton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Southampton.private|Southampton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Southampton.personal|Southampton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Southampton.secret|Southampton.secret]] 
+
+### [Southampton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.public.md) 
+
+### [Southampton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.internal.md) 
+
+### [Southampton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.protect.md) 
+
+### [Southampton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.private.md) 
+
+### [Southampton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.personal.md) 
+
+### [Southampton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Southampton,County\cities~SouthamptonSouthampton.secret.md)
+

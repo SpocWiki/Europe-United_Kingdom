@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Keighley|Keighley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Keighley.public|Keighley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Keighley.internal|Keighley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Keighley.protect|Keighley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Keighley.private|Keighley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Keighley.personal|Keighley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Keighley.secret|Keighley.secret]] 
+
+### [Keighley.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.public.md) 
+
+### [Keighley.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.internal.md) 
+
+### [Keighley.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.protect.md) 
+
+### [Keighley.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.private.md) 
+
+### [Keighley.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.personal.md) 
+
+### [Keighley.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Bradford,County\cities~BradfordKeighley.secret.md)
+

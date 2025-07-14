@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Berry_Head|Berry_Head]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Berry_Head.public|Berry_Head.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Berry_Head.internal|Berry_Head.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Berry_Head.protect|Berry_Head.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Berry_Head.private|Berry_Head.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Berry_Head.personal|Berry_Head.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Berry_Head.secret|Berry_Head.secret]] 
+
+### [Berry_Head.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyBerry_Head.public.md) 
+
+### [Berry_Head.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyBerry_Head.internal.md) 
+
+### [Berry_Head.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyBerry_Head.protect.md) 
+
+### [Berry_Head.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyBerry_Head.private.md) 
+
+### [Berry_Head.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyBerry_Head.personal.md) 
+
+### [Berry_Head.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyBerry_Head.secret.md)
+

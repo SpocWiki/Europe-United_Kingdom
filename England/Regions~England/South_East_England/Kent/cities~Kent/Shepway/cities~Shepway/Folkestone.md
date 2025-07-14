@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Folkestone|Folkestone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Folkestone.public|Folkestone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Folkestone.internal|Folkestone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Folkestone.protect|Folkestone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Folkestone.private|Folkestone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Folkestone.personal|Folkestone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Folkestone.secret|Folkestone.secret]] 
+
+### [Folkestone.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.public.md) 
+
+### [Folkestone.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.internal.md) 
+
+### [Folkestone.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.protect.md) 
+
+### [Folkestone.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.private.md) 
+
+### [Folkestone.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.personal.md) 
+
+### [Folkestone.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Shepway\cities~ShepwayFolkestone.secret.md)
+

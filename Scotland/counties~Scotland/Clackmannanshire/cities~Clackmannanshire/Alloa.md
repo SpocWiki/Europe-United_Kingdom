@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Alloa|Alloa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Alloa.public|Alloa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Alloa.internal|Alloa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Alloa.protect|Alloa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Alloa.private|Alloa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Alloa.personal|Alloa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Alloa.secret|Alloa.secret]] 
+
+### [Alloa.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.public.md) 
+
+### [Alloa.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.internal.md) 
+
+### [Alloa.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.protect.md) 
+
+### [Alloa.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.private.md) 
+
+### [Alloa.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.personal.md) 
+
+### [Alloa.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Clackmannanshire\cities~ClackmannanshireAlloa.secret.md)
+

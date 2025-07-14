@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Ladbroke_Grove|Sub~Ladbroke_Grove]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Ladbroke_Grove.public|Sub~Ladbroke_Grove.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Ladbroke_Grove.internal|Sub~Ladbroke_Grove.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Ladbroke_Grove.protect|Sub~Ladbroke_Grove.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Ladbroke_Grove.private|Sub~Ladbroke_Grove.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Ladbroke_Grove.personal|Sub~Ladbroke_Grove.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Ladbroke_Grove.secret|Sub~Ladbroke_Grove.secret]] 
+
+### [Sub~Ladbroke_Grove.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ladbroke_Grove.public.md) 
+
+### [Sub~Ladbroke_Grove.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ladbroke_Grove.internal.md) 
+
+### [Sub~Ladbroke_Grove.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ladbroke_Grove.protect.md) 
+
+### [Sub~Ladbroke_Grove.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ladbroke_Grove.private.md) 
+
+### [Sub~Ladbroke_Grove.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ladbroke_Grove.personal.md) 
+
+### [Sub~Ladbroke_Grove.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Ladbroke_Grove.secret.md)
+

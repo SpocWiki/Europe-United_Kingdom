@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Cardigan|Cardigan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Cardigan.public|Cardigan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Cardigan.internal|Cardigan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Cardigan.protect|Cardigan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Cardigan.private|Cardigan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Cardigan.personal|Cardigan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Cardigan.secret|Cardigan.secret]] 
+
+### [Cardigan.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionCardigan.public.md) 
+
+### [Cardigan.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionCardigan.internal.md) 
+
+### [Cardigan.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionCardigan.protect.md) 
+
+### [Cardigan.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionCardigan.private.md) 
+
+### [Cardigan.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionCardigan.personal.md) 
+
+### [Cardigan.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Ceredigion\cities~CeredigionCardigan.secret.md)
+

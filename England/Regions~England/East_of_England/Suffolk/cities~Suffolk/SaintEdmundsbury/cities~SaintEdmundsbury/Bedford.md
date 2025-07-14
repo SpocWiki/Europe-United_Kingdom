@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bedford|Bedford]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bedford.public|Bedford.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bedford.internal|Bedford.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bedford.protect|Bedford.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bedford.private|Bedford.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bedford.personal|Bedford.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bedford.secret|Bedford.secret]] 
+
+### [Bedford.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.public.md) 
+
+### [Bedford.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.internal.md) 
+
+### [Bedford.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.protect.md) 
+
+### [Bedford.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.private.md) 
+
+### [Bedford.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.personal.md) 
+
+### [Bedford.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\SaintEdmundsbury\cities~SaintEdmundsburyBedford.secret.md)
+

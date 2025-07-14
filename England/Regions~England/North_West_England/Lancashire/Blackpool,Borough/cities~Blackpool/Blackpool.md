@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Blackpool|Blackpool]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Blackpool.public|Blackpool.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Blackpool.internal|Blackpool.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Blackpool.protect|Blackpool.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Blackpool.private|Blackpool.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Blackpool.personal|Blackpool.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Blackpool.secret|Blackpool.secret]] 
+
+### [Blackpool.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackpool,Borough\cities~BlackpoolBlackpool.public.md) 
+
+### [Blackpool.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackpool,Borough\cities~BlackpoolBlackpool.internal.md) 
+
+### [Blackpool.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackpool,Borough\cities~BlackpoolBlackpool.protect.md) 
+
+### [Blackpool.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackpool,Borough\cities~BlackpoolBlackpool.private.md) 
+
+### [Blackpool.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackpool,Borough\cities~BlackpoolBlackpool.personal.md) 
+
+### [Blackpool.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Lancashire\Blackpool,Borough\cities~BlackpoolBlackpool.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Montgomery~UK|Montgomery~UK]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Montgomery~UK.public|Montgomery~UK.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Montgomery~UK.internal|Montgomery~UK.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Montgomery~UK.protect|Montgomery~UK.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Montgomery~UK.private|Montgomery~UK.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Montgomery~UK.personal|Montgomery~UK.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Montgomery~UK.secret|Montgomery~UK.secret]] 
+
+### [Montgomery~UK.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.public.md) 
+
+### [Montgomery~UK.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.internal.md) 
+
+### [Montgomery~UK.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.protect.md) 
+
+### [Montgomery~UK.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.private.md) 
+
+### [Montgomery~UK.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.personal.md) 
+
+### [Montgomery~UK.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Powys\cities~PowysMontgomery~UK.secret.md)
+

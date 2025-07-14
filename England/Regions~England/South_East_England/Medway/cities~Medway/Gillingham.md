@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Gillingham|Gillingham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Gillingham.public|Gillingham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Gillingham.internal|Gillingham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Gillingham.protect|Gillingham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Gillingham.private|Gillingham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Gillingham.personal|Gillingham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Gillingham.secret|Gillingham.secret]] 
+
+### [Gillingham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.public.md) 
+
+### [Gillingham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.internal.md) 
+
+### [Gillingham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.protect.md) 
+
+### [Gillingham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.private.md) 
+
+### [Gillingham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.personal.md) 
+
+### [Gillingham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Medway\cities~MedwayGillingham.secret.md)
+

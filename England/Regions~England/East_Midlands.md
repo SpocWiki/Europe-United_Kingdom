@@ -14,3 +14,20 @@ aliases:
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [East_Midlands.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_Midlands.public.md) 
+
+### [East_Midlands.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_Midlands.internal.md) 
+
+### [East_Midlands.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_Midlands.protect.md) 
+
+### [East_Midlands.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_Midlands.private.md) 
+
+### [East_Midlands.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_Midlands.personal.md) 
+
+### [East_Midlands.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~EnglandEast_Midlands.secret.md)
+

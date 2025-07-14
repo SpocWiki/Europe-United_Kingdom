@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Rye|Rye]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Rye.public|Rye.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Rye.internal|Rye.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Rye.protect|Rye.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Rye.private|Rye.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Rye.personal|Rye.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Rye.secret|Rye.secret]] 
+
+### [Rye(UK).public](/_public/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).public.md) 
+
+### [Rye(UK).internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).internal.md) 
+
+### [Rye(UK).protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).protect.md) 
+
+### [Rye(UK).private](/_private/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).private.md) 
+
+### [Rye(UK).personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).personal.md) 
+
+### [Rye(UK).secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\CityRye(UK).secret.md)
+

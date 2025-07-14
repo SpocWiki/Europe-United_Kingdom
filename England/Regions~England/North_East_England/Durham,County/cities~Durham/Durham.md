@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Durham|Durham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Durham.public|Durham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Durham.internal|Durham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Durham.protect|Durham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Durham.private|Durham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Durham.personal|Durham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Durham.secret|Durham.secret]] 
+
+### [Durham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.public.md) 
+
+### [Durham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.internal.md) 
+
+### [Durham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.protect.md) 
+
+### [Durham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.private.md) 
+
+### [Durham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.personal.md) 
+
+### [Durham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,County\cities~DurhamDurham.secret.md)
+

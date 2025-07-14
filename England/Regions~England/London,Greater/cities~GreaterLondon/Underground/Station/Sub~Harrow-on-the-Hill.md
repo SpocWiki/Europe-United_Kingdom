@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill|Sub~Harrow-on-the-Hill]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.public|Sub~Harrow-on-the-Hill.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.internal|Sub~Harrow-on-the-Hill.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.protect|Sub~Harrow-on-the-Hill.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.private|Sub~Harrow-on-the-Hill.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.personal|Sub~Harrow-on-the-Hill.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Harrow-on-the-Hill.secret|Sub~Harrow-on-the-Hill.secret]] 
+
+### [Sub~Harrow-on-the-Hill.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow-on-the-Hill.public.md) 
+
+### [Sub~Harrow-on-the-Hill.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow-on-the-Hill.internal.md) 
+
+### [Sub~Harrow-on-the-Hill.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow-on-the-Hill.protect.md) 
+
+### [Sub~Harrow-on-the-Hill.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow-on-the-Hill.private.md) 
+
+### [Sub~Harrow-on-the-Hill.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow-on-the-Hill.personal.md) 
+
+### [Sub~Harrow-on-the-Hill.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Harrow-on-the-Hill.secret.md)
+

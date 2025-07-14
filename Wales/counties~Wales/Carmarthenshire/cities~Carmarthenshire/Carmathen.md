@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Carmathen|Carmathen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Carmathen.public|Carmathen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Carmathen.internal|Carmathen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Carmathen.protect|Carmathen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Carmathen.private|Carmathen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Carmathen.personal|Carmathen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Carmathen.secret|Carmathen.secret]] 
+
+### [Carmathen.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.public.md) 
+
+### [Carmathen.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.internal.md) 
+
+### [Carmathen.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.protect.md) 
+
+### [Carmathen.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.private.md) 
+
+### [Carmathen.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.personal.md) 
+
+### [Carmathen.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Carmarthenshire\cities~CarmarthenshireCarmathen.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme|Newcastle_under_Lyme]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.public|Newcastle_under_Lyme.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.internal|Newcastle_under_Lyme.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.protect|Newcastle_under_Lyme.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.private|Newcastle_under_Lyme.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.personal|Newcastle_under_Lyme.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Newcastle_under_Lyme.secret|Newcastle_under_Lyme.secret]] 
+
+### [Newcastle_under_Lyme.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentNewcastle_under_Lyme.public.md) 
+
+### [Newcastle_under_Lyme.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentNewcastle_under_Lyme.internal.md) 
+
+### [Newcastle_under_Lyme.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentNewcastle_under_Lyme.protect.md) 
+
+### [Newcastle_under_Lyme.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentNewcastle_under_Lyme.private.md) 
+
+### [Newcastle_under_Lyme.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentNewcastle_under_Lyme.personal.md) 
+
+### [Newcastle_under_Lyme.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentNewcastle_under_Lyme.secret.md)
+

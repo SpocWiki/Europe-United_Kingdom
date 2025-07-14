@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Epsom|Epsom]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Epsom.public|Epsom.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Epsom.internal|Epsom.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Epsom.protect|Epsom.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Epsom.private|Epsom.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Epsom.personal|Epsom.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Epsom.secret|Epsom.secret]] 
+
+### [Epsom.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.public.md) 
+
+### [Epsom.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.internal.md) 
+
+### [Epsom.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.protect.md) 
+
+### [Epsom.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.private.md) 
+
+### [Epsom.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.personal.md) 
+
+### [Epsom.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Surrey,County\cities~Surrey\EpsomandEwell\cities~EpsomandEwellEpsom.secret.md)
+

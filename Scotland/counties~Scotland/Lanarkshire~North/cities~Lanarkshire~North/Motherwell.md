@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Motherwell|Motherwell]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Motherwell.public|Motherwell.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Motherwell.internal|Motherwell.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Motherwell.protect|Motherwell.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Motherwell.private|Motherwell.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Motherwell.personal|Motherwell.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Motherwell.secret|Motherwell.secret]] 
+
+### [Motherwell.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.public.md) 
+
+### [Motherwell.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.internal.md) 
+
+### [Motherwell.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.protect.md) 
+
+### [Motherwell.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.private.md) 
+
+### [Motherwell.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.personal.md) 
+
+### [Motherwell.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lanarkshire~North\cities~Lanarkshire~NorthMotherwell.secret.md)
+

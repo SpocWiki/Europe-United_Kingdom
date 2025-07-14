@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Andover|Andover]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Andover.public|Andover.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Andover.internal|Andover.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Andover.protect|Andover.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Andover.private|Andover.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Andover.personal|Andover.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Andover.secret|Andover.secret]] 
+
+### [Andover.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.public.md) 
+
+### [Andover.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.internal.md) 
+
+### [Andover.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.protect.md) 
+
+### [Andover.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.private.md) 
+
+### [Andover.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.personal.md) 
+
+### [Andover.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\TestValley\cities~TestValleyAndover.secret.md)
+

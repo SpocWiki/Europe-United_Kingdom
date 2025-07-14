@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Rotherham|Rotherham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Rotherham.public|Rotherham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Rotherham.internal|Rotherham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Rotherham.protect|Rotherham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Rotherham.private|Rotherham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Rotherham.personal|Rotherham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Rotherham.secret|Rotherham.secret]] 
+
+### [Rotherham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.public.md) 
+
+### [Rotherham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.internal.md) 
+
+### [Rotherham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.protect.md) 
+
+### [Rotherham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.private.md) 
+
+### [Rotherham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.personal.md) 
+
+### [Rotherham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Rotherham,County\cities~RotherhamRotherham.secret.md)
+

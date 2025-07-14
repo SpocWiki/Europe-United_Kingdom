@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Start_Point|Start_Point]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Start_Point.public|Start_Point.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Start_Point.internal|Start_Point.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Start_Point.protect|Start_Point.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Start_Point.private|Start_Point.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Start_Point.personal|Start_Point.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Start_Point.secret|Start_Point.secret]] 
+
+### [Start_Point.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyStart_Point.public.md) 
+
+### [Start_Point.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyStart_Point.internal.md) 
+
+### [Start_Point.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyStart_Point.protect.md) 
+
+### [Start_Point.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyStart_Point.private.md) 
+
+### [Start_Point.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyStart_Point.personal.md) 
+
+### [Start_Point.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,CountyStart_Point.secret.md)
+

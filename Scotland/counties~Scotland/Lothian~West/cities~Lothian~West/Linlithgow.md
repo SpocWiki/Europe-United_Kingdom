@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Linlithgow|Linlithgow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Linlithgow.public|Linlithgow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Linlithgow.internal|Linlithgow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Linlithgow.protect|Linlithgow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Linlithgow.private|Linlithgow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Linlithgow.personal|Linlithgow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Linlithgow.secret|Linlithgow.secret]] 
+
+### [Linlithgow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.public.md) 
+
+### [Linlithgow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.internal.md) 
+
+### [Linlithgow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.protect.md) 
+
+### [Linlithgow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.private.md) 
+
+### [Linlithgow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.personal.md) 
+
+### [Linlithgow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Lothian~West\cities~Lothian~WestLinlithgow.secret.md)
+

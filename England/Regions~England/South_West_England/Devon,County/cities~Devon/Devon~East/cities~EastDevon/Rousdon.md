@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Rousdon|Rousdon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Rousdon.public|Rousdon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Rousdon.internal|Rousdon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Rousdon.protect|Rousdon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Rousdon.private|Rousdon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Rousdon.personal|Rousdon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Rousdon.secret|Rousdon.secret]] 
+
+### [Rousdon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.public.md) 
+
+### [Rousdon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.internal.md) 
+
+### [Rousdon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.protect.md) 
+
+### [Rousdon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.private.md) 
+
+### [Rousdon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.personal.md) 
+
+### [Rousdon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Devon,County\cities~Devon\Devon~East\cities~EastDevonRousdon.secret.md)
+

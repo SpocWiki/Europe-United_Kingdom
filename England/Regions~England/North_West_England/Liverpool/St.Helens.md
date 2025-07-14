@@ -14,3 +14,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/St%20Helens,%20Merseyside)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [St.Helens.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LiverpoolSt.Helens.public.md) 
+
+### [St.Helens.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LiverpoolSt.Helens.internal.md) 
+
+### [St.Helens.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LiverpoolSt.Helens.protect.md) 
+
+### [St.Helens.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LiverpoolSt.Helens.private.md) 
+
+### [St.Helens.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LiverpoolSt.Helens.personal.md) 
+
+### [St.Helens.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\LiverpoolSt.Helens.secret.md)
+

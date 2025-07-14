@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Broadstairs|Broadstairs]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.public|Broadstairs.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.internal|Broadstairs.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.protect|Broadstairs.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.private|Broadstairs.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.personal|Broadstairs.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Broadstairs.secret|Broadstairs.secret]] 
+
+### [Broadstairs.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~KentBroadstairs.public.md) 
+
+### [Broadstairs.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~KentBroadstairs.internal.md) 
+
+### [Broadstairs.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~KentBroadstairs.protect.md) 
+
+### [Broadstairs.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~KentBroadstairs.private.md) 
+
+### [Broadstairs.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~KentBroadstairs.personal.md) 
+
+### [Broadstairs.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~KentBroadstairs.secret.md)
+

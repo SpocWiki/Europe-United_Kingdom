@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Swindon|Swindon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Swindon.public|Swindon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Swindon.internal|Swindon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Swindon.protect|Swindon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Swindon.private|Swindon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Swindon.personal|Swindon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Swindon.secret|Swindon.secret]] 
+
+### [Swindon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.public.md) 
+
+### [Swindon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.internal.md) 
+
+### [Swindon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.protect.md) 
+
+### [Swindon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.private.md) 
+
+### [Swindon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.personal.md) 
+
+### [Swindon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Swindon,County\cities~SwindonSwindon.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Truro|Truro]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Truro.public|Truro.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Truro.internal|Truro.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Truro.protect|Truro.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Truro.private|Truro.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Truro.personal|Truro.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Truro.secret|Truro.secret]] 
+
+### [Truro.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTruro.public.md) 
+
+### [Truro.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTruro.internal.md) 
+
+### [Truro.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTruro.protect.md) 
+
+### [Truro.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTruro.private.md) 
+
+### [Truro.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTruro.personal.md) 
+
+### [Truro.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Cornwall\cities~CornwallTruro.secret.md)
+

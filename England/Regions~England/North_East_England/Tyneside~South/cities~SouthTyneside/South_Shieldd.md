@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd|South_Shieldd]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.public|South_Shieldd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.internal|South_Shieldd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.protect|South_Shieldd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.private|South_Shieldd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.personal|South_Shieldd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/South_Shieldd.secret|South_Shieldd.secret]] 
+
+### [South_Shieldd.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~South\cities~SouthTynesideSouth_Shieldd.public.md) 
+
+### [South_Shieldd.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~South\cities~SouthTynesideSouth_Shieldd.internal.md) 
+
+### [South_Shieldd.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~South\cities~SouthTynesideSouth_Shieldd.protect.md) 
+
+### [South_Shieldd.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~South\cities~SouthTynesideSouth_Shieldd.private.md) 
+
+### [South_Shieldd.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~South\cities~SouthTynesideSouth_Shieldd.personal.md) 
+
+### [South_Shieldd.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Tyneside~South\cities~SouthTynesideSouth_Shieldd.secret.md)
+

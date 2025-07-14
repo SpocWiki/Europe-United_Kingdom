@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Eton|Eton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Eton.public|Eton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Eton.internal|Eton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Eton.protect|Eton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Eton.private|Eton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Eton.personal|Eton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Eton.secret|Eton.secret]] 
+
+### [Eton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughEton.public.md) 
+
+### [Eton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughEton.internal.md) 
+
+### [Eton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughEton.protect.md) 
+
+### [Eton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughEton.private.md) 
+
+### [Eton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughEton.personal.md) 
+
+### [Eton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\Slough,County\cities~SloughEton.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./North_Somerset/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/North_Somerset|North_Somerset]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/North_Somerset.public|North_Somerset.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/North_Somerset.internal|North_Somerset.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/North_Somerset.protect|North_Somerset.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/North_Somerset.private|North_Somerset.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/North_Somerset.personal|North_Somerset.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/North_Somerset.secret|North_Somerset.secret]] 
+
+### [Somerset~North.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.public.md) 
+
+### [Somerset~North.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.internal.md) 
+
+### [Somerset~North.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.protect.md) 
+
+### [Somerset~North.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.private.md) 
+
+### [Somerset~North.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.personal.md) 
+
+### [Somerset~North.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_EnglandSomerset~North.secret.md)
 

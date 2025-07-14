@@ -22,3 +22,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Newport,%20Wales)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Newport,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Newport,CountyNewport,City.public.md) 
+
+### [Newport,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Newport,CountyNewport,City.internal.md) 
+
+### [Newport,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Newport,CountyNewport,City.protect.md) 
+
+### [Newport,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Newport,CountyNewport,City.private.md) 
+
+### [Newport,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Newport,CountyNewport,City.personal.md) 
+
+### [Newport,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Newport,CountyNewport,City.secret.md)
+

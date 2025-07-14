@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tipton|Tipton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tipton.public|Tipton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tipton.internal|Tipton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tipton.protect|Tipton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tipton.private|Tipton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tipton.personal|Tipton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tipton.secret|Tipton.secret]] 
+
+### [Tipton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.public.md) 
+
+### [Tipton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.internal.md) 
+
+### [Tipton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.protect.md) 
+
+### [Tipton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.private.md) 
+
+### [Tipton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.personal.md) 
+
+### [Tipton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Sandwell\cities~SandwellTipton.secret.md)
+

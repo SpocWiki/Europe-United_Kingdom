@@ -23,7 +23,7 @@ expiryDate:
 aliases:
 - Isle of Man
 - Isla de Man
-- Île de Man
+- ï¿½le de Man
 - ????? ???
 - ???
 - ?????? ???
@@ -49,7 +49,7 @@ Languages:
 [	name	 :: Isle of Man ]
 [	name-en	 :: Isle of Man ]
 [	name-es	 :: Isla de Man ]
-[	name-fr	 :: Île de Man ]
+[	name-fr	 :: ï¿½le de Man ]
 [	name-cn	 :: ??? ]
 [	name-ar	 :: ????? ??? ]
 [	name-ru	 :: ?????? ??? ]
@@ -124,13 +124,17 @@ has_place_continent:: [[Europe]]
 [has_place_latitude::54.25]
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Isle_of_Man|Isle_of_Man]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.public|Isle_of_Man.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.internal|Isle_of_Man.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.protect|Isle_of_Man.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.private|Isle_of_Man.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.personal|Isle_of_Man.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Isle_of_Man.secret|Isle_of_Man.secret]] 
+
+### [Isle_of_Man.public](/_public/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.public.md) 
+
+### [Isle_of_Man.internal](/_internal/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.internal.md) 
+
+### [Isle_of_Man.protect](/_protect/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.protect.md) 
+
+### [Isle_of_Man.private](/_private/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.private.md) 
+
+### [Isle_of_Man.personal](/_personal/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.personal.md) 
+
+### [Isle_of_Man.secret](/_secret/\Earth\Continent\Europe\Europe~North\UKIsle_of_Man.secret.md)
 

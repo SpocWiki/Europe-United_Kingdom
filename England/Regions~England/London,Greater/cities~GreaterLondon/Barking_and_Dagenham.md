@@ -40,11 +40,16 @@ markerFolder: ./Barking_and_Dagenham/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Barking_and_Dagenham|Barking_and_Dagenham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Barking_and_Dagenham.public|Barking_and_Dagenham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Barking_and_Dagenham.internal|Barking_and_Dagenham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Barking_and_Dagenham.protect|Barking_and_Dagenham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Barking_and_Dagenham.private|Barking_and_Dagenham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Barking_and_Dagenham.personal|Barking_and_Dagenham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Barking_and_Dagenham.secret|Barking_and_Dagenham.secret]] 
+
+### [Barking_and_Dagenham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBarking_and_Dagenham.public.md) 
+
+### [Barking_and_Dagenham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBarking_and_Dagenham.internal.md) 
+
+### [Barking_and_Dagenham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBarking_and_Dagenham.protect.md) 
+
+### [Barking_and_Dagenham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBarking_and_Dagenham.private.md) 
+
+### [Barking_and_Dagenham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBarking_and_Dagenham.personal.md) 
+
+### [Barking_and_Dagenham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondonBarking_and_Dagenham.secret.md)
 

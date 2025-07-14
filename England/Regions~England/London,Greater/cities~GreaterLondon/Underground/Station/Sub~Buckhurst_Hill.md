@@ -39,11 +39,18 @@ TABLE
 FROM [[]] 
 ```
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Buckhurst_Hill|Sub~Buckhurst_Hill]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Buckhurst_Hill.public|Sub~Buckhurst_Hill.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Buckhurst_Hill.internal|Sub~Buckhurst_Hill.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Buckhurst_Hill.protect|Sub~Buckhurst_Hill.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Buckhurst_Hill.private|Sub~Buckhurst_Hill.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Buckhurst_Hill.personal|Sub~Buckhurst_Hill.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Station/Sub~Buckhurst_Hill.secret|Sub~Buckhurst_Hill.secret]] 
+
+### [Sub~Buckhurst_Hill.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Buckhurst_Hill.public.md) 
+
+### [Sub~Buckhurst_Hill.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Buckhurst_Hill.internal.md) 
+
+### [Sub~Buckhurst_Hill.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Buckhurst_Hill.protect.md) 
+
+### [Sub~Buckhurst_Hill.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Buckhurst_Hill.private.md) 
+
+### [Sub~Buckhurst_Hill.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Buckhurst_Hill.personal.md) 
+
+### [Sub~Buckhurst_Hill.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\Underground\StationSub~Buckhurst_Hill.secret.md)
+

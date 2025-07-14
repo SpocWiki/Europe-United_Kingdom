@@ -40,11 +40,16 @@ markerFolder: ./Ards/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards|Ards]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.public|Ards.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.internal|Ards.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.protect|Ards.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.private|Ards.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.personal|Ards.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Ards.secret|Ards.secret]] 
+
+### [Ards.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.public.md) 
+
+### [Ards.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.internal.md) 
+
+### [Ards.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.protect.md) 
+
+### [Ards.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.private.md) 
+
+### [Ards.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.personal.md) 
+
+### [Ards.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Ards_and_North_Down\cities~Ards_and_North_DownArds.secret.md)
 

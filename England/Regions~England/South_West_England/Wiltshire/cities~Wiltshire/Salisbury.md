@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Salisbury|Salisbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Salisbury.public|Salisbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Salisbury.internal|Salisbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Salisbury.protect|Salisbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Salisbury.private|Salisbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Salisbury.personal|Salisbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Salisbury.secret|Salisbury.secret]] 
+
+### [Salisbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.public.md) 
+
+### [Salisbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.internal.md) 
+
+### [Salisbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.protect.md) 
+
+### [Salisbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.private.md) 
+
+### [Salisbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.personal.md) 
+
+### [Salisbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireSalisbury.secret.md)
+

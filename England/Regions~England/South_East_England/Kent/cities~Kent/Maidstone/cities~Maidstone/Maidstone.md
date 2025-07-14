@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Maidstone|Maidstone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Maidstone.public|Maidstone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Maidstone.internal|Maidstone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Maidstone.protect|Maidstone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Maidstone.private|Maidstone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Maidstone.personal|Maidstone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Maidstone.secret|Maidstone.secret]] 
+
+### [Maidstone.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.public.md) 
+
+### [Maidstone.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.internal.md) 
+
+### [Maidstone.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.protect.md) 
+
+### [Maidstone.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.private.md) 
+
+### [Maidstone.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.personal.md) 
+
+### [Maidstone.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Maidstone\cities~MaidstoneMaidstone.secret.md)
+

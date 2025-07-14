@@ -40,11 +40,16 @@ markerFolder: ./Stockton-on-Tees/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees|Stockton-on-Tees]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.public|Stockton-on-Tees.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.internal|Stockton-on-Tees.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.protect|Stockton-on-Tees.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.private|Stockton-on-Tees.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.personal|Stockton-on-Tees.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Stockton-on-Tees.secret|Stockton-on-Tees.secret]] 
+
+### [Stockton-on-Tees,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandStockton-on-Tees,County.public.md) 
+
+### [Stockton-on-Tees,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandStockton-on-Tees,County.internal.md) 
+
+### [Stockton-on-Tees,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandStockton-on-Tees,County.protect.md) 
+
+### [Stockton-on-Tees,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandStockton-on-Tees,County.private.md) 
+
+### [Stockton-on-Tees,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandStockton-on-Tees,County.personal.md) 
+
+### [Stockton-on-Tees,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_EnglandStockton-on-Tees,County.secret.md)
 

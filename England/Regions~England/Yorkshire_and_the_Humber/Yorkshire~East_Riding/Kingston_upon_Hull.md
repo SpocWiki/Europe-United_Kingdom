@@ -40,11 +40,16 @@ markerFolder: ./Kingston_upon_Hull/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Kingston_upon_Hull|Kingston_upon_Hull]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Kingston_upon_Hull.public|Kingston_upon_Hull.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Kingston_upon_Hull.internal|Kingston_upon_Hull.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Kingston_upon_Hull.protect|Kingston_upon_Hull.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Kingston_upon_Hull.private|Kingston_upon_Hull.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Kingston_upon_Hull.personal|Kingston_upon_Hull.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Kingston_upon_Hull.secret|Kingston_upon_Hull.secret]] 
+
+### [Kingston_upon_Hull.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingKingston_upon_Hull.public.md) 
+
+### [Kingston_upon_Hull.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingKingston_upon_Hull.internal.md) 
+
+### [Kingston_upon_Hull.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingKingston_upon_Hull.protect.md) 
+
+### [Kingston_upon_Hull.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingKingston_upon_Hull.private.md) 
+
+### [Kingston_upon_Hull.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingKingston_upon_Hull.personal.md) 
+
+### [Kingston_upon_Hull.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~East_RidingKingston_upon_Hull.secret.md)
 

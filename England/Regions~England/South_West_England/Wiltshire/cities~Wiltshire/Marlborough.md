@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Marlborough|Marlborough]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Marlborough.public|Marlborough.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Marlborough.internal|Marlborough.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Marlborough.protect|Marlborough.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Marlborough.private|Marlborough.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Marlborough.personal|Marlborough.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Marlborough.secret|Marlborough.secret]] 
+
+### [Marlborough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.public.md) 
+
+### [Marlborough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.internal.md) 
+
+### [Marlborough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.protect.md) 
+
+### [Marlborough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.private.md) 
+
+### [Marlborough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.personal.md) 
+
+### [Marlborough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Wiltshire\cities~WiltshireMarlborough.secret.md)
+

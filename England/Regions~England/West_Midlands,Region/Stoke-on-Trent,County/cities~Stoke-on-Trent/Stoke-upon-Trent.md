@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Stoke-upon-Trent|Stoke-upon-Trent]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Stoke-upon-Trent.public|Stoke-upon-Trent.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Stoke-upon-Trent.internal|Stoke-upon-Trent.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Stoke-upon-Trent.protect|Stoke-upon-Trent.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Stoke-upon-Trent.private|Stoke-upon-Trent.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Stoke-upon-Trent.personal|Stoke-upon-Trent.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Stoke-upon-Trent.secret|Stoke-upon-Trent.secret]] 
+
+### [Stoke-upon-Trent.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.public.md) 
+
+### [Stoke-upon-Trent.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.internal.md) 
+
+### [Stoke-upon-Trent.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.protect.md) 
+
+### [Stoke-upon-Trent.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.private.md) 
+
+### [Stoke-upon-Trent.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.personal.md) 
+
+### [Stoke-upon-Trent.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Stoke-on-Trent,County\cities~Stoke-on-TrentStoke-upon-Trent.secret.md)
+

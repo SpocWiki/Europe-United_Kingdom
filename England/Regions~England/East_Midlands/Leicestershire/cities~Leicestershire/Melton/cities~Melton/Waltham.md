@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Waltham|Waltham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Waltham.public|Waltham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Waltham.internal|Waltham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Waltham.protect|Waltham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Waltham.private|Waltham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Waltham.personal|Waltham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Waltham.secret|Waltham.secret]] 
+
+### [Waltham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.public.md) 
+
+### [Waltham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.internal.md) 
+
+### [Waltham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.protect.md) 
+
+### [Waltham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.private.md) 
+
+### [Waltham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.personal.md) 
+
+### [Waltham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Leicestershire\cities~Leicestershire\Melton\cities~MeltonWaltham.secret.md)
+

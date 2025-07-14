@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bangor|Bangor]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bangor.public|Bangor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bangor.internal|Bangor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bangor.protect|Bangor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bangor.private|Bangor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bangor.personal|Bangor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bangor.secret|Bangor.secret]] 
+
+### [Bangor.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddBangor.public.md) 
+
+### [Bangor.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddBangor.internal.md) 
+
+### [Bangor.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddBangor.protect.md) 
+
+### [Bangor.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddBangor.private.md) 
+
+### [Bangor.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddBangor.personal.md) 
+
+### [Bangor.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Gwynedd\cities~GwyneddBangor.secret.md)
+

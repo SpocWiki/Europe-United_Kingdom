@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Harrogate|Harrogate]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Harrogate.public|Harrogate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Harrogate.internal|Harrogate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Harrogate.protect|Harrogate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Harrogate.private|Harrogate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Harrogate.personal|Harrogate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Harrogate.secret|Harrogate.secret]] 
+
+### [Harrogate.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Harrogate\cities~HarrogateHarrogate.public.md) 
+
+### [Harrogate.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Harrogate\cities~HarrogateHarrogate.internal.md) 
+
+### [Harrogate.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Harrogate\cities~HarrogateHarrogate.protect.md) 
+
+### [Harrogate.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Harrogate\cities~HarrogateHarrogate.private.md) 
+
+### [Harrogate.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Harrogate\cities~HarrogateHarrogate.personal.md) 
+
+### [Harrogate.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~North\cities~NorthYorkshire\Harrogate\cities~HarrogateHarrogate.secret.md)
+

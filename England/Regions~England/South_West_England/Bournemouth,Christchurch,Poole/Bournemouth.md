@@ -56,11 +56,16 @@ markerFolder: ./Bournemouth/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Bournemouth|Bournemouth]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Bournemouth.public|Bournemouth.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bournemouth.internal|Bournemouth.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Bournemouth.protect|Bournemouth.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Bournemouth.private|Bournemouth.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Bournemouth.personal|Bournemouth.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Bournemouth.secret|Bournemouth.secret]] 
+
+### [Bournemouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.public.md) 
+
+### [Bournemouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.internal.md) 
+
+### [Bournemouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.protect.md) 
+
+### [Bournemouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.private.md) 
+
+### [Bournemouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.personal.md) 
+
+### [Bournemouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bournemouth,Christchurch,PooleBournemouth.secret.md)
 

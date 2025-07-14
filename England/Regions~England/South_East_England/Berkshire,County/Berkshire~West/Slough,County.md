@@ -40,11 +40,16 @@ markerFolder: ./Slough/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Slough|Slough]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Slough.public|Slough.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Slough.internal|Slough.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Slough.protect|Slough.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Slough.private|Slough.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Slough.personal|Slough.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Slough.secret|Slough.secret]] 
+
+### [Slough,County.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestSlough,County.public.md) 
+
+### [Slough,County.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestSlough,County.internal.md) 
+
+### [Slough,County.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestSlough,County.protect.md) 
+
+### [Slough,County.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestSlough,County.private.md) 
+
+### [Slough,County.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestSlough,County.personal.md) 
+
+### [Slough,County.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~WestSlough,County.secret.md)
 

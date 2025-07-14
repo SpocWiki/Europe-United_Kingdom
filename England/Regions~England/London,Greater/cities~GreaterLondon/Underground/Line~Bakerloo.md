@@ -80,12 +80,17 @@ markerFolder: ./Station/
 25)[[Station/Sub~Elephant_&_Castle]]  
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Bakerloo|Line~Bakerloo]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Bakerloo.public|Line~Bakerloo.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Bakerloo.internal|Line~Bakerloo.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Bakerloo.protect|Line~Bakerloo.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Bakerloo.private|Line~Bakerloo.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Bakerloo.personal|Line~Bakerloo.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/London~Greater/Underground/Line~Bakerloo.secret|Line~Bakerloo.secret]] 
+
+### [Line~Bakerloo.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.public.md) 
+
+### [Line~Bakerloo.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.internal.md) 
+
+### [Line~Bakerloo.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.protect.md) 
+
+### [Line~Bakerloo.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.private.md) 
+
+### [Line~Bakerloo.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.personal.md) 
+
+### [Line~Bakerloo.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\London,Greater\cities~GreaterLondon\UndergroundLine~Bakerloo.secret.md)
+

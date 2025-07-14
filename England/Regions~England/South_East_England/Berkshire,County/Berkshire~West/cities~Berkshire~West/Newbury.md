@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Newbury|Newbury]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Newbury.public|Newbury.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Newbury.internal|Newbury.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Newbury.protect|Newbury.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Newbury.private|Newbury.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Newbury.personal|Newbury.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Newbury.secret|Newbury.secret]] 
+
+### [Newbury.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.public.md) 
+
+### [Newbury.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.internal.md) 
+
+### [Newbury.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.protect.md) 
+
+### [Newbury.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.private.md) 
+
+### [Newbury.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.personal.md) 
+
+### [Newbury.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Berkshire,County\Berkshire~West\cities~Berkshire~WestNewbury.secret.md)
+

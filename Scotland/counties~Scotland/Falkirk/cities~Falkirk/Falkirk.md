@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Falkirk|Falkirk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Falkirk.public|Falkirk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Falkirk.internal|Falkirk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Falkirk.protect|Falkirk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Falkirk.private|Falkirk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Falkirk.personal|Falkirk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Falkirk.secret|Falkirk.secret]] 
+
+### [Falkirk.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.public.md) 
+
+### [Falkirk.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.internal.md) 
+
+### [Falkirk.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.protect.md) 
+
+### [Falkirk.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.private.md) 
+
+### [Falkirk.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.personal.md) 
+
+### [Falkirk.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Falkirk\cities~FalkirkFalkirk.secret.md)
+

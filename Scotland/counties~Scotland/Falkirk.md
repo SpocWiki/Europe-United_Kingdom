@@ -40,11 +40,16 @@ markerFolder: ./Falkirk/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Falkirk|Falkirk]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Falkirk.public|Falkirk.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Falkirk.internal|Falkirk.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Falkirk.protect|Falkirk.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Falkirk.private|Falkirk.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Falkirk.personal|Falkirk.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Falkirk.secret|Falkirk.secret]] 
+
+### [Falkirk.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFalkirk.public.md) 
+
+### [Falkirk.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFalkirk.internal.md) 
+
+### [Falkirk.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFalkirk.protect.md) 
+
+### [Falkirk.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFalkirk.private.md) 
+
+### [Falkirk.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFalkirk.personal.md) 
+
+### [Falkirk.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandFalkirk.secret.md)
 

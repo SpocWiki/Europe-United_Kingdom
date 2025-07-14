@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Barry|Barry]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Barry.public|Barry.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Barry.internal|Barry.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Barry.protect|Barry.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Barry.private|Barry.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Barry.personal|Barry.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Barry.secret|Barry.secret]] 
+
+### [Barry.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.public.md) 
+
+### [Barry.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.internal.md) 
+
+### [Barry.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.protect.md) 
+
+### [Barry.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.private.md) 
+
+### [Barry.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.personal.md) 
+
+### [Barry.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Vale_of_Glamorgan\cities~Vale_of_GlamorganBarry.secret.md)
+

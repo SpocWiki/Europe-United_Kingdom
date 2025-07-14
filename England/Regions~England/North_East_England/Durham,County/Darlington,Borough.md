@@ -50,13 +50,17 @@ markerFolder: ./Darlington/
 > [Wikipedia](https://en.wikipedia.org/wiki/Borough%20of%20Darlington)
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Darlington|Darlington]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Darlington.public|Darlington.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Darlington.internal|Darlington.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Darlington.protect|Darlington.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Darlington.private|Darlington.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Darlington.personal|Darlington.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Darlington.secret|Darlington.secret]] 
+
+### [Darlington,Borough.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.public.md) 
+
+### [Darlington,Borough.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.internal.md) 
+
+### [Darlington,Borough.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.protect.md) 
+
+### [Darlington,Borough.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.private.md) 
+
+### [Darlington,Borough.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.personal.md) 
+
+### [Darlington,Borough.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_East_England\Durham,CountyDarlington,Borough.secret.md)
 

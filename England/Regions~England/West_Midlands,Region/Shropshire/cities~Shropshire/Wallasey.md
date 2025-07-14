@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wallasey|Wallasey]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wallasey.public|Wallasey.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wallasey.internal|Wallasey.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wallasey.protect|Wallasey.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wallasey.private|Wallasey.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wallasey.personal|Wallasey.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wallasey.secret|Wallasey.secret]] 
+
+### [Wallasey.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.public.md) 
+
+### [Wallasey.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.internal.md) 
+
+### [Wallasey.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.protect.md) 
+
+### [Wallasey.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.private.md) 
+
+### [Wallasey.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.personal.md) 
+
+### [Wallasey.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Shropshire\cities~ShropshireWallasey.secret.md)
+

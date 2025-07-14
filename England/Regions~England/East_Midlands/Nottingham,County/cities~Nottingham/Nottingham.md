@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Nottingham|Nottingham]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Nottingham.public|Nottingham.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Nottingham.internal|Nottingham.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Nottingham.protect|Nottingham.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Nottingham.private|Nottingham.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Nottingham.personal|Nottingham.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Nottingham.secret|Nottingham.secret]] 
+
+### [Nottingham.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.public.md) 
+
+### [Nottingham.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.internal.md) 
+
+### [Nottingham.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.protect.md) 
+
+### [Nottingham.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.private.md) 
+
+### [Nottingham.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.personal.md) 
+
+### [Nottingham.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Nottingham,County\cities~NottinghamNottingham.secret.md)
+

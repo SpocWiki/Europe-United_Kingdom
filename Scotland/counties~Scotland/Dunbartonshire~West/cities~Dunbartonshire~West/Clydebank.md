@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Clydebank|Clydebank]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Clydebank.public|Clydebank.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Clydebank.internal|Clydebank.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Clydebank.protect|Clydebank.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Clydebank.private|Clydebank.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Clydebank.personal|Clydebank.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Clydebank.secret|Clydebank.secret]] 
+
+### [Clydebank.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.public.md) 
+
+### [Clydebank.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.internal.md) 
+
+### [Clydebank.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.protect.md) 
+
+### [Clydebank.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.private.md) 
+
+### [Clydebank.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.personal.md) 
+
+### [Clydebank.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Dunbartonshire~West\cities~Dunbartonshire~WestClydebank.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Sussex~West/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Sussex~West|Sussex~West]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Sussex~West.public|Sussex~West.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Sussex~West.internal|Sussex~West.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Sussex~West.protect|Sussex~West.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Sussex~West.private|Sussex~West.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Sussex~West.personal|Sussex~West.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Sussex~West.secret|Sussex~West.secret]] 
+
+### [Sussex~West.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.public.md) 
+
+### [Sussex~West.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.internal.md) 
+
+### [Sussex~West.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.protect.md) 
+
+### [Sussex~West.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.private.md) 
+
+### [Sussex~West.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.personal.md) 
+
+### [Sussex~West.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandSussex~West.secret.md)
 

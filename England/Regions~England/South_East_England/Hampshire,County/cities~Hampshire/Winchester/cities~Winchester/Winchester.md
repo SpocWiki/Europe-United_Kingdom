@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Winchester|Winchester]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Winchester.public|Winchester.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Winchester.internal|Winchester.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Winchester.protect|Winchester.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Winchester.private|Winchester.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Winchester.personal|Winchester.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Winchester.secret|Winchester.secret]] 
+
+### [Winchester.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.public.md) 
+
+### [Winchester.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.internal.md) 
+
+### [Winchester.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.protect.md) 
+
+### [Winchester.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.private.md) 
+
+### [Winchester.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.personal.md) 
+
+### [Winchester.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Hampshire,County\cities~Hampshire\Winchester\cities~WinchesterWinchester.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Northampton|Northampton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Northampton.public|Northampton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Northampton.internal|Northampton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Northampton.protect|Northampton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Northampton.private|Northampton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Northampton.personal|Northampton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Northampton.secret|Northampton.secret]] 
+
+### [Northampton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.public.md) 
+
+### [Northampton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.internal.md) 
+
+### [Northampton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.protect.md) 
+
+### [Northampton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.private.md) 
+
+### [Northampton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.personal.md) 
+
+### [Northampton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_Midlands\Northamptonshire\cities~Northamptonshire\Northamptonshire~South\cities~SouthNorthamptonshireNorthampton.secret.md)
+

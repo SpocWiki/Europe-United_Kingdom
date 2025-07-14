@@ -40,11 +40,16 @@ markerFolder: ./Central_Bedfordshire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Central_Bedfordshire|Central_Bedfordshire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Central_Bedfordshire.public|Central_Bedfordshire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Central_Bedfordshire.internal|Central_Bedfordshire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Central_Bedfordshire.protect|Central_Bedfordshire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Central_Bedfordshire.private|Central_Bedfordshire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Central_Bedfordshire.personal|Central_Bedfordshire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Central_Bedfordshire.secret|Central_Bedfordshire.secret]] 
+
+### [Central_Bedfordshire.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCentral_Bedfordshire.public.md) 
+
+### [Central_Bedfordshire.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCentral_Bedfordshire.internal.md) 
+
+### [Central_Bedfordshire.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCentral_Bedfordshire.protect.md) 
+
+### [Central_Bedfordshire.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCentral_Bedfordshire.private.md) 
+
+### [Central_Bedfordshire.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCentral_Bedfordshire.personal.md) 
+
+### [Central_Bedfordshire.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_EnglandCentral_Bedfordshire.secret.md)
 

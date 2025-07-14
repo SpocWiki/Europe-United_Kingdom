@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton|Wolverhampton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.public|Wolverhampton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.internal|Wolverhampton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.protect|Wolverhampton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.private|Wolverhampton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.personal|Wolverhampton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wolverhampton.secret|Wolverhampton.secret]] 
+
+### [Wolverhampton.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.public.md) 
+
+### [Wolverhampton.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.internal.md) 
+
+### [Wolverhampton.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.protect.md) 
+
+### [Wolverhampton.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.private.md) 
+
+### [Wolverhampton.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.personal.md) 
+
+### [Wolverhampton.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\West_Midlands,Region\Wolverhampton,County\cities~WolverhamptonWolverhampton.secret.md)
+

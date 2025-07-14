@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Mildenhall|Mildenhall]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.public|Mildenhall.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.internal|Mildenhall.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.protect|Mildenhall.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.private|Mildenhall.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.personal|Mildenhall.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Mildenhall.secret|Mildenhall.secret]] 
+
+### [Mildenhall.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.public.md) 
+
+### [Mildenhall.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.internal.md) 
+
+### [Mildenhall.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.protect.md) 
+
+### [Mildenhall.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.private.md) 
+
+### [Mildenhall.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.personal.md) 
+
+### [Mildenhall.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\ForestHeath\cities~ForestHeathMildenhall.secret.md)
+

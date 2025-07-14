@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Whitehaven|Whitehaven]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.public|Whitehaven.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.internal|Whitehaven.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.protect|Whitehaven.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.private|Whitehaven.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.personal|Whitehaven.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Whitehaven.secret|Whitehaven.secret]] 
+
+### [Whitehaven.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\CumbriaWhitehaven.public.md) 
+
+### [Whitehaven.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\CumbriaWhitehaven.internal.md) 
+
+### [Whitehaven.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\CumbriaWhitehaven.protect.md) 
+
+### [Whitehaven.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\CumbriaWhitehaven.private.md) 
+
+### [Whitehaven.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\CumbriaWhitehaven.personal.md) 
+
+### [Whitehaven.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\CumbriaWhitehaven.secret.md)
+

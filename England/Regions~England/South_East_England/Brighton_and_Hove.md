@@ -40,11 +40,16 @@ markerFolder: ./Brighton_and_Hove/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove|Brighton_and_Hove]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.public|Brighton_and_Hove.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.internal|Brighton_and_Hove.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.protect|Brighton_and_Hove.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.private|Brighton_and_Hove.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.personal|Brighton_and_Hove.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Brighton_and_Hove.secret|Brighton_and_Hove.secret]] 
+
+### [Brighton_and_Hove.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.public.md) 
+
+### [Brighton_and_Hove.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.internal.md) 
+
+### [Brighton_and_Hove.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.protect.md) 
+
+### [Brighton_and_Hove.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.private.md) 
+
+### [Brighton_and_Hove.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.personal.md) 
+
+### [Brighton_and_Hove.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_EnglandBrighton_and_Hove.secret.md)
 

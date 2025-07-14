@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon|Dungannon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.public|Dungannon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.internal|Dungannon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.protect|Dungannon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.private|Dungannon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.personal|Dungannon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Dungannon.secret|Dungannon.secret]] 
+
+### [City~Dungannon.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.public.md) 
+
+### [City~Dungannon.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.internal.md) 
+
+### [City~Dungannon.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.protect.md) 
+
+### [City~Dungannon.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.private.md) 
+
+### [City~Dungannon.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.personal.md) 
+
+### [City~Dungannon.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\DungannonCity~Dungannon.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wakefield|Wakefield]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wakefield.public|Wakefield.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wakefield.internal|Wakefield.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wakefield.protect|Wakefield.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wakefield.private|Wakefield.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wakefield.personal|Wakefield.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wakefield.secret|Wakefield.secret]] 
+
+### [Wakefield.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.public.md) 
+
+### [Wakefield.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.internal.md) 
+
+### [Wakefield.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.protect.md) 
+
+### [Wakefield.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.private.md) 
+
+### [Wakefield.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.personal.md) 
+
+### [Wakefield.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Yorkshire~West\Wakefield,County\cities~WakefieldWakefield.secret.md)
+

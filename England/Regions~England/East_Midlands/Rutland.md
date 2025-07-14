@@ -40,11 +40,16 @@ markerFolder: ./Rutland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/England/Counties/Rutland|Rutland]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/England/Counties/Rutland.public|Rutland.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/England/Counties/Rutland.internal|Rutland.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/England/Counties/Rutland.protect|Rutland.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/England/Counties/Rutland.private|Rutland.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/England/Counties/Rutland.personal|Rutland.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/England/Counties/Rutland.secret|Rutland.secret]] 
+
+### [Rutland.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsRutland.public.md) 
+
+### [Rutland.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsRutland.internal.md) 
+
+### [Rutland.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsRutland.protect.md) 
+
+### [Rutland.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsRutland.private.md) 
+
+### [Rutland.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsRutland.personal.md) 
+
+### [Rutland.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_MidlandsRutland.secret.md)
 

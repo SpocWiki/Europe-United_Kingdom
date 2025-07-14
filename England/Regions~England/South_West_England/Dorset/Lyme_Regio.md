@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio|Lyme_Regio]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.public|Lyme_Regio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.internal|Lyme_Regio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.protect|Lyme_Regio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.private|Lyme_Regio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.personal|Lyme_Regio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Lyme_Regio.secret|Lyme_Regio.secret]] 
+
+### [Lyme_Regio.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetLyme_Regio.public.md) 
+
+### [Lyme_Regio.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetLyme_Regio.internal.md) 
+
+### [Lyme_Regio.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetLyme_Regio.protect.md) 
+
+### [Lyme_Regio.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetLyme_Regio.private.md) 
+
+### [Lyme_Regio.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetLyme_Regio.personal.md) 
+
+### [Lyme_Regio.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\DorsetLyme_Regio.secret.md)
+

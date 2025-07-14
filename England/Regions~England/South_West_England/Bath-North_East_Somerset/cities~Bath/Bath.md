@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Bath|Bath]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Bath.public|Bath.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Bath.internal|Bath.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Bath.protect|Bath.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Bath.private|Bath.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Bath.personal|Bath.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Bath.secret|Bath.secret]] 
+
+### [Bath.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.public.md) 
+
+### [Bath.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.internal.md) 
+
+### [Bath.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.protect.md) 
+
+### [Bath.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.private.md) 
+
+### [Bath.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.personal.md) 
+
+### [Bath.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Bath-North_East_Somerset\cities~BathBath.secret.md)
+

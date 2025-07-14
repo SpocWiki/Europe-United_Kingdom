@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Deal|Deal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Deal.public|Deal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Deal.internal|Deal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Deal.protect|Deal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Deal.private|Deal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Deal.personal|Deal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Deal.secret|Deal.secret]] 
+
+### [Deal.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.public.md) 
+
+### [Deal.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.internal.md) 
+
+### [Deal.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.protect.md) 
+
+### [Deal.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.private.md) 
+
+### [Deal.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.personal.md) 
+
+### [Deal.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\Dover\cities~DoverDeal.secret.md)
+

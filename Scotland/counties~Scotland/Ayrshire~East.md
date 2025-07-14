@@ -40,11 +40,16 @@ markerFolder: ./Ayrshire~East/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayrshire~East|Ayrshire~East]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayrshire~East.public|Ayrshire~East.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayrshire~East.internal|Ayrshire~East.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayrshire~East.protect|Ayrshire~East.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayrshire~East.private|Ayrshire~East.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayrshire~East.personal|Ayrshire~East.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Counties/Ayrshire~East.secret|Ayrshire~East.secret]] 
+
+### [Ayrshire~East.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyrshire~East.public.md) 
+
+### [Ayrshire~East.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyrshire~East.internal.md) 
+
+### [Ayrshire~East.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyrshire~East.protect.md) 
+
+### [Ayrshire~East.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyrshire~East.private.md) 
+
+### [Ayrshire~East.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyrshire~East.personal.md) 
+
+### [Ayrshire~East.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~ScotlandAyrshire~East.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Helens|St.Helens]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Helens.public|St.Helens.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Helens.internal|St.Helens.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Helens.protect|St.Helens.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Helens.private|St.Helens.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Helens.personal|St.Helens.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Helens.secret|St.Helens.secret]] 
+
+### [St.Helens.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.public.md) 
+
+### [St.Helens.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.internal.md) 
+
+### [St.Helens.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.protect.md) 
+
+### [St.Helens.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.private.md) 
+
+### [St.Helens.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.personal.md) 
+
+### [St.Helens.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\North_West_England\Liverpool\St.Helens\cities~St.HelensSt.Helens.secret.md)
+

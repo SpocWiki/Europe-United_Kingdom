@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Yarmouth|Yarmouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.public|Yarmouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.internal|Yarmouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.protect|Yarmouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.private|Yarmouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.personal|Yarmouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Yarmouth.secret|Yarmouth.secret]] 
+
+### [Yarmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.public.md) 
+
+### [Yarmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.internal.md) 
+
+### [Yarmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.protect.md) 
+
+### [Yarmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.private.md) 
+
+### [Yarmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.personal.md) 
+
+### [Yarmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Isle_of_Wight\cities~Isle_of_WightYarmouth.secret.md)
+

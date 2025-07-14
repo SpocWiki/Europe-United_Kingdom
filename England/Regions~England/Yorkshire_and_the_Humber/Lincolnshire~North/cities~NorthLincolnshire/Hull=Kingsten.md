@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hull=Kingsten|Hull=Kingsten]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hull=Kingsten.public|Hull=Kingsten.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hull=Kingsten.internal|Hull=Kingsten.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hull=Kingsten.protect|Hull=Kingsten.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hull=Kingsten.private|Hull=Kingsten.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hull=Kingsten.personal|Hull=Kingsten.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hull=Kingsten.secret|Hull=Kingsten.secret]] 
+
+### [Hull=Kingsten.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.public.md) 
+
+### [Hull=Kingsten.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.internal.md) 
+
+### [Hull=Kingsten.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.protect.md) 
+
+### [Hull=Kingsten.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.private.md) 
+
+### [Hull=Kingsten.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.personal.md) 
+
+### [Hull=Kingsten.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireHull=Kingsten.secret.md)
+

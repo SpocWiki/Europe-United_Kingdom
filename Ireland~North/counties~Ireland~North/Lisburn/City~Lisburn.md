@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[City~Lisburn|City~Lisburn]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lisburn.internal|Lisburn.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lisburn.protect|Lisburn.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lisburn.private|Lisburn.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lisburn.personal|Lisburn.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Lisburn.secret|Lisburn.secret]] 
+
+### [City~Lisburn.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\LisburnCity~Lisburn.public.md) 
+
+### [City~Lisburn.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\LisburnCity~Lisburn.internal.md) 
+
+### [City~Lisburn.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\LisburnCity~Lisburn.protect.md) 
+
+### [City~Lisburn.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\LisburnCity~Lisburn.private.md) 
+
+### [City~Lisburn.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\LisburnCity~Lisburn.personal.md) 
+
+### [City~Lisburn.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\LisburnCity~Lisburn.secret.md)
+

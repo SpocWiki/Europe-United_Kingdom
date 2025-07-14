@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Port~Glasgow|Port~Glasgow]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Scotland/Port_Glasgow.internal|Port_Glasgow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Scotland/Port_Glasgow.protect|Port_Glasgow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Scotland/Port_Glasgow.private|Port_Glasgow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Scotland/Port_Glasgow.personal|Port_Glasgow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Scotland/Port_Glasgow.secret|Port_Glasgow.secret]] 
+
+### [Port~Glasgow.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.public.md) 
+
+### [Port~Glasgow.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.internal.md) 
+
+### [Port~Glasgow.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.protect.md) 
+
+### [Port~Glasgow.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.private.md) 
+
+### [Port~Glasgow.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.personal.md) 
+
+### [Port~Glasgow.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Glasgow,CountyPort~Glasgow.secret.md)
+

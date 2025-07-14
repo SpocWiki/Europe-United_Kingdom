@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil|Merhyr_Tydfil]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.public|Merhyr_Tydfil.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.internal|Merhyr_Tydfil.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.protect|Merhyr_Tydfil.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.private|Merhyr_Tydfil.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.personal|Merhyr_Tydfil.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Merhyr_Tydfil.secret|Merhyr_Tydfil.secret]] 
+
+### [Merhyr_Tydfil.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.public.md) 
+
+### [Merhyr_Tydfil.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.internal.md) 
+
+### [Merhyr_Tydfil.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.protect.md) 
+
+### [Merhyr_Tydfil.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.private.md) 
+
+### [Merhyr_Tydfil.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.personal.md) 
+
+### [Merhyr_Tydfil.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Merthyr_Tydfil\cities~Merthyr_TydfilMerhyr_Tydfil.secret.md)
+

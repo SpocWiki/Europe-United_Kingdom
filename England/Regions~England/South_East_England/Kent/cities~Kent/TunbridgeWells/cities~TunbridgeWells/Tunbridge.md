@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Tunbridge|Tunbridge]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Tunbridge.public|Tunbridge.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Tunbridge.internal|Tunbridge.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Tunbridge.protect|Tunbridge.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Tunbridge.private|Tunbridge.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Tunbridge.personal|Tunbridge.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Tunbridge.secret|Tunbridge.secret]] 
+
+### [Tunbridge.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.public.md) 
+
+### [Tunbridge.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.internal.md) 
+
+### [Tunbridge.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.protect.md) 
+
+### [Tunbridge.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.private.md) 
+
+### [Tunbridge.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.personal.md) 
+
+### [Tunbridge.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Kent\cities~Kent\TunbridgeWells\cities~TunbridgeWellsTunbridge.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Newtownabbey/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newtownabbey|Newtownabbey]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newtownabbey.public|Newtownabbey.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newtownabbey.internal|Newtownabbey.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newtownabbey.protect|Newtownabbey.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newtownabbey.private|Newtownabbey.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newtownabbey.personal|Newtownabbey.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Ireland~North/Counties/Newtownabbey.secret|Newtownabbey.secret]] 
+
+### [Newtownabbey.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyNewtownabbey.public.md) 
+
+### [Newtownabbey.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyNewtownabbey.internal.md) 
+
+### [Newtownabbey.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyNewtownabbey.protect.md) 
+
+### [Newtownabbey.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyNewtownabbey.private.md) 
+
+### [Newtownabbey.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyNewtownabbey.personal.md) 
+
+### [Newtownabbey.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Ireland~North\counties~Ireland~North\Antrim_and_Newtownabbey\cities~AntrimandNewtownabbeyNewtownabbey.secret.md)
 

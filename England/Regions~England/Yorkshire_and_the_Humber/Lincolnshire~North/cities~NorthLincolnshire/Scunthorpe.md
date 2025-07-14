@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Scunthorpe|Scunthorpe]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Scunthorpe.public|Scunthorpe.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Scunthorpe.internal|Scunthorpe.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Scunthorpe.protect|Scunthorpe.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Scunthorpe.private|Scunthorpe.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Scunthorpe.personal|Scunthorpe.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Scunthorpe.secret|Scunthorpe.secret]] 
+
+### [Scunthorpe.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.public.md) 
+
+### [Scunthorpe.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.internal.md) 
+
+### [Scunthorpe.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.protect.md) 
+
+### [Scunthorpe.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.private.md) 
+
+### [Scunthorpe.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.personal.md) 
+
+### [Scunthorpe.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\Yorkshire_and_the_Humber\Lincolnshire~North\cities~NorthLincolnshireScunthorpe.secret.md)
+

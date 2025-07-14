@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Hove|Hove]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Hove.public|Hove.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Hove.internal|Hove.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Hove.protect|Hove.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Hove.private|Hove.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Hove.personal|Hove.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Hove.secret|Hove.secret]] 
+
+### [Hove.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.public.md) 
+
+### [Hove.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.internal.md) 
+
+### [Hove.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.protect.md) 
+
+### [Hove.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.private.md) 
+
+### [Hove.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.personal.md) 
+
+### [Hove.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_East_England\Brighton_and_Hove\cities~Brighton_and_HoveHove.secret.md)
+

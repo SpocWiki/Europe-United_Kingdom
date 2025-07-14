@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Johnstone|Johnstone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Johnstone.public|Johnstone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Johnstone.internal|Johnstone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Johnstone.protect|Johnstone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Johnstone.private|Johnstone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Johnstone.personal|Johnstone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Johnstone.secret|Johnstone.secret]] 
+
+### [Johnstone.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireJohnstone.public.md) 
+
+### [Johnstone.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireJohnstone.internal.md) 
+
+### [Johnstone.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireJohnstone.protect.md) 
+
+### [Johnstone.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireJohnstone.private.md) 
+
+### [Johnstone.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireJohnstone.personal.md) 
+
+### [Johnstone.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Renfrewshire\cities~RenfrewshireJohnstone.secret.md)
+

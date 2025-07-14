@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Wells|Wells]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Wells.public|Wells.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Wells.internal|Wells.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Wells.protect|Wells.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Wells.private|Wells.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Wells.personal|Wells.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Wells.secret|Wells.secret]] 
+
+### [Wells.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.public.md) 
+
+### [Wells.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.internal.md) 
+
+### [Wells.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.protect.md) 
+
+### [Wells.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.private.md) 
+
+### [Wells.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.personal.md) 
+
+### [Wells.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\South_West_England\Somerset\cities~Somerset\Mendip\cities~MendipWells.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Swansea|Swansea]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.public|Swansea.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.internal|Swansea.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.protect|Swansea.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.private|Swansea.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.personal|Swansea.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Swansea.secret|Swansea.secret]] 
+
+### [Swansea,City.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.public.md) 
+
+### [Swansea,City.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.internal.md) 
+
+### [Swansea,City.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.protect.md) 
+
+### [Swansea,City.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.private.md) 
+
+### [Swansea,City.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.personal.md) 
+
+### [Swansea,City.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\Swansea,CountySwansea,City.secret.md)
+

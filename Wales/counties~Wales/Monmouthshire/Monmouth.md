@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/Wales/Monmouth|Monmouth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/Wales/Monmouth.public|Monmouth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/Wales/Monmouth.internal|Monmouth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/Wales/Monmouth.protect|Monmouth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/Wales/Monmouth.private|Monmouth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/Wales/Monmouth.personal|Monmouth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/Wales/Monmouth.secret|Monmouth.secret]] 
+
+### [Monmouth.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.public.md) 
+
+### [Monmouth.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.internal.md) 
+
+### [Monmouth.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.protect.md) 
+
+### [Monmouth.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.private.md) 
+
+### [Monmouth.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.personal.md) 
+
+### [Monmouth.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Wales\counties~Wales\MonmouthshireMonmouth.secret.md)
+

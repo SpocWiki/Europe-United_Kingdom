@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Cumray|Cumray]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Cumray.public|Cumray.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Cumray.internal|Cumray.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Cumray.protect|Cumray.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Cumray.private|Cumray.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Cumray.personal|Cumray.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Cumray.secret|Cumray.secret]] 
+
+### [Cumray.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastCumray.public.md) 
+
+### [Cumray.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastCumray.internal.md) 
+
+### [Cumray.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastCumray.protect.md) 
+
+### [Cumray.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastCumray.private.md) 
+
+### [Cumray.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastCumray.personal.md) 
+
+### [Cumray.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Scotland\counties~Scotland\Ayrshire~East\cities~Ayrshire~EastCumray.secret.md)
+

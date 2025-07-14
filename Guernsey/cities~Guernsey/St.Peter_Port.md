@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port|St.Peter_Port]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.public|St.Peter_Port.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.internal|St.Peter_Port.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.protect|St.Peter_Port.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.private|St.Peter_Port.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.personal|St.Peter_Port.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/St.Peter_Port.secret|St.Peter_Port.secret]] 
+
+### [St.Peter_Port.public](/_public/\Earth\Continent\Europe\Europe~North\UK\Guernsey\cities~GuernseySt.Peter_Port.public.md) 
+
+### [St.Peter_Port.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\Guernsey\cities~GuernseySt.Peter_Port.internal.md) 
+
+### [St.Peter_Port.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\Guernsey\cities~GuernseySt.Peter_Port.protect.md) 
+
+### [St.Peter_Port.private](/_private/\Earth\Continent\Europe\Europe~North\UK\Guernsey\cities~GuernseySt.Peter_Port.private.md) 
+
+### [St.Peter_Port.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\Guernsey\cities~GuernseySt.Peter_Port.personal.md) 
+
+### [St.Peter_Port.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\Guernsey\cities~GuernseySt.Peter_Port.secret.md)
+

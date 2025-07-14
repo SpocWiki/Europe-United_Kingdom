@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk|Felixstown~Suffolk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.public|Felixstown~Suffolk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.internal|Felixstown~Suffolk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.protect|Felixstown~Suffolk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.private|Felixstown~Suffolk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.personal|Felixstown~Suffolk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~North/UK/City/Felixstown~Suffolk.secret|Felixstown~Suffolk.secret]] 
+
+### [Felixstown~Suffolk.public](/_public/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.public.md) 
+
+### [Felixstown~Suffolk.internal](/_internal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.internal.md) 
+
+### [Felixstown~Suffolk.protect](/_protect/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.protect.md) 
+
+### [Felixstown~Suffolk.private](/_private/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.private.md) 
+
+### [Felixstown~Suffolk.personal](/_personal/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.personal.md) 
+
+### [Felixstown~Suffolk.secret](/_secret/\Earth\Continent\Europe\Europe~North\UK\England\Regions~England\East_of_England\Suffolk\cities~Suffolk\Suffolkcoastal\cities~SuffolkcoastalFelixstown~Suffolk.secret.md)
+
