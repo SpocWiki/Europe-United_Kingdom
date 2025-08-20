@@ -3,45 +3,35 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
 source: https://datahub.io/core/country-codes
-
-#Obsidian well-known Keys
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
-
-# Hugo Tags
 type: Country
-title: 
-
-linkTitle: 
-keywords: 
-layout: 
+title:
+linkTitle:
+keywords:
+layout:
 draft: false
 publishDate:
-expiryDate: 
-
+expiryDate:
 tags:
-- geo/Country
-
+  - geo/Country
 aliases:
-- 
-- 
-- 
-- Sark
-- Sark
-- Sercq
-- سارك
-- 萨克
-- Сарк
-- 
-- 
-- 
-- 
-
-Languages: [] 
-
-
+  - 
+  - 
+  - 
+  - Sark
+  - Sark
+  - Sercq
+  - سارك
+  - 萨克
+  - Сарк
+  - 
+  - 
+  - 
+  - 
+Languages: []
 ---
 
 [	ISO4217-currency_alphabetic	 ::  ] 

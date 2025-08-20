@@ -1,30 +1,29 @@
 ---
-location: [ 51.56 , 0.71 ] 
+location:
+  - 51.56
+  - 0.71
 type: geo-Region
 title: Southend-on-Sea
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Southend-on-Sea
-
+  - Southend-on-Sea
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Southend-on-Sea

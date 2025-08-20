@@ -2,28 +2,29 @@
 title: UK
 type: Country
 location:
-    - 52.8829
-    - -2.14482
+  - 52.8829
+  - -2.14482
 has_id_wikidata: Q145
 SpocWebEntityId: 26899
 tags:
-    - geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-    - Great Britain
-    - United Kingdom
+  - Great Britain
+  - United Kingdom
 icon: flag-gb
 ---
 

@@ -1,7 +1,7 @@
 ---
 location:
-- 54.25
-- -4.5
+  - 54.25
+  - -4.5
 type: Country
 tags:
   - geo/Country/Region
@@ -12,25 +12,26 @@ isReadOnly: false
 draft: false
 isDeleted: false
 confidential: public
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Isle of Man
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 aliases:
-- Isle of Man
-- Isla de Man
-- �le de Man
-- ????? ???
-- ???
-- ?????? ???
-- 
+  - Isle of Man
+  - Isla de Man
+  - �le de Man
+  - ????? ???
+  - ???
+  - ?????? ???
+  - 
 Languages:
-- en
-- gv
+  - en
+  - gv
 ---
 
 # Isle_of_Man

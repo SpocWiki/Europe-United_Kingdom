@@ -1,30 +1,29 @@
 ---
-location: [ 51.5098 , -0.0766 ] 
+location:
+  - 51.5098
+  - -0.0766
 type: geo-Region
 title: Line~District
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Line~District
-
+  - Line~District
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Line~District
