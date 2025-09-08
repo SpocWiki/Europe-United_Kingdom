@@ -167,6 +167,10 @@ relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/England%
 image: http://commons.wikimedia.org/wiki/Special:FilePath/England%20satellite%20image.png
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Engeland%202-article.ogg
 official_website: https://www.visitengland.com/
+aliases:
+  - english
+  - englisch
+  - anglais
 ---
 
 # [[England]] 
