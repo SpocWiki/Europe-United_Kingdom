@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Warrington
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Warrington/
 markerFolder: ./Warrington/

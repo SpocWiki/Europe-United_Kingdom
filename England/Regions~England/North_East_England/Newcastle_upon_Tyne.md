@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Newcastle_upon_Tyne
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Newcastle_upon_Tyne/
 markerFolder: ./Newcastle_upon_Tyne/

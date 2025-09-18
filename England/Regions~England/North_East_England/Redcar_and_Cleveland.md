@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Redcar_and_Cleveland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Redcar_and_Cleveland/
 markerFolder: ./Redcar_and_Cleveland/

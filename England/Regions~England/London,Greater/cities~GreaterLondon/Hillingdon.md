@@ -35,7 +35,7 @@ expiryDate:
 ```leaflet
 id: Hillingdon
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Hillingdon/
 markerFolder: ./Hillingdon/

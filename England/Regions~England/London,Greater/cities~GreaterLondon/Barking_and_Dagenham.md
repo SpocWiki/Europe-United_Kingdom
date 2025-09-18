@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Barking_and_Dagenham
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Barking_and_Dagenham/
 markerFolder: ./Barking_and_Dagenham/

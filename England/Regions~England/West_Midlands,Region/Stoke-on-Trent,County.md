@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Stoke-on-Trent
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Stoke-on-Trent/
 markerFolder: ./Stoke-on-Trent/

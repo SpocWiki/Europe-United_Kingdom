@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Scottish_Borders
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Scottish_Borders/
 markerFolder: ./Scottish_Borders/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Hammersmith_and_Fulham
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Hammersmith_and_Fulham/
 markerFolder: ./Hammersmith_and_Fulham/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Cheshire-West_and_Chester
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cheshire-West_and_Chester/
 markerFolder: ./Cheshire-West_and_Chester/

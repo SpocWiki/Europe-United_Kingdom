@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: South_Tyneside
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./South_Tyneside/
 markerFolder: ./South_Tyneside/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Dumfries_and_Galloway
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Dumfries_and_Galloway/
 markerFolder: ./Dumfries_and_Galloway/

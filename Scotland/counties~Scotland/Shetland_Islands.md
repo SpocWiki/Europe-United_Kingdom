@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Shetland_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Shetland_Islands/
 markerFolder: ./Shetland_Islands/

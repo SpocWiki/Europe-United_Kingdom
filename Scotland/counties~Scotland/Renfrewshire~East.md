@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Renfrewshire~East
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Renfrewshire~East/
 markerFolder: ./Renfrewshire~East/

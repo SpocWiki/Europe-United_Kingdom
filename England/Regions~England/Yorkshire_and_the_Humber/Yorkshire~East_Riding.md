@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Yorkshire~East_Riding
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Yorkshire~East_Riding/
 markerFolder: ./Yorkshire~East_Riding/

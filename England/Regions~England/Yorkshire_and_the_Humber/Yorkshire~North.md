@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: North_Yorkshire
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./North_Yorkshire/
 markerFolder: ./North_Yorkshire/

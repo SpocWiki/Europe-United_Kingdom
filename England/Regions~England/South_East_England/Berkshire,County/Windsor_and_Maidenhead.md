@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Royal_Borough_of_Windsor_and_Maidenhead
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Royal_Borough_of_Windsor_and_Maidenhead/
 markerFolder: ./Royal_Borough_of_Windsor_and_Maidenhead/

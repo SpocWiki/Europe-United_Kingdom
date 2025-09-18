@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Perthshire_and_Kinross
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Perthshire_and_Kinross/
 markerFolder: ./Perthshire_and_Kinross/

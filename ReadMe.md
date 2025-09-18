@@ -132,7 +132,7 @@ icon: flag-gb
 ```leaflet
 id: United Kingdom
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: .//
 markerFolder: ./City/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Cheshire-East
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cheshire-East/
 markerFolder: ./Cheshire-East/

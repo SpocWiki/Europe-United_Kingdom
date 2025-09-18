@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Isle_of_Wight
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Isle_of_Wight/
 markerFolder: ./Isle_of_Wight/

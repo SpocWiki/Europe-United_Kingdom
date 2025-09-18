@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Telford_and_Wrekin
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Telford_and_Wrekin/
 markerFolder: ./Telford_and_Wrekin/

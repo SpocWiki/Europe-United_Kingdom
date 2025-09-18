@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Milton_Keynes
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Milton_Keynes/
 markerFolder: ./Milton_Keynes/

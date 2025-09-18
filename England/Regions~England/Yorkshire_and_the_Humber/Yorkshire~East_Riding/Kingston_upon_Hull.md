@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kingston_upon_Hull
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kingston_upon_Hull/
 markerFolder: ./Kingston_upon_Hull/

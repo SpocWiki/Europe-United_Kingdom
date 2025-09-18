@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Stockton-on-Tees
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Stockton-on-Tees/
 markerFolder: ./Stockton-on-Tees/

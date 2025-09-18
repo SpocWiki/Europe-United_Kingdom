@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Newry_and_Mourne
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Newry_and_Mourne/
 markerFolder: ./Newry_and_Mourne/

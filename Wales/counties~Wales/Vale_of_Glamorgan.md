@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Vale_of_Glamorgan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vale_of_Glamorgan/
 markerFolder: ./Vale_of_Glamorgan/

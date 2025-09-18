@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Southend-on-Sea
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Southend-on-Sea/
 markerFolder: ./Southend-on-Sea/

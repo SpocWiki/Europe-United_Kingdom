@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Isles_of_Scilly
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Isles_of_Scilly/
 markerFolder: ./Isles_of_Scilly/

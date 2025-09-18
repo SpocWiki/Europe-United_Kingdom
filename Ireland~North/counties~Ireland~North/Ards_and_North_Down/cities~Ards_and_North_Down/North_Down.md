@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: North_Down
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./North_Down/
 markerFolder: ./North_Down/

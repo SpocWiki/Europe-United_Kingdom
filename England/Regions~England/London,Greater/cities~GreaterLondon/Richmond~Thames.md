@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Richmond~Thames
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Richmond~Thames/
 markerFolder: ./Richmond~Thames/

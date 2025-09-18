@@ -106,7 +106,7 @@ Sub-region_Name ::  [[Northern Europe]]
 ```leaflet
 id: Isle_of_Man
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Isle_of_Man/
 markerFolder: ./Isle_of_Man/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Neath_Port_Talbot
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Neath_Port_Talbot/
 markerFolder: ./Neath_Port_Talbot/

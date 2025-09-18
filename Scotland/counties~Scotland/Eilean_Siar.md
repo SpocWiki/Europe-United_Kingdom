@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Eilean_Siar
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Eilean_Siar/
 markerFolder: ./Eilean_Siar/

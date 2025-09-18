@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Bath_and_North_East_Somerset
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bath_and_North_East_Somerset/
 markerFolder: ./Bath_and_North_East_Somerset/

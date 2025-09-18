@@ -8,7 +8,7 @@ id: Wales
 geojsonFolder: ./Wales//
 markerFolder: ./Wales/
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 ```
 

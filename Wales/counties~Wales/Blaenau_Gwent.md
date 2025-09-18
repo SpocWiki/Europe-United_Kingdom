@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Blaenau_Gwent
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Blaenau_Gwent/
 markerFolder: ./Blaenau_Gwent/

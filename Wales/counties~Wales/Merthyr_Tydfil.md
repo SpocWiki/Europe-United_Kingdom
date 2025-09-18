@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Merthyr_Tydfil
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Merthyr_Tydfil/
 markerFolder: ./Merthyr_Tydfil/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Brighton_and_Hove
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Brighton_and_Hove/
 markerFolder: ./Brighton_and_Hove/

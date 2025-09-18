@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Argyll_and_Bute
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Argyll_and_Bute/
 markerFolder: ./Argyll_and_Bute/

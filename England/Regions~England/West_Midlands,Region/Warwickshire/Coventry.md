@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Coventry
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Coventry/
 markerFolder: ./Coventry/

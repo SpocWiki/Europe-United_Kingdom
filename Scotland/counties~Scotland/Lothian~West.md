@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Lothian~West
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lothian~West/
 markerFolder: ./Lothian~West/

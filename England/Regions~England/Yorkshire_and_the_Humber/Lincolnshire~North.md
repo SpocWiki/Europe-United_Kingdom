@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Lincolnshire~North
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lincolnshire~North/
 markerFolder: ./Lincolnshire~North/

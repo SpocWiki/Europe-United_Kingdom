@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Anglesey
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Anglesey/
 markerFolder: ./Anglesey/

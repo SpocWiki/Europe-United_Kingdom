@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Central_Bedfordshire
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Central_Bedfordshire/
 markerFolder: ./Central_Bedfordshire/

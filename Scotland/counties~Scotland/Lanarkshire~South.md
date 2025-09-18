@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Lanarkshire~South
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Lanarkshire~South/
 markerFolder: ./Lanarkshire~South/

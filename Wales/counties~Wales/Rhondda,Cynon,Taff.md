@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Rhondda,_Cynon,_Taff
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rhondda,_Cynon,_Taff/
 markerFolder: ./Rhondda,_Cynon,_Taff/

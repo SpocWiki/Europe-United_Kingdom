@@ -42,7 +42,7 @@ expiryDate:
 ```leaflet
 id: Hounslow
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Hounslow/
 markerFolder: ./Hounslow/
