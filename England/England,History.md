@@ -1,6 +1,9 @@
 ---
 aliases:
-  - History_of_England
+  - History of England 
+  - Geschichte von England 
+  - Englische Geschichte 
+  - History_of_England 
 has_id_wikidata: Q11755949
 part_of: "[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]"
 described_by_source:
