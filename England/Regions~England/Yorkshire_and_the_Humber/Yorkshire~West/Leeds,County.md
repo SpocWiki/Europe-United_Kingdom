@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Leeds
+has_id_wikidata: Q39121
 location:
   - 53.8
   - -1.5
@@ -12,8 +15,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Leeds
 Languages:
   - de
 cssclasses:
@@ -26,15 +27,19 @@ publishDate:
 expiryDate:
 ---
 
-# Leeds
+# [[Leeds,County]]
+
+## #has_/map  
 
 ```leaflet
 id: Leeds
 zoomFeatures: true 
-minZoom: 4 
+minZoom: 6 
 maxZoom: 18
-geojsonFolder: ./Leeds/
-markerFolder: ./Leeds/
+geojsonFolder: ./Leeds,County/
+markerFolder: ./Leeds,County/
+coordinates: [[Leeds,County]] 
+markerFile: [[Leeds,County]] 
 ```
 
 
