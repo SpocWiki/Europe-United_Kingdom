@@ -4,6 +4,7 @@ aliases:
   - Greater_London
   - London
 has_id_wikidata: Q84
+location: [51.507222222, -0.1275 ]
 twinned administrative body:
   - "[[WikiData/WD~Mumbai,1156]]"
   - "[[WikiData/WD~Delhi,1353]]"
@@ -240,11 +241,14 @@ Describes [[London,City]] and surrounding Area.
 
 ## #has_/map 
 
-
 ```leaflet
 id: London
-geojsonFolder: ./London~Greater/
-markerFolder: ./Londo[[../../London,Greater|London,Greater]] 2 
+geojsonFolder: ./London,City/
+markerFolder: ./London,City/
+coordinates: [[London,City]] 
+markerFile: [[London,City]] 
+minZoom: 2 
+defaultZoom: 11
 maxZoom: 18
 ```
 
