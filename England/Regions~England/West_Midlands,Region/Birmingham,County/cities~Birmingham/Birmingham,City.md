@@ -125,7 +125,7 @@ State ::
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Birmingham,2256|WD~Birmingham,2256]]
 
 ## #has_/map 

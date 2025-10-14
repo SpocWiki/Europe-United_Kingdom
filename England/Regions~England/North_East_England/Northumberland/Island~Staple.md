@@ -21,7 +21,7 @@ State ::
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 [Staple Island](https://en.wikipedia.org/wiki/Staple_Island)
 

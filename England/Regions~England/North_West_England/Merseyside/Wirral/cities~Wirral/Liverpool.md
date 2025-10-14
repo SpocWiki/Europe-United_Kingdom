@@ -100,7 +100,7 @@ State ::
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]
 

@@ -21,7 +21,7 @@ State ::
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

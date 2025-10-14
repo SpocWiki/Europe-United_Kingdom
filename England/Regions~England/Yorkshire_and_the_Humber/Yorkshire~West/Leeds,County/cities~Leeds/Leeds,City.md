@@ -28,7 +28,7 @@ State ::
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Leeds,39121|WD~Leeds,39121]] 
 

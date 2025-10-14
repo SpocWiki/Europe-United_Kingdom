@@ -21,7 +21,7 @@ State ::
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
   
 [St_Ann's Head Lighthouse](https://en.wikipedia.org/wiki/St_Ann%27s_Head_Lighthouse)

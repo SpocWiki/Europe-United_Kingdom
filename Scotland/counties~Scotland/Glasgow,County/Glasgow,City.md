@@ -28,7 +28,7 @@ State ::
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Glasgow,4093|WD~Glasgow,4093]] 
 

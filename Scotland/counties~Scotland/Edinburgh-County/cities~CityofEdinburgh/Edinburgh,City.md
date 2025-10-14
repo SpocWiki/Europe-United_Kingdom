@@ -24,7 +24,7 @@ State ::
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Edinburgh,23436|WD~Edinburgh,23436]] 
 
