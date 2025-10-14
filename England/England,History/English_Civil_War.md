@@ -6,7 +6,7 @@ participant:
   - "[[_Standards/WikiData/WD~Roundhead,1130553]]"
   - "[[_Standards/WikiData/WD~Cavalier,2284765]]"
   - "[[_Standards/WikiData/WD~Oliver_Cromwell,44279]]"
-location: "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
+locations: "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"

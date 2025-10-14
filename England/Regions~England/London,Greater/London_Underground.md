@@ -47,7 +47,7 @@ date_of_official_opening: 1863-01-10T00:00:00Z
 instance_of: "[[_Standards/WikiData/WD~rapid_transit,5503]]"
 historic_county: "[[_Standards/WikiData/WD~Middlesex,19186]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Greater_London,23306]]"
-headquarters_location: "[[_Standards/WikiData/WD~London,84]]"
+headquarters_locations: "[[_Standards/WikiData/WD~London,84]]"
 country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 patronage: 1337000000
 social_media_followers: 40204
