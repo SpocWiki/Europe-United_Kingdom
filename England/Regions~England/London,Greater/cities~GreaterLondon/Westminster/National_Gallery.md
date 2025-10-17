@@ -3,7 +3,7 @@ aliases:
   - National Gallery
 has_id_wikidata: Q180788
 located_on_street: "[[_Standards/WikiData/WD~Trafalgar_Square,129143]]"
-location: "[[_Standards/WikiData/WD~Trafalgar_Square,129143]]"
+locations: "[[_Standards/WikiData/WD~Trafalgar_Square,129143]]"
 has_works_in_the_collection:
   - "[[_Standards/WikiData/WD~Anne_Frank_House,165366]]"
   - "[[_Standards/WikiData/WD~Tate,430682]]"
