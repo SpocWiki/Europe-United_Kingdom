@@ -1,10 +1,11 @@
 ---
 aliases:
-  - Greater London
-  - Greater_London
   - London
+  - City of London
 has_id_wikidata: Q84
-location: [51.507222222, -0.1275 ]
+location:
+  - 51.507222222
+  - -0.1275
 twinned administrative body:
   - "[[WikiData/WD~Mumbai,1156]]"
   - "[[WikiData/WD~Delhi,1353]]"
@@ -234,10 +235,9 @@ official blog URL: https://www.london.gov.uk/city-hall-blog
 
 # [[London,City]] 
 
-Describes [[London,City]] and surrounding Area. 
+Describes [[London,City]] without its surrounding Area. 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~London,84|WD~London,84]] 
-
 
 ## #has_/map 
 
@@ -255,20 +255,15 @@ maxZoom: 18
 
 ## #has_/text_of_/abstract 
 
-
-> Greater London is an administrative area in England, coterminous with the London region, 
-> containing most of the continuous urban area of London. 
-> 
-> It contains 33 local government districts: the 32 London boroughs, 
-> which form a ceremonial county also called Greater London, and the City of London. The Greater London Authority is responsible for strategic local government across the region, and regular local government is the responsibility of the borough councils and the City of London Corporation. Greater London is bordered by the ceremonial counties of Hertfordshire to the north, Essex to the north-east, Kent to the south-east, Surrey to the south, and Berkshire and Buckinghamshire to the west. The official London region is one of the nine in England, as well as one of the four that make up Southern England.
+> The **City of London** (often known as the City or the Square Mile) is a city, ceremonial county and local government district in England. Established by the Romans around 47 AD as Londinium, it forms the historic centre of the wider London metropolis. Surrounded by the modern ceremonial county of Greater London, from which it remains separate, the City is a unique local authority area governed by the City of London Corporation, which is led by the Lord Mayor of London; although it forms part of the region governed by the Greater London Authority.
 >
-> Greater London has a land area of 1,572 km2 (607 sq mi) and an estimated population of 8,866,180 in 2022. The ceremonial county of Greater London is only slightly smaller, with an area of 1,569 km2 (606 sq mi) and a population of 8,855,333 in 2022. The area is almost entirely urbanised and contains the majority of the Greater London Built-up Area, which extends into Hertfordshire, Essex, Kent, Surrey, and Berkshire and in 2011 had a population of 9,787,426. None of the administrative area, region, or ceremonial county hold city status, but the City of London and City of Westminster separately do. The area was historically part of Middlesex, Essex, Surrey, Kent and Hertfordshire.
+> Nicknamed the Square Mile, the City of London has an area of 1.12 sq mi (716.80 acres; 2.90 km2), making it the smallest city in the United Kingdom. It had a population of 8,583 at the 2021 census, however over 500,000 people were employed in the area as of 2019.
 >
-> The River Thames is the defining geographic feature of the area, entering it near Hampton in the west and flowing east before exiting downstream of Dagenham. Several tributaries of the Thames flow through the area, but are now mostly culverted and form part of London's sewerage system. The land immediately north and south of the river is flat, but rises to low hills further away, notably Hampstead Heath, Shooter's Hill, and Sydenham Hill. The area's highest point is Westerham Heights (245 m (804 ft)), part of the North Downs. In the north-east the area contains part of Epping Forest, an ancient woodland.
+> Together with Canary Wharf and the West End, the City of London forms the primary central business district of London, which is one of the leading financial centres of the world. The Bank of England and the London Stock Exchange are both based in the City. The insurance industry also has a major presence in the area, and the presence of the Inns of Court on the City's western boundary has made it a centre for the legal profession.
 >
-> The City of London has had its own government since the Anglo-Saxon period. The first London-wide directly elected local government was the London County Council, established for the County of London in 1889, which covered the core of the urban area. In 1965 the county was abolished and replaced by Greater London, a two-tier administrative area governed by the Greater London Council, thirty-two London boroughs, and the City of London Corporation. The Greater London Council was abolished in 1986, and its responsibilities largely taken over by the boroughs. The Greater London Authority was formed in 2000.
+> The present City of London constituted the majority of London from its settlement by the Romans in the 1st century AD to the Middle Ages. It contains several historic sites, including St Paul's Cathedral, the Royal Exchange, Mansion House, Guildhall, the Old Bailey, Smithfield Market, the Monument to the Great Fire of London, and the remains of the ancient London Wall.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Greater%20London)
+> [Wikipedia](https://en.wikipedia.org/wiki/City%20of%20London) 
 
 
 ## Confidential Links & Embeds: 

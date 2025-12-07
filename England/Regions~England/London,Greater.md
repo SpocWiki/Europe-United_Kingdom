@@ -109,7 +109,7 @@ official_name: Greater London
 
 #is_/same_as :: [[_Standards/WikiData/WD~Greater_London,23306]]
 
-Describes [[City~London]] and surrounding Area.
+Describes [[London,Greater/cities~GreaterLondon/London,City|London,City]] and surrounding Area.
 
 ## #has_/map 
 
@@ -129,8 +129,13 @@ maxZoom: 18
 
 ## #has_/text_of_/abstract 
 
-
-> Greater London is an administrative area in England, coterminous with the London region, containing most of the continuous urban area of London. It contains 33 local government districts: the 32 London boroughs, which form a ceremonial county also called Greater London, and the City of London. The Greater London Authority is responsible for strategic local government across the region, and regular local government is the responsibility of the borough councils and the City of London Corporation. Greater London is bordered by the ceremonial counties of Hertfordshire to the north, Essex to the north-east, Kent to the south-east, Surrey to the south, and Berkshire and Buckinghamshire to the west. The official London region is one of the nine in England, as well as one of the four that make up Southern England.
+> Greater London is an administrative area in England, coterminous with the London region, 
+> containing most of the continuous urban area of London. 
+> 
+> It contains 33 local government districts: the 32 London boroughs, 
+> which form a ceremonial county also called Greater London, and the City of London. 
+> 
+> The Greater London Authority is responsible for strategic local government across the region, and regular local government is the responsibility of the borough councils and the City of London Corporation. Greater London is bordered by the ceremonial counties of Hertfordshire to the north, Essex to the north-east, Kent to the south-east, Surrey to the south, and Berkshire and Buckinghamshire to the west. The official London region is one of the nine in England, as well as one of the four that make up Southern England.
 >
 > Greater London has a land area of 1,572 km2 (607 sq mi) and an estimated population of 8,866,180 in 2022. The ceremonial county of Greater London is only slightly smaller, with an area of 1,569 km2 (606 sq mi) and a population of 8,855,333 in 2022. The area is almost entirely urbanised and contains the majority of the Greater London Built-up Area, which extends into Hertfordshire, Essex, Kent, Surrey, and Berkshire and in 2011 had a population of 9,787,426. None of the administrative area, region, or ceremonial county hold city status, but the City of London and City of Westminster separately do. The area was historically part of Middlesex, Essex, Surrey, Kent and Hertfordshire.
 >
