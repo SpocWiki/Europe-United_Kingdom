@@ -26,15 +26,17 @@ publishDate:
 expiryDate:
 ---
 
-# Oxfordshire
+# [[Oxfordshire]] 
+
+## #has_/map 
 
 ```leaflet
 id: Oxfordshire
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Oxfordshire/
-markerFolder: ./Oxfordshire/
+geojsonFolder: ./Oxfordshire//
+markerFolder: ./Oxfordshire//
 ```
 
 

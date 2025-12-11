@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Oxford]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-1.25] 
@@ -22,6 +25,7 @@ Country :: [[UK]]
 [StateId::] 
 [Population::] 
 
+## #has_/map 
 
 
 ```leaflet
