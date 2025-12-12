@@ -17,6 +17,20 @@
 | England                                                                            | E92000001 |     |  130.310 |   100 |  57106.398 |   100 |     438 | 56,536,419 | £1,760.4 | £31,138    | £1,961.2 | £34,690    |
 
 
+## #has_/map 
+
+```leaflet
+id: Regions~England
+geojsonFolder: ./Regions~England//
+markerFolder: ./Regions~England///
+coordinates: [[Regions~England]] 
+markerFile: [[Regions~England]] 
+zoomFeatures: true 
+minZoom: 4 
+maxZoom: 18
+```
+
+
 ## #has_/text_of_/abstract 
 
 > The regions of England, formerly known as the government office regions, 
@@ -34,6 +48,8 @@
 > Regional development agencies were public bodies established in all nine regions in 1998 to promote economic development. They had certain delegated functions, including administering European Union regional development funds, and received funding from the central government as well. These were abolished in 2012, with statutory functions returning to local authorities and central government; however, smaller scale local enterprise partnerships were voluntarily established to take on some functions relating to coordinating economic priorities and development.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Regions%20of%20England)
+
+
 
 
 ## Confidential Links & Embeds: 

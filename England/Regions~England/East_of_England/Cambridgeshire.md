@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Cambridgeshire
+# [[Cambridgeshire]]
+
+## #has_/map  
 
 ```leaflet
 id: Cambridgeshire
@@ -35,6 +37,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Cambridgeshire/
 markerFolder: ./Cambridgeshire/
+coordinates: [[Cambridgeshire]] 
+markerFile: [[Cambridgeshire]] 
 ```
 
 
