@@ -24,7 +24,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Van%20der%20Ha
 # [[England,History]] 
 
 
-#has_/next_/item :: [[../UK,History]] 
+#has_/next_/item :: [[../History,UK]] 
 #is_/same_as :: [[../../../../../../WikiData/WD~History_of_England,11755949|WD~History_of_England,11755949]] 
 
 ## #has_/text_of_/abstract 
