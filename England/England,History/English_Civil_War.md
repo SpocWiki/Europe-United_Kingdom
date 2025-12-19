@@ -8,7 +8,7 @@ participant:
   - "[[_Standards/WikiData/WD~Oliver_Cromwell,44279]]"
 locations: "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~History_of_the_English_Revolution_of_1640,10863831]]"

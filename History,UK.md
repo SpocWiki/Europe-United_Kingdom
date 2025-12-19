@@ -11,7 +11,7 @@ has_part_s_:
   - "[[_Standards/WikiData/WD~history_of_England,11755949]]"
   - "[[_Standards/WikiData/WD~territorial_evolution_of_the_United_Kingdom,12487574]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
 part_of:
   - "[[_Standards/WikiData/WD~study_of_history,1066186]]"

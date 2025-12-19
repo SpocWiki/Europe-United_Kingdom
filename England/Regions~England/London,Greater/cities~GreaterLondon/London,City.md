@@ -126,7 +126,7 @@ instance of:
   - "[[WikiData/WD~city,515]]"
 described by source:
   - "[[WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[WikiData/WD~Pauly–Wissowa,1138524]]"
   - "[[WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
