@@ -26,21 +26,38 @@ publishDate:
 expiryDate:
 ---
 
-# Royal_Borough_of_Windsor_and_Maidenhead
+# Royal_Borough_of_[[Windsor_and_Maidenhead]]
+
+
+## #has_/map  
 
 ```leaflet
-id: Royal_Borough_of_Windsor_and_Maidenhead
+id: Windsor_and_Maidenhead
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Royal_Borough_of_Windsor_and_Maidenhead/
-markerFolder: ./Royal_Borough_of_Windsor_and_Maidenhead/
+geojsonFolder: ./Windsor_and_Maidenhead/
+markerFolder: ./Windsor_and_Maidenhead/
+coordinates: [[Windsor_and_Maidenhead]] 
+markerFile: [[Windsor_and_Maidenhead]] 
+zoomFeatures: true
+defaultZoom: 11 
 ```
 
 ## #has_/text_of_/abstract 
 
-
-> The Royal Borough of Windsor and Maidenhead is a unitary authority area with royal borough status in Berkshire, England. The borough is named after its two largest towns of Maidenhead (where the council is based) and Windsor. The borough also includes the towns of Ascot and Eton, plus numerous villages and surrounding rural areas. It is home to Windsor Castle, Eton College, Legoland Windsor and Ascot Racecourse. It is one of only four boroughs in England entitled to be prefixed royal, and the only one of them which is not a London borough.
+> The Royal Borough of Windsor and Maidenhead 
+> is a unitary authority area with royal borough status in Berkshire, England. 
+> 
+> The borough is named after its two largest towns of Maidenhead 
+> (where the council is based) and Windsor. 
+> 
+> The borough also includes the towns of Ascot and Eton, 
+> plus numerous villages and surrounding rural areas. 
+> 
+> It is home to Windsor Castle, Eton College, Legoland Windsor and Ascot Racecourse. 
+> It is one of only four boroughs in England entitled to be prefixed royal, 
+> and the only one of them which is not a London borough.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Royal%20Borough%20of%20Windsor%20and%20Maidenhead)
 

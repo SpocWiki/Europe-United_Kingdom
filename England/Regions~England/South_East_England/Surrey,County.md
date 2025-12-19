@@ -26,15 +26,17 @@ publishDate:
 expiryDate:
 ---
 
-# Surrey
+# [[Surrey,County]]
 
 ```leaflet
-id: Surrey
+id: Surrey,County
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Surrey/
-markerFolder: ./Surrey/
+geojsonFolder: ./Surrey,County/
+markerFolder: ./Surrey,County/
+coordinates: [[Surrey,County]] 
+markerFile: [[Surrey,County]] 
 ```
 
 
