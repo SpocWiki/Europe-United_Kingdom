@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Isles_of_Scilly
+  - Isles of Scilly
 location:
   - 49.92
   - -6.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Isles_of_Scilly
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Isles_of_Scilly

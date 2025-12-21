@@ -1,11 +1,17 @@
 ---
-location: [51.4936,-0.2251] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Hammersmith
+location:
+  - 51.4936
+  - -0.2251
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155966
 [StationSId::] 

@@ -1,11 +1,17 @@
 ---
-location: [51.5483,-0.3687] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Northolt
+location:
+  - 51.5483
+  - -0.3687
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156028
 [StationSId::] 

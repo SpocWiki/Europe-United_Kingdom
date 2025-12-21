@@ -1,11 +1,17 @@
 ---
-location: [51.5107,-0.1877] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Queensway
+location:
+  - 51.5107
+  - -0.1877
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156055
 [StationSId::] 

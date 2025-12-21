@@ -1,11 +1,18 @@
 ---
-location: [51.4945,-0.1829] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Gloucester_Road
+  - Sub~Gloucester Road
+location:
+  - 51.4945
+  - -0.1829
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155956
 [StationSId::] 

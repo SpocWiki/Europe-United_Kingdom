@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Milton_Keynes
+  - Milton Keynes
 location:
   - 52.1
   - -0.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Milton_Keynes
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Milton_Keynes

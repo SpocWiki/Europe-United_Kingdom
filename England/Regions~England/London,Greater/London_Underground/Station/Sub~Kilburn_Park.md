@@ -1,11 +1,18 @@
 ---
-location: [51.5351,-0.1939] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Kilburn_Park
+  - Sub~Kilburn Park
+location:
+  - 51.5351
+  - -0.1939
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155998
 [StationSId::] 

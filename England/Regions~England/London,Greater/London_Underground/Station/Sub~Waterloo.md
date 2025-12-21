@@ -1,11 +1,17 @@
 ---
-location: [51.5036,-0.1143] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Waterloo
+location:
+  - 51.5036
+  - -0.1143
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156120
 [StationSId::] 

@@ -1,7 +1,14 @@
 ---
-location: [51.35,-0.08] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Croydon
+  - Croydon,City
+location:
+  - 51.35
+  - -0.08
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 SpocWebEntityId: 29683
 isDeleted: false
@@ -10,18 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Croydon
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Croydon,City]]

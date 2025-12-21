@@ -1,11 +1,18 @@
 ---
-location: [51.5098,-0.1342] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Piccadilly_Circus
+  - Sub~Piccadilly Circus
+location:
+  - 51.5098
+  - -0.1342
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156045
 [StationSId::] 

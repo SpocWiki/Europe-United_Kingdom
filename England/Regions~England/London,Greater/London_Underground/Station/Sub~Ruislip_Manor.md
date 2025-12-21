@@ -1,11 +1,18 @@
 ---
-location: [51.5732,-0.4125] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Ruislip_Manor
+  - Sub~Ruislip Manor
+location:
+  - 51.5732
+  - -0.4125
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156067
 [StationSId::] 

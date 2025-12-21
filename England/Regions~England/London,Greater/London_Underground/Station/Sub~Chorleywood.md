@@ -1,11 +1,17 @@
 ---
-location: [51.6543,-0.5183] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Chorleywood
+location:
+  - 51.6543
+  - -0.5183
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156149
 [StationSId::] 

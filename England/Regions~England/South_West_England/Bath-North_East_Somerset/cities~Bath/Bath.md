@@ -1,16 +1,19 @@
 ---
-location: [51.35,-2.35] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bath
+location:
+  - 51.35
+  - -2.35
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29043
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

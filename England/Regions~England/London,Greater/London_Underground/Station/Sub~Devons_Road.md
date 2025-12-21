@@ -1,11 +1,18 @@
 ---
-location: [51.5223,-0.0173] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Devons_Road
+  - Sub~Devons Road
+location:
+  - 51.5223
+  - -0.0173
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155929
 [StationSId::] 

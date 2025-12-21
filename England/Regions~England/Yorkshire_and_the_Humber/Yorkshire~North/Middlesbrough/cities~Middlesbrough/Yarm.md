@@ -1,16 +1,19 @@
 ---
-location: [54.53,-1.2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Yarm
+location:
+  - 54.53
+  - -1.2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35740
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

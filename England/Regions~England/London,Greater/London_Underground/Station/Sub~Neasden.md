@@ -1,11 +1,17 @@
 ---
-location: [51.5542,-0.2503] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Neasden
+location:
+  - 51.5542
+  - -0.2503
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156025
 [StationSId::] 

@@ -1,11 +1,18 @@
 ---
-location: [51.4957,-0.0144] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Crossharbour_&_London_Arena
+  - Sub~Crossharbour & London Arena
+location:
+  - 51.4957
+  - -0.0144
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155924
 [StationSId::] 

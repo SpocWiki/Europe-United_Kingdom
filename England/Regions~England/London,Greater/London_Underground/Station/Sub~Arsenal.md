@@ -1,11 +1,17 @@
 ---
-location: [51.5586,-0.1059] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Arsenal
+location:
+  - 51.5586
+  - -0.1059
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155882
 [StationSId::] 

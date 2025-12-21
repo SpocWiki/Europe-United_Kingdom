@@ -1,11 +1,18 @@
 ---
-location: [51.4361,-0.1598] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Tooting_Bec
+  - Sub~Tooting Bec
+location:
+  - 51.4361
+  - -0.1598
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156099
 [StationSId::] 

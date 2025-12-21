@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Isle of Man
+  - Isla de Man
+  - �le de Man
+  - ????? ???
+  - ???
+  - ?????? ???
+  - ''
+  - Isle_of_Man
 location:
   - 54.25
   - -4.5
@@ -16,19 +25,11 @@ cssclasses:
   - Country
 publish: true
 title: Isle of Man
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
-aliases:
-  - Isle of Man
-  - Isla de Man
-  - �le de Man
-  - ????? ???
-  - ???
-  - ?????? ???
-  - 
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 Languages:
   - en
   - gv

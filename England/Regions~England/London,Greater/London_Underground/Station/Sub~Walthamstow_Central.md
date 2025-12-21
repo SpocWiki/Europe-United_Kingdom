@@ -1,11 +1,18 @@
 ---
-location: [51.583,-0.0195] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Walthamstow_Central
+  - Sub~Walthamstow Central
+location:
+  - 51.583
+  - -0.0195
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156115
 [StationSId::] 

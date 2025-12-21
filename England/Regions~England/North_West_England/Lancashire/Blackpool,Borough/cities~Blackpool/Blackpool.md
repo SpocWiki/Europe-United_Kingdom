@@ -1,16 +1,19 @@
 ---
-location: [53.82,-3.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Blackpool
+location:
+  - 53.82
+  - -3.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29217
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

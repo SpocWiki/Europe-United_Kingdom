@@ -1,11 +1,18 @@
 ---
-location: [51.5925,-0.3351] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Harrow_&_Wealdstone
+  - Sub~Harrow & Wealdstone
+location:
+  - 51.5925
+  - -0.3351
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155970
 [StationSId::] 

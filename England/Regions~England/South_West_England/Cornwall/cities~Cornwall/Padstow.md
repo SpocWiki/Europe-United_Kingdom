@@ -1,16 +1,19 @@
 ---
-location: [50.5,-4.98] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Padstow
+location:
+  - 50.5
+  - -4.98
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33210
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

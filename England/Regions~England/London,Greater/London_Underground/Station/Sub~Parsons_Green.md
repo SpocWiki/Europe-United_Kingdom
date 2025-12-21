@@ -1,11 +1,18 @@
 ---
-location: [51.4753,-0.2011] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Parsons_Green
+  - Sub~Parsons Green
+location:
+  - 51.4753
+  - -0.2011
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156043
 [StationSId::] 

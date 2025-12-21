@@ -1,11 +1,17 @@
 ---
-location: [51.5538,-0.4499] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Hillingdon
+location:
+  - 51.5538
+  - -0.4499
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155980
 [StationSId::] 

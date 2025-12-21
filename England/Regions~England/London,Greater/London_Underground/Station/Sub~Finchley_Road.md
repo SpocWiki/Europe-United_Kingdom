@@ -1,11 +1,18 @@
 ---
-location: [51.5472,-0.1803] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Finchley_Road
+  - Sub~Finchley Road
+location:
+  - 51.5472
+  - -0.1803
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155951
 [StationSId::] 

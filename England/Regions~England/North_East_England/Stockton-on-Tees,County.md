@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Stockton-on-Tees
+  - Stockton-on-Tees,County
 location:
   - 54.5
   - -1.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Stockton-on-Tees
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Stockton-on-Tees

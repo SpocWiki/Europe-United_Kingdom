@@ -1,11 +1,17 @@
 ---
-location: [51.5808,0.0216] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Snaresbrook
+location:
+  - 51.5808
+  - 0.0216
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156075
 [StationSId::] 

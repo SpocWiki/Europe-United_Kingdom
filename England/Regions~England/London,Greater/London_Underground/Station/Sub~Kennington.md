@@ -1,11 +1,17 @@
 ---
-location: [51.4884,-0.1053] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Kennington
+location:
+  - 51.4884
+  - -0.1053
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155991
 [StationSId::] 

@@ -1,11 +1,18 @@
 ---
-location: [51.552,-0.2387] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Dollis_Hill
+  - Sub~Dollis Hill
+location:
+  - 51.552
+  - -0.2387
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155930
 [StationSId::] 

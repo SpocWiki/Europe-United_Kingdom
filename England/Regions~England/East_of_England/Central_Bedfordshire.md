@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Central_Bedfordshire
+  - Central Bedfordshire
 location:
   - 52
   - -0.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Central_Bedfordshire
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Central_Bedfordshire

@@ -1,11 +1,18 @@
 ---
-location: [51.4951,-0.2547] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Turnham_Green
+  - Sub~Turnham Green
+location:
+  - 51.4951
+  - -0.2547
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156106
 [StationSId::] 

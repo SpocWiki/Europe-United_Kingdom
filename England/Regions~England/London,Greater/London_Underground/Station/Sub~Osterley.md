@@ -1,11 +1,17 @@
 ---
-location: [51.4813,-0.3522] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Osterley
+location:
+  - 51.4813
+  - -0.3522
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156038
 [StationSId::] 

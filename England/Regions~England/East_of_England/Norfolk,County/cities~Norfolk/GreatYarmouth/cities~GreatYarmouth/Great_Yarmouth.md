@@ -1,16 +1,20 @@
 ---
-location: [52.62,1.73] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Great_Yarmouth
+  - Great Yarmouth
+location:
+  - 52.62
+  - 1.73
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30553
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

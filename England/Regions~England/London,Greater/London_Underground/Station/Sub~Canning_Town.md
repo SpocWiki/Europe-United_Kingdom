@@ -1,11 +1,18 @@
 ---
-location: [51.5147,0.0082] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Canning_Town
+  - Sub~Canning Town
+location:
+  - 51.5147
+  - 0.0082
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156167
 [StationSId::] 

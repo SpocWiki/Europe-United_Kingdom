@@ -1,11 +1,17 @@
 ---
-location: [51.5015,-0.1607] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Knightsbridge
+location:
+  - 51.5015
+  - -0.1607
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156001
 [StationSId::] 

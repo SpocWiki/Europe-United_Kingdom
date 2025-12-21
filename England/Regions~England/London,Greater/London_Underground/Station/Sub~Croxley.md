@@ -1,11 +1,17 @@
 ---
-location: [51.647,-0.4412] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Croxley
+location:
+  - 51.647
+  - -0.4412
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156151
 [StationSId::] 

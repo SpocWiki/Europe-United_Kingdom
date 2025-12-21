@@ -1,4 +1,7 @@
 ---
+aliases:
+  - South Ayrshire
+  - Ayrshire~South
 location:
   - 55.3
   - -4.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - South Ayrshire
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ayrshire~South

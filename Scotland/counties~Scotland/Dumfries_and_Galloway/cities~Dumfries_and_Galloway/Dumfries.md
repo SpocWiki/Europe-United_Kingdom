@@ -1,16 +1,19 @@
 ---
-location: [55.07,-3.58] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Dumfries
+location:
+  - 55.07
+  - -3.58
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29909
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

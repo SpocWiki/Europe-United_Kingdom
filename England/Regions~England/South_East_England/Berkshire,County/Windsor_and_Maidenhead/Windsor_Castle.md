@@ -1,11 +1,14 @@
 ---
 aliases:
   - Windsor Castle
+  - Windsor_Castle
 has_id_wikidata: Q42646
 coordinate_location: Point(-0.60483 51.4838)
-location: [ 51.4838, -0.60483]
+location:
+  - 51.4838
+  - -0.60483
 inception: 1070-01-01T00:00:00Z
-P1015: "97016324"
+P1015: 97016324
 Wolfram_Language_entity_code:
   - Entity["Building", "WindsorCastle::4rvdh"]
   - Entity["Castle", "WindsorCastle"]
@@ -14,73 +17,73 @@ Commons_Institution_page: Royal Collection, Windsor Castle
 OS_grid_reference: SU9700277033
 street_address: Windsor SL4 1NJ
 occupant:
-  - "[[_Standards/WikiData/WD~James_VI_and_I,79972]]"
-  - "[[_Standards/WikiData/WD~Charles_I_of_England,81506]]"
-  - "[[_Standards/WikiData/WD~Henry_I_of_England,101384]]"
-  - "[[_Standards/WikiData/WD~Henry_II_of_England,102140]]"
-  - "[[_Standards/WikiData/WD~Anne_of_Great_Britain,119702]]"
-  - "[[_Standards/WikiData/WD~Charles_II_of_England,122553]]"
-  - "[[_Standards/WikiData/WD~George_III_of_Great_Britain,127318]]"
-  - "[[_Standards/WikiData/WD~Edward_III_of_England,129247]]"
-  - "[[_Standards/WikiData/WD~George_IV_of_the_United_Kingdom,130586]]"
-  - "[[_Standards/WikiData/WD~Henry_V_of_England,131581]]"
-  - "[[_Standards/WikiData/WD~Henry_III_of_England,160311]]"
-  - "[[_Standards/WikiData/WD~George_V,269412]]"
-  - "[[_Standards/WikiData/WD~George_VI,280856]]"
-  - "[[_Standards/WikiData/WD~Henry_VII_of_England,675493]]"
-  - "[[_Standards/WikiData/WD~Elizabeth_I_of_England,7207]]"
-  - "[[_Standards/WikiData/WD~Victoria,9439]]"
-  - "[[_Standards/WikiData/WD~Edward_VII,20875]]"
-  - "[[_Standards/WikiData/WD~Henry_VIII_of_England,38370]]"
+  - '[[_Standards/WikiData/WD~James_VI_and_I,79972]]'
+  - '[[_Standards/WikiData/WD~Charles_I_of_England,81506]]'
+  - '[[_Standards/WikiData/WD~Henry_I_of_England,101384]]'
+  - '[[_Standards/WikiData/WD~Henry_II_of_England,102140]]'
+  - '[[_Standards/WikiData/WD~Anne_of_Great_Britain,119702]]'
+  - '[[_Standards/WikiData/WD~Charles_II_of_England,122553]]'
+  - '[[_Standards/WikiData/WD~George_III_of_Great_Britain,127318]]'
+  - '[[_Standards/WikiData/WD~Edward_III_of_England,129247]]'
+  - '[[_Standards/WikiData/WD~George_IV_of_the_United_Kingdom,130586]]'
+  - '[[_Standards/WikiData/WD~Henry_V_of_England,131581]]'
+  - '[[_Standards/WikiData/WD~Henry_III_of_England,160311]]'
+  - '[[_Standards/WikiData/WD~George_V,269412]]'
+  - '[[_Standards/WikiData/WD~George_VI,280856]]'
+  - '[[_Standards/WikiData/WD~Henry_VII_of_England,675493]]'
+  - '[[_Standards/WikiData/WD~Elizabeth_I_of_England,7207]]'
+  - '[[_Standards/WikiData/WD~Victoria,9439]]'
+  - '[[_Standards/WikiData/WD~Edward_VII,20875]]'
+  - '[[_Standards/WikiData/WD~Henry_VIII_of_England,38370]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~conflagration,168983]]"
-  - "[[_Standards/WikiData/WD~construction,385378]]"
+  - '[[_Standards/WikiData/WD~conflagration,168983]]'
+  - '[[_Standards/WikiData/WD~construction,385378]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~scheduled_monument,219538]]"
-  - "[[_Standards/WikiData/WD~Grade_I_listed_building,15700818]]"
+  - '[[_Standards/WikiData/WD~scheduled_monument,219538]]'
+  - '[[_Standards/WikiData/WD~Grade_I_listed_building,15700818]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~inner_bailey,381634]]"
-  - "[[_Standards/WikiData/WD~castle_chapel,1015103]]"
-  - "[[_Standards/WikiData/WD~outer_bailey,1401281]]"
-  - "[[_Standards/WikiData/WD~shell_keep,7493718]]"
-  - "[[_Standards/WikiData/WD~ward,10971470]]"
-locations: "[[_Standards/WikiData/WD~Windsor,464955]]"
-named_after: "[[_Standards/WikiData/WD~Windsor,464955]]"
+  - '[[_Standards/WikiData/WD~inner_bailey,381634]]'
+  - '[[_Standards/WikiData/WD~castle_chapel,1015103]]'
+  - '[[_Standards/WikiData/WD~outer_bailey,1401281]]'
+  - '[[_Standards/WikiData/WD~shell_keep,7493718]]'
+  - '[[_Standards/WikiData/WD~ward,10971470]]'
+locations: '[[_Standards/WikiData/WD~Windsor,464955]]'
+named_after: '[[_Standards/WikiData/WD~Windsor,464955]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~English_country_house,1343246]]"
-  - "[[_Standards/WikiData/WD~historic_house_museum,2087181]]"
-  - "[[_Standards/WikiData/WD~royal_palace,53536964]]"
-  - "[[_Standards/WikiData/WD~Residence_of_the_British_Royal_Family,131986827]]"
-  - "[[_Standards/WikiData/WD~palace,16560]]"
-  - "[[_Standards/WikiData/WD~castle,23413]]"
-associated_electoral_district: "[[_Standards/WikiData/WD~Windsor,874276]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Windsor_and_Maidenhead,1368496]]"
-part_of: "[[_Standards/WikiData/WD~Royal_Collection,1459037]]"
-architect: "[[_Standards/WikiData/WD~Hugh_May,1634427]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~English_country_house,1343246]]'
+  - '[[_Standards/WikiData/WD~historic_house_museum,2087181]]'
+  - '[[_Standards/WikiData/WD~royal_palace,53536964]]'
+  - '[[_Standards/WikiData/WD~Residence_of_the_British_Royal_Family,131986827]]'
+  - '[[_Standards/WikiData/WD~palace,16560]]'
+  - '[[_Standards/WikiData/WD~castle,23413]]'
+associated_electoral_district: '[[_Standards/WikiData/WD~Windsor,874276]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Windsor_and_Maidenhead,1368496]]'
+part_of: '[[_Standards/WikiData/WD~Royal_Collection,1459037]]'
+architect: '[[_Standards/WikiData/WD~Hugh_May,1634427]]'
 has_facility:
-  - "[[_Standards/WikiData/WD~accessible_toilet,2775009]]"
-  - "[[_Standards/WikiData/WD~Changing_Places_toilet,115144693]]"
-architectural_style: "[[_Standards/WikiData/WD~Perpendicular_Gothic,15609295]]"
-owned_by: "[[_Standards/WikiData/WD~the_Crown,21941952]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q32411478,32411478]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32411476,32411476]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32647070,32647070]]"
-depicted_by: "[[_Standards/WikiData/WD~Windsor_Castle,50854546]]"
-historic_county: "[[_Standards/WikiData/WD~Berkshire,67284726]]"
+  - '[[_Standards/WikiData/WD~accessible_toilet,2775009]]'
+  - '[[_Standards/WikiData/WD~Changing_Places_toilet,115144693]]'
+architectural_style: '[[_Standards/WikiData/WD~Perpendicular_Gothic,15609295]]'
+owned_by: '[[_Standards/WikiData/WD~the_Crown,21941952]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q32411478,32411478]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32411476,32411476]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32647070,32647070]]'
+depicted_by: '[[_Standards/WikiData/WD~Windsor_Castle,50854546]]'
+historic_county: '[[_Standards/WikiData/WD~Berkshire,67284726]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~CastlesFortsBattles,113626792]]"
-  - "[[_Standards/WikiData/WD~Castellogy,126616259]]"
-  - "[[_Standards/WikiData/WD~Das_englische_Haus_Vol.._1,129181032]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
-has_part_s_: "[[_Standards/WikiData/WD~Q136532003,136532003]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~River_Thames,19686]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~CastlesFortsBattles,113626792]]'
+  - '[[_Standards/WikiData/WD~Castellogy,126616259]]'
+  - '[[_Standards/WikiData/WD~Das_englische_Haus_Vol.._1,129181032]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q136532003,136532003]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~River_Thames,19686]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 elevation_above_sea_level: 180
-commissioned_by: "[[_Standards/WikiData/WD~William_the_Conqueror,37594]]"
+commissioned_by: '[[_Standards/WikiData/WD~William_the_Conqueror,37594]]'
 National_Heritage_List_for_England_number:
-  - "1006996"
-  - "1117776"
+  - 1006996
+  - 1117776
 native_label: Windsor Castle
 postal_code: SL4 1NJ
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Windsor%20Castle%20at%20Sunset%20-%20Nov%202006.jpg
@@ -91,7 +94,7 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Windsorcastleplan
 official_website:
   - https://www.rct.uk/visit/windsorcastle
   - https://www.royalcollection.org.uk/visit/windsorcastle
-ISNI: "0000000121495119"
+ISNI: 0000000121495119
 ---
 
 # [[Windsor_Castle]] 

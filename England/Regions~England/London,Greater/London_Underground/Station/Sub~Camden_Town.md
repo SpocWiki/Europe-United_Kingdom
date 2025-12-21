@@ -1,11 +1,18 @@
 ---
-location: [51.5392,-0.1426] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Camden_Town
+  - Sub~Camden Town
+location:
+  - 51.5392
+  - -0.1426
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155909
 [StationSId::] 

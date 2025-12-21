@@ -1,11 +1,18 @@
 ---
-location: [51.5096,0.0716] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Gallions_Reach
+  - Sub~Gallions Reach
+location:
+  - 51.5096
+  - 0.0716
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155954
 [StationSId::] 

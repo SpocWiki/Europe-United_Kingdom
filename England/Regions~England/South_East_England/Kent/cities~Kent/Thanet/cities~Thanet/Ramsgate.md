@@ -1,16 +1,19 @@
 ---
-location: [51.33,1.42] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ramsgate
+location:
+  - 51.33
+  - 1.42
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33628
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

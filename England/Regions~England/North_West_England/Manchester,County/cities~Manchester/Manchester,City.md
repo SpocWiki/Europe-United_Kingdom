@@ -1,6 +1,7 @@
 ---
 aliases:
   - Manchester
+  - Manchester,City
 has_id_wikidata: Q18125
 location:
   - 53.48
@@ -15,8 +16,8 @@ tags:
 SpocWebEntityId: 32249
 isDeleted: false
 confidential: public
-ISNI: "0000000098894196"
-TOID: "4000000074567025"
+ISNI: 0000000098894196
+TOID: 4000000074567025
 BHCL_UUID:
   - 7ddd6127-804b-4666-a54f-6aa0e3e06103
   - b8dd86fb-01fe-4547-bf72-474cb915b977
@@ -31,66 +32,66 @@ demonym:
 motto_text: Concilio Et Labore
 coordinate_location: Point(-2.233333333 53.466666666)
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Kanpur,66568]]"
-  - "[[_Standards/WikiData/WD~Aydın,170457]]"
-  - "[[_Standards/WikiData/WD~Faisalabad,173985]]"
-  - "[[_Standards/WikiData/WD~Rehovot,207350]]"
-  - "[[_Standards/WikiData/WD~Taldyqorğan,491102]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-  - "[[_Standards/WikiData/WD~Amsterdam,727]]"
-  - "[[_Standards/WikiData/WD~Chemnitz,2795]]"
-  - "[[_Standards/WikiData/WD~Córdoba,5818]]"
-  - "[[_Standards/WikiData/WD~Palembang,8131]]"
-  - "[[_Standards/WikiData/WD~Amsterdam,9899]]"
-  - "[[_Standards/WikiData/WD~Wuhan,11746]]"
-  - "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-shares_border_with: "[[_Standards/WikiData/WD~Bolton,184579]]"
+  - '[[_Standards/WikiData/WD~Kanpur,66568]]'
+  - '[[_Standards/WikiData/WD~Aydın,170457]]'
+  - '[[_Standards/WikiData/WD~Faisalabad,173985]]'
+  - '[[_Standards/WikiData/WD~Rehovot,207350]]'
+  - '[[_Standards/WikiData/WD~Taldyqorğan,491102]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+  - '[[_Standards/WikiData/WD~Amsterdam,727]]'
+  - '[[_Standards/WikiData/WD~Chemnitz,2795]]'
+  - '[[_Standards/WikiData/WD~Córdoba,5818]]'
+  - '[[_Standards/WikiData/WD~Palembang,8131]]'
+  - '[[_Standards/WikiData/WD~Amsterdam,9899]]'
+  - '[[_Standards/WikiData/WD~Wuhan,11746]]'
+  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+shares_border_with: '[[_Standards/WikiData/WD~Bolton,184579]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
-member_of: "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+member_of: '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~unparished_area,7897276]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_City_of_Manchester,5333718]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~unparished_area,7897276]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_City_of_Manchester,5333718]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~National_Cycling_Centre,15261114]]"
-  - "[[_Standards/WikiData/WD~National_Indoor_BMX_Arena,15261127]]"
-different_from: "[[_Standards/WikiData/WD~Manchester,21525592]]"
-capital_of: "[[_Standards/WikiData/WD~Manchester,21525592]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Manchester,21525592]]"
-historic_county: "[[_Standards/WikiData/WD~Lancashire,67311452]]"
+  - '[[_Standards/WikiData/WD~National_Cycling_Centre,15261114]]'
+  - '[[_Standards/WikiData/WD~National_Indoor_BMX_Arena,15261127]]'
+different_from: '[[_Standards/WikiData/WD~Manchester,21525592]]'
+capital_of: '[[_Standards/WikiData/WD~Manchester,21525592]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Manchester,21525592]]'
+historic_county: '[[_Standards/WikiData/WD~Lancashire,67311452]]'
 inception: 1301-01-01T00:00:00Z
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 elevation_above_sea_level: 38
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~River_Irwell,47901]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~River_Irwell,47901]]'
 area: 115.6
-WOEID: "28218"
+WOEID: 28218
 postal_code: M
 social_media_followers: 206911
-OmegaWiki_Defined_Meaning: "1217629"
+OmegaWiki_Defined_Meaning: 1217629
 Commons_gallery: Manchester
 Commons_category: Manchester
 subreddit: Manchester
 hashtag: Manchester
 population: 547627
-U_S_National_Archives_Identifier: "10037016"
+U_S_National_Archives_Identifier: 10037016
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Manchester.ogg
 native_label: Manchester
 official_name: Manchester
 GitHub_topic: manchester
-local_dialing_code: "0161"
+local_dialing_code: 0161
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20Manchester.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Google%20Timelapse-%20Manchester%2C%20UK.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Manchester%20%28Part%201%29.ogg

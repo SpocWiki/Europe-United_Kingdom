@@ -1,6 +1,7 @@
 ---
 aliases:
   - North East England
+  - North_East_England
 ---
 
 ## #has_/text_of_/abstract 

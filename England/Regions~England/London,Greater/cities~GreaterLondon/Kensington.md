@@ -1,16 +1,19 @@
 ---
-location: [51.5,-0.2] 
-mapzoom: [7,13] 
-mapmarker: city 
+aliases:
+  - Kensington
+location:
+  - 51.5
+  - -0.2
+mapzoom:
+  - 7
+  - 13
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31388
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

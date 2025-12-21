@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Bath_and_North_East_Somerset
+  - Bath-North_East_Somerset
+  - Bath-North East Somerset
 location:
   - 51.3
   - -2.5
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Bath_and_North_East_Somerset
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Bath_and_North_East_Somerset

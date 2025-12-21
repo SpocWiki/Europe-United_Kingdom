@@ -3,31 +3,32 @@ aliases:
   - Strait of Dover
   - Dover Strait
   - Dover Narrows
+  - Strait_of_Dover
 has_id_wikidata: Q159898
 named_after:
-  - "[[_Standards/WikiData/WD~Dover,179224]]"
-  - "[[_Standards/WikiData/WD~Calais,6454]]"
-shares_border_with: "[[_Standards/WikiData/WD~Sangatte,457820]]"
+  - '[[_Standards/WikiData/WD~Dover,179224]]'
+  - '[[_Standards/WikiData/WD~Calais,6454]]'
+shares_border_with: '[[_Standards/WikiData/WD~Sangatte,457820]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-basin_country: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+basin_country: '[[_Standards/WikiData/WD~France,142]]'
 country:
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~France,142]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 width: 40
 vertical_depth: 55
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~English_Channel,34640]]"
-instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~English_Channel,34640]]'
+instance_of: '[[_Standards/WikiData/WD~strait,37901]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Strait%20of%20dover%20STS106-718-28.jpg
-TOID: "4000000074799491"
+TOID: 4000000074799491
 Commons_category: Strait of Dover
 native_label: Strait of Dover
 coordinate_location: Point(1.45 51.0)

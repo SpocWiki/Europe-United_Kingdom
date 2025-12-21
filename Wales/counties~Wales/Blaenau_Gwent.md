@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Blaenau Gwent
+  - Blaenau_Gwent
 location:
   - 51.8
   - -3.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Blaenau Gwent
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Blaenau_Gwent

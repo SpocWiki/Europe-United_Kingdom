@@ -1,6 +1,7 @@
 ---
 aliases:
   - Leeds
+  - Leeds,County
 has_id_wikidata: Q39121
 location:
   - 53.8
@@ -20,11 +21,11 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Leeds,County]]

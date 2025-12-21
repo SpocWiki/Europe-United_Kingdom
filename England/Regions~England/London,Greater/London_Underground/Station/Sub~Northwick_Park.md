@@ -1,11 +1,18 @@
 ---
-location: [51.5784,-0.3184] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Northwick_Park
+  - Sub~Northwick Park
+location:
+  - 51.5784
+  - -0.3184
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156029
 [StationSId::] 

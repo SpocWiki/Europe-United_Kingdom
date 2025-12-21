@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Perthshire_and_Kinross
+  - Perthshire and Kinross
 location:
   - 56.5
   - -3.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Perthshire_and_Kinross
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Perthshire_and_Kinross

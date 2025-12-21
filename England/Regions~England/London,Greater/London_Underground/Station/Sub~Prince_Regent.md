@@ -1,11 +1,18 @@
 ---
-location: [51.5093,0.0336] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Prince_Regent
+  - Sub~Prince Regent
+location:
+  - 51.5093
+  - 0.0336
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156051
 [StationSId::] 

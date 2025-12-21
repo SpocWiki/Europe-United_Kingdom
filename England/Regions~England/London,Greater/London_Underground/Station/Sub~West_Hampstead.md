@@ -1,11 +1,18 @@
 ---
-location: [51.5469,-0.1906] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~West_Hampstead
+  - Sub~West Hampstead
+location:
+  - 51.5469
+  - -0.1906
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156130
 [StationSId::] 

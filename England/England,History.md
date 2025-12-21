@@ -1,21 +1,22 @@
 ---
 aliases:
-  - History of England 
-  - Geschichte von England 
-  - Englische Geschichte 
-  - History_of_England 
+  - History of England
+  - Geschichte von England
+  - Englische Geschichte
+  - History_of_England
+  - England,History
 has_id_wikidata: Q11755949
-part_of: "[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]"
+part_of: '[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
-has_part_s_: "[[_Standards/WikiData/WD~history_of_Essex,5776050]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_England,10522123]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+has_part_s_: '[[_Standards/WikiData/WD~history_of_Essex,5776050]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_England,10522123]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
 coordinate_location: Point(-1.0 53.0)
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~England,21]]"
-Dewey_Decimal_Classification: "942"
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~England,21]]'
+Dewey_Decimal_Classification: 942
 Colon_Classification: V3
 Commons_category: History of England
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Van%20der%20Hagen-KW1049B11%20004-A%20NEW%20MAP%20OF%20THE%20KINGDOME%20of%20ENGLAND%2C%20Representing%20the%20Princedome%20of%20WALES%2C%20and%20other%20PROVINCES%2C%20CITIES%2C%20MARKET%20TOWNS%2C%20with%20the%20ROADS%20from%20TOWN%20to%20TOWN.jpeg

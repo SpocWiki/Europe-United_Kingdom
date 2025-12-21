@@ -1,11 +1,17 @@
 ---
-location: [51.5225,-0.1631] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Marylebone
+location:
+  - 51.5225
+  - -0.1631
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156016
 [StationSId::] 

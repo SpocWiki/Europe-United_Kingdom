@@ -1,13 +1,19 @@
 ---
-location: [51.512,-0.2239] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
-aliases: 
-- Sub~Wood_Lane 
+aliases:
+  - Sub~Wood_Lane
+  - Sub~White_City
+  - Sub~White City
+location:
+  - 51.512
+  - -0.2239
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156136
 [StationSId::] 

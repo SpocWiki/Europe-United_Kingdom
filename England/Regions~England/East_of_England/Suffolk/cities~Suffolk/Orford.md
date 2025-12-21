@@ -1,16 +1,19 @@
 ---
-location: [52.08,1.57] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Orford
+location:
+  - 52.08
+  - 1.57
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33131
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,11 +1,18 @@
 ---
-location: [51.4946,-0.2678] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Chiswick_Park
+  - Sub~Chiswick Park
+location:
+  - 51.4946
+  - -0.2678
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155917
 [StationSId::] 

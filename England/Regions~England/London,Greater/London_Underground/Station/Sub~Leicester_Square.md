@@ -1,11 +1,18 @@
 ---
-location: [51.5113,-0.1281] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Leicester_Square
+  - Sub~Leicester Square
+location:
+  - 51.5113
+  - -0.1281
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156006
 [StationSId::] 

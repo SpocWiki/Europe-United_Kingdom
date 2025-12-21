@@ -5,43 +5,43 @@ aliases:
   - Houses of Parliament
 has_id_wikidata: Q62408
 significant_event:
-  - "[[_Standards/WikiData/WD~conflagration,168983]]"
-  - "[[_Standards/WikiData/WD~bombardment,678146]]"
-  - "[[_Standards/WikiData/WD~redevelopment,1441983]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~City_of_Westminster,179351]]"
+  - '[[_Standards/WikiData/WD~conflagration,168983]]'
+  - '[[_Standards/WikiData/WD~bombardment,678146]]'
+  - '[[_Standards/WikiData/WD~redevelopment,1441983]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~City_of_Westminster,179351]]'
 architectural_style:
-  - "[[_Standards/WikiData/WD~Gothic_Revival,186363]]"
-  - "[[_Standards/WikiData/WD~English_Gothic_architecture,750752]]"
-  - "[[_Standards/WikiData/WD~Perpendicular_Gothic,15609295]]"
+  - '[[_Standards/WikiData/WD~Gothic_Revival,186363]]'
+  - '[[_Standards/WikiData/WD~English_Gothic_architecture,750752]]'
+  - '[[_Standards/WikiData/WD~Perpendicular_Gothic,15609295]]'
 architect:
-  - "[[_Standards/WikiData/WD~Augustus_Pugin,313288]]"
-  - "[[_Standards/WikiData/WD~Charles_Barry,_Jr.,5075445]]"
+  - '[[_Standards/WikiData/WD~Augustus_Pugin,313288]]'
+  - '[[_Standards/WikiData/WD~Charles_Barry,_Jr.,5075445]]'
 has_use:
-  - "[[_Standards/WikiData/WD~official_residence,481289]]"
-  - "[[_Standards/WikiData/WD~parliament,35749]]"
+  - '[[_Standards/WikiData/WD~official_residence,481289]]'
+  - '[[_Standards/WikiData/WD~parliament,35749]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
-instance_of: "[[_Standards/WikiData/WD~parliament_building,7138926]]"
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+instance_of: '[[_Standards/WikiData/WD~parliament_building,7138926]]'
 has_part_s_:
   - "[[_Standards/WikiData/WD~St_Stephen's_Chapel,7595468]]"
-  - "[[_Standards/WikiData/WD~Big_Ben,41225]]"
+  - '[[_Standards/WikiData/WD~Big_Ben,41225]]'
 part_of: "[[_Standards/WikiData/WD~Palace_of_Westminster_and_Westminster_Abbey_including_Saint_Margaret's_Church,10344038]]"
-heritage_designation: "[[_Standards/WikiData/WD~Grade_I_listed_building,15700818]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32672466,32672466]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32672472,32672472]]"
-history_of_topic: "[[_Standards/WikiData/WD~History_of_the_Palace_of_Westminster,96381138]]"
+heritage_designation: '[[_Standards/WikiData/WD~Grade_I_listed_building,15700818]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32672466,32672466]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32672472,32672472]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_the_Palace_of_Westminster,96381138]]'
 date_of_official_opening: 1342-01-01T00:00:00Z
-occupant: "[[_Standards/WikiData/WD~Parliament_of_the_United_Kingdom,11010]]"
-historic_county: "[[_Standards/WikiData/WD~Middlesex,19186]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~River_Thames,19686]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+occupant: '[[_Standards/WikiData/WD~Parliament_of_the_United_Kingdom,11010]]'
+historic_county: '[[_Standards/WikiData/WD~Middlesex,19186]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~River_Thames,19686]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 area: 10
 social_media_followers: 13533
-National_Heritage_List_for_England_number: "1226284"
+National_Heritage_List_for_England_number: 1226284
 time_of_earliest_written_record: 1016-01-01T00:00:00Z
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Palace%20of%20Westminster%2C%20London%20-%20Feb%202007.jpg
 native_label: Palace of Westminster

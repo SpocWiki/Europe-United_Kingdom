@@ -1,16 +1,19 @@
 ---
-location: [51.13,1.32] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Dover
+location:
+  - 51.13
+  - 1.32
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29862
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

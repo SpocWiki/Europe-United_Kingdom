@@ -1,11 +1,17 @@
 ---
-location: [51.5227,-0.0708] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Shoreditch
+location:
+  - 51.5227
+  - -0.0708
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156073
 [StationSId::] 

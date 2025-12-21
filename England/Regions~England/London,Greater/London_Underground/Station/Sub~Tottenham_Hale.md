@@ -1,11 +1,18 @@
 ---
-location: [51.5882,-0.0594] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Tottenham_Hale
+  - Sub~Tottenham Hale
+location:
+  - 51.5882
+  - -0.0594
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156102
 [StationSId::] 

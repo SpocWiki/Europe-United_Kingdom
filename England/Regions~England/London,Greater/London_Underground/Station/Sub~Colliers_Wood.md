@@ -1,11 +1,18 @@
 ---
-location: [51.418,-0.1778] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Colliers_Wood
+  - Sub~Colliers Wood
+location:
+  - 51.418
+  - -0.1778
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155922
 [StationSId::] 

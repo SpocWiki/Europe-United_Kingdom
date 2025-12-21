@@ -1,11 +1,18 @@
 ---
-location: [51.5507,-0.3156] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Sudbury_Town
+  - Sub~Sudbury Town
+location:
+  - 51.5507
+  - -0.3156
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156095
 [StationSId::] 

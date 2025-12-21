@@ -1,4 +1,7 @@
 ---
+aliases:
+  - West_Berkshire
+  - Berkshire~West
 location:
   - 51.4
   - -1.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - West_Berkshire
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # West_Berkshire

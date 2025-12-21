@@ -1,6 +1,8 @@
 ---
 aliases:
   - West Midlands
+  - West_Midlands,Region
+  - West Midlands,Region
 ---
 
 > The West Midlands is one of nine official regions of England at the first level of International Territorial Level for statistical purposes. It covers the western half of the area known traditionally as the Midlands. The region consists of the counties of Herefordshire, Shropshire, Staffordshire, Warwickshire, West Midlands and Worcestershire. The region has seven cities: Birmingham, Coventry, Hereford, Lichfield, Stoke-on-Trent, Wolverhampton and Worcester.

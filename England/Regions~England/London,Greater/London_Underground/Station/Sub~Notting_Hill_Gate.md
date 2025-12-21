@@ -1,11 +1,18 @@
 ---
-location: [51.5094,-0.1967] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Notting_Hill_Gate
+  - Sub~Notting Hill Gate
+location:
+  - 51.5094
+  - -0.1967
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156036
 [StationSId::] 

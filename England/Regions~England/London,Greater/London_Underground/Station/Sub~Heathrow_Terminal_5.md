@@ -1,11 +1,18 @@
 ---
-location: [51.4723,-0.488] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Heathrow_Terminal_5
+  - Sub~Heathrow Terminal 5
+location:
+  - 51.4723
+  - -0.488
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 
 [StationSId::] 

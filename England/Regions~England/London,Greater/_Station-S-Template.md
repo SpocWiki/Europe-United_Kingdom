@@ -1,17 +1,17 @@
 ---
+aliases:
+  - ''
+  - _Station-S-Template
+  - ' Station-S-Template'
 type: Station
 license: CC BY-SA 4.0
 publish: true
 confidential: public
 isDeleted: false
 isReadOnly: false
-
 tags:
-- geo/station
-- Europe/UK/City~London
-
-aliases:
-- 
+  - geo/station
+  - Europe/UK/City~London
 ---
 location: [{{GeoLat}},{{GeoLon}}] 
 SpocWebEntityId: {{SpocWebEntityId}}

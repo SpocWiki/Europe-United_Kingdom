@@ -1,10 +1,12 @@
 ---
 aliases:
   - history of Scotland
+  - History_of_Scotland
+  - History of Scotland
 has_id_wikidata: Q471148
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~Scotland,22]]"
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~Scotland,22]]'
 Commons_gallery: History of Scotland
 Commons_category: History of Scotland
 ---

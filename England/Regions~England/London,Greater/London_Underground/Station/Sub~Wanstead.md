@@ -1,11 +1,17 @@
 ---
-location: [51.5775,0.0288] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Wanstead
+location:
+  - 51.5775
+  - 0.0288
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156116
 [StationSId::] 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Stoke-on-Trent
+  - Stoke-on-Trent,County
 location:
   - 53
   - -2.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Stoke-on-Trent
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Stoke-on-Trent

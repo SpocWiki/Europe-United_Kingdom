@@ -1,11 +1,18 @@
 ---
-location: [51.5095,0.0276] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Custom_House
+  - Sub~Custom House
+location:
+  - 51.5095
+  - 0.0276
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155925
 [StationSId::] 

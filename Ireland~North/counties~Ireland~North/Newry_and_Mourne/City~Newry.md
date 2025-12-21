@@ -1,16 +1,19 @@
 ---
-location: [54.18,-6.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - City~Newry
+location:
+  - 54.18
+  - -6.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32890
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

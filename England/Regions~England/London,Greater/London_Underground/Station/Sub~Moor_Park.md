@@ -1,11 +1,18 @@
 ---
-location: [51.6294,-0.432] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Moor_Park
+  - Sub~Moor Park
+location:
+  - 51.6294
+  - -0.432
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156021
 [StationSId::] 

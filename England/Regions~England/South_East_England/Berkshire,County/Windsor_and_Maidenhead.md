@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Royal_Borough_of_Windsor_and_Maidenhead
+  - Windsor_and_Maidenhead
+  - Windsor and Maidenhead
 location:
   - 51.5
   - -0.7
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Royal_Borough_of_Windsor_and_Maidenhead
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Royal_Borough_of_[[Windsor_and_Maidenhead]]

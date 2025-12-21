@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Jersey
+  - جيرزي
+  - 泽西
+  - Джерси
+  - ''
 location:
   - 49.2
   - -2.1
@@ -15,18 +21,12 @@ cssclasses:
   - Country
 publish: true
 title: Jersey
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Jersey
-  - جيرزي
-  - 泽西
-  - Джерси
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - en
   - fr

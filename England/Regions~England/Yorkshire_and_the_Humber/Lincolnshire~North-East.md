@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Lincolnshire~North_East
+  - Lincolnshire~North-East
 location:
   - 53.5
   - -0.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Lincolnshire~North_East
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Lincolnshire~North_East

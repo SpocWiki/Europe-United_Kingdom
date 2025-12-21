@@ -1,11 +1,18 @@
 ---
-location: [51.5492,-0.2215] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Willesden_Green
+  - Sub~Willesden Green
+location:
+  - 51.5492
+  - -0.2215
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156137
 [StationSId::] 

@@ -1,11 +1,18 @@
 ---
-location: [51.6095,-0.1883] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~West_Finchley
+  - Sub~West Finchley
+location:
+  - 51.6095
+  - -0.1883
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156128
 [StationSId::] 

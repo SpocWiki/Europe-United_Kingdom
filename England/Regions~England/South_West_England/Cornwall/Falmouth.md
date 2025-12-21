@@ -1,16 +1,19 @@
 ---
-location: [50.15,-5.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Falmouth
+location:
+  - 50.15
+  - -5.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30129
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

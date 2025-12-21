@@ -1,11 +1,16 @@
 ---
-location: [51.47,0.0] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Greenwich
+location:
+  - 51.47
+  - 0.0
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
+  - geo/City
 SpocWebEntityId: 30558
 isDeleted: false
 confidential: public

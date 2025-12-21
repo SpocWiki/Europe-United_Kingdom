@@ -1,11 +1,13 @@
 ---
 aliases:
   - history of Wales
+  - History_of_Wales
+  - History of Wales
 has_id_wikidata: Q1063608
-subclass_of: "[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Wales,14336136]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-Dewey_Decimal_Classification: "942"
+subclass_of: '[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Wales,14336136]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+Dewey_Decimal_Classification: 942
 Commons_category: History of Wales
 ---
 

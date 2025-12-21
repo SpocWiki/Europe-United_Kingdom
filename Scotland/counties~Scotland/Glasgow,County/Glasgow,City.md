@@ -1,6 +1,8 @@
 ---
 aliases:
   - Glasgow
+  - Glasgow,City
+has_id_wikidata: Q4093
 location:
   - 55.88
   - -4.25
@@ -14,7 +16,6 @@ tags:
 SpocWebEntityId: 30464
 isDeleted: false
 confidential: public
-has_id_wikidata: Q4093
 ---
 
 # [[Glasgow,City]] 

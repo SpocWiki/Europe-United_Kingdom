@@ -1,4 +1,7 @@
 ---
+aliases:
+  - East Ayrshire
+  - Ayrshire~East
 location:
   - 55.4
   - -4.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - East Ayrshire
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ayrshire~East

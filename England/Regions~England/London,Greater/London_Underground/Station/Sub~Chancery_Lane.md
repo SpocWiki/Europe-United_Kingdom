@@ -1,11 +1,18 @@
 ---
-location: [51.5185,-0.1111] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Chancery_Lane
+  - Sub~Chancery Lane
+location:
+  - 51.5185
+  - -0.1111
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155914
 [StationSId::] 

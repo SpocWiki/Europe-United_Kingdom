@@ -1,11 +1,18 @@
 ---
-location: [51.5343,-0.0139] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Pudding_Mill_Lane
+  - Sub~Pudding Mill Lane
+location:
+  - 51.5343
+  - -0.0139
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156164
 [StationSId::] 

@@ -1,11 +1,17 @@
 ---
-location: [51.5407,-0.2997] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Alperton
+location:
+  - 51.5407
+  - -0.2997
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155878
 [StationSId::] 

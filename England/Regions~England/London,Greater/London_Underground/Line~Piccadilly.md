@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Line~Piccadilly
 location:
   - 51.527
   - -0.2841
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Line~Piccadilly
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Line~Piccadilly

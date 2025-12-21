@@ -1,11 +1,18 @@
 ---
-location: [51.5175,-0.2887] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~North_Ealing
+  - Sub~North Ealing
+location:
+  - 51.5175
+  - -0.2887
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156033
 [StationSId::] 

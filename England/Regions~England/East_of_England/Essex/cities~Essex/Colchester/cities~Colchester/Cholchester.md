@@ -1,16 +1,19 @@
 ---
-location: [51.87,0.87] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Cholchester
+location:
+  - 51.87
+  - 0.87
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29598
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

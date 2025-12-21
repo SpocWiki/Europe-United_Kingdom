@@ -1,11 +1,18 @@
 ---
-location: [51.6004,-0.4092] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Northwood_Hills
+  - Sub~Northwood Hills
+location:
+  - 51.6004
+  - -0.4092
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156031
 [StationSId::] 

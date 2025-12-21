@@ -1,16 +1,19 @@
 ---
-location: [53.45,-2.73] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Helens
+location:
+  - 53.45
+  - -2.73
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34459
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

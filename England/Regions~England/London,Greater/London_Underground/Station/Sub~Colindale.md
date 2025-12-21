@@ -1,11 +1,17 @@
 ---
-location: [51.5955,-0.2502] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Colindale
+location:
+  - 51.5955
+  - -0.2502
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155921
 [StationSId::] 

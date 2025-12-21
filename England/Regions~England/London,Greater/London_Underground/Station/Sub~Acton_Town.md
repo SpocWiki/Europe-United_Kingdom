@@ -1,11 +1,18 @@
 ---
-location: [51.5028,-0.2801] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Acton_Town
+  - Sub~Acton Town
+location:
+  - 51.5028
+  - -0.2801
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 
 # [[Sub~Acton_Town]] 

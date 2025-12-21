@@ -1,11 +1,18 @@
 ---
-location: [51.6012,-0.1932] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Finchley_Central
+  - Sub~Finchley Central
+location:
+  - 51.6012
+  - -0.1932
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155950
 [StationSId::] 

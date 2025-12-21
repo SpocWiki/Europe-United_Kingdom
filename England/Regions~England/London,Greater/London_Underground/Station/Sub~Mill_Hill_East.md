@@ -1,11 +1,18 @@
 ---
-location: [51.6082,-0.2103] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Mill_Hill_East
+  - Sub~Mill Hill East
+location:
+  - 51.6082
+  - -0.2103
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156018
 [StationSId::] 

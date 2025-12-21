@@ -1,11 +1,18 @@
 ---
-location: [51.5172,-0.2107] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Ladbroke_Grove
+  - Sub~Ladbroke Grove
+location:
+  - 51.5172
+  - -0.2107
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156002
 [StationSId::] 

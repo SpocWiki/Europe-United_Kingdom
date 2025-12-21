@@ -1,11 +1,18 @@
 ---
-location: [51.5439,-0.2759] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Stonebridge_Park
+  - Sub~Stonebridge Park
+location:
+  - 51.5439
+  - -0.2759
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156089
 [StationSId::] 

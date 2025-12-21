@@ -1,11 +1,18 @@
 ---
-location: [51.5226,-0.1571] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Baker_Street
+  - Sub~Baker Street
+location:
+  - 51.5226
+  - -0.1571
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155883
 [StationSId::] 

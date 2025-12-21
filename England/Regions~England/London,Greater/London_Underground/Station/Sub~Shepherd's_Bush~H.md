@@ -1,11 +1,18 @@
 ---
-location: [51.5058,-0.2265] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Shepherd's_Bush~H
+  - Sub~Shepherd's Bush~H
+location:
+  - 51.5058
+  - -0.2265
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156072
 [StationSId::] 

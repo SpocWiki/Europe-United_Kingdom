@@ -1,16 +1,19 @@
 ---
-location: [54.42,-0.75] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Gainsborough
+location:
+  - 54.42
+  - -0.75
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30342
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

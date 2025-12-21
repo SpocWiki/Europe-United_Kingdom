@@ -2,80 +2,81 @@
 aliases:
   - London
   - City of London
+  - London,City
 has_id_wikidata: Q84
 location:
   - 51.507222222
   - -0.1275
 twinned administrative body:
-  - "[[WikiData/WD~Mumbai,1156]]"
-  - "[[WikiData/WD~Delhi,1353]]"
-  - "[[WikiData/WD~Zagreb,1435]]"
-  - "[[WikiData/WD~Buenos_Aires,1486]]"
-  - "[[WikiData/WD~Tokyo,1490]]"
-  - "[[WikiData/WD~La_Paz,1491]]"
-  - "[[WikiData/WD~Mexico_City,1489]]"
-  - "[[WikiData/WD~Phnom_Penh,1850]]"
-  - "[[WikiData/WD~Kuala_Lumpur,1865]]"
-  - "[[WikiData/WD~Bogotá,2841]]"
-  - "[[WikiData/WD~Algiers,3561]]"
-  - "[[WikiData/WD~Tehran,3616]]"
-  - "[[WikiData/WD~Jakarta,3630]]"
-  - "[[WikiData/WD~Karachi,8660]]"
-  - "[[WikiData/WD~Shanghai,8686]]"
-  - "[[WikiData/WD~Baku,9248]]"
-  - "[[WikiData/WD~Bucharest,19660]]"
-  - "[[WikiData/WD~Podgorica,23564]]"
-  - "[[WikiData/WD~New_York_City,60]]"
-  - "[[WikiData/WD~Berlin,64]]"
-  - "[[WikiData/WD~Los_Angeles,65]]"
-  - "[[WikiData/WD~Johannesburg,34647]]"
-  - "[[WikiData/WD~Santo_Domingo,34820]]"
-  - "[[WikiData/WD~Arequipa,159273]]"
-  - "[[WikiData/WD~Sylhet,466221]]"
-  - "[[WikiData/WD~Istanbul,406]]"
-  - "[[WikiData/WD~Sofia,472]]"
-  - "[[WikiData/WD~Oslo,585]]"
-  - "[[WikiData/WD~Moscow,649]]"
-  - "[[WikiData/WD~Amsterdam,727]]"
-  - "[[WikiData/WD~Beijing,956]]"
-  - "[[WikiData/WD~New_Delhi,987]]"
-official language: "[[WikiData/WD~English,1860]]"
+  - '[[WikiData/WD~Mumbai,1156]]'
+  - '[[WikiData/WD~Delhi,1353]]'
+  - '[[WikiData/WD~Zagreb,1435]]'
+  - '[[WikiData/WD~Buenos_Aires,1486]]'
+  - '[[WikiData/WD~Tokyo,1490]]'
+  - '[[WikiData/WD~La_Paz,1491]]'
+  - '[[WikiData/WD~Mexico_City,1489]]'
+  - '[[WikiData/WD~Phnom_Penh,1850]]'
+  - '[[WikiData/WD~Kuala_Lumpur,1865]]'
+  - '[[WikiData/WD~Bogotá,2841]]'
+  - '[[WikiData/WD~Algiers,3561]]'
+  - '[[WikiData/WD~Tehran,3616]]'
+  - '[[WikiData/WD~Jakarta,3630]]'
+  - '[[WikiData/WD~Karachi,8660]]'
+  - '[[WikiData/WD~Shanghai,8686]]'
+  - '[[WikiData/WD~Baku,9248]]'
+  - '[[WikiData/WD~Bucharest,19660]]'
+  - '[[WikiData/WD~Podgorica,23564]]'
+  - '[[WikiData/WD~New_York_City,60]]'
+  - '[[WikiData/WD~Berlin,64]]'
+  - '[[WikiData/WD~Los_Angeles,65]]'
+  - '[[WikiData/WD~Johannesburg,34647]]'
+  - '[[WikiData/WD~Santo_Domingo,34820]]'
+  - '[[WikiData/WD~Arequipa,159273]]'
+  - '[[WikiData/WD~Sylhet,466221]]'
+  - '[[WikiData/WD~Istanbul,406]]'
+  - '[[WikiData/WD~Sofia,472]]'
+  - '[[WikiData/WD~Oslo,585]]'
+  - '[[WikiData/WD~Moscow,649]]'
+  - '[[WikiData/WD~Amsterdam,727]]'
+  - '[[WikiData/WD~Beijing,956]]'
+  - '[[WikiData/WD~New_Delhi,987]]'
+official language: '[[WikiData/WD~English,1860]]'
 shares border with:
-  - "[[WikiData/WD~Hertfordshire,3410]]"
-  - "[[WikiData/WD~Berkshire,23220]]"
-  - "[[WikiData/WD~Buckinghamshire,23229]]"
-  - "[[WikiData/WD~Essex,23240]]"
-  - "[[WikiData/WD~Surrey,23276]]"
-  - "[[WikiData/WD~Kent,23298]]"
-  - "[[WikiData/WD~Sussex,23346]]"
+  - '[[WikiData/WD~Hertfordshire,3410]]'
+  - '[[WikiData/WD~Berkshire,23220]]'
+  - '[[WikiData/WD~Buckinghamshire,23229]]'
+  - '[[WikiData/WD~Essex,23240]]'
+  - '[[WikiData/WD~Surrey,23276]]'
+  - '[[WikiData/WD~Kent,23298]]'
+  - '[[WikiData/WD~Sussex,23346]]'
 located in time zone:
-  - "[[WikiData/WD~UTC±00_00,6574]]"
-  - "[[WikiData/WD~UTC+01_00,6655]]"
-  - "[[WikiData/WD~Greenwich_Mean_Time,30192]]"
-  - "[[WikiData/WD~Europe_London,16894228]]"
+  - '[[WikiData/WD~UTC±00_00,6574]]'
+  - '[[WikiData/WD~UTC+01_00,6655]]'
+  - '[[WikiData/WD~Greenwich_Mean_Time,30192]]'
+  - '[[WikiData/WD~Europe_London,16894228]]'
 historic county:
-  - "[[WikiData/WD~Middlesex,19186]]"
-  - "[[WikiData/WD~Essex,67442940]]"
-  - "[[WikiData/WD~Surrey,67443130]]"
-  - "[[WikiData/WD~Kent,67479626]]"
-  - "[[WikiData/WD~Hertfordshire,67532100]]"
+  - '[[WikiData/WD~Middlesex,19186]]'
+  - '[[WikiData/WD~Essex,67442940]]'
+  - '[[WikiData/WD~Surrey,67443130]]'
+  - '[[WikiData/WD~Kent,67479626]]'
+  - '[[WikiData/WD~Hertfordshire,67532100]]'
 located in or next to body of water:
-  - "[[WikiData/WD~River_Thames,19686]]"
-  - "[[WikiData/WD~Grand_Union_Canal,19914]]"
+  - '[[WikiData/WD~River_Thames,19686]]'
+  - '[[WikiData/WD~Grand_Union_Canal,19914]]'
 different from:
-  - "[[WikiData/WD~Greater_London,23306]]"
-  - "[[WikiData/WD~City_of_London,23311]]"
-  - "[[WikiData/WD~London,92561]]"
-  - "[[WikiData/WD~London,23939248]]"
-located in the administrative territorial entity: "[[WikiData/WD~Greater_London,23306]]"
-located in/on physical feature: "[[WikiData/WD~Great_Britain,23666]]"
+  - '[[WikiData/WD~Greater_London,23306]]'
+  - '[[WikiData/WD~City_of_London,23311]]'
+  - '[[WikiData/WD~London,92561]]'
+  - '[[WikiData/WD~London,23939248]]'
+located in the administrative territorial entity: '[[WikiData/WD~Greater_London,23306]]'
+located in/on physical feature: '[[WikiData/WD~Great_Britain,23666]]'
 capital of:
-  - "[[WikiData/WD~England,21]]"
-  - "[[WikiData/WD~United_Kingdom,145]]"
-continent: "[[WikiData/WD~Europe,46]]"
-country: "[[WikiData/WD~United_Kingdom,145]]"
+  - '[[WikiData/WD~England,21]]'
+  - '[[WikiData/WD~United_Kingdom,145]]'
+continent: '[[WikiData/WD~Europe,46]]'
+country: '[[WikiData/WD~United_Kingdom,145]]'
 elevation above sea level: 4
-office held by head of government: "[[WikiData/WD~Mayor_of_London,38931]]"
+office held by head of government: '[[WikiData/WD~Mayor_of_London,38931]]'
 postal code:
   - BR
   - RM
@@ -100,58 +101,58 @@ postal code:
   - EC
   - TW
 local dialing code:
-  - "1322"
-  - "20"
-  - "1959"
-  - "1895"
-  - "1992"
-  - "1708"
-  - "1689"
-  - "1737"
-  - "1923"
+  - 1322
+  - 20
+  - 1959
+  - 1895
+  - 1992
+  - 1708
+  - 1689
+  - 1737
+  - 1923
 area: 1572
 subreddit: london
 GitHub topic: london
 social media followers: 53541
-highest point: "[[WikiData/WD~Biggin_Hill,122241]]"
-award received: "[[WikiData/WD~Legion_of_Honour,163700]]"
+highest point: '[[WikiData/WD~Biggin_Hill,122241]]'
+award received: '[[WikiData/WD~Legion_of_Honour,163700]]'
 instance of:
-  - "[[WikiData/WD~megacity,174844]]"
-  - "[[WikiData/WD~metropolis,200250]]"
-  - "[[WikiData/WD~global_city,208511]]"
-  - "[[WikiData/WD~financial_center,1066984]]"
-  - "[[WikiData/WD~geographic_location,2221906]]"
-  - "[[WikiData/WD~largest_city,51929311]]"
-  - "[[WikiData/WD~national_capital,108178728]]"
-  - "[[WikiData/WD~city,515]]"
+  - '[[WikiData/WD~megacity,174844]]'
+  - '[[WikiData/WD~metropolis,200250]]'
+  - '[[WikiData/WD~global_city,208511]]'
+  - '[[WikiData/WD~financial_center,1066984]]'
+  - '[[WikiData/WD~geographic_location,2221906]]'
+  - '[[WikiData/WD~largest_city,51929311]]'
+  - '[[WikiData/WD~national_capital,108178728]]'
+  - '[[WikiData/WD~city,515]]'
 described by source:
-  - "[[WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[WikiData/WD~Pauly–Wissowa,1138524]]"
-  - "[[WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-  - "[[WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-  - "[[WikiData/WD~Meyer’s_Universum,_Zweiter_Band,126937278]]"
-  - "[[WikiData/WD~Meyer’s_Universum,_Siebenter_Band,131314460]]"
-  - "[[WikiData/WD~Meyer’s_Universum,_Neunter_Band,131719188]]"
-head of government: "[[WikiData/WD~Sadiq_Khan,334155]]"
-member of: "[[WikiData/WD~C40_Cities_Climate_Leadership_Group,485087]]"
-history of topic: "[[WikiData/WD~history_of_London,1126401]]"
-has works in the collection: "[[WikiData/WD~National_Gallery_of_Victoria,1464509]]"
-economy of topic: "[[WikiData/WD~economy_of_London,4530359]]"
-demographics of topic: "[[WikiData/WD~demographics_of_London,5256030]]"
-geography of topic: "[[WikiData/WD~geography_of_London,5535176]]"
-maintained by WikiProject: "[[WikiData/WD~WikiProject_London,11036732]]"
-topic's main Wikimedia portal: "[[WikiData/WD~Portal_London,11383072]]"
-Wikimedia outline: "[[WikiData/WD~outline_of_London,28401337]]"
-open data portal: "[[WikiData/WD~London_Datastore,63429999]]"
-on focus list of Wikimedia project: "[[WikiData/WD~Genadendal_Music_Archive,128903909]]"
+  - '[[WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[WikiData/WD~Pauly–Wissowa,1138524]]'
+  - '[[WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+  - '[[WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
+  - '[[WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+  - '[[WikiData/WD~Meyer’s_Universum,_Zweiter_Band,126937278]]'
+  - '[[WikiData/WD~Meyer’s_Universum,_Siebenter_Band,131314460]]'
+  - '[[WikiData/WD~Meyer’s_Universum,_Neunter_Band,131719188]]'
+head of government: '[[WikiData/WD~Sadiq_Khan,334155]]'
+member of: '[[WikiData/WD~C40_Cities_Climate_Leadership_Group,485087]]'
+history of topic: '[[WikiData/WD~history_of_London,1126401]]'
+has works in the collection: '[[WikiData/WD~National_Gallery_of_Victoria,1464509]]'
+economy of topic: '[[WikiData/WD~economy_of_London,4530359]]'
+demographics of topic: '[[WikiData/WD~demographics_of_London,5256030]]'
+geography of topic: '[[WikiData/WD~geography_of_London,5535176]]'
+maintained by WikiProject: '[[WikiData/WD~WikiProject_London,11036732]]'
+topic's main Wikimedia portal: '[[WikiData/WD~Portal_London,11383072]]'
+Wikimedia outline: '[[WikiData/WD~outline_of_London,28401337]]'
+open data portal: '[[WikiData/WD~London_Datastore,63429999]]'
+on focus list of Wikimedia project: '[[WikiData/WD~Genadendal_Music_Archive,128903909]]'
 pronunciation audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1617%20%28urd%29-%D9%86%D8%B9%D9%85%20%D8%A7%D9%84%D8%A8%D8%AF%D9%84-%D9%84%D9%86%D8%AF%D9%86.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/En-uk-London.ogg
@@ -199,7 +200,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/London%20Tower%20Bridg
 MeSH tree code:
   - Z01.433.553
   - Z01.542.363.300.553
-TOID: "4000000074813508"
+TOID: 4000000074813508
 Provenio UUID:
   - bd927d30-a35e-4f20-a886-66cbb2f74d04
   - 0d284ad9-1e49-47c6-b75e-b21d0f0bb8b1
@@ -209,9 +210,9 @@ coordinate location: Point(-0.1275 51.507222222)
 Commons gallery: London
 hashtag: London
 Commons category: London
-OmegaWiki Defined Meaning: "6877"
+OmegaWiki Defined Meaning: 6877
 UN/LOCODE: GBLON
-WOEID: "44418"
+WOEID: 44418
 native label: London
 official name: London
 montage image: http://commons.wikimedia.org/wiki/Special:FilePath/London%20Montage%202016.png
@@ -220,7 +221,7 @@ population: 8799728
 ISO 3166-2 code: GB-LND
 inception: 0047-01-01T00:00:00Z
 Facebook username: LDNgov
-U.S. National Archives Identifier: "10045656"
+U.S. National Archives Identifier: 10045656
 official website: https://www.london.gov.uk/
 Dewey Decimal Classification: 2--421
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/London%20Thames%20Sunset%20panorama%20-%20Feb%202008%20banner.jpg

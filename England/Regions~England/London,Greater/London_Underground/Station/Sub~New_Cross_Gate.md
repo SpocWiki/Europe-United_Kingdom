@@ -1,11 +1,18 @@
 ---
-location: [51.4757,-0.0402] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~New_Cross_Gate
+  - Sub~New Cross Gate
+location:
+  - 51.4757
+  - -0.0402
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156175
 [StationSId::] 

@@ -1,11 +1,17 @@
 ---
-location: [51.5313,0.0172] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Plaistow
+location:
+  - 51.5313
+  - 0.0172
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156048
 [StationSId::] 

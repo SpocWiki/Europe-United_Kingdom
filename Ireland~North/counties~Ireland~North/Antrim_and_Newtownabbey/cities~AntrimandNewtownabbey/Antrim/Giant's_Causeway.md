@@ -2,25 +2,26 @@
 aliases:
   - Giant's Causeway
   - Giants Causeway
+  - Giant's_Causeway
 has_id_wikidata: Q106187
-historic_county: "[[_Standards/WikiData/WD~County_Antrim,189592]]"
+historic_county: '[[_Standards/WikiData/WD~County_Antrim,189592]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~landform,271669]]"
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~columnar_basalt,6633995]]"
-maintained_by: "[[_Standards/WikiData/WD~National_Trust,333515]]"
+  - '[[_Standards/WikiData/WD~landform,271669]]'
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~columnar_basalt,6633995]]'
+maintained_by: '[[_Standards/WikiData/WD~National_Trust,333515]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Causeway_Coast_and_Glens,5054638]]"
-facet_of: "[[_Standards/WikiData/WD~columnar_jointing,15427433]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Causeway_Coast_and_Glens,5054638]]'
+facet_of: '[[_Standards/WikiData/WD~columnar_jointing,15427433]]'
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(viii),23038983]]"
-  - "[[_Standards/WikiData/WD~(vii),23038981]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~(viii),23038983]]'
+  - '[[_Standards/WikiData/WD~(vii),23038981]]'
+heritage_designation: '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 social_media_followers: 10089
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Giant%27s%20Causeway%20%2836834542085%29.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Giants%20Causeway%20banner.JPG

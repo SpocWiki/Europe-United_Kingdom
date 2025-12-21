@@ -1,4 +1,19 @@
 ---
+aliases:
+  - ''
+  - ''
+  - ''
+  - Sark
+  - Sark
+  - Sercq
+  - سارك
+  - 萨克
+  - Сарк
+  - ''
+  - ''
+  - ''
+  - ''
+  - Sark~Island
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -8,29 +23,15 @@ cssclasses:
   - Country
 publish: true
 type: Country
-title:
-linkTitle:
-keywords:
-layout:
+title: ''
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
+publishDate: ''
+expiryDate: ''
 tags:
   - geo/Country
-aliases:
-  - 
-  - 
-  - 
-  - Sark
-  - Sark
-  - Sercq
-  - سارك
-  - 萨克
-  - Сарк
-  - 
-  - 
-  - 
-  - 
 Languages: []
 ---
 

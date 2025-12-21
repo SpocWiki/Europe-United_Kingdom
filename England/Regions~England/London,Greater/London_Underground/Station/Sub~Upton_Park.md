@@ -1,11 +1,18 @@
 ---
-location: [51.5352,0.0343] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Upton_Park
+  - Sub~Upton Park
+location:
+  - 51.5352
+  - 0.0343
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156111
 [StationSId::] 

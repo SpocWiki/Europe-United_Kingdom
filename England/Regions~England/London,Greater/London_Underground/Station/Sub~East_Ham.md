@@ -1,11 +1,18 @@
 ---
-location: [51.5394,0.0518] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~East_Ham
+  - Sub~East Ham
+location:
+  - 51.5394
+  - 0.0518
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155937
 [StationSId::] 

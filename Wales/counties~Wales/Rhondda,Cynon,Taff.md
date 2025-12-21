@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rhondda, Cynon, Taff
+  - Rhondda,Cynon,Taff
 location:
   - 51.7
   - -3.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Rhondda, Cynon, Taff
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Rhondda,_Cynon,_Taff

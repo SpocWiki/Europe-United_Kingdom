@@ -1,11 +1,18 @@
 ---
-location: [51.5247,-0.1384] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Warren_Street
+  - Sub~Warren Street
+location:
+  - 51.5247
+  - -0.1384
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156118
 [StationSId::] 

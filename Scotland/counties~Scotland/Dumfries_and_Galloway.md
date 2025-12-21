@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Dumfries and Galloway
+  - Dumfries_and_Galloway
 location:
   - 55
   - -3.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Dumfries and Galloway
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Dumfries_and_Galloway

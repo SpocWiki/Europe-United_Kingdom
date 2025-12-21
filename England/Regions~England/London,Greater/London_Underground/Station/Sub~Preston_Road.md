@@ -1,11 +1,18 @@
 ---
-location: [51.572,-0.2954] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Preston_Road
+  - Sub~Preston Road
+location:
+  - 51.572
+  - -0.2954
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156050
 [StationSId::] 

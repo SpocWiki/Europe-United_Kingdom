@@ -1,16 +1,19 @@
 ---
-location: [51.6,-0.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Harrow,London
+location:
+  - 51.6
+  - -0.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30776
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Harrow,London]]

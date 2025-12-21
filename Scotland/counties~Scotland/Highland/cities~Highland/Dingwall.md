@@ -1,16 +1,19 @@
 ---
-location: [57.6,-4.42] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Dingwall
+location:
+  - 57.6
+  - -4.42
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29802
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

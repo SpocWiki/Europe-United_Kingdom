@@ -1,11 +1,18 @@
 ---
-location: [51.4713,-0.4524] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Heathrow_Terminals_1,_2_&_3
+  - Sub~Heathrow Terminals 1, 2 & 3
+location:
+  - 51.4713
+  - -0.4524
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155973
 [StationSId::] 

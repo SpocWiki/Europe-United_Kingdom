@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Redcar_and_Cleveland
+  - Redcar and Cleveland
 location:
   - 54.6
   - -1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Redcar_and_Cleveland
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Redcar_and_Cleveland

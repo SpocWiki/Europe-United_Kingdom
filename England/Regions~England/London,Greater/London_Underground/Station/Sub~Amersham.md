@@ -1,11 +1,17 @@
 ---
-location: [51.6736,-0.607] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Amersham
+location:
+  - 51.6736
+  - -0.607
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156145
 [StationSId::] 

@@ -1,11 +1,17 @@
 ---
-location: [51.5423,-0.3456] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Greenford
+location:
+  - 51.5423
+  - -0.3456
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155962
 [StationSId::] 

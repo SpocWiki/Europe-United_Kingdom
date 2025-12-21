@@ -1,11 +1,18 @@
 ---
-location: [51.521,-0.2011] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Westbourne_Park
+  - Sub~Westbourne Park
+location:
+  - 51.521
+  - -0.2011
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156123
 [StationSId::] 

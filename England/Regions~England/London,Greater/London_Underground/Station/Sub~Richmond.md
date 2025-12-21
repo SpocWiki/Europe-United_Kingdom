@@ -1,11 +1,17 @@
 ---
-location: [51.4633,-0.3013] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Richmond
+location:
+  - 51.4633
+  - -0.3013
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156060
 [StationSId::] 

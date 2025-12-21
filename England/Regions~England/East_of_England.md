@@ -1,6 +1,7 @@
 ---
 aliases:
   - East of England
+  - East_of_England
 ---
 
 ## #has_/text_of_/abstract 

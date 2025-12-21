@@ -1,11 +1,18 @@
 ---
-location: [51.4872,-0.1953] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~West_Brompton
+  - Sub~West Brompton
+location:
+  - 51.4872
+  - -0.1953
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156127
 [StationSId::] 

@@ -2,64 +2,66 @@
 aliases:
   - William the Conqueror
   - William the Bastard
+  - 1028-William_the_Conqueror+1087
+  - 1028-William the Conqueror+1087
 has_id_wikidata: Q37594
 child:
-  - "[[_Standards/WikiData/WD~Henry_I_of_England,101384]]"
-  - "[[_Standards/WikiData/WD~William_II_of_England,102005]]"
-  - "[[_Standards/WikiData/WD~Robert_Curthose,220994]]"
-  - "[[_Standards/WikiData/WD~Adela_of_Normandy,237886]]"
-  - "[[_Standards/WikiData/WD~Cecilia_of_Normandy,2120325]]"
-  - "[[_Standards/WikiData/WD~Constance_of_Normandy,2994836]]"
-  - "[[_Standards/WikiData/WD~Richard_of_Normandy,3498141]]"
-  - "[[_Standards/WikiData/WD~Alberta,27653532]]"
-  - "[[_Standards/WikiData/WD~Agatha_of_Normandy,62978447]]"
-  - "[[_Standards/WikiData/WD~Matilda_of_Normandy,62978706]]"
-  - "[[_Standards/WikiData/WD~Adeliza,45465]]"
+  - '[[_Standards/WikiData/WD~Henry_I_of_England,101384]]'
+  - '[[_Standards/WikiData/WD~William_II_of_England,102005]]'
+  - '[[_Standards/WikiData/WD~Robert_Curthose,220994]]'
+  - '[[_Standards/WikiData/WD~Adela_of_Normandy,237886]]'
+  - '[[_Standards/WikiData/WD~Cecilia_of_Normandy,2120325]]'
+  - '[[_Standards/WikiData/WD~Constance_of_Normandy,2994836]]'
+  - '[[_Standards/WikiData/WD~Richard_of_Normandy,3498141]]'
+  - '[[_Standards/WikiData/WD~Alberta,27653532]]'
+  - '[[_Standards/WikiData/WD~Agatha_of_Normandy,62978447]]'
+  - '[[_Standards/WikiData/WD~Matilda_of_Normandy,62978706]]'
+  - '[[_Standards/WikiData/WD~Adeliza,45465]]'
 relative:
-  - "[[_Standards/WikiData/WD~Edward_the_Confessor,130005]]"
-  - "[[_Standards/WikiData/WD~Odo,_Count_of_Champagne,952865]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Archives_nationales,182542]]"
-place_of_birth: "[[_Standards/WikiData/WD~Falaise,193306]]"
-mother: "[[_Standards/WikiData/WD~Herleva,259110]]"
-different_from: "[[_Standards/WikiData/WD~William_Longsword,313017]]"
-place_of_burial: "[[_Standards/WikiData/WD~Abbey_of_Saint_Étienne,_Caen,376932]]"
-spouse: "[[_Standards/WikiData/WD~Matilda_of_Flanders,391944]]"
+  - '[[_Standards/WikiData/WD~Edward_the_Confessor,130005]]'
+  - '[[_Standards/WikiData/WD~Odo,_Count_of_Champagne,952865]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Archives_nationales,182542]]'
+place_of_birth: '[[_Standards/WikiData/WD~Falaise,193306]]'
+mother: '[[_Standards/WikiData/WD~Herleva,259110]]'
+different_from: '[[_Standards/WikiData/WD~William_Longsword,313017]]'
+place_of_burial: '[[_Standards/WikiData/WD~Abbey_of_Saint_Étienne,_Caen,376932]]'
+spouse: '[[_Standards/WikiData/WD~Matilda_of_Flanders,391944]]'
 noble_title:
-  - "[[_Standards/WikiData/WD~Duke_of_Normandy,460244]]"
-  - "[[_Standards/WikiData/WD~monarch_of_England,18810062]]"
+  - '[[_Standards/WikiData/WD~Duke_of_Normandy,460244]]'
+  - '[[_Standards/WikiData/WD~monarch_of_England,18810062]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Duke_of_Normandy,460244]]"
-  - "[[_Standards/WikiData/WD~monarch_of_England,18810062]]"
+  - '[[_Standards/WikiData/WD~Duke_of_Normandy,460244]]'
+  - '[[_Standards/WikiData/WD~monarch_of_England,18810062]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Windsor,464955]]"
-  - "[[_Standards/WikiData/WD~Warwick_Castle,941276]]"
-  - "[[_Standards/WikiData/WD~Corfe_Castle,1236511]]"
-  - "[[_Standards/WikiData/WD~White_Tower,1528473]]"
-  - "[[_Standards/WikiData/WD~Norwich_Castle,1672292]]"
-  - "[[_Standards/WikiData/WD~Tower_of_London,62378]]"
-family: "[[_Standards/WikiData/WD~House_of_Normandy,516569]]"
+  - '[[_Standards/WikiData/WD~Windsor,464955]]'
+  - '[[_Standards/WikiData/WD~Warwick_Castle,941276]]'
+  - '[[_Standards/WikiData/WD~Corfe_Castle,1236511]]'
+  - '[[_Standards/WikiData/WD~White_Tower,1528473]]'
+  - '[[_Standards/WikiData/WD~Norwich_Castle,1672292]]'
+  - '[[_Standards/WikiData/WD~Tower_of_London,62378]]'
+family: '[[_Standards/WikiData/WD~House_of_Normandy,516569]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Robert,_Count_of_Mortain,724235]]"
-  - "[[_Standards/WikiData/WD~Adelaide_of_Normandy,2415527]]"
-  - "[[_Standards/WikiData/WD~Odo,_Earl_of_Kent,49961]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Old_Norman,2044917]]"
-native_language: "[[_Standards/WikiData/WD~Old_Norman,2044917]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~William,12344159]]"
+  - '[[_Standards/WikiData/WD~Robert,_Count_of_Mortain,724235]]'
+  - '[[_Standards/WikiData/WD~Adelaide_of_Normandy,2415527]]'
+  - '[[_Standards/WikiData/WD~Odo,_Earl_of_Kent,49961]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Old_Norman,2044917]]'
+native_language: '[[_Standards/WikiData/WD~Old_Norman,2044917]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~William,12344159]]'
 depicted_by: "[[_Standards/WikiData/WD~King_William_I_('The_Conqueror'),28043069]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1028-11-14T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-place_of_death: "[[_Standards/WikiData/WD~Rouen,30974]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-occupation: "[[_Standards/WikiData/WD~monarch,116]]"
-father: "[[_Standards/WikiData/WD~Robert_I,_Duke_of_Normandy,41380]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+place_of_death: '[[_Standards/WikiData/WD~Rouen,30974]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+occupation: '[[_Standards/WikiData/WD~monarch,116]]'
+father: '[[_Standards/WikiData/WD~Robert_I,_Duke_of_Normandy,41380]]'
 birth_name: Guillaume
 name_in_native_language:
   - Guillaume le Conquérant
@@ -75,8 +77,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20Wi
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-William%20the%20Conqueror-article.oga
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/StEtienne%20Tombo%20GuillaumeLeC.JPG
 ISNI:
-  - "0000000121426690"
-  - "0000000444678198"
+  - 0000000121426690
+  - 0000000444678198
 Libris_URI: 86lnrv4s166jsqx
 Wolfram_Language_entity_code: Entity["Concept", "WilliamI::25c36"]
 Krugosvet_article_archived_: istoriya/VILGELM_I_ZAVOEVATEL.html

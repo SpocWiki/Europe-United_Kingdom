@@ -1,11 +1,18 @@
 ---
-location: [51.4982,-0.0502] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Canada_Water
+  - Sub~Canada Water
+location:
+  - 51.4982
+  - -0.0502
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156166
 [StationSId::] 

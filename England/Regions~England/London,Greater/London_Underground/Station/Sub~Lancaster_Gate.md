@@ -1,11 +1,18 @@
 ---
-location: [51.5119,-0.1756] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Lancaster_Gate
+  - Sub~Lancaster Gate
+location:
+  - 51.5119
+  - -0.1756
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156004
 [StationSId::] 

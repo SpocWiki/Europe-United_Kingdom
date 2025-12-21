@@ -1,11 +1,18 @@
 ---
-location: [51.4941,-0.1738] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~South_Kensington
+  - Sub~South Kensington
+location:
+  - 51.4941
+  - -0.1738
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156079
 [StationSId::] 

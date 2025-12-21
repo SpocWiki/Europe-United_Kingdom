@@ -1,11 +1,18 @@
 ---
-location: [51.5238,-0.1439] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Great_Portland_Street
+  - Sub~Great Portland Street
+location:
+  - 51.5238
+  - -0.1439
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155961
 [StationSId::] 

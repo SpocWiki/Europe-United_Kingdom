@@ -1,11 +1,18 @@
 ---
-location: [51.5712,-0.0958] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Manor_House
+  - Sub~Manor House
+location:
+  - 51.5712
+  - -0.0958
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156013
 [StationSId::] 

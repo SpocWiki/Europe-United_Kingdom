@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bracknell_Forest
+  - Bracknell Forest
 location:
   - 51.4
   - -0.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Bracknell_Forest
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Bracknell_Forest

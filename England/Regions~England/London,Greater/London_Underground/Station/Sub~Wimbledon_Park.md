@@ -1,11 +1,18 @@
 ---
-location: [51.4343,-0.1992] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Wimbledon_Park
+  - Sub~Wimbledon Park
+location:
+  - 51.4343
+  - -0.1992
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156140
 [StationSId::] 

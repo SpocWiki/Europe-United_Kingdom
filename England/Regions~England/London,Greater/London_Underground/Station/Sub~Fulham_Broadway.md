@@ -1,11 +1,18 @@
 ---
-location: [51.4804,-0.195] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Fulham_Broadway
+  - Sub~Fulham Broadway
+location:
+  - 51.4804
+  - -0.195
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155953
 [StationSId::] 

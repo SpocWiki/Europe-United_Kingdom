@@ -1,11 +1,17 @@
 ---
-location: [51.512,-0.1031] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Blackfriars
+location:
+  - 51.512
+  - -0.1031
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155896
 [StationSId::] 

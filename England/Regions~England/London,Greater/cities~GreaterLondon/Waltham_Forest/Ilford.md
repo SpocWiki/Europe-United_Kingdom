@@ -1,16 +1,19 @@
 ---
-location: [51.55,0.1] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ilford
+location:
+  - 51.55
+  - 0.1
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31097
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

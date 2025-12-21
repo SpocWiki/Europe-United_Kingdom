@@ -1,11 +1,18 @@
 ---
-location: [51.546,-0.104] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Highbury_&_Islington
+  - Sub~Highbury & Islington
+location:
+  - 51.546
+  - -0.104
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155978
 [StationSId::] 

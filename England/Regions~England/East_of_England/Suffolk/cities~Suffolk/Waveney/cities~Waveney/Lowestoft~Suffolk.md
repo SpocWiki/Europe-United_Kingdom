@@ -1,16 +1,19 @@
 ---
-location: [52.48,1.75] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Lowestoft~Suffolk
+location:
+  - 52.48
+  - 1.75
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32113
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

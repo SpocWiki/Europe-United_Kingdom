@@ -1,11 +1,18 @@
 ---
-location: [51.4933,-0.0478] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Surrey_Quays
+  - Sub~Surrey Quays
+location:
+  - 51.4933
+  - -0.0478
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156096
 [StationSId::] 

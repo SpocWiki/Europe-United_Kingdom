@@ -1,11 +1,18 @@
 ---
-location: [51.5009,-0.1925] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~High_Street_Kensington
+  - Sub~High Street Kensington
+location:
+  - 51.5009
+  - -0.1925
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155977
 [StationSId::] 

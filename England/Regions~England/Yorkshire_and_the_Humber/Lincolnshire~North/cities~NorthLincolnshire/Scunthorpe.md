@@ -1,16 +1,19 @@
 ---
-location: [53.6,-0.63] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Scunthorpe
+location:
+  - 53.6
+  - -0.63
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34156
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

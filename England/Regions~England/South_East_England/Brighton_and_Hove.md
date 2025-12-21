@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Brighton_and_Hove
+  - Brighton and Hove
 location:
   - 50.84
   - -0.13
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Brighton_and_Hove
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Brighton_and_Hove

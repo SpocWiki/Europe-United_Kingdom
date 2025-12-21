@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Merthyr Tydfil
+  - Merthyr_Tydfil
 location:
   - 51.73
   - -3.36
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Merthyr Tydfil
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Merthyr_Tydfil

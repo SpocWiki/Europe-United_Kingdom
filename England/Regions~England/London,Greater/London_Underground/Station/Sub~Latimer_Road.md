@@ -1,11 +1,18 @@
 ---
-location: [51.5139,-0.2172] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Latimer_Road
+  - Sub~Latimer Road
+location:
+  - 51.5139
+  - -0.2172
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156005
 [StationSId::] 

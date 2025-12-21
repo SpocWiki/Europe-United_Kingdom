@@ -1,11 +1,18 @@
 ---
-location: [51.5701,-0.3081] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~South_Kenton
+  - Sub~South Kenton
+location:
+  - 51.5701
+  - -0.3081
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156080
 [StationSId::] 

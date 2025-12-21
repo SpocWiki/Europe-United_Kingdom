@@ -1,11 +1,18 @@
 ---
-location: [51.5234,-0.1466] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Regent's_Park
+  - Sub~Regent's Park
+location:
+  - 51.5234
+  - -0.1466
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156059
 [StationSId::] 

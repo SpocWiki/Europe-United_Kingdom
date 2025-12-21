@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Oxford
+has_id_wikidata: Q34217
 location:
   - 51.77
   - -1.25
@@ -12,56 +15,55 @@ tags:
 SpocWebEntityId: 33202
 isDeleted: false
 confidential: public
-has_id_wikidata: Q34217
-different_from: "[[_Standards/WikiData/WD~Oxford,223964]]"
+different_from: '[[_Standards/WikiData/WD~Oxford,223964]]'
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Anglické_listy,10824295]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
-shares_border_with: "[[_Standards/WikiData/WD~Banbury,806160]]"
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Anglické_listy,10824295]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+  - '[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
+shares_border_with: '[[_Standards/WikiData/WD~Banbury,806160]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Western_European_Time,843589]]"
-  - "[[_Standards/WikiData/WD~Western_European_Summer_Time,7987828]]"
-  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-  - "[[_Standards/WikiData/WD~Greenwich_Mean_Time,30192]]"
+  - '[[_Standards/WikiData/WD~Western_European_Time,843589]]'
+  - '[[_Standards/WikiData/WD~Western_European_Summer_Time,7987828]]'
+  - '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+  - '[[_Standards/WikiData/WD~Greenwich_Mean_Time,30192]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~River_Cherwell,1070474]]"
-  - "[[_Standards/WikiData/WD~River_Thames,19686]]"
+  - '[[_Standards/WikiData/WD~River_Cherwell,1070474]]'
+  - '[[_Standards/WikiData/WD~River_Thames,19686]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~college_town,1187811]]"
-  - "[[_Standards/WikiData/WD~county_town,1357964]]"
-  - "[[_Standards/WikiData/WD~unparished_area,7897276]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-patron_saint: "[[_Standards/WikiData/WD~Frithuswith,1314431]]"
-member_of: "[[_Standards/WikiData/WD~Climate_Alliance,1768108]]"
+  - '[[_Standards/WikiData/WD~college_town,1187811]]'
+  - '[[_Standards/WikiData/WD~county_town,1357964]]'
+  - '[[_Standards/WikiData/WD~unparished_area,7897276]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+patron_saint: '[[_Standards/WikiData/WD~Frithuswith,1314431]]'
+member_of: '[[_Standards/WikiData/WD~Climate_Alliance,1768108]]'
 coat_of_arms:
-  - "[[_Standards/WikiData/WD~coat_of_arms_of_Oxford,13417971]]"
-  - "[[_Standards/WikiData/WD~coat_of_arms,14659]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Oxford,20986484]]"
-historic_county: "[[_Standards/WikiData/WD~Oxfordshire,67311417]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Oxford,106020213]]"
+  - '[[_Standards/WikiData/WD~coat_of_arms_of_Oxford,13417971]]'
+  - '[[_Standards/WikiData/WD~coat_of_arms,14659]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Oxford,20986484]]'
+historic_county: '[[_Standards/WikiData/WD~Oxfordshire,67311417]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Oxford,106020213]]'
 coordinate_location: Point(-1.257777777 51.751944444)
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Bonn,586]]"
-  - "[[_Standards/WikiData/WD~Padua,617]]"
-  - "[[_Standards/WikiData/WD~Perm,915]]"
-  - "[[_Standards/WikiData/WD~Grenoble,1289]]"
-  - "[[_Standards/WikiData/WD~Catania,1903]]"
-  - "[[_Standards/WikiData/WD~Benevento,13437]]"
-  - "[[_Standards/WikiData/WD~Leiden,43631]]"
-capital_of: "[[_Standards/WikiData/WD~Oxfordshire,23169]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~Bonn,586]]'
+  - '[[_Standards/WikiData/WD~Padua,617]]'
+  - '[[_Standards/WikiData/WD~Perm,915]]'
+  - '[[_Standards/WikiData/WD~Grenoble,1289]]'
+  - '[[_Standards/WikiData/WD~Catania,1903]]'
+  - '[[_Standards/WikiData/WD~Benevento,13437]]'
+  - '[[_Standards/WikiData/WD~Leiden,43631]]'
+capital_of: '[[_Standards/WikiData/WD~Oxfordshire,23169]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 population: 147500
 area: 45.59
-OmegaWiki_Defined_Meaning: "7669"
-local_dialing_code: "01865"
+OmegaWiki_Defined_Meaning: 7669
+local_dialing_code: 01865
 GitHub_topic: oxford
 subreddit: oxford
 official_name: Oxford
@@ -91,7 +93,7 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Oxford%20Monta
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Oxford%20UK%20locator%20map.svg
 official_website: https://www.oxford.gov.uk/
 streaming_media_URL: https://www.youtube.com/watch?v=St7aTfoIdYQ
-TOID: "4000000074563668"
+TOID: 4000000074563668
 Libris_URI: 64jlkh5q25wl6cn
 UN_LOCODE: GBOXF
 postal_code:

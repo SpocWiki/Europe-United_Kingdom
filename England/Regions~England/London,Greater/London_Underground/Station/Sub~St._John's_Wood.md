@@ -1,11 +1,18 @@
 ---
-location: [51.5347,-0.174] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~St._John's_Wood
+  - Sub~St. John's Wood
+location:
+  - 51.5347
+  - -0.174
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156092
 [StationSId::] 

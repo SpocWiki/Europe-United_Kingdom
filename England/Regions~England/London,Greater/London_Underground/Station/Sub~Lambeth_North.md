@@ -1,11 +1,18 @@
 ---
-location: [51.4991,-0.1115] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Lambeth_North
+  - Sub~Lambeth North
+location:
+  - 51.4991
+  - -0.1115
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156003
 [StationSId::] 

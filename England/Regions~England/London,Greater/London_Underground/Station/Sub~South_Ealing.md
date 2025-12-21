@@ -1,11 +1,18 @@
 ---
-location: [51.5011,-0.3072] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~South_Ealing
+  - Sub~South Ealing
+location:
+  - 51.5011
+  - -0.3072
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156077
 [StationSId::] 

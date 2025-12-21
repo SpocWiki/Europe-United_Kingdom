@@ -1,11 +1,17 @@
 ---
-location: [51.559,0.251] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Upminster
+location:
+  - 51.559
+  - 0.251
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156108
 [StationSId::] 

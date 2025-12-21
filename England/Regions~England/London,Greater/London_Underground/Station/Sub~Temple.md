@@ -1,11 +1,17 @@
 ---
-location: [51.5111,-0.1141] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Temple
+location:
+  - 51.5111
+  - -0.1141
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156098
 [StationSId::] 

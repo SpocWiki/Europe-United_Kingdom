@@ -1,11 +1,18 @@
 ---
-location: [51.5567,-0.1374] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Tufnell_Park
+  - Sub~Tufnell Park
+location:
+  - 51.5567
+  - -0.1374
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156105
 [StationSId::] 

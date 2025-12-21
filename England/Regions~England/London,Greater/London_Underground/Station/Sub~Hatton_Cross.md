@@ -1,11 +1,18 @@
 ---
-location: [51.4669,-0.4227] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Hatton_Cross
+  - Sub~Hatton Cross
+location:
+  - 51.4669
+  - -0.4227
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155972
 [StationSId::] 

@@ -1,11 +1,18 @@
 ---
-location: [51.5753,-0.3714] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Rayners_Lane
+  - Sub~Rayners Lane
+location:
+  - 51.5753
+  - -0.3714
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156057
 [StationSId::] 

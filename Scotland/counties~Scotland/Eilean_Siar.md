@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Eilean Siar
+  - Eilean_Siar
 location:
   - 58.1
   - -6.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Eilean Siar
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Eilean_Siar

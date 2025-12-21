@@ -1,16 +1,19 @@
 ---
-location: [56.4,-3.48] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Perth
+location:
+  - 56.4
+  - -3.48
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33314
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

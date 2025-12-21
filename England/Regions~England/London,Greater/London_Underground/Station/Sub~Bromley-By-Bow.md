@@ -1,11 +1,17 @@
 ---
-location: [51.5248,-0.0119] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Bromley-By-Bow
+location:
+  - 51.5248
+  - -0.0119
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155906
 [StationSId::] 

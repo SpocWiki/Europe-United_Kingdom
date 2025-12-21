@@ -1,11 +1,18 @@
 ---
-location: [51.5178,-0.0823] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Liverpool_Street
+  - Sub~Liverpool Street
+location:
+  - 51.5178
+  - -0.0823
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156010
 [StationSId::] 

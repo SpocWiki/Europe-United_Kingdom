@@ -1,16 +1,19 @@
 ---
-location: [53.75,-2.47] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Blackburn
+location:
+  - 53.75
+  - -2.47
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29216
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

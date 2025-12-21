@@ -1,6 +1,7 @@
 ---
 aliases:
   - Leeds
+  - Leeds,City
 has_id_wikidata: Q39121
 location:
   - 53.8

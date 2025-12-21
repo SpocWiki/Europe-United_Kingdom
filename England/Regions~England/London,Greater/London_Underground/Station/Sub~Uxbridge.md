@@ -1,12 +1,17 @@
 ---
-location: [51.5463,-0.4786] 
-type: Station 
-mapzoom: [8,15] 
+aliases:
+  - Sub~Uxbridge
+location:
+  - 51.5463
+  - -0.4786
+type: Station
+mapzoom:
+  - 8
+  - 15
 mapmarker: subway
 tags:
-- geo/Station
-- Europe/UK/City~London
-
+  - geo/Station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156112
 [StationSId::] 

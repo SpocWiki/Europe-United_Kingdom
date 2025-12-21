@@ -1,11 +1,18 @@
 ---
-location: [51.5302,-0.2933] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Hanger_Lane
+  - Sub~Hanger Lane
+location:
+  - 51.5302
+  - -0.2933
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155968
 [StationSId::] 

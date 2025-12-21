@@ -1,16 +1,20 @@
 ---
-location: [53.03,-2.18] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Newcastle_under_Lyme
+  - Newcastle under Lyme
+location:
+  - 53.03
+  - -2.18
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32885
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

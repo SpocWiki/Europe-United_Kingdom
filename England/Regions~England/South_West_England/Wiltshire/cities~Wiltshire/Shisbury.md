@@ -1,16 +1,19 @@
 ---
-location: [51.07,-1.8] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Shisbury
+location:
+  - 51.07
+  - -1.8
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34235
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

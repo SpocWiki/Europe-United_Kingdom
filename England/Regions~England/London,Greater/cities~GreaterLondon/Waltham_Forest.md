@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Waltham_Forest
+  - Waltham Forest
 location:
   - 51.6
   - 0
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Waltham_Forest
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Waltham_Forest

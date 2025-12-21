@@ -1,11 +1,17 @@
 ---
-location: [51.5471,-0.2047] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Kilburn
+location:
+  - 51.5471
+  - -0.2047
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155997
 [StationSId::] 

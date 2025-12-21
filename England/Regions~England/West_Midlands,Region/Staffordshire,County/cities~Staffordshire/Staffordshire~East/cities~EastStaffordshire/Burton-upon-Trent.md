@@ -1,16 +1,19 @@
 ---
-location: [52.8,-1.63] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Burton-upon-Trent
+location:
+  - 52.8
+  - -1.63
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29421
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

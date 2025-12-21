@@ -1,11 +1,17 @@
 ---
-location: [51.501,-0.1254] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Westminster
+location:
+  - 51.501
+  - -0.1254
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156125
 [StationSId::] 

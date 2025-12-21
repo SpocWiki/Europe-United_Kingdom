@@ -1,11 +1,17 @@
 ---
-location: [51.5174,-0.12] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Holborn
+location:
+  - 51.5174
+  - -0.12
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155981
 [StationSId::] 

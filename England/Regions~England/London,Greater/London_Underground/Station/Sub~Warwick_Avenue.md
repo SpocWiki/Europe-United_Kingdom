@@ -1,11 +1,18 @@
 ---
-location: [51.5235,-0.1835] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Warwick_Avenue
+  - Sub~Warwick Avenue
+location:
+  - 51.5235
+  - -0.1835
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156119
 [StationSId::] 

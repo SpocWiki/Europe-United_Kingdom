@@ -1,11 +1,18 @@
 ---
-location: [51.527,-0.2841] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Park_Royal
+  - Sub~Park Royal
+location:
+  - 51.527
+  - -0.2841
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156042
 [StationSId::] 

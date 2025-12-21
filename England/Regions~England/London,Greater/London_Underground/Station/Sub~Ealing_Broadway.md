@@ -1,11 +1,18 @@
 ---
-location: [51.5152,-0.3017] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Ealing_Broadway
+  - Sub~Ealing Broadway
+location:
+  - 51.5152
+  - -0.3017
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155931
 [StationSId::] 

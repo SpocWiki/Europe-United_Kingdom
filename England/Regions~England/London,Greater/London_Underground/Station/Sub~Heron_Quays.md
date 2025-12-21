@@ -1,11 +1,18 @@
 ---
-location: [51.5033,-0.0215] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Heron_Quays
+  - Sub~Heron Quays
+location:
+  - 51.5033
+  - -0.0215
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155976
 [StationSId::] 

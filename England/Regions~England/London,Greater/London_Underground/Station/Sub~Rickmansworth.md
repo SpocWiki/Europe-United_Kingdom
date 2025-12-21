@@ -1,11 +1,17 @@
 ---
-location: [51.6404,-0.4733] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Rickmansworth
+location:
+  - 51.6404
+  - -0.4733
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156150
 [StationSId::] 

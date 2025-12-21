@@ -1,11 +1,18 @@
 ---
-location: [51.5101,-0.2882] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Ealing_Common
+  - Sub~Ealing Common
+location:
+  - 51.5101
+  - -0.2882
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155932
 [StationSId::] 

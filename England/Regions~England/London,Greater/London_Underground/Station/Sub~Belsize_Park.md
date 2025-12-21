@@ -1,11 +1,18 @@
 ---
-location: [51.5504,-0.1642] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Belsize_Park
+  - Sub~Belsize Park
+location:
+  - 51.5504
+  - -0.1642
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155894
 [StationSId::] 

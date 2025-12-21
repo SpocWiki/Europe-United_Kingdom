@@ -1,11 +1,17 @@
 ---
-location: [51.5362,-0.2575] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Harlesden
+location:
+  - 51.5362
+  - -0.2575
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155969
 [StationSId::] 

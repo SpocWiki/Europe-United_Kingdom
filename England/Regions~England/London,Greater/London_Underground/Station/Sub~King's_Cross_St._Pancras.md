@@ -1,11 +1,18 @@
 ---
-location: [51.5308,-0.1238] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~King's_Cross_St._Pancras
+  - Sub~King's Cross St. Pancras
+location:
+  - 51.5308
+  - -0.1238
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156000
 [StationSId::] 

@@ -1,11 +1,18 @@
 ---
-location: [51.6717,0.1033] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Theydon_Bois
+  - Sub~Theydon Bois
+location:
+  - 51.6717
+  - 0.1033
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156160
 [StationSId::] 

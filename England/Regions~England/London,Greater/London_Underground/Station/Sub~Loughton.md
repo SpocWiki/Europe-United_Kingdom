@@ -1,11 +1,17 @@
 ---
-location: [51.6412,0.0558] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Loughton
+location:
+  - 51.6412
+  - 0.0558
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156162
 [StationSId::] 

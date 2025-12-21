@@ -1,54 +1,57 @@
 ---
 aliases:
   - London Underground
+  - London_Underground
 has_id_wikidata: Q20075
-location: [51.49277778, -0.10083333 ]
+location:
+  - 51.49277778
+  - -0.10083333
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Victoria_line,203030]]"
-  - "[[_Standards/WikiData/WD~Central_line,205355]]"
-  - "[[_Standards/WikiData/WD~Piccadilly_line,207689]]"
-  - "[[_Standards/WikiData/WD~Waterloo_&_City_line,207699]]"
-  - "[[_Standards/WikiData/WD~Circle_line,210321]]"
-  - "[[_Standards/WikiData/WD~District_line,211265]]"
-  - "[[_Standards/WikiData/WD~Hammersmith_&_City_line,211270]]"
-  - "[[_Standards/WikiData/WD~Northern_line,214793]]"
-  - "[[_Standards/WikiData/WD~East_London_Line,831794]]"
-  - "[[_Standards/WikiData/WD~Jubilee_line,961290]]"
-  - "[[_Standards/WikiData/WD~Elizabeth_line,111297173]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_line,19891]]"
-  - "[[_Standards/WikiData/WD~Bakerloo_line,19892]]"
+  - '[[_Standards/WikiData/WD~Victoria_line,203030]]'
+  - '[[_Standards/WikiData/WD~Central_line,205355]]'
+  - '[[_Standards/WikiData/WD~Piccadilly_line,207689]]'
+  - '[[_Standards/WikiData/WD~Waterloo_&_City_line,207699]]'
+  - '[[_Standards/WikiData/WD~Circle_line,210321]]'
+  - '[[_Standards/WikiData/WD~District_line,211265]]'
+  - '[[_Standards/WikiData/WD~Hammersmith_&_City_line,211270]]'
+  - '[[_Standards/WikiData/WD~Northern_line,214793]]'
+  - '[[_Standards/WikiData/WD~East_London_Line,831794]]'
+  - '[[_Standards/WikiData/WD~Jubilee_line,961290]]'
+  - '[[_Standards/WikiData/WD~Elizabeth_line,111297173]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_line,19891]]'
+  - '[[_Standards/WikiData/WD~Bakerloo_line,19892]]'
 has_list:
-  - "[[_Standards/WikiData/WD~list_of_former_and_unopened_London_Underground_stations,450458]]"
-  - "[[_Standards/WikiData/WD~list_of_London_Underground_stations,19880]]"
-part_of: "[[_Standards/WikiData/WD~TfL,682520]]"
+  - '[[_Standards/WikiData/WD~list_of_former_and_unopened_London_Underground_stations,450458]]'
+  - '[[_Standards/WikiData/WD~list_of_London_Underground_stations,19880]]'
+part_of: '[[_Standards/WikiData/WD~TfL,682520]]'
 operator:
-  - "[[_Standards/WikiData/WD~TfL,682520]]"
-  - "[[_Standards/WikiData/WD~London_Underground_Limited,10319640]]"
-different_from: "[[_Standards/WikiData/WD~London_Overground,746021]]"
-owner_of: "[[_Standards/WikiData/WD~Canning_Town_station,1033431]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Underground_Electric_Railways_Company_of_London,1502902]]"
-track_gauge: "[[_Standards/WikiData/WD~standard_gauge_railway,1999572]]"
+  - '[[_Standards/WikiData/WD~TfL,682520]]'
+  - '[[_Standards/WikiData/WD~London_Underground_Limited,10319640]]'
+different_from: '[[_Standards/WikiData/WD~London_Overground,746021]]'
+owner_of: '[[_Standards/WikiData/WD~Canning_Town_station,1033431]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Underground_Electric_Railways_Company_of_London,1502902]]'
+track_gauge: '[[_Standards/WikiData/WD~standard_gauge_railway,1999572]]'
 industry:
-  - "[[_Standards/WikiData/WD~passenger_transport,2072431]]"
-  - "[[_Standards/WikiData/WD~rail_transport,3565868]]"
-  - "[[_Standards/WikiData/WD~urban_and_suburban_passenger_land_transport,29585621]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_London_Underground,2757712]]"
-member_of: "[[_Standards/WikiData/WD~Community_of_Metros_Benchmarking_Group,5155002]]"
-legal_form: "[[_Standards/WikiData/WD~private_company_limited_by_shares,6832945]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q10628389,10628389]]"
-type_of_electrification: "[[_Standards/WikiData/WD~630_V_DC_railway_electrification,12646283]]"
+  - '[[_Standards/WikiData/WD~passenger_transport,2072431]]'
+  - '[[_Standards/WikiData/WD~rail_transport,3565868]]'
+  - '[[_Standards/WikiData/WD~urban_and_suburban_passenger_land_transport,29585621]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_London_Underground,2757712]]'
+member_of: '[[_Standards/WikiData/WD~Community_of_Metros_Benchmarking_Group,5155002]]'
+legal_form: '[[_Standards/WikiData/WD~private_company_limited_by_shares,6832945]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q10628389,10628389]]'
+type_of_electrification: '[[_Standards/WikiData/WD~630_V_DC_railway_electrification,12646283]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~London_Underground_station,14562709]]"
-  - "[[_Standards/WikiData/WD~rapid_transit_railway_line,15079663]]"
-KML_file: "[[_Standards/WikiData/WD~Template_Attached_KML_London_Underground,26326909]]"
-state_of_use: "[[_Standards/WikiData/WD~in_use,55654238]]"
+  - '[[_Standards/WikiData/WD~London_Underground_station,14562709]]'
+  - '[[_Standards/WikiData/WD~rapid_transit_railway_line,15079663]]'
+KML_file: '[[_Standards/WikiData/WD~Template_Attached_KML_London_Underground,26326909]]'
+state_of_use: '[[_Standards/WikiData/WD~in_use,55654238]]'
 inception: 1890-01-01T00:00:00Z
 date_of_official_opening: 1863-01-10T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~rapid_transit,5503]]"
-historic_county: "[[_Standards/WikiData/WD~Middlesex,19186]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Greater_London,23306]]"
-headquarters_locations: "[[_Standards/WikiData/WD~London,84]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+instance_of: '[[_Standards/WikiData/WD~rapid_transit,5503]]'
+historic_county: '[[_Standards/WikiData/WD~Middlesex,19186]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Greater_London,23306]]'
+headquarters_locations: '[[_Standards/WikiData/WD~London,84]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 patronage: 1337000000
 social_media_followers: 40204
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Underground.svg

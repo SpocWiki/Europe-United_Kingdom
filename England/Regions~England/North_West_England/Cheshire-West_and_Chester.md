@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Cheshire-West_and_Chester
+  - Cheshire-West and Chester
 location:
   - 53.1
   - -2.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Cheshire-West_and_Chester
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Cheshire-West_and_Chester

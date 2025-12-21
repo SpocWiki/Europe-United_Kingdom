@@ -1,11 +1,18 @@
 ---
-location: [51.5205,-0.1347] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Goodge_Street
+  - Sub~Goodge Street
+location:
+  - 51.5205
+  - -0.1347
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155959
 [StationSId::] 

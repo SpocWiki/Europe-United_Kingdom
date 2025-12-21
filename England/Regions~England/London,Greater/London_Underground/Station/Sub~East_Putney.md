@@ -1,11 +1,18 @@
 ---
-location: [51.4586,-0.2112] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~East_Putney
+  - Sub~East Putney
+location:
+  - 51.4586
+  - -0.2112
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155939
 [StationSId::] 

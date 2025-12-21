@@ -1,11 +1,18 @@
 ---
-location: [51.526,-0.1359] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Euston_Square
+  - Sub~Euston Square
+location:
+  - 51.526
+  - -0.1359
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155947
 [StationSId::] 

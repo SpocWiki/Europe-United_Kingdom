@@ -1,11 +1,18 @@
 ---
-location: [51.5519,-0.2963] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Wembley_Central
+  - Sub~Wembley Central
+location:
+  - 51.5519
+  - -0.2963
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156121
 [StationSId::] 

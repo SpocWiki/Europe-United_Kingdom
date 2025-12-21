@@ -1,11 +1,18 @@
 ---
-location: [51.5569,-0.3988] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~South_Ruislip
+  - Sub~South Ruislip
+location:
+  - 51.5569
+  - -0.3988
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156082
 [StationSId::] 

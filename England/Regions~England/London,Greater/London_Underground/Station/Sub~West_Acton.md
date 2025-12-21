@@ -1,11 +1,18 @@
 ---
-location: [51.518,-0.2809] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~West_Acton
+  - Sub~West Acton
+location:
+  - 51.518
+  - -0.2809
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156126
 [StationSId::] 

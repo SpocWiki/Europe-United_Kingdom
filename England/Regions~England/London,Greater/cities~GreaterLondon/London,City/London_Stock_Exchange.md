@@ -1,27 +1,30 @@
 ---
 aliases:
   - London Stock Exchange
+  - London_Stock_Exchange
 has_id_wikidata: Q171240
-location: [51.515277777, -0.099166666]
+location:
+  - 51.515277777
+  - -0.099166666
 coordinate_location: Point(-0.099166666 51.515277777)
-stock_market_index: "[[_Standards/WikiData/WD~FTSE_100_Index,466496]]"
-industry: "[[_Standards/WikiData/WD~stock_market,475000]]"
-owner_of: "[[_Standards/WikiData/WD~Euronext_Securities_Milan,3862071]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~London_Stock_Exchange_Group,5573225]]"
-operator: "[[_Standards/WikiData/WD~London_Stock_Exchange_Group,5573225]]"
-owned_by: "[[_Standards/WikiData/WD~London_Stock_Exchange_Group,5573225]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_London_Stock_Exchange,5624644]]"
-chief_executive_officer: "[[_Standards/WikiData/WD~Julia_Hoggett,114997076]]"
-legal_form: "[[_Standards/WikiData/WD~public_limited_company,116994449]]"
+stock_market_index: '[[_Standards/WikiData/WD~FTSE_100_Index,466496]]'
+industry: '[[_Standards/WikiData/WD~stock_market,475000]]'
+owner_of: '[[_Standards/WikiData/WD~Euronext_Securities_Milan,3862071]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~London_Stock_Exchange_Group,5573225]]'
+operator: '[[_Standards/WikiData/WD~London_Stock_Exchange_Group,5573225]]'
+owned_by: '[[_Standards/WikiData/WD~London_Stock_Exchange_Group,5573225]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_London_Stock_Exchange,5624644]]'
+chief_executive_officer: '[[_Standards/WikiData/WD~Julia_Hoggett,114997076]]'
+legal_form: '[[_Standards/WikiData/WD~public_limited_company,116994449]]'
 inception: 1698-01-01T00:00:00Z
 Wikidata_property: London Stock Exchange company ID
-instance_of: "[[_Standards/WikiData/WD~stock_exchange,11691]]"
-historic_county: "[[_Standards/WikiData/WD~Middlesex,19186]]"
-location_of_formation: "[[_Standards/WikiData/WD~City_of_London,23311]]"
+instance_of: '[[_Standards/WikiData/WD~stock_exchange,11691]]'
+historic_county: '[[_Standards/WikiData/WD~Middlesex,19186]]'
+location_of_formation: '[[_Standards/WikiData/WD~City_of_London,23311]]'
 headquarters_location:
-  - "[[_Standards/WikiData/WD~City_of_London,23311]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~City_of_London,23311]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 catalog_code:
   - L
   - LN
@@ -38,7 +41,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Paternoster%20Square%2
 Legal_Entity_Identifier:
   - 213800D1EI4B9WTWWD28
   - 213800QAUUUP6I445N30
-PermID: "5036162129"
+PermID: 5036162129
 ISIN: GB00B0SWJX34
 Law_Insider_Legal_Dictionary_entry:
   - london-stock-exchange

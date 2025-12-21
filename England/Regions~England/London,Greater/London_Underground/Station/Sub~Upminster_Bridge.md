@@ -1,11 +1,18 @@
 ---
-location: [51.5582,0.2343] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Upminster_Bridge
+  - Sub~Upminster Bridge
+location:
+  - 51.5582
+  - 0.2343
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156109
 [StationSId::] 

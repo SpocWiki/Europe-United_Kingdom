@@ -4,6 +4,8 @@ aliases:
   - Rob Roy MacGregor
   - Rob Roy
   - Raibeart Ruadh MacGriogair
+  - 1671-MacGregor,Rob_Roy+1734
+  - 1671-MacGregor,Rob Roy+1734
 ---
 
 # [[1671-MacGregor,Rob_Roy+1734]] 

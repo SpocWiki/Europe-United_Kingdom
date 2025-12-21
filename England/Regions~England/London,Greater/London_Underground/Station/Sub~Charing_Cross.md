@@ -1,11 +1,18 @@
 ---
-location: [51.508,-0.1247] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Charing_Cross
+  - Sub~Charing Cross
+location:
+  - 51.508
+  - -0.1247
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155915
 [StationSId::] 

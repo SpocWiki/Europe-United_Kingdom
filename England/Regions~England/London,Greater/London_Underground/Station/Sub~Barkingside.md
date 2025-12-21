@@ -1,11 +1,17 @@
 ---
-location: [51.5856,0.0887] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Barkingside
+location:
+  - 51.5856
+  - 0.0887
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155888
 [StationSId::] 

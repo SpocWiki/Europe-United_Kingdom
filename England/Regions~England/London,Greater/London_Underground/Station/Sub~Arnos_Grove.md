@@ -1,11 +1,18 @@
 ---
-location: [51.6164,-0.1331] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Arnos_Grove
+  - Sub~Arnos Grove
+location:
+  - 51.6164
+  - -0.1331
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155881
 [StationSId::] 

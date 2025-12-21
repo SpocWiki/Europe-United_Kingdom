@@ -1,11 +1,18 @@
 ---
-location: [51.5146,-0.0973] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~St._Paul's
+  - Sub~St. Paul's
+location:
+  - 51.5146
+  - -0.0973
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156093
 [StationSId::] 

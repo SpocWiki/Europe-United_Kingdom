@@ -1,11 +1,17 @@
 ---
-location: [51.5416,-0.0042] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Stratford
+location:
+  - 51.5416
+  - -0.0042
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156090
 [StationSId::] 

@@ -1,16 +1,19 @@
 ---
-location: [51.93,-0.67] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Tuddington
+location:
+  - 51.93
+  - -0.67
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35034
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

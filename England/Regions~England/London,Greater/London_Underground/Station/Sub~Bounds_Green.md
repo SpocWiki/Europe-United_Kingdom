@@ -1,11 +1,18 @@
 ---
-location: [51.6071,-0.1243] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Bounds_Green
+  - Sub~Bounds Green
+location:
+  - 51.6071
+  - -0.1243
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155902
 [StationSId::] 

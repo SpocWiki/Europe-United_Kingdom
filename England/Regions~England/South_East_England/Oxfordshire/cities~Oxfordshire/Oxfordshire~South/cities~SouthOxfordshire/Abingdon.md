@@ -1,16 +1,19 @@
 ---
-location: [51.65,-1.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Abingdon
+location:
+  - 51.65
+  - -1.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28653
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,11 +1,17 @@
 ---
-location: [51.5403,0.127] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Becontree
+location:
+  - 51.5403
+  - 0.127
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155893
 [StationSId::] 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tower_Hamlets
+  - Tower Hamlets
 location:
   - 51.51
   - -0.03
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Tower_Hamlets
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Tower_Hamlets

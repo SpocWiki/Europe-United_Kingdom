@@ -1,11 +1,18 @@
 ---
-location: [51.5165,-0.131] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Tottenham_Court_Road
+  - Sub~Tottenham Court Road
+location:
+  - 51.5165
+  - -0.131
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156101
 [StationSId::] 

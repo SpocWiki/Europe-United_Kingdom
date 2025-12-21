@@ -1,11 +1,18 @@
 ---
-location: [51.5822,-0.0749] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Seven_Sisters
+  - Sub~Seven Sisters
+location:
+  - 51.5822
+  - -0.0749
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156069
 [StationSId::] 

@@ -1,11 +1,18 @@
 ---
-location: [51.5441,-0.1538] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Chalk_Farm
+  - Sub~Chalk Farm
+location:
+  - 51.5441
+  - -0.1538
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155913
 [StationSId::] 

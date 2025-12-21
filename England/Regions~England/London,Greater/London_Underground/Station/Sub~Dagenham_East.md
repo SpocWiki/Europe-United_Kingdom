@@ -1,11 +1,18 @@
 ---
-location: [51.5443,0.1655] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Dagenham_East
+  - Sub~Dagenham East
+location:
+  - 51.5443
+  - 0.1655
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155927
 [StationSId::] 

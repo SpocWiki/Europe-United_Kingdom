@@ -1,11 +1,17 @@
 ---
-location: [51.5121,-0.1879] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Bayswater
+location:
+  - 51.5121
+  - -0.1879
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155890
 [StationSId::] 

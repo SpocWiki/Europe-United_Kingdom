@@ -1,11 +1,18 @@
 ---
-location: [51.4275,-0.168] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Tooting_Broadway
+  - Sub~Tooting Broadway
+location:
+  - 51.4275
+  - -0.168
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156100
 [StationSId::] 

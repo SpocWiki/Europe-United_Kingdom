@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Line~Hammersmith
 location:
   - 51.5178
   - -0.0823
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Line~Hammersmith
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Line~Hammersmith

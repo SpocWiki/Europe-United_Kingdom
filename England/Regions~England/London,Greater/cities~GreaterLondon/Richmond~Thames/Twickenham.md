@@ -1,16 +1,19 @@
 ---
-location: [51.45,-0.3] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Twickenham
+location:
+  - 51.45
+  - -0.3
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35067
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

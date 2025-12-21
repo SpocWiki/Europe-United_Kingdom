@@ -1,16 +1,20 @@
 ---
-location: [50.6,-1.3] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Catherines_Point
+  - St.Catherines Point
+location:
+  - 50.6
+  - -1.3
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34446
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

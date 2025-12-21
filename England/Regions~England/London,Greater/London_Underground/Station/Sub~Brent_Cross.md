@@ -1,11 +1,18 @@
 ---
-location: [51.5766,-0.2136] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Brent_Cross
+  - Sub~Brent Cross
+location:
+  - 51.5766
+  - -0.2136
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155905
 [StationSId::] 

@@ -1,6 +1,8 @@
 ---
-icon: flag-gbsct
+aliases:
+  - Scotland
 has_id_wikidata: Q22
+icon: flag-gbsct
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Outer_Hebrides,80967]]"
   - "[[_Standards/WikiData/WD~Orkney_Islands,100166]]"
@@ -95,7 +97,7 @@ age_of_majority: 16
 head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 patron_saint: "[[_Standards/WikiData/WD~Andrew_the_Apostle,43399]]"
 TOID:
-  - "7000000000041429"
+  - 7000000000041429
   - country/scotland
 UMLS_CUI: C0036453
 Krugosvet_article_archived_: Earth_sciences/geografiya/SHOTLANDIYA.html
@@ -155,15 +157,15 @@ native_label:
   - Scotland
   - Alba
   - Scotland
-OmegaWiki_Defined_Meaning: "374042"
+OmegaWiki_Defined_Meaning: 374042
 official_name:
   - Alba
   - Scotland
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Scotland.svg
 Unicode_character: 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-telephone_country_code: "+44"
+telephone_country_code: 44
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Arms%20of%20the%20Kingdom%20of%20Scotland.svg
-U_S_National_Archives_Identifier: "10044288"
+U_S_National_Archives_Identifier: 10044288
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Eilean%20Donan%20Castle%20banner.jpg
 geoshape: http://commons.wikimedia.org/data/main/Data:Scotland.map
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scotland%20from%20satellite.jpg

@@ -1,11 +1,18 @@
 ---
-location: [51.4943,-0.1001] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Elephant_&_Castle
+  - Sub~Elephant & Castle
+location:
+  - 51.4943
+  - -0.1001
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155943
 [StationSId::] 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Cymru
+  - Wales
 has_id_wikidata: Q25
 icon: flag-gbwls
 contains_the_administrative_territorial_entity:
@@ -90,7 +91,7 @@ nominal_GDP: 85400000000
 booru_tag: wales
 IMDb_keyword: wales
 TOID:
-  - "7000000000041424"
+  - 7000000000041424
   - country/wales
 UMLS_CUI: C0043015
 Krugosvet_article_archived_: Earth_sciences/geografiya/UELS.html
@@ -143,7 +144,7 @@ Commons_category: Wales
 subreddit: Wales
 hashtag: Wales
 population: 3131640
-U_S_National_Archives_Identifier: "10044287"
+U_S_National_Archives_Identifier: 10044287
 native_label: Cymru
 official_name:
   - Cymru
@@ -165,7 +166,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Arthog%20-%20Barmouth%
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Badge%20of%20Wales%20%282008-2024%29.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wales%20in%20the%20UK%20and%20Europe.svg
 Mastodon_instance_URL: https://toot.wales
-ISNI: "0000000122858612"
+ISNI: 122858612
 BHCL_UUID: 1e356284-4ad2-4f3b-b759-a3808fb09c28
 Dewey_Decimal_Classification: 2--429
 ---

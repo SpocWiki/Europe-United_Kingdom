@@ -1,11 +1,17 @@
 ---
-location: [51.5793,-0.3366] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Harrow-on-the-Hill
+location:
+  - 51.5793
+  - -0.3366
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155971
 [StationSId::] 

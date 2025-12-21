@@ -1,11 +1,18 @@
 ---
-location: [51.5642,-0.1065] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Finsbury_Park
+  - Sub~Finsbury Park
+location:
+  - 51.5642
+  - -0.1065
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155952
 [StationSId::] 

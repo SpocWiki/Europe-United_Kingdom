@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Blackburn_with_Darwen
+  - Blackburn with Darwen
 location:
   - 53.7
   - -2.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Blackburn_with_Darwen
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Blackburn_with_Darwen

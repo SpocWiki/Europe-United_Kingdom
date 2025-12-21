@@ -1,11 +1,18 @@
 ---
-location: [51.5263,-0.0873] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Old_Street
+  - Sub~Old Street
+location:
+  - 51.5263
+  - -0.0873
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156037
 [StationSId::] 

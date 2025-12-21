@@ -1,11 +1,18 @@
 ---
-location: [51.5273,-0.0208] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Bow_Church
+  - Sub~Bow Church
+location:
+  - 51.5273
+  - -0.0208
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155903
 [StationSId::] 

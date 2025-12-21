@@ -1,11 +1,18 @@
 ---
-location: [51.4905,-0.2139] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Barons_Court
+  - Sub~Barons Court
+location:
+  - 51.4905
+  - -0.2139
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155889
 [StationSId::] 

@@ -1,16 +1,19 @@
 ---
-location: [52.55,-3.13] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Montgomery~UK
+location:
+  - 52.55
+  - -3.13
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 5579
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

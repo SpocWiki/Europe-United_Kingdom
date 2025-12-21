@@ -1,11 +1,17 @@
 ---
-location: [51.4657,-0.0142] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Lewisham
+location:
+  - 51.4657
+  - -0.0142
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156173
 [StationSId::] 

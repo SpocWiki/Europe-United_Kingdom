@@ -1,16 +1,20 @@
 ---
-location: [50.42,-3.47] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Berry_Head
+  - Berry Head
+location:
+  - 50.42
+  - -3.47
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29145
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

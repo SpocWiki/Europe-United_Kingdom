@@ -1,16 +1,19 @@
 ---
-location: [53.68,-1.42] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Wakefield
+location:
+  - 53.68
+  - -1.42
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35394
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

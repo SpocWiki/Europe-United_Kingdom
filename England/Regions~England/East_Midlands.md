@@ -1,6 +1,7 @@
 ---
 aliases:
   - East Midlands
+  - East_Midlands
 ---
 
 ## #has_/text_of_/abstract 

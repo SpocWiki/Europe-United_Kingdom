@@ -1,6 +1,7 @@
 ---
 aliases:
   - Perth and Kinross
+  - Perth_and_Kinross
 ---
 
 > Perth and Kinross (Scots: Pairth an Kinross; Scottish Gaelic: Peairt agus Ceann Rois) 

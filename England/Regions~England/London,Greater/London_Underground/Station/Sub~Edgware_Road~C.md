@@ -1,11 +1,18 @@
 ---
-location: [51.5203,-0.17] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Edgware_Road~C
+  - Sub~Edgware Road~C
+location:
+  - 51.5203
+  - -0.17
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155942
 [StationSId::] 

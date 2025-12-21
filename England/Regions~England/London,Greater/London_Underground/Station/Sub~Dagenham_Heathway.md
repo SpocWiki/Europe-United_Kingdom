@@ -1,11 +1,18 @@
 ---
-location: [51.5417,0.1469] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Dagenham_Heathway
+  - Sub~Dagenham Heathway
+location:
+  - 51.5417
+  - 0.1469
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155928
 [StationSId::] 

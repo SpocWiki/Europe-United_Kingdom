@@ -1,16 +1,19 @@
 ---
-location: [55.63,-1.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Island~Staple
+location:
+  - 55.63
+  - -1.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34518
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

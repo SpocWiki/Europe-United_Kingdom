@@ -1,11 +1,17 @@
 ---
-location: [51.5619,-0.4421] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Ickenham
+location:
+  - 51.5619
+  - -0.4421
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155989
 [StationSId::] 

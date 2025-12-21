@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Isle_of_Wight
+  - Isle of Wight
 location:
   - 50.7
   - -1.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Isle_of_Wight
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Isle_of_Wight

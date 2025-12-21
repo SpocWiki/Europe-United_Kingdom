@@ -1,11 +1,17 @@
 ---
-location: [51.5154,-0.1755] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Paddington
+location:
+  - 51.5154
+  - -0.1755
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156041
 [StationSId::] 

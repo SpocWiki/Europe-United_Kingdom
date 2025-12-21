@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kingston_upon_Hull
+  - Kingston upon Hull
 location:
   - 53.76
   - -0.37
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kingston_upon_Hull
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Kingston_upon_Hull

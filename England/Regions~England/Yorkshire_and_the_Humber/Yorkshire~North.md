@@ -1,4 +1,7 @@
 ---
+aliases:
+  - North_Yorkshire
+  - Yorkshire~North
 location:
   - 54.1
   - -1.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - North_Yorkshire
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # North_Yorkshire

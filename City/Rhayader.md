@@ -1,16 +1,19 @@
 ---
-location: [52.3,-5.85] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Rhayader
+location:
+  - 52.3
+  - -5.85
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33727
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

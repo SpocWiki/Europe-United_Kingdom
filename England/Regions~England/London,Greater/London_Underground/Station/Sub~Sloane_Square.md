@@ -1,11 +1,18 @@
 ---
-location: [51.4924,-0.1565] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Sloane_Square
+  - Sub~Sloane Square
+location:
+  - 51.4924
+  - -0.1565
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156074
 [StationSId::] 

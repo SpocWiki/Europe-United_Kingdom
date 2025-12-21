@@ -3,45 +3,46 @@ aliases:
   - Buckingham Palace
   - Buckingham Palast
   - Buckingham House
+  - Buckingham_Palace
 has_id_wikidata: Q42182
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/BAKINGEMSKI_DVORETS.html
 postal_code: SW1A 1AA
 OS_grid_reference: TQ2899779614
 street_address: London SW1A 1AA
-owned_by: "[[_Standards/WikiData/WD~House_of_Windsor,81589]]"
-manufacturer: "[[_Standards/WikiData/WD~William_IV,130822]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~City_of_Westminster,179351]]"
+owned_by: '[[_Standards/WikiData/WD~House_of_Windsor,81589]]'
+manufacturer: '[[_Standards/WikiData/WD~William_IV,130822]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~City_of_Westminster,179351]]'
 architect:
-  - "[[_Standards/WikiData/WD~John_Nash,309905]]"
-  - "[[_Standards/WikiData/WD~William_Winde,746043]]"
-has_use: "[[_Standards/WikiData/WD~official_residence,481289]]"
+  - '[[_Standards/WikiData/WD~John_Nash,309905]]'
+  - '[[_Standards/WikiData/WD~William_Winde,746043]]'
+has_use: '[[_Standards/WikiData/WD~official_residence,481289]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~historic_house_museum,2087181]]"
-  - "[[_Standards/WikiData/WD~art_collection,7328910]]"
-  - "[[_Standards/WikiData/WD~country_house,16884952]]"
-  - "[[_Standards/WikiData/WD~royal_palace,53536964]]"
-  - "[[_Standards/WikiData/WD~Residence_of_the_British_Royal_Family,131986827]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~historic_house_museum,2087181]]'
+  - '[[_Standards/WikiData/WD~art_collection,7328910]]'
+  - '[[_Standards/WikiData/WD~country_house,16884952]]'
+  - '[[_Standards/WikiData/WD~royal_palace,53536964]]'
+  - '[[_Standards/WikiData/WD~Residence_of_the_British_Royal_Family,131986827]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~bombardment,678146]]"
-  - "[[_Standards/WikiData/WD~redevelopment,1441983]]"
-founded_by: "[[_Standards/WikiData/WD~John_Sheffield,_1st_Duke_of_Buckingham_and_Normanby,2736244]]"
-commissioned_by: "[[_Standards/WikiData/WD~John_Sheffield,_1st_Duke_of_Buckingham_and_Normanby,2736244]]"
-has_facility: "[[_Standards/WikiData/WD~accessible_toilet,2775009]]"
-associated_electoral_district: "[[_Standards/WikiData/WD~Cities_of_London_and_Westminster,3235346]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q9223732,9223732]]"
-heritage_designation: "[[_Standards/WikiData/WD~Grade_I_listed_building,15700818]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32647075,32647075]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32647073,32647073]]"
-activity_policy_in_this_place: "[[_Standards/WikiData/WD~no_photos,51728721]]"
-has_part_s_: "[[_Standards/WikiData/WD~Private_chapel,_Buckingham_Palace,129984886]]"
+  - '[[_Standards/WikiData/WD~bombardment,678146]]'
+  - '[[_Standards/WikiData/WD~redevelopment,1441983]]'
+founded_by: '[[_Standards/WikiData/WD~John_Sheffield,_1st_Duke_of_Buckingham_and_Normanby,2736244]]'
+commissioned_by: '[[_Standards/WikiData/WD~John_Sheffield,_1st_Duke_of_Buckingham_and_Normanby,2736244]]'
+has_facility: '[[_Standards/WikiData/WD~accessible_toilet,2775009]]'
+associated_electoral_district: '[[_Standards/WikiData/WD~Cities_of_London_and_Westminster,3235346]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q9223732,9223732]]'
+heritage_designation: '[[_Standards/WikiData/WD~Grade_I_listed_building,15700818]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32647075,32647075]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32647073,32647073]]'
+activity_policy_in_this_place: '[[_Standards/WikiData/WD~no_photos,51728721]]'
+has_part_s_: '[[_Standards/WikiData/WD~Private_chapel,_Buckingham_Palace,129984886]]'
 date_of_official_opening: 1849-01-01T00:00:00Z
-historic_county: "[[_Standards/WikiData/WD~Middlesex,19186]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+historic_county: '[[_Standards/WikiData/WD~Middlesex,19186]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 area: 20
 elevation_above_sea_level: 20
 native_label: Buckingham Palace
-National_Heritage_List_for_England_number: "1239087"
+National_Heritage_List_for_England_number: 1239087
 inception: 1829-01-01T00:00:00Z
 coordinate_location: Point(-0.142 51.501)
 official_website:
@@ -50,7 +51,7 @@ official_website:
 Commons_Institution_page: Buckingham Palace
 Commons_gallery: Buckingham Palace
 Commons_category: Buckingham Palace
-U_S_National_Archives_Identifier: "10676527"
+U_S_National_Archives_Identifier: 10676527
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Buckingham%20Palace%20-%20panorama%2035608874896.jpg
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Buckingham%20Palace%20aerial%20view%202016%20%28cropped%29.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Buckingham%20Palace%20at%20night.jpg
@@ -61,8 +62,8 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Buckinghampalace
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/P052411LJ-0751%20%285835926297%29.jpg
 image_of_design_plans: http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20of%20Buckingham%20palace.gif
 WordLift_URL: http://data.wordlift.io/wl01714/entity/buckingham-palace
-ISNI: "0000000446582456"
-P8189: "987007294685405171"
+ISNI: 0000000446582456
+P8189: 987007294685405171
 ---
 
 # [[Buckingham_Palace]] 

@@ -1,11 +1,18 @@
 ---
-location: [51.5975,-0.1097] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Wood_Green
+  - Sub~Wood Green
+location:
+  - 51.5975
+  - -0.1097
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156143
 [StationSId::] 

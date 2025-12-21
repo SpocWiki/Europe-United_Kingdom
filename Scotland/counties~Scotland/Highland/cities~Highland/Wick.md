@@ -1,16 +1,19 @@
 ---
-location: [58.45,-3.18] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Wick
+location:
+  - 58.45
+  - -3.18
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35587
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

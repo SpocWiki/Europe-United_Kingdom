@@ -1,11 +1,17 @@
 ---
-location: [51.596,0.0912] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Fairlop
+location:
+  - 51.596
+  - 0.0912
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155948
 [StationSId::] 

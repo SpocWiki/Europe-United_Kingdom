@@ -1,11 +1,18 @@
 ---
-location: [51.5326,-0.2478] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Willesden_Junction
+  - Sub~Willesden Junction
+location:
+  - 51.5326
+  - -0.2478
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156138
 [StationSId::] 

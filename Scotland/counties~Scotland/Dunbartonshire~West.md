@@ -1,4 +1,7 @@
 ---
+aliases:
+  - West Dunbartonshire
+  - Dunbartonshire~West
 location:
   - 56
   - -4.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - West Dunbartonshire
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Dunbartonshire~West

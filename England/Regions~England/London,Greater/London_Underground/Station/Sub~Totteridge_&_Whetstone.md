@@ -1,11 +1,18 @@
 ---
-location: [51.6302,-0.1791] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Totteridge_&_Whetstone
+  - Sub~Totteridge & Whetstone
+location:
+  - 51.6302
+  - -0.1791
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156155
 [StationSId::] 

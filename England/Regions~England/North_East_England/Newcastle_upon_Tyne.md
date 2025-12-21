@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Newcastle_upon_Tyne
+  - Newcastle upon Tyne
 location:
   - 55
   - -1.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Newcastle_upon_Tyne
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Newcastle_upon_Tyne

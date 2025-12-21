@@ -1,5 +1,7 @@
 ---
-has_id_wikidata: Q26 
+aliases:
+  - ReadMe
+has_id_wikidata: Q26
 ---
 
 # Ireland~North 

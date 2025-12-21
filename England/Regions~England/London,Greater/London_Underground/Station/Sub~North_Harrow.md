@@ -1,11 +1,18 @@
 ---
-location: [51.5846,-0.3626] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~North_Harrow
+  - Sub~North Harrow
+location:
+  - 51.5846
+  - -0.3626
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156034
 [StationSId::] 

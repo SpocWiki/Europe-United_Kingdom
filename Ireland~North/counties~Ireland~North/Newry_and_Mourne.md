@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Newry_and_Mourne
+  - Newry and Mourne
 location:
   - 54.2
   - -6.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Newry_and_Mourne
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Newry_and_Mourne

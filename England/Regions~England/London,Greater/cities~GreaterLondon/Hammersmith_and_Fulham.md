@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Hammersmith_and_Fulham
+  - Hammersmith and Fulham
 location:
   - 51.5
   - -0.22
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Hammersmith_and_Fulham
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Hammersmith_and_Fulham

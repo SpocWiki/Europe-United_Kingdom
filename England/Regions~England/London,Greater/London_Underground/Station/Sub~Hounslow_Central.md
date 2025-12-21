@@ -1,11 +1,18 @@
 ---
-location: [51.4713,-0.3665] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Hounslow_Central
+  - Sub~Hounslow Central
+location:
+  - 51.4713
+  - -0.3665
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155985
 [StationSId::] 

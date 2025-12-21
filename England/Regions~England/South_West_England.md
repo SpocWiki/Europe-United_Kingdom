@@ -1,6 +1,7 @@
 ---
 aliases:
   - South West England
+  - South_West_England
 ---
 
 ## #has_/text_of_/abstract 

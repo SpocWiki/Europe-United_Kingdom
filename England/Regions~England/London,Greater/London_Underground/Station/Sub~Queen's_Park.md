@@ -1,11 +1,18 @@
 ---
-location: [51.5341,-0.2047] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Queen's_Park
+  - Sub~Queen's Park
+location:
+  - 51.5341
+  - -0.2047
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156053
 [StationSId::] 

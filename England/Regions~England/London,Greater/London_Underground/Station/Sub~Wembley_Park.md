@@ -1,11 +1,18 @@
 ---
-location: [51.5635,-0.2795] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Wembley_Park
+  - Sub~Wembley Park
+location:
+  - 51.5635
+  - -0.2795
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156122
 [StationSId::] 

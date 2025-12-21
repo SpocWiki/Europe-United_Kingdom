@@ -1,11 +1,17 @@
 ---
-location: [51.4454,-0.2066] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Southfields
+location:
+  - 51.4454
+  - -0.2066
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156076
 [StationSId::] 

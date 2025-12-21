@@ -1,11 +1,18 @@
 ---
-location: [51.5526,-0.1132] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Holloway_Road
+  - Sub~Holloway Road
+location:
+  - 51.5526
+  - -0.1132
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155983
 [StationSId::] 

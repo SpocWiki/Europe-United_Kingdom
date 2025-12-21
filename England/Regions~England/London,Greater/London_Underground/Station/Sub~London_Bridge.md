@@ -1,11 +1,18 @@
 ---
-location: [51.5052,-0.0864] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~London_Bridge
+  - Sub~London Bridge
+location:
+  - 51.5052
+  - -0.0864
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156011
 [StationSId::] 

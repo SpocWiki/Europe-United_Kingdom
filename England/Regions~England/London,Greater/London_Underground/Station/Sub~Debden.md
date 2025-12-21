@@ -1,11 +1,17 @@
 ---
-location: [51.6455,0.0838] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Debden
+location:
+  - 51.6455
+  - 0.0838
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156161
 [StationSId::] 

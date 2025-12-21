@@ -1,76 +1,77 @@
 ---
 aliases:
   - Horatio_Nelson
+  - Horatio Nelson
 has_id_wikidata: Q83235
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~naval_officer,10669499]]"
-military_branch: "[[_Standards/WikiData/WD~Royal_Navy,172771]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~naval_officer,10669499]]'
+military_branch: '[[_Standards/WikiData/WD~Royal_Navy,172771]]'
 place_of_burial: "[[_Standards/WikiData/WD~St_Paul's_Cathedral,173882]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-place_of_death: "[[_Standards/WikiData/WD~Cape_Trafalgar,203950]]"
-unmarried_partner: "[[_Standards/WikiData/WD~Emma,_Lady_Hamilton,234811]]"
+country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+place_of_death: '[[_Standards/WikiData/WD~Cape_Trafalgar,203950]]'
+unmarried_partner: '[[_Standards/WikiData/WD~Emma,_Lady_Hamilton,234811]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Chelengk,272762]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Crescent,745782]]"
-  - "[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_Bath,12177470]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Saint_Ferdinand_and_of_Merit,35948896]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Saint_Joachim,114345211]]"
+  - '[[_Standards/WikiData/WD~Chelengk,272762]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Crescent,745782]]'
+  - '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_Bath,12177470]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Saint_Ferdinand_and_of_Merit,35948896]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Saint_Joachim,114345211]]'
 sibling:
-  - "[[_Standards/WikiData/WD~William_Nelson,_1st_Earl_Nelson,336998]]"
-  - "[[_Standards/WikiData/WD~Susannah_Nelson,54551977]]"
-  - "[[_Standards/WikiData/WD~Maurice_Nelson,75479553]]"
-  - "[[_Standards/WikiData/WD~Suckling_Nelson,75479559]]"
+  - '[[_Standards/WikiData/WD~William_Nelson,_1st_Earl_Nelson,336998]]'
+  - '[[_Standards/WikiData/WD~Susannah_Nelson,54551977]]'
+  - '[[_Standards/WikiData/WD~Maurice_Nelson,75479553]]'
+  - '[[_Standards/WikiData/WD~Suckling_Nelson,75479559]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
+  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-place_of_birth: "[[_Standards/WikiData/WD~Burnham_Thorpe,1016788]]"
-family_name: "[[_Standards/WikiData/WD~Q2782528,2782528]]"
-mother: "[[_Standards/WikiData/WD~Catherine_Suckling,2942071]]"
-father: "[[_Standards/WikiData/WD~Edmund_Nelson,3048124]]"
-spouse: "[[_Standards/WikiData/WD~Frances_Herbert_Woolward,3080825]]"
-child: "[[_Standards/WikiData/WD~Horatia_Nelson,3140499]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+  - '[[_Standards/WikiData/WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+place_of_birth: '[[_Standards/WikiData/WD~Burnham_Thorpe,1016788]]'
+family_name: '[[_Standards/WikiData/WD~Q2782528,2782528]]'
+mother: '[[_Standards/WikiData/WD~Catherine_Suckling,2942071]]'
+father: '[[_Standards/WikiData/WD~Edmund_Nelson,3048124]]'
+spouse: '[[_Standards/WikiData/WD~Frances_Herbert_Woolward,3080825]]'
+child: '[[_Standards/WikiData/WD~Horatia_Nelson,3140499]]'
 medical_condition:
-  - "[[_Standards/WikiData/WD~one_eyed,3321212]]"
-  - "[[_Standards/WikiData/WD~blindness,10874]]"
+  - '[[_Standards/WikiData/WD~one_eyed,3321212]]'
+  - '[[_Standards/WikiData/WD~blindness,10874]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Norwich_School,3381488]]"
-  - "[[_Standards/WikiData/WD~Paston_College,7143023]]"
+  - '[[_Standards/WikiData/WD~Norwich_School,3381488]]'
+  - '[[_Standards/WikiData/WD~Paston_College,7143023]]'
 military_or_police_rank:
-  - "[[_Standards/WikiData/WD~vice_admiral,4902790]]"
-  - "[[_Standards/WikiData/WD~captain,5036514]]"
-  - "[[_Standards/WikiData/WD~counter_admiral,13360884]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-manner_of_death: "[[_Standards/WikiData/WD~death_in_battle,18663901]]"
-given_name: "[[_Standards/WikiData/WD~Horatio,18914832]]"
-position_held: "[[_Standards/WikiData/WD~member_of_the_House_of_Lords,18952564]]"
+  - '[[_Standards/WikiData/WD~vice_admiral,4902790]]'
+  - '[[_Standards/WikiData/WD~captain,5036514]]'
+  - '[[_Standards/WikiData/WD~counter_admiral,13360884]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+manner_of_death: '[[_Standards/WikiData/WD~death_in_battle,18663901]]'
+given_name: '[[_Standards/WikiData/WD~Horatio,18914832]]'
+position_held: '[[_Standards/WikiData/WD~member_of_the_House_of_Lords,18952564]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Viscount_Horatio_Nelson,_1758_1805,_before_the_Battle_of_Trafalgar,_21_October_1805,50856566]]"
-  - "[[_Standards/WikiData/WD~Viscount_Horatio_Nelson_(1758_1805),50870109]]"
-  - "[[_Standards/WikiData/WD~Horatio_Nelson,_Viscount_Nelson_(1758_1805),52197569]]"
-present_in_work: "[[_Standards/WikiData/WD~The_Ship_of_Mail,69925817]]"
+  - '[[_Standards/WikiData/WD~Viscount_Horatio_Nelson,_1758_1805,_before_the_Battle_of_Trafalgar,_21_October_1805,50856566]]'
+  - '[[_Standards/WikiData/WD~Viscount_Horatio_Nelson_(1758_1805),50870109]]'
+  - '[[_Standards/WikiData/WD~Horatio_Nelson,_Viscount_Nelson_(1758_1805),52197569]]'
+present_in_work: '[[_Standards/WikiData/WD~The_Ship_of_Mail,69925817]]'
 noble_title:
-  - "[[_Standards/WikiData/WD~Viscount_Nelson,113389011]]"
-  - "[[_Standards/WikiData/WD~Baron_Nelson,113489177]]"
+  - '[[_Standards/WikiData/WD~Viscount_Nelson,113389011]]'
+  - '[[_Standards/WikiData/WD~Baron_Nelson,113489177]]'
 date_of_birth: 1758-09-29T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_gallery: Horatio Nelson
 Commons_category: Horatio Nelson
 last_words: Dieu et mon pays
 work_period_start_: 1771-01-01T00:00:00Z
 BHCL_UUID: 78e6cd46-8ad8-4c95-a45b-66a00f18b8fd
-ISNI: "0000000121400634"
+ISNI: 0000000121400634
 name_in_native_language: Horatio Nelson
 date_of_death: 1805-10-21T00:00:00Z
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20Horatio%20Nelson%2C%201st%20Viscount%20Nelson%20%281798%29.svg

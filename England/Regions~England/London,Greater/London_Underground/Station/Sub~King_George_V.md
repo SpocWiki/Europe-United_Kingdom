@@ -1,11 +1,18 @@
 ---
-location: [51.502,0.0627] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~King_George_V
+  - Sub~King George V
+location:
+  - 51.502
+  - 0.0627
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156177
 [StationSId::] 

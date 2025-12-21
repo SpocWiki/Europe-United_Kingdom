@@ -1,11 +1,18 @@
 ---
-location: [51.5269,-0.0247] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Bow_Road
+  - Sub~Bow Road
+location:
+  - 51.5269
+  - -0.0247
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155904
 [StationSId::] 

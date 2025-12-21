@@ -1,11 +1,18 @@
 ---
-location: [51.5829,-0.2259] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Hendon_Central
+  - Sub~Hendon Central
+location:
+  - 51.5829
+  - -0.2259
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155975
 [StationSId::] 

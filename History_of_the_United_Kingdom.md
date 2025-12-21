@@ -1,24 +1,26 @@
 ---
 aliases:
   - history of the United Kingdom
+  - History_of_the_United_Kingdom
+  - History of the United Kingdom
 has_id_wikidata: Q113162
 facet_of:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~history_of_Scotland,471148]]"
-  - "[[_Standards/WikiData/WD~history_of_Wales,1063608]]"
-  - "[[_Standards/WikiData/WD~history_of_Northern_Ireland,1468953]]"
-  - "[[_Standards/WikiData/WD~history_of_England,11755949]]"
-  - "[[_Standards/WikiData/WD~territorial_evolution_of_the_United_Kingdom,12487574]]"
+  - '[[_Standards/WikiData/WD~history_of_Scotland,471148]]'
+  - '[[_Standards/WikiData/WD~history_of_Wales,1063608]]'
+  - '[[_Standards/WikiData/WD~history_of_Northern_Ireland,1468953]]'
+  - '[[_Standards/WikiData/WD~history_of_England,11755949]]'
+  - '[[_Standards/WikiData/WD~territorial_evolution_of_the_United_Kingdom,12487574]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 part_of:
-  - "[[_Standards/WikiData/WD~study_of_history,1066186]]"
-  - "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q10522536,10522536]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+  - '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+  - '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q10522536,10522536]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Van%20der%20Hagen-KW1049B11%20003-BRITANNIA%20prout%20divisa%20fuit%20temporibus%20ANGLO-SAXONUM%2C%20praesertim%20durante%20illorum%20HEPTARCHIA%20crop.jpeg
 Commons_category: History of the United Kingdom
 IMDb_keyword: british-history

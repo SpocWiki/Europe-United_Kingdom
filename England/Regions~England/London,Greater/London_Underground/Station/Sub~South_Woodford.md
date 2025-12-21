@@ -1,11 +1,18 @@
 ---
-location: [51.5917,0.0275] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~South_Woodford
+  - Sub~South Woodford
+location:
+  - 51.5917
+  - 0.0275
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156084
 [StationSId::] 

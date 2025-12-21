@@ -1,11 +1,18 @@
 ---
-location: [51.515,-0.1415] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Oxford_Circus
+  - Sub~Oxford Circus
+location:
+  - 51.515
+  - -0.1415
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156040
 [StationSId::] 

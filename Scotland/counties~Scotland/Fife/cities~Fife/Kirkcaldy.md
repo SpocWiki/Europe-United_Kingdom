@@ -1,16 +1,19 @@
 ---
-location: [56.12,-3.17] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kirkcaldy
+location:
+  - 56.12
+  - -3.17
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31454
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Neath Port Talbot
+  - Neath_Port_Talbot
 location:
   - 51.7
   - -3.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Neath Port Talbot
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Neath_Port_Talbot

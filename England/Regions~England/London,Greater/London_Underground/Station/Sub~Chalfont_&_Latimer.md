@@ -1,11 +1,18 @@
 ---
-location: [51.6679,-0.561] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Chalfont_&_Latimer
+  - Sub~Chalfont & Latimer
+location:
+  - 51.6679
+  - -0.561
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156148
 [StationSId::] 

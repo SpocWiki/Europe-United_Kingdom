@@ -1,11 +1,18 @@
 ---
-location: [51.5051,-0.0209] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Canary_Wharf
+  - Sub~Canary Wharf
+location:
+  - 51.5051
+  - -0.0209
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155910
 [StationSId::] 

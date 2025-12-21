@@ -1,4 +1,7 @@
 ---
+aliases:
+  - South_Tyneside
+  - Tyneside~South
 location:
   - 54.96
   - -1.45
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - South_Tyneside
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # South_Tyneside

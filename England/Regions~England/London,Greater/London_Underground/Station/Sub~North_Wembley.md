@@ -1,11 +1,18 @@
 ---
-location: [51.5621,-0.3034] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~North_Wembley
+  - Sub~North Wembley
+location:
+  - 51.5621
+  - -0.3034
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156035
 [StationSId::] 

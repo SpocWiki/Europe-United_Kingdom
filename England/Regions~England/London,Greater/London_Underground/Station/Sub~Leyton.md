@@ -1,11 +1,17 @@
 ---
-location: [51.5566,-0.0053] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Leyton
+location:
+  - 51.5566
+  - -0.0053
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156007
 [StationSId::] 

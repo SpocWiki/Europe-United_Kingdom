@@ -1,11 +1,18 @@
 ---
-location: [51.5154,-0.0726] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Aldgate_East
+  - Sub~Aldgate East
+location:
+  - 51.5154
+  - -0.0726
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155876
 [StationSId::] 

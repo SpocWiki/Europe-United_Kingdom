@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Vale of Glamorgan
+  - Vale_of_Glamorgan
 location:
   - 51.5
   - -3.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Vale of Glamorgan
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Vale_of_Glamorgan

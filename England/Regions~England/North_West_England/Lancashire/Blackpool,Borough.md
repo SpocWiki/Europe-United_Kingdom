@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Blackpool
+  - Blackpool,Borough
 location:
   - 53.8
   - -3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Blackpool
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Blackpool,Borough]]

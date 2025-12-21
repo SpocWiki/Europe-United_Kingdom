@@ -1,11 +1,18 @@
 ---
-location: [51.6266,0.0471] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Buckhurst_Hill
+  - Sub~Buckhurst Hill
+location:
+  - 51.6266
+  - 0.0471
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156163
 [StationSId::] 

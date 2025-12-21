@@ -1,16 +1,20 @@
 ---
-location: [54.83,-5.12] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Port_Patrick
+  - Port Patrick
+location:
+  - 54.83
+  - -5.12
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33472
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

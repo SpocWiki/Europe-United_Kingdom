@@ -1,16 +1,19 @@
 ---
-location: [57.68,-4.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Cromarty
+location:
+  - 57.68
+  - -4.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29680
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

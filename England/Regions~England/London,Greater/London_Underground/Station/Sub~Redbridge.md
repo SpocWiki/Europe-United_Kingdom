@@ -1,11 +1,17 @@
 ---
-location: [51.5763,0.0454] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Redbridge
+location:
+  - 51.5763
+  - 0.0454
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156058
 [StationSId::] 

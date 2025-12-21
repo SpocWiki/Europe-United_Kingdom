@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Barking_and_Dagenham
+  - Barking and Dagenham
 location:
   - 51.5
   - 0.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Barking_and_Dagenham
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Barking_and_Dagenham

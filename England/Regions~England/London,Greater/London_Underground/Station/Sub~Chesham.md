@@ -1,11 +1,17 @@
 ---
-location: [51.7052,-0.611] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Chesham
+location:
+  - 51.7052
+  - -0.611
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156147
 [StationSId::] 

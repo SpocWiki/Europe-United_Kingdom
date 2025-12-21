@@ -1,11 +1,16 @@
 ---
-location: [51.42,0.02] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bromley
+location:
+  - 51.42
+  - 0.02
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
+  - geo/City
 SpocWebEntityId: 29366
 isDeleted: false
 confidential: public

@@ -1,11 +1,18 @@
 ---
-location: [51.5075,-0.206] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Holland_Park
+  - Sub~Holland Park
+location:
+  - 51.5075
+  - -0.206
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155982
 [StationSId::] 

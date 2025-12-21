@@ -1,11 +1,18 @@
 ---
-location: [51.492,-0.1973] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Earl's_Court
+  - Sub~Earl's Court
+location:
+  - 51.492
+  - -0.1973
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155933
 [StationSId::] 

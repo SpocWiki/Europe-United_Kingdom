@@ -1,16 +1,19 @@
 ---
-location: [54.52,-6.07] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - City~Lisburn
+location:
+  - 54.52
+  - -6.07
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32042
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

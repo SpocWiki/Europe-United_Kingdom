@@ -1,11 +1,18 @@
 ---
-location: [51.5007,-0.0191] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~South_Quay
+  - Sub~South Quay
+location:
+  - 51.5007
+  - -0.0191
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156081
 [StationSId::] 

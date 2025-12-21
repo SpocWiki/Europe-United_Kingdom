@@ -1,16 +1,19 @@
 ---
-location: [52.05,-0.02] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Royston
+location:
+  - 52.05
+  - -0.02
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33812
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,11 +1,18 @@
 ---
-location: [51.5091,0.0181] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Royal_Victoria
+  - Sub~Royal Victoria
+location:
+  - 51.5091
+  - 0.0181
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156065
 [StationSId::] 

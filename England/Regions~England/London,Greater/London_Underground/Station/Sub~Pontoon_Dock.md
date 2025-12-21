@@ -1,11 +1,18 @@
 ---
-location: [51.5021,0.0319] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Pontoon_Dock
+  - Sub~Pontoon Dock
+location:
+  - 51.5021
+  - 0.0319
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156178
 [StationSId::] 

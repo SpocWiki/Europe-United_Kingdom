@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Anglesey
+  - Anglesey Isle
+  - Anglesey-Isle
 location:
   - 53.3
   - -4.3
@@ -12,19 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Anglesey
-  - Anglesey Isle
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Anglesey

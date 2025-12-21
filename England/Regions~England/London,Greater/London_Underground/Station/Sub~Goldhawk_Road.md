@@ -1,11 +1,18 @@
 ---
-location: [51.5018,-0.2267] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Goldhawk_Road
+  - Sub~Goldhawk Road
+location:
+  - 51.5018
+  - -0.2267
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155958
 [StationSId::] 

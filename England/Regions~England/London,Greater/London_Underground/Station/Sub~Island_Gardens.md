@@ -1,11 +1,18 @@
 ---
-location: [51.4871,-0.0101] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Island_Gardens
+  - Sub~Island Gardens
+location:
+  - 51.4871
+  - -0.0101
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155990
 [StationSId::] 

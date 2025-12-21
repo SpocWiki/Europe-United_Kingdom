@@ -1,11 +1,18 @@
 ---
-location: [51.6503,-0.1943] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~High_Barnet
+  - Sub~High Barnet
+location:
+  - 51.6503
+  - -0.1943
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156154
 [StationSId::] 

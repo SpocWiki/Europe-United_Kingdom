@@ -1,11 +1,17 @@
 ---
-location: [51.5074,-0.1223] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Embankment
+location:
+  - 51.5074
+  - -0.1223
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155945
 [StationSId::] 

@@ -1,16 +1,19 @@
 ---
-location: [54.47,-6.33] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - City~Lurgan
+location:
+  - 54.47
+  - -6.33
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32148
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

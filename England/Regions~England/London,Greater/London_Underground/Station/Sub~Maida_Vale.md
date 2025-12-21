@@ -1,11 +1,18 @@
 ---
-location: [51.53,-0.1854] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Maida_Vale
+  - Sub~Maida Vale
+location:
+  - 51.53
+  - -0.1854
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station/subway
-- Europe/UK/City~London
+  - geo/station/subway
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156012
 [StationSId::] 

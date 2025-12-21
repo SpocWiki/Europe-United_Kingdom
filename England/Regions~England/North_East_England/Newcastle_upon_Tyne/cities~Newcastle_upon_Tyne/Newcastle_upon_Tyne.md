@@ -1,16 +1,20 @@
 ---
-location: [54.97,-1.6] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Newcastle_upon_Tyne
+  - Newcastle upon Tyne
+location:
+  - 54.97
+  - -1.6
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32886
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

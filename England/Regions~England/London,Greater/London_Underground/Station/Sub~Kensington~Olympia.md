@@ -1,11 +1,17 @@
 ---
-location: [51.4983,-0.2106] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Kensington~Olympia
+location:
+  - 51.4983
+  - -0.2106
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155993
 [StationSId::] 

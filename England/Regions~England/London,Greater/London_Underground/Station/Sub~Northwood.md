@@ -1,11 +1,17 @@
 ---
-location: [51.6111,-0.424] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Northwood
+location:
+  - 51.6111
+  - -0.424
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156030
 [StationSId::] 

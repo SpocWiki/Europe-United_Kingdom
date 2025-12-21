@@ -1,16 +1,19 @@
 ---
-location: [55.95,-3.12] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Portobello
+location:
+  - 55.95
+  - -3.12
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33483
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

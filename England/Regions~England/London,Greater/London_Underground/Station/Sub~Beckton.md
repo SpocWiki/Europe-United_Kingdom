@@ -1,11 +1,17 @@
 ---
-location: [51.5148,0.0613] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Beckton
+location:
+  - 51.5148
+  - 0.0613
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155891
 [StationSId::] 

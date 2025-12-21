@@ -1,11 +1,18 @@
 ---
-location: [51.5106,-0.0743] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Tower_Gateway
+  - Sub~Tower Gateway
+location:
+  - 51.5106
+  - -0.0743
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156103
 [StationSId::] 

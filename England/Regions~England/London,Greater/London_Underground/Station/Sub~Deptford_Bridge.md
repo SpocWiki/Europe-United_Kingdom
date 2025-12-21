@@ -1,11 +1,18 @@
 ---
-location: [51.474,-0.0216] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Deptford_Bridge
+  - Sub~Deptford Bridge
+location:
+  - 51.474
+  - -0.0216
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156171
 [StationSId::] 

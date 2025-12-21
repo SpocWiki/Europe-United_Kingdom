@@ -1,11 +1,18 @@
 ---
-location: [51.5481,-0.1188] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Caledonian_Road
+  - Sub~Caledonian Road
+location:
+  - 51.5481
+  - -0.1188
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155908
 [StationSId::] 

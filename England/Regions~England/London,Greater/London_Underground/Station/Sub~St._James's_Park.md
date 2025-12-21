@@ -1,11 +1,18 @@
 ---
-location: [51.4994,-0.1335] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~St._James's_Park
+  - Sub~St. James's Park
+location:
+  - 51.4994
+  - -0.1335
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156091
 [StationSId::] 

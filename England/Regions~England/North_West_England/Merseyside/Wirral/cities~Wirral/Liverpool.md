@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Liverpool
 has_id_wikidata: Q24826
 location:
   - 53.4
@@ -14,56 +16,56 @@ SpocWebEntityId: 32050
 isDeleted: false
 confidential: public
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Guiyang,192271]]"
-  - "[[_Standards/WikiData/WD~Cologne,365]]"
-  - "[[_Standards/WikiData/WD~Dublin,1761]]"
-  - "[[_Standards/WikiData/WD~Odesa,1874]]"
-  - "[[_Standards/WikiData/WD~Varna,6506]]"
-  - "[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
-  - "[[_Standards/WikiData/WD~Shanghai,8686]]"
-  - "[[_Standards/WikiData/WD~Guadalajara,9022]]"
-  - "[[_Standards/WikiData/WD~Rotterdam,34370]]"
-  - "[[_Standards/WikiData/WD~Rosario,52535]]"
+  - '[[_Standards/WikiData/WD~Guiyang,192271]]'
+  - '[[_Standards/WikiData/WD~Cologne,365]]'
+  - '[[_Standards/WikiData/WD~Dublin,1761]]'
+  - '[[_Standards/WikiData/WD~Odesa,1874]]'
+  - '[[_Standards/WikiData/WD~Varna,6506]]'
+  - '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
+  - '[[_Standards/WikiData/WD~Shanghai,8686]]'
+  - '[[_Standards/WikiData/WD~Guadalajara,9022]]'
+  - '[[_Standards/WikiData/WD~Rotterdam,34370]]'
+  - '[[_Standards/WikiData/WD~Rosario,52535]]'
 described_by_source:
-  - "[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Anglické_listy,10824295]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]"
-member_of: "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-award_received: "[[_Standards/WikiData/WD~Konrad_Adenauer_Award,1245979]]"
+  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Anglické_listy,10824295]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zehnter_Band,132672318]]'
+member_of: '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+award_received: '[[_Standards/WikiData/WD~Konrad_Adenauer_Award,1245979]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-official_symbol: "[[_Standards/WikiData/WD~liver_bird,2983957]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Liverpool,5333711]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+official_symbol: '[[_Standards/WikiData/WD~liver_bird,2983957]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Liverpool,5333711]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~Liverpool_Biennial,6658316]]"
-  - "[[_Standards/WikiData/WD~Video_Positive_Festival,126689470]]"
-  - "[[_Standards/WikiData/WD~_Open_Source_City_Micro_Festival,131338385]]"
-  - "[[_Standards/WikiData/WD~moves_International_Festival_of_Movement_on_Screen,131338418]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Liverpool_history,16152400]]"
-different_from: "[[_Standards/WikiData/WD~Liverpool,21665571]]"
+  - '[[_Standards/WikiData/WD~Liverpool_Biennial,6658316]]'
+  - '[[_Standards/WikiData/WD~Video_Positive_Festival,126689470]]'
+  - '[[_Standards/WikiData/WD~_Open_Source_City_Micro_Festival,131338385]]'
+  - '[[_Standards/WikiData/WD~moves_International_Festival_of_Movement_on_Screen,131338418]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Liverpool_history,16152400]]'
+different_from: '[[_Standards/WikiData/WD~Liverpool,21665571]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Liverpool,21665571]]"
-  - "[[_Standards/WikiData/WD~Merseyside,23100]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Liverpool,21665571]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q56695951,56695951]]"
-historic_county: "[[_Standards/WikiData/WD~Lancashire,67311452]]"
-head_of_government: "[[_Standards/WikiData/WD~Joanne_Anderson,106422509]]"
+  - '[[_Standards/WikiData/WD~Liverpool,21665571]]'
+  - '[[_Standards/WikiData/WD~Merseyside,23100]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Liverpool,21665571]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q56695951,56695951]]'
+historic_county: '[[_Standards/WikiData/WD~Lancashire,67311452]]'
+head_of_government: '[[_Standards/WikiData/WD~Joanne_Anderson,106422509]]'
 inception: 1207-01-01T00:00:00Z
 time_of_earliest_written_record: 1190-01-01T00:00:00Z
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~River_Mersey,19724]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+  - '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~River_Mersey,19724]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 elevation_above_sea_level: 70
-local_dialing_code: "151"
+local_dialing_code: 151
 area: 111.84
-WOEID: "26734"
+WOEID: 26734
 postal_code: L
 native_label: Liverpool
 official_name: Liverpool
@@ -74,16 +76,16 @@ Commons_category: Liverpool
 subreddit:
   - Liverpool
   - liverpoolcity
-OmegaWiki_Defined_Meaning: "1636906"
+OmegaWiki_Defined_Meaning: 1636906
 coordinate_location: Point(-2.991666666 53.407222222)
-U_S_National_Archives_Identifier: "10037015"
+U_S_National_Archives_Identifier: 10037015
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Liverpool%20Montage.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liverpool%20Montage.jpg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Liverpool%20City%20Council.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/EnglandLiverpool.png
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Liverpool%20Wikivoyage%20Banner.png
 official_website: https://www.liverpool.gov.uk/
-TOID: "4000000074559629"
+TOID: 4000000074559629
 UN_LOCODE: GBLIV
 NUTS_code: UKD72
 FIPS_10_4_countries_and_regions_: UKH8

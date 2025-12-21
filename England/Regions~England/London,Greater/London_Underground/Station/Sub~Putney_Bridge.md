@@ -1,11 +1,18 @@
 ---
-location: [51.4682,-0.2089] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Putney_Bridge
+  - Sub~Putney Bridge
+location:
+  - 51.4682
+  - -0.2089
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 156052
 [StationSId::] 

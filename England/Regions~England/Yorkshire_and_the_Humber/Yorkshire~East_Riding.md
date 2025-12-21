@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Yorkshire~East_Riding
+  - Yorkshire~East Riding
 location:
   - 53.9
   - -0.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Yorkshire~East_Riding
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Yorkshire~East_Riding

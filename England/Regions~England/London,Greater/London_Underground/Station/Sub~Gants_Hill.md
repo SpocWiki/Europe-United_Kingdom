@@ -1,11 +1,18 @@
 ---
-location: [51.5765,0.0663] 
-type: Station 
-mapzoom: [8,15] 
-mapmarker: subway 
+aliases:
+  - Sub~Gants_Hill
+  - Sub~Gants Hill
+location:
+  - 51.5765
+  - 0.0663
+type: Station
+mapzoom:
+  - 8
+  - 15
+mapmarker: subway
 tags:
-- geo/station
-- Europe/UK/City~London
+  - geo/station
+  - Europe/UK/City~London
 ---
 SpocWebEntityId: 155955
 [StationSId::] 
