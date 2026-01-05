@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 2002-09-30 
 aliases:
 has_id_wikidata: Q43279
 coordinate_location: Point(-0.279722222 51.555555555)

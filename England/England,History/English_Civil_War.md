@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1642-01-01 
+has_time_stopped: 1651-09-03 
 aliases:
 has_id_wikidata: Q80330
 participant:

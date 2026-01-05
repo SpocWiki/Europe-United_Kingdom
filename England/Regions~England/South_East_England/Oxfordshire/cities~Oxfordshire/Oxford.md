@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1000-01-01 
 aliases:
   - Oxford
 has_id_wikidata: Q34217

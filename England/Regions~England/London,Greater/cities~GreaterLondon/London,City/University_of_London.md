@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1836-01-01 
 aliases:
 has_id_wikidata: Q170027
 Corporate_Number_Japan_: "6700150101703"

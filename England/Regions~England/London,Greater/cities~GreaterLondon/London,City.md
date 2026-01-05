@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0047-01-01 
 aliases:
   - London
   - City of London

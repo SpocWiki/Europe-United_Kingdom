@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1126-01-01 
+has_time_stopped: 1485-01-01 
 aliases:
 has_id_wikidata: Q106151
 has_part_s_:

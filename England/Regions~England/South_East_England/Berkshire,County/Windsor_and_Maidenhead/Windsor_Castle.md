@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1070-01-01 
 aliases:
   - Windsor Castle
   - Windsor_Castle

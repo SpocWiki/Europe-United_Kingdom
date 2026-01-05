@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0601-01-01 
 aliases:
 location:
   - 55.95

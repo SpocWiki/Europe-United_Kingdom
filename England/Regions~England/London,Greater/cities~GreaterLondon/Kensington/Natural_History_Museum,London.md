@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1881-01-01 
 aliases:
   - British Museum (Natural History)
   - Natural History Museum

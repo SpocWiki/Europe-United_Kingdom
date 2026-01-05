@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1698-01-01 
 aliases:
   - London Stock Exchange
   - London_Stock_Exchange
