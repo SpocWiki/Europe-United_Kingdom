@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.55
 dv_has_place_latitude: 52.13
-dv_name: Bedford
+dv_has_name_: Bedford
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

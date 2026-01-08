@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.18
 dv_has_place_latitude: 50.68
-dv_name: Sidmouth
+dv_has_name_: Sidmouth
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.28
 dv_has_place_latitude: 53.6
-dv_name: Bury
+dv_has_name_: Bury
 dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1803
 dv_has_place_latitude: 51.5472
-dv_name: Finchley Road
+dv_has_name_: Finchley Road
 dv_zone: 2
 dv_Num_lines: 2
 dv_switch-to-Rail: 0

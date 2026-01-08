@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.38
 dv_has_place_latitude: 51.38
-dv_name: Margate
+dv_has_name_: Margate
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

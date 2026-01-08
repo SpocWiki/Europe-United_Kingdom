@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.18
 dv_has_place_latitude: 55.95
-dv_name: Edinburgh
+dv_has_name_: Edinburgh
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Edinburgh,23436|WD~Edinburgh,23436]]"
 dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Edinburgh,23436|WD~Edinburgh,23436]]"

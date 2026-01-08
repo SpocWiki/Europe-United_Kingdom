@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.65
 dv_has_place_latitude: 52.08
-dv_name: Cardigan
+dv_has_name_: Cardigan
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

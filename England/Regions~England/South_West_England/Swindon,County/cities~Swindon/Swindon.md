@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.78
 dv_has_place_latitude: 51.57
-dv_name: Swindon
+dv_has_name_: Swindon
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

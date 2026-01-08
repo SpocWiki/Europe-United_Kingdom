@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.07
 dv_has_place_latitude: 50.23
-dv_name: Truro
+dv_has_name_: Truro
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

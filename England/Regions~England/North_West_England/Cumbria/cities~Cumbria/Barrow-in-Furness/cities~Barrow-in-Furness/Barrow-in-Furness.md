@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.23
 dv_has_place_latitude: 54.12
-dv_name: Barrow-in-Furness
+dv_has_name_: Barrow-in-Furness
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

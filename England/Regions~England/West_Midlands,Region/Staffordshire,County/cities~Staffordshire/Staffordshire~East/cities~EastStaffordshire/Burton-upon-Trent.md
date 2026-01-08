@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.63
 dv_has_place_latitude: 52.8
-dv_name: Burton-upon-Trent
+dv_has_name_: Burton-upon-Trent
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

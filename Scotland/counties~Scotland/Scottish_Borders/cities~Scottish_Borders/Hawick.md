@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.78
 dv_has_place_latitude: 55.43
-dv_name: Hawick
+dv_has_name_: Hawick
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

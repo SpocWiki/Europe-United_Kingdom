@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1132
 dv_has_place_latitude: 51.5526
-dv_name: Holloway Road
+dv_has_name_: Holloway Road
 dv_zone: 2
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

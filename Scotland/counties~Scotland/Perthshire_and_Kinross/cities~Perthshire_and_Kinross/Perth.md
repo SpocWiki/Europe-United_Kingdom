@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.48
 dv_has_place_latitude: 56.4
-dv_name: Perth
+dv_has_name_: Perth
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.95
 dv_has_place_latitude: 50.98
-dv_name: New Romney
+dv_has_name_: New Romney
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

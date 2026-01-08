@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.1
 dv_has_place_latitude: 51.38
-dv_name: Flatholme
+dv_has_name_: Flatholme
 dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  

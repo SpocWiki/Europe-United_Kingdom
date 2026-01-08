@@ -35,12 +35,12 @@ tags:
 Languages: []
 dv_Global: true
 dv_Global_Name: World
-dv_name-en: Sark
-dv_name-es: Sark
-dv_name-fr: Sercq
-dv_name-cn: 萨克
-dv_name-ar: سارك
-dv_name-ru: Сарк
+dv_has_name_en: Sark
+dv_has_name_es: Sark
+dv_has_name_fr: Sercq
+dv_has_name_cn: 萨克
+dv_has_name_ar: سارك
+dv_has_name_ru: Сарк
 dv_Region_Name: "[[../../../../Europe]]"
 dv_Intermediate_Region_Name: "[[Channel Islands]]"
 dv_Sub-region_Name: "[[Northern Europe]]"
@@ -65,12 +65,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 [	name	 ::  ] 
-name-en = `=this.dv_name-en` 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 [	CLDR_display_name	 ::  ] 
 

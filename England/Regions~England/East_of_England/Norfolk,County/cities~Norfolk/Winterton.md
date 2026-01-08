@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.7
 dv_has_place_latitude: 52.72
-dv_name: Winterton
+dv_has_name_: Winterton
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

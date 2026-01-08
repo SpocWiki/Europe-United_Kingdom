@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.3
 dv_has_place_latitude: 53.48
-dv_name: Salford
+dv_has_name_: Salford
 dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  

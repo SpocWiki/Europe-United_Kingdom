@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.45
 dv_has_place_latitude: 51.37
-dv_name: North Foreland
+dv_has_name_: North Foreland
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

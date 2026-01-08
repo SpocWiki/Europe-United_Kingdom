@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.05
 dv_has_place_latitude: 53.82
-dv_name: Blackpool
+dv_has_name_: Blackpool
 dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.28
 dv_has_place_latitude: 54.87
-dv_name: Ballymena
+dv_has_name_: Ballymena
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

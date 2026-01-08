@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.52
 dv_has_place_latitude: 55.57
-dv_name: Makerston
+dv_has_name_: Makerston
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

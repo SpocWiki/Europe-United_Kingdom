@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.03
 dv_has_place_latitude: 55.87
-dv_name: Coatbridge
+dv_has_name_: Coatbridge
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

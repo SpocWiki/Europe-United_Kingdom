@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.5
 dv_has_place_latitude: 54.57
-dv_name: Appleby
+dv_has_name_: Appleby
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -39,15 +39,13 @@ dv_ISO4217-currency_country_name: JERSEY
 dv_Telephone: 44
 dv_Global: true
 dv_Global_Name: World
-dv_name: Jersey
-dv_name-en:
-  - Jersey
-  - Jersey
-dv_name-es: Jersey
-dv_name-fr: Jersey
-dv_name-cn: 泽西
-dv_name-ar: جيرزي
-dv_name-ru: Джерси
+dv_has_name_: Jersey
+dv_has_name_en: Jersey
+dv_has_name_es: Jersey
+dv_has_name_fr: Jersey
+dv_has_name_cn: 泽西
+dv_has_name_ar: جيرزي
+dv_has_name_ru: Джерси
 dv_CLDR_display_name: Jersey
 dv_Region_Name: "[[../../../Europe]]"
 dv_Intermediate_Region_Name: "[[Channel Islands]]"
@@ -68,7 +66,7 @@ dv_is_independent: Crown dependency of GB
 dv_Developed_:
   Developing_Countries: Developed
 dv_ISO3166-1-numeric: 832
-dv_name-de: Jersey
+dv_has_name_de: Jersey
 dv_Continent: "[[../../../Europe]]"
 dv_Language-Id: 499
 dv_is_a_: "[[../../../../Geography/Place]]"
@@ -89,12 +87,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Jersey ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Jersey ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -153,8 +151,8 @@ geojsonFolder: ./Jersey/
 markerFolder: ./Jersey/
 ```
 
-[name-en::Jersey] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Jersey] 
+has_name_de = `=this.dv_has_name_de` 
 [Area-Total::] 
 [Area-Land::] 
 Continent = `=this.dv_Continent`

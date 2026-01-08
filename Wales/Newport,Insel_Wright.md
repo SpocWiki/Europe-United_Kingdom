@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.32
 dv_has_place_latitude: 50.7
-dv_name: Newport~Insel Wright
+dv_has_name_: Newport~Insel Wright
 dv_Country: "[[../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.45
 dv_has_place_latitude: 55.72
-dv_name: Cumray
+dv_has_name_: Cumray
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

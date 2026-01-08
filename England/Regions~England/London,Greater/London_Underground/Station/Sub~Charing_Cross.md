@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1247
 dv_has_place_latitude: 51.508
-dv_name: Charing Cross
+dv_has_name_: Charing Cross
 dv_zone: 1
 dv_Num_lines: 2
 dv_switch-to-Rail: 1

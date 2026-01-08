@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.6
 dv_has_place_latitude: 50.3
-dv_name: Dartmouth
+dv_has_name_: Dartmouth
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.0172
 dv_has_place_latitude: 51.5313
-dv_name: Plaistow
+dv_has_name_: Plaistow
 dv_zone: 3
 dv_Num_lines: 2
 dv_switch-to-Rail: 0

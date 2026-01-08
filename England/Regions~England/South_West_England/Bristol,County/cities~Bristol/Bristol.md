@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.58
 dv_has_place_latitude: 51.45
-dv_name: Bristol
+dv_has_name_: Bristol
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

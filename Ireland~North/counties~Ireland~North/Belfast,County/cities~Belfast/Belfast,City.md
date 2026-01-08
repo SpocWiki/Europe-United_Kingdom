@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.92
 dv_has_place_latitude: 54.58
-dv_name: Belfast
+dv_has_name_: Belfast
 dv_Country: "[[../../../../../Ireland]]"
 ---
 #is_a_/Place  

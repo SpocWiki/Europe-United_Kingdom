@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.2387
 dv_has_place_latitude: 51.552
-dv_name: Dollis Hill
+dv_has_name_: Dollis Hill
 dv_zone: 3
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

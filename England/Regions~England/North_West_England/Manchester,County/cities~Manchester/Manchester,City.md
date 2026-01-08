@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.23
 dv_has_place_latitude: 53.48
-dv_name: Manchester
+dv_has_name_: Manchester
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Manchester,18125|WD~Manchester,18125]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Manchester,18125|WD~Manchester,18125]]"

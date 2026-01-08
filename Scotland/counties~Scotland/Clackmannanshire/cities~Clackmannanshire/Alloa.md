@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.78
 dv_has_place_latitude: 56.12
-dv_name: Alloa
+dv_has_name_: Alloa
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

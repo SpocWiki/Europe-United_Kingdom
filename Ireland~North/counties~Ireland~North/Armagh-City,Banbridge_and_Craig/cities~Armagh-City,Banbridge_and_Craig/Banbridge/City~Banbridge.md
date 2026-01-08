@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.27
 dv_has_place_latitude: 54.35
-dv_name: Banbridge
+dv_has_name_: Banbridge
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

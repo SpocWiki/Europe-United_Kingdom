@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.251
 dv_has_place_latitude: 51.559
-dv_name: Upminster
+dv_has_name_: Upminster
 dv_zone: 6
 dv_Num_lines: 1
 dv_switch-to-Rail: 1

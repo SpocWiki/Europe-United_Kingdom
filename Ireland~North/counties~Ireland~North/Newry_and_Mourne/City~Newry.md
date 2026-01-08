@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.33
 dv_has_place_latitude: 54.18
-dv_name: Newry
+dv_has_name_: Newry
 dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  

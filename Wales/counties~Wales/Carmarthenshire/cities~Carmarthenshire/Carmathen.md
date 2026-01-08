@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.3
 dv_has_place_latitude: 51.85
-dv_name: Carmathen
+dv_has_name_: Carmathen
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

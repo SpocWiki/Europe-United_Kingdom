@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.4
 dv_has_place_latitude: 51.23
-dv_name: Deal
+dv_has_name_: Deal
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

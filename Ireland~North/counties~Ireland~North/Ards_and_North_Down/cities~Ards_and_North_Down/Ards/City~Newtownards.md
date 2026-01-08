@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.7
 dv_has_place_latitude: 54.58
-dv_name: Newtownards
+dv_has_name_: Newtownards
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

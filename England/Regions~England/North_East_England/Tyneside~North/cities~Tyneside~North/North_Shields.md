@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.45
 dv_has_place_latitude: 55.02
-dv_name: North Shields
+dv_has_name_: North Shields
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

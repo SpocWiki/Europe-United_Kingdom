@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.38
 dv_has_place_latitude: 56.43
-dv_name: Belrock
+dv_has_name_: Belrock
 dv_Country: "[[../../../../../UK]]"
 ---
 

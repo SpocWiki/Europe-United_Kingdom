@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.8
 dv_has_place_latitude: 54.05
-dv_name: Lancaster
+dv_has_name_: Lancaster
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

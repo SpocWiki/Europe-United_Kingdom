@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.72
 dv_has_place_latitude: 51.82
-dv_name: Monmouth
+dv_has_name_: Monmouth
 dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.28
 dv_has_place_latitude: 50.77
-dv_name: Eastbourne
+dv_has_name_: Eastbourne
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

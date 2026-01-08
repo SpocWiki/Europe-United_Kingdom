@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.38
 dv_has_place_latitude: 55.88
-dv_name: Renfrew
+dv_has_name_: Renfrew
 dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  

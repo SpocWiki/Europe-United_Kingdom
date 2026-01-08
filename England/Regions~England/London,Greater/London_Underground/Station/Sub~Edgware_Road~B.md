@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1679
 dv_has_place_latitude: 51.5199
-dv_name: Edgware Road (B)
+dv_has_name_: Edgware Road (B)
 dv_zone: 1
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

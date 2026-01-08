@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.58
 dv_has_place_latitude: 51.48
-dv_name: Windsor Castle
+dv_has_name_: Windsor Castle
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

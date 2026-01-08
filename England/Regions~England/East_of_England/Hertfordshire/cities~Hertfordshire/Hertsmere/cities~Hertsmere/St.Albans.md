@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.32
 dv_has_place_latitude: 51.72
-dv_name: St.Albans
+dv_has_name_: St.Albans
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

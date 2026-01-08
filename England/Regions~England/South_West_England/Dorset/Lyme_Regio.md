@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.95
 dv_has_place_latitude: 50.72
-dv_name: Lyme Regio
+dv_has_name_: Lyme Regio
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.75
 dv_has_place_latitude: 51.58
-dv_name: Port Talbot
+dv_has_name_: Port Talbot
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.0082
 dv_has_place_latitude: 51.5147
-dv_name: Canning Town
+dv_has_name_: Canning Town
 dv_zone: 3
 dv_Num_lines: 2
 dv_switch-to-Rail: 1

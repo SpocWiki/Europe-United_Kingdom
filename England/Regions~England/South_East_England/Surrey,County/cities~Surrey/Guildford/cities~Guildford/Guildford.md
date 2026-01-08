@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.58
 dv_has_place_latitude: 51.23
-dv_name: Guildford
+dv_has_name_: Guildford
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

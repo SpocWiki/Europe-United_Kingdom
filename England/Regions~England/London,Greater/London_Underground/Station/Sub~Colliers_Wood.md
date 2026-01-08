@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1778
 dv_has_place_latitude: 51.418
-dv_name: Colliers Wood
+dv_has_name_: Colliers Wood
 dv_zone: 3
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

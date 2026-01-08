@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1919
 dv_has_place_latitude: 51.4154
-dv_name: South Wimbledon
+dv_has_name_: South Wimbledon
 dv_zone: 3.5
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

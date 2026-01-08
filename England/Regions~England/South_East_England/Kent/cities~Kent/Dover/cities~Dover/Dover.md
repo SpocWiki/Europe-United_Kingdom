@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.32
 dv_has_place_latitude: 51.13
-dv_name: Dover
+dv_has_name_: Dover
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

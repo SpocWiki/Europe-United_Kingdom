@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.38
 dv_has_place_latitude: 51.95
-dv_name: Brecon
+dv_has_name_: Brecon
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

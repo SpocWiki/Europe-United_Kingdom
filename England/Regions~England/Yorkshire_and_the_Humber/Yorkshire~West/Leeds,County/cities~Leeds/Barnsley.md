@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.48
 dv_has_place_latitude: 53.88
-dv_name: Barnsley
+dv_has_name_: Barnsley
 dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  

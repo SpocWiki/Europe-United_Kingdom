@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.0042
 dv_has_place_latitude: 51.5416
-dv_name: Stratford
+dv_has_name_: Stratford
 dv_zone: 3
 dv_Num_lines: 3
 dv_switch-to-Rail: 1

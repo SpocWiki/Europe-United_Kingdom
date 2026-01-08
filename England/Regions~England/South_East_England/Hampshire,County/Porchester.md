@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.12
 dv_has_place_latitude: 50.83
-dv_name: Porchester
+dv_has_name_: Porchester
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

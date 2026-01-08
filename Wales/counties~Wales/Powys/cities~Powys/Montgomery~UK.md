@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.13
 dv_has_place_latitude: 52.55
-dv_name: Montgomery~UK
+dv_has_name_: Montgomery~UK
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

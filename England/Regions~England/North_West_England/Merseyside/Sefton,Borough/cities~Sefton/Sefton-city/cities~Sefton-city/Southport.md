@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3
 dv_has_place_latitude: 53.65
-dv_name: Southport
+dv_has_name_: Southport
 dv_Country: "[[../../../../../../../../../UK]]"
 ---
 #is_a_/Place  

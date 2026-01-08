@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.47
 dv_has_place_latitude: 53.85
-dv_name: Stonyhurst
+dv_has_name_: Stonyhurst
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

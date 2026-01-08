@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.97
 dv_has_place_latitude: 51.43
-dv_name: Reading
+dv_has_name_: Reading
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

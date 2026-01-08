@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.168
 dv_has_place_latitude: 51.4275
-dv_name: Tooting Broadway
+dv_has_name_: Tooting Broadway
 dv_zone: 3
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

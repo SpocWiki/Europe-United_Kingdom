@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0
 dv_has_place_latitude: 51.47
-dv_name: Greenwich
+dv_has_name_: Greenwich
 dv_Country: "[[../../../../../UK]]"
 ---
 

@@ -23,7 +23,7 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 51
   - 97
-dv_name: Felixstown/Suffolk
+dv_has_name_: Felixstown/Suffolk
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

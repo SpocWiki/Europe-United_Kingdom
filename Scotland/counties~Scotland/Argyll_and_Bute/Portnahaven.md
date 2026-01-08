@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.58
 dv_has_place_latitude: 55.68
-dv_name: Portnahaven
+dv_has_name_: Portnahaven
 dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  

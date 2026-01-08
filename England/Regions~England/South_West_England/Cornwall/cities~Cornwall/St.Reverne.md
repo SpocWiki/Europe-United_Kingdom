@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.08
 dv_has_place_latitude: 50.05
-dv_name: St.Reverne
+dv_has_name_: St.Reverne
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

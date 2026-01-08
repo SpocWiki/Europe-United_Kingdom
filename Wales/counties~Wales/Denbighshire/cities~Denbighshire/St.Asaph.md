@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.43
 dv_has_place_latitude: 53.25
-dv_name: St.Asaph
+dv_has_name_: St.Asaph
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

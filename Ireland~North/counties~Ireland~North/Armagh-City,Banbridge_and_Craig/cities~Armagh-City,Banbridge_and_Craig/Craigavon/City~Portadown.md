@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.45
 dv_has_place_latitude: 54.42
-dv_name: Portadown
+dv_has_name_: Portadown
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

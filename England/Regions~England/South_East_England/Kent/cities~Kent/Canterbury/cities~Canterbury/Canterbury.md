@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.08
 dv_has_place_latitude: 51.28
-dv_name: Canterbury
+dv_has_name_: Canterbury
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.32
 dv_has_place_latitude: 51.47
-dv_name: Kew
+dv_has_name_: Kew
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

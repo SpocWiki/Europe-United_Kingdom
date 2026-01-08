@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.43
 dv_has_place_latitude: 55.85
-dv_name: Paisley
+dv_has_name_: Paisley
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

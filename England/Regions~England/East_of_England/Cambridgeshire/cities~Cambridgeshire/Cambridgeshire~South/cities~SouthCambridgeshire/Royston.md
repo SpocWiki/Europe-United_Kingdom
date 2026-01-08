@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.02
 dv_has_place_latitude: 52.05
-dv_name: Royston
+dv_has_name_: Royston
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

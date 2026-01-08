@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1244
 dv_has_place_latitude: 51.523
-dv_name: Russell Square
+dv_has_name_: Russell Square
 dv_zone: 1
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

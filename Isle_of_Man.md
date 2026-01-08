@@ -41,15 +41,15 @@ dv_ISO4217-currency_country_name: ISLE OF MAN
 dv_Telephone: 44
 dv_Global: true
 dv_Global_Name: World
-dv_name: Isle of Man
-dv_name-en:
+dv_has_name_: Isle of Man
+dv_has_name_en:
   - Isle of Man
   - Isle of Man
-dv_name-es: Isla de Man
-dv_name-fr: �le de Man
-dv_name-cn: ???
-dv_name-ar: ????? ???
-dv_name-ru: ?????? ???
+dv_has_name_es: Isla de Man
+dv_has_name_fr: �le de Man
+dv_has_name_cn: ???
+dv_has_name_ar: ????? ???
+dv_has_name_ru: ?????? ???
 dv_CLDR_display_name: Isle of Man
 dv_Region_Name: "[[../../../Europe]]"
 dv_Intermediate_Region_Name: "[[Isle_of_Man]]"
@@ -69,7 +69,7 @@ dv_is_independent: Crown dependency of GB
 dv_Developed_:
   Developing_Countries: Developed
 dv_ISO3166-1-numeric: 833
-dv_name-de: Isle of Man
+dv_has_name_de: Isle of Man
 dv_has_place_continent: "[[../../../Europe]]"
 dv_Language-Id: 499
 dv_has_place_longitude: -4.5
@@ -91,12 +91,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name`
 
 name = `=this.dv_name`
-[	name-en	 :: Isle of Man ]
-name-es = `=this.dv_name-es`
-name-fr = `=this.dv_name-fr`
-name-cn = `=this.dv_name-cn`
-name-ar = `=this.dv_name-ar`
-name-ru = `=this.dv_name-ru`
+[	has_name_en	 :: Isle of Man ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
 CLDR_display_name = `=this.dv_CLDR_display_name`
 
@@ -155,8 +155,8 @@ geojsonFolder: ./Isle_of_Man/
 markerFolder: ./Isle_of_Man/
 ```
 
-[name-en::Isle of Man]
-name-de = `=this.dv_name-de`
+[has_name_en::Isle of Man]
+has_name_de = `=this.dv_has_name_de`
 [Area-Total::]
 [Area-Land::]
 has_place_continent = `=this.dv_has_place_continent`

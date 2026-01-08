@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.13
 dv_has_place_latitude: 53.3
-dv_name: Worksop
+dv_has_name_: Worksop
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

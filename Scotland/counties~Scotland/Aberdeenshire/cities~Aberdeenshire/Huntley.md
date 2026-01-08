@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.83
 dv_has_place_latitude: 57.45
-dv_name: Huntley
+dv_has_name_: Huntley
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

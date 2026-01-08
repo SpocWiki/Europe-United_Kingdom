@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.4092
 dv_has_place_latitude: 51.6004
-dv_name: Northwood Hills
+dv_has_name_: Northwood Hills
 dv_zone: 6
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

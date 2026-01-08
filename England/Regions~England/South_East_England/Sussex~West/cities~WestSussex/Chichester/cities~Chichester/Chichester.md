@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.78
 dv_has_place_latitude: 50.8
-dv_name: Chichester
+dv_has_name_: Chichester
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.0332
 dv_has_place_latitude: 51.5249
-dv_name: Mile End
+dv_has_name_: Mile End
 dv_zone: 2
 dv_Num_lines: 3
 dv_switch-to-Rail: 0

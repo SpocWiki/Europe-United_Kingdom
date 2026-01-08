@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.13
 dv_has_place_latitude: 50.57
-dv_name: Tavistock
+dv_has_name_: Tavistock
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1586
 dv_has_place_latitude: 51.5136
-dv_name: Marble Arch
+dv_has_name_: Marble Arch
 dv_zone: 1
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

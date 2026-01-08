@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3
 dv_has_place_latitude: 56.62
-dv_name: Glamis
+dv_has_name_: Glamis
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

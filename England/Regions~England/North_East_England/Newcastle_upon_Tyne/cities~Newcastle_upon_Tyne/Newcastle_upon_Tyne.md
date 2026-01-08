@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.6
 dv_has_place_latitude: 54.97
-dv_name: Newcastle upon Tyne
+dv_has_name_: Newcastle upon Tyne
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

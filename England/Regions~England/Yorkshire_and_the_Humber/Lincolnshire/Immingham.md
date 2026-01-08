@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.18
 dv_has_place_latitude: 53.63
-dv_name: Immingham
+dv_has_name_: Immingham
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

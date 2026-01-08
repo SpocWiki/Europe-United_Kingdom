@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.53
 dv_has_place_latitude: 52.82
-dv_name: Hasborough
+dv_has_name_: Hasborough
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.27
 dv_has_place_latitude: 50.75
-dv_name: Cowes
+dv_has_name_: Cowes
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

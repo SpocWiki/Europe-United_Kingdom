@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.98
 dv_has_place_latitude: 50.5
-dv_name: Padstow
+dv_has_name_: Padstow
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

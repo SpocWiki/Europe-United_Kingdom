@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.92
 dv_has_place_latitude: 54.88
-dv_name: Carlisle
+dv_has_name_: Carlisle
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

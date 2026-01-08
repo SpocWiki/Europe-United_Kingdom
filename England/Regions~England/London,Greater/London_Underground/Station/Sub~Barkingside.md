@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.0887
 dv_has_place_latitude: 51.5856
-dv_name: Barkingside
+dv_has_name_: Barkingside
 dv_zone: 5
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

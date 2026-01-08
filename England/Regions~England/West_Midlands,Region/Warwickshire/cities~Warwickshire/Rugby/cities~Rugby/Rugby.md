@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.27
 dv_has_place_latitude: 52.37
-dv_name: Rugby
+dv_has_name_: Rugby
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

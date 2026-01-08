@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3
 dv_has_place_latitude: 50.72
-dv_name: Rousdon
+dv_has_name_: Rousdon
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

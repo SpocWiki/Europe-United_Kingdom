@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.25
 dv_has_place_latitude: 51.87
-dv_name: Gloucester
+dv_has_name_: Gloucester
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

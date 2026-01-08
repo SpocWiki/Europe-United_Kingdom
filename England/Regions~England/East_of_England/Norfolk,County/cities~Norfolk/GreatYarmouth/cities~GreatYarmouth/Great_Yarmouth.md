@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.73
 dv_has_place_latitude: 52.62
-dv_name: Great Yarmouth
+dv_has_name_: Great Yarmouth
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

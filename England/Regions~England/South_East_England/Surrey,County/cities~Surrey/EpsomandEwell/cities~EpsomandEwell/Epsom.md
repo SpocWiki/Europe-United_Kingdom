@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.27
 dv_has_place_latitude: 51.33
-dv_name: Epsom
+dv_has_name_: Epsom
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

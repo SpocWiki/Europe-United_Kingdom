@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.37
 dv_has_place_latitude: 52.78
-dv_name: Lymm
+dv_has_name_: Lymm
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

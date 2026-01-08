@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.7
 dv_has_place_latitude: 52.07
-dv_name: Hereford
+dv_has_name_: Hereford
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

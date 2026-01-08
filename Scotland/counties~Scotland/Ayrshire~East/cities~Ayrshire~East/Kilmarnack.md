@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.5
 dv_has_place_latitude: 55.62
-dv_name: Kilmarnack
+dv_has_name_: Kilmarnack
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

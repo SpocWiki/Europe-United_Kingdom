@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.2
 dv_has_place_latitude: 51.1
-dv_name: Tundbridge Wells
+dv_has_name_: Tundbridge Wells
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

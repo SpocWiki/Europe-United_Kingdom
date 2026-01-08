@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.5
 dv_has_place_latitude: 50.72
-dv_name: Exeter
+dv_has_name_: Exeter
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

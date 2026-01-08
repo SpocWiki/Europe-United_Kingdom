@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.0216
 dv_has_place_latitude: 51.474
-dv_name: Deptford Bridge
+dv_has_name_: Deptford Bridge
 dv_zone: 2.5
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

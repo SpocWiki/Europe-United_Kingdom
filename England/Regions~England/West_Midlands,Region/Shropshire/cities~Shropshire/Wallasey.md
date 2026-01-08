@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.07
 dv_has_place_latitude: 52.58
-dv_name: Wallasey
+dv_has_name_: Wallasey
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

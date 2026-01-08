@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.2265
 dv_has_place_latitude: 51.5058
-dv_name: Shepherd's Bush (H)
+dv_has_name_: Shepherd's Bush (H)
 dv_zone: 2
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

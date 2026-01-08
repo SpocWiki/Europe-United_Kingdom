@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.0755
 dv_has_place_latitude: 51.6177
-dv_name: Chigwell
+dv_has_name_: Chigwell
 dv_zone: 5
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

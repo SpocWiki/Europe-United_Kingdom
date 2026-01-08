@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.62
 dv_has_place_latitude: 57.62
-dv_name: Forres
+dv_has_name_: Forres
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

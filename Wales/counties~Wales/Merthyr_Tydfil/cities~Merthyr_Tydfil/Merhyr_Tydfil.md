@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.37
 dv_has_place_latitude: 51.75
-dv_name: Merhyr Tydfil
+dv_has_name_: Merhyr Tydfil
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -27,11 +27,12 @@ draft: false
 publishDate: ""
 expiryDate: ""
 icon: flag-gb
-dv_name-en: United Kingdom
-dv_name-de: Großbritannien
+dv_has_name_en: United Kingdom
+dv_has_name_de: Großbritannien
 dv_ISO2: GB
 dv_ISO3: GBR
 dv_has_:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
   image_for_:
@@ -58,8 +59,8 @@ dv_has_sound_of_anthem: "![[Anthem-United-kingdom.mp3]]"
 
 ## International Names
 
-name-en = `=this.dv_name-en`
-name-de = `=this.dv_name-de`
+has_name_en = `=this.dv_has_name_en`
+has_name_de = `=this.dv_has_name_de`
 
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3` 

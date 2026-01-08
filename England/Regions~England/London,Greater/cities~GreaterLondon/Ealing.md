@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.3
 dv_has_place_latitude: 51.52
-dv_name: Ealing
+dv_has_name_: Ealing
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.1
 dv_has_place_latitude: 50.8
-dv_name: Portsmouth
+dv_has_name_: Portsmouth
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

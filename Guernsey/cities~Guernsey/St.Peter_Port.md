@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.53
 dv_has_place_latitude: 49.47
-dv_name: St.Peter Port
+dv_has_name_: St.Peter Port
 dv_Country: "[[../../../UK]]"
 ---
 #is_a_/Place  

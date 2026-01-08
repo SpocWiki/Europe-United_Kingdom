@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.35
 dv_has_place_latitude: 51.35
-dv_name: Bath
+dv_has_name_: Bath
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

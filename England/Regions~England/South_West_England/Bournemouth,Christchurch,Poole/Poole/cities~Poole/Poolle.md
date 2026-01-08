@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.98
 dv_has_place_latitude: 50.72
-dv_name: Poolle
+dv_has_name_: Poolle
 dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  

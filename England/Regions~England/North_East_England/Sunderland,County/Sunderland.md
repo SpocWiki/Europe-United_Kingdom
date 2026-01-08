@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.35
 dv_has_place_latitude: 54.92
-dv_name: Sunderland
+dv_has_name_: Sunderland
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

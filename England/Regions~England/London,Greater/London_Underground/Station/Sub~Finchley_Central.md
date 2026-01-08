@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1932
 dv_has_place_latitude: 51.6012
-dv_name: Finchley Central
+dv_has_name_: Finchley Central
 dv_zone: 4
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

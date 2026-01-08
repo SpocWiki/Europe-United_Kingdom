@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.25
 dv_has_place_latitude: 55.88
-dv_name: Glasgow~Schottland
+dv_has_name_: Glasgow~Schottland
 dv_Country: "[[../../../../UK]]"
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Glasgow,4093|WD~Glasgow,4093]]"

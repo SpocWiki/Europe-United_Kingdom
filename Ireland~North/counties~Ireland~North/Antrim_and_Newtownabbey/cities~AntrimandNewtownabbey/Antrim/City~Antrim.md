@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.22
 dv_has_place_latitude: 54.72
-dv_name: Antrim
+dv_has_name_: Antrim
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

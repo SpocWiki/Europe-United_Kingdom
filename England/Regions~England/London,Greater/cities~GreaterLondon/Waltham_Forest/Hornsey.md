@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.02
 dv_has_place_latitude: 51.58
-dv_name: Hornsey
+dv_has_name_: Hornsey
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.77
 dv_has_place_latitude: 50.7
-dv_name: Bridport
+dv_has_name_: Bridport
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.42
 dv_has_place_latitude: 57.6
-dv_name: Dingwall
+dv_has_name_: Dingwall
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.1
 dv_has_place_latitude: 49.18
-dv_name: St.Helier
+dv_has_name_: St.Helier
 dv_Country: "[[../../UK]]"
 ---
 #is_a_/Place  

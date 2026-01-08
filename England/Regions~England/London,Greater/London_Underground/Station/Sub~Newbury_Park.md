@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.0899
 dv_has_place_latitude: 51.5756
-dv_name: Newbury Park
+dv_has_name_: Newbury Park
 dv_zone: 4
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

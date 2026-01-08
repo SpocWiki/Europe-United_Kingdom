@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.52
 dv_has_place_latitude: 50.95
-dv_name: Sherborne
+dv_has_name_: Sherborne
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

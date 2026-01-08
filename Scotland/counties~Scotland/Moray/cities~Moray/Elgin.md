@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.37
 dv_has_place_latitude: 57.63
-dv_name: Elgin
+dv_has_name_: Elgin
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

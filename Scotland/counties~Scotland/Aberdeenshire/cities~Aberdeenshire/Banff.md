@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.53
 dv_has_place_latitude: 57.67
-dv_name: Banff
+dv_has_name_: Banff
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.8
 dv_has_place_latitude: 51.07
-dv_name: Shisbury
+dv_has_name_: Shisbury
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

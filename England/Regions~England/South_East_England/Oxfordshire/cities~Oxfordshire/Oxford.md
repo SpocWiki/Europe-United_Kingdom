@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.25
 dv_has_place_latitude: 51.77
-dv_name: Oxford
+dv_has_name_: Oxford
 dv_is_:
   same_as: "[[_Standards/WikiData/WD~Oxford,34217]]"
 dv_is_same_as: "[[_Standards/WikiData/WD~Oxford,34217]]"

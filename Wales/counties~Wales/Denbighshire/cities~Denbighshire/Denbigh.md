@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.42
 dv_has_place_latitude: 53.17
-dv_name: Denbigh
+dv_has_name_: Denbigh
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

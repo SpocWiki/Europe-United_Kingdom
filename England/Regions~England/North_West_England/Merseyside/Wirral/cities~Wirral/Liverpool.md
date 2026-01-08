@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.07
 dv_has_place_latitude: 53.4
-dv_name: Liverpool
+dv_has_name_: Liverpool
 dv_is_:
   same_as: "[[../../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]"
 dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]"

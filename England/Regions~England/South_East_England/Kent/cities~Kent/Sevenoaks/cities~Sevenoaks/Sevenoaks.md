@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.2
 dv_has_place_latitude: 51.27
-dv_name: Sevenoaks
+dv_has_name_: Sevenoaks
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.52
 dv_has_place_latitude: 56.72
-dv_name: Montrose
+dv_has_name_: Montrose
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

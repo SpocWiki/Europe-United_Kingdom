@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.37
 dv_has_place_latitude: 53.75
-dv_name: Accrington
+dv_has_name_: Accrington
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

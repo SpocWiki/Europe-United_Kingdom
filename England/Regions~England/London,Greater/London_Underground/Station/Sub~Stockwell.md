@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.123
 dv_has_place_latitude: 51.4723
-dv_name: Stockwell
+dv_has_name_: Stockwell
 dv_zone: 2
 dv_Num_lines: 2
 dv_switch-to-Rail: 0

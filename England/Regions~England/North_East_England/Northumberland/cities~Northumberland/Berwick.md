@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2
 dv_has_place_latitude: 55.77
-dv_name: Berwick
+dv_has_name_: Berwick
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

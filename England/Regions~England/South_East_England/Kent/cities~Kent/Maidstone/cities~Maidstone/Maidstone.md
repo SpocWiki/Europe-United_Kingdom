@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.5
 dv_has_place_latitude: 51.27
-dv_name: Maidstone
+dv_has_name_: Maidstone
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

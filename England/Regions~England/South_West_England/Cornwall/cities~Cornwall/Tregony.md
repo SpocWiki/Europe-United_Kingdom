@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.88
 dv_has_place_latitude: 50.27
-dv_name: Tregony
+dv_has_name_: Tregony
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

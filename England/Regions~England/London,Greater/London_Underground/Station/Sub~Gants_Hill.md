@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.0663
 dv_has_place_latitude: 51.5765
-dv_name: Gants Hill
+dv_has_name_: Gants Hill
 dv_zone: 4
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

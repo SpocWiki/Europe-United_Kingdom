@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.18
 dv_has_place_latitude: 52.33
-dv_name: Huntingdon
+dv_has_name_: Huntingdon
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

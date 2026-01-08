@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.28
 dv_has_place_latitude: 52.6
-dv_name: Peterborough
+dv_has_name_: Peterborough
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

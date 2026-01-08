@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.08
 dv_has_place_latitude: 51.02
-dv_name: Taunton
+dv_has_name_: Taunton
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

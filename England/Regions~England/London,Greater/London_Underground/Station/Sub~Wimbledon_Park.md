@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1992
 dv_has_place_latitude: 51.4343
-dv_name: Wimbledon Park
+dv_has_name_: Wimbledon Park
 dv_zone: 3
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

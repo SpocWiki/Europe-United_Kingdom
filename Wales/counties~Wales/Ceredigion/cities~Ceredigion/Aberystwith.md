@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.08
 dv_has_place_latitude: 52.42
-dv_name: Aberystwith
+dv_has_name_: Aberystwith
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

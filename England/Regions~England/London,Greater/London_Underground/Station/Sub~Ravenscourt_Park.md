@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.2359
 dv_has_place_latitude: 51.4942
-dv_name: Ravenscourt Park
+dv_has_name_: Ravenscourt Park
 dv_zone: 2
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

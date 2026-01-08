@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.4
 dv_has_place_latitude: 55.9
-dv_name: Clydebank
+dv_has_name_: Clydebank
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

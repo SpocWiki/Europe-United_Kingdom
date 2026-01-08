@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.2547
 dv_has_place_latitude: 51.4951
-dv_name: Turnham Green
+dv_has_name_: Turnham Green
 dv_zone: 2.5
 dv_Num_lines: 2
 dv_switch-to-Rail: 0

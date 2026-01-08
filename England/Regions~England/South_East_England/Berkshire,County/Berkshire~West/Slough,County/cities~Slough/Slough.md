@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.6
 dv_has_place_latitude: 51.52
-dv_name: Slough
+dv_has_name_: Slough
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.6
 dv_has_place_latitude: 55.98
-dv_name: Linlithgow
+dv_has_name_: Linlithgow
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

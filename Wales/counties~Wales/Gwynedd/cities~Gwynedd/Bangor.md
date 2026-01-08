@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.13
 dv_has_place_latitude: 53.22
-dv_name: Bangor
+dv_has_name_: Bangor
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

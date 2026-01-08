@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.23
 dv_has_place_latitude: 52.02
-dv_name: Ipswich
+dv_has_name_: Ipswich
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

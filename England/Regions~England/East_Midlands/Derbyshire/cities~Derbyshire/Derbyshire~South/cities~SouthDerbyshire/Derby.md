@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.33
 dv_has_place_latitude: 52.93
-dv_name: Derby
+dv_has_name_: Derby
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

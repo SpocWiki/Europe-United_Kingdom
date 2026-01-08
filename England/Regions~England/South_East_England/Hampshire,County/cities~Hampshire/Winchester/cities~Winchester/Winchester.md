@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.3
 dv_has_place_latitude: 51.07
-dv_name: Winchester
+dv_has_name_: Winchester
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

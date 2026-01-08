@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 9.72
 dv_has_place_latitude: 51.53
-dv_name: Southend-on-Sea
+dv_has_name_: Southend-on-Sea
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

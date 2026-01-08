@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.55
 dv_has_place_latitude: 53.98
-dv_name: Harrogate
+dv_has_name_: Harrogate
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

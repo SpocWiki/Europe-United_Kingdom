@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.07
 dv_has_place_latitude: 52.53
-dv_name: Tipton
+dv_has_name_: Tipton
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.6
 dv_has_place_latitude: 51.48
-dv_name: Eton
+dv_has_name_: Eton
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

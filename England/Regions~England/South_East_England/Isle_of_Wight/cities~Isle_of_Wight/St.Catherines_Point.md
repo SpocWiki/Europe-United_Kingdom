@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.3
 dv_has_place_latitude: 50.6
-dv_name: St.Catherines Point
+dv_has_name_: St.Catherines Point
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

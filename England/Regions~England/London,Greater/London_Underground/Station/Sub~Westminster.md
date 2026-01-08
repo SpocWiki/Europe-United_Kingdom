@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1254
 dv_has_place_latitude: 51.501
-dv_name: Westminster
+dv_has_name_: Westminster
 dv_zone: 1
 dv_Num_lines: 3
 dv_switch-to-Rail: 0

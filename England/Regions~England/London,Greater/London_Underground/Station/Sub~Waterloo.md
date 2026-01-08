@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1143
 dv_has_place_latitude: 51.5036
-dv_name: Waterloo
+dv_has_name_: Waterloo
 dv_zone: 1
 dv_Num_lines: 4
 dv_switch-to-Rail: 1

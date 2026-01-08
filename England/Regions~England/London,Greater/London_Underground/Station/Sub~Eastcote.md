@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.397
 dv_has_place_latitude: 51.5765
-dv_name: Eastcote
+dv_has_name_: Eastcote
 dv_zone: 5
 dv_Num_lines: 2
 dv_switch-to-Rail: 0

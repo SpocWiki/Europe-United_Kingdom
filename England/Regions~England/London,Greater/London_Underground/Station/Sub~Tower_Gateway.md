@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.0743
 dv_has_place_latitude: 51.5106
-dv_name: Tower Gateway
+dv_has_name_: Tower Gateway
 dv_zone: 1
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

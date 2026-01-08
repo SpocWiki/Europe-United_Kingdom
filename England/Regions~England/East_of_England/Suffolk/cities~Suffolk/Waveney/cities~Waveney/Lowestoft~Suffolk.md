@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.75
 dv_has_place_latitude: 52.48
-dv_name: Lowestoft~Suffolk
+dv_has_name_: Lowestoft~Suffolk
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.18
 dv_has_place_latitude: 51.08
-dv_name: Folkestone
+dv_has_name_: Folkestone
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.05
 dv_has_place_latitude: 50.67
-dv_name: Bembridge
+dv_has_name_: Bembridge
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.42
 dv_has_place_latitude: 55.02
-dv_name: Tynemouth
+dv_has_name_: Tynemouth
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

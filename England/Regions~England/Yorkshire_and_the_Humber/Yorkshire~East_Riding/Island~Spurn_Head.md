@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.2
 dv_has_place_latitude: 53.62
-dv_name: Spurn Head
+dv_has_name_: Spurn Head
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

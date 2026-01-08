@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.98
 dv_has_place_latitude: 52.58
-dv_name: Walsall
+dv_has_name_: Walsall
 dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  

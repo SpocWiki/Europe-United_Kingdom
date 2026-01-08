@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1973
 dv_has_place_latitude: 51.492
-dv_name: Earl's Court
+dv_has_name_: Earl's Court
 dv_zone: 1.5
 dv_Num_lines: 2
 dv_switch-to-Rail: 0

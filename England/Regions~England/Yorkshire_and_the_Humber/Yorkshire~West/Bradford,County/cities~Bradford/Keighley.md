@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.92
 dv_has_place_latitude: 53.87
-dv_name: Keighley
+dv_has_name_: Keighley
 dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  

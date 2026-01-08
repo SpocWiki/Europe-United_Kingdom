@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.4421
 dv_has_place_latitude: 51.5619
-dv_name: Ickenham
+dv_has_name_: Ickenham
 dv_zone: 6
 dv_Num_lines: 2
 dv_switch-to-Rail: 0

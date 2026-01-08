@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.4
 dv_has_place_latitude: 50.72
-dv_name: Dorchester
+dv_has_name_: Dorchester
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

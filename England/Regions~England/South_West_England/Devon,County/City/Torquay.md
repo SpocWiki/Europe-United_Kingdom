@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.5
 dv_has_place_latitude: 50.37
-dv_name: Torquay
+dv_has_name_: Torquay
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

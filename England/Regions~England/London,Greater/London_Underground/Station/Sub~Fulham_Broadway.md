@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.195
 dv_has_place_latitude: 51.4804
-dv_name: Fulham Broadway
+dv_has_name_: Fulham Broadway
 dv_zone: 2
 dv_Num_lines: 1
 dv_switch-to-Rail: 0

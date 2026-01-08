@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.2251
 dv_has_place_latitude: 51.4936
-dv_name: Hammersmith
+dv_has_name_: Hammersmith
 dv_zone: 2
 dv_Num_lines: 3
 dv_switch-to-Rail: 0

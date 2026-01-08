@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.32
 dv_has_place_latitude: 53.67
-dv_name: Hull=Kingsten
+dv_has_name_: Hull=Kingsten
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

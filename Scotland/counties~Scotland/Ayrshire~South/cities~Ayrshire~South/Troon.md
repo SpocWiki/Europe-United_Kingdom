@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.67
 dv_has_place_latitude: 55.55
-dv_name: Troon
+dv_has_name_: Troon
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

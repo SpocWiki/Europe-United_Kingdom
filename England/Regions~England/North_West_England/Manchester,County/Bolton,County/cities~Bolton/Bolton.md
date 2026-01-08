@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.42
 dv_has_place_latitude: 53.6
-dv_name: Bolton
+dv_has_name_: Bolton
 dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  

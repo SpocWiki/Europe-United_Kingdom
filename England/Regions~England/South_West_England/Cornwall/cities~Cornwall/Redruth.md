@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -5.23
 dv_has_place_latitude: 50.22
-dv_name: Redruth
+dv_has_name_: Redruth
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

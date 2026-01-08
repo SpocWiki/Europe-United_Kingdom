@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.08
 dv_has_place_latitude: 57.14
-dv_name: Aberdeen
+dv_has_name_: Aberdeen
 dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  

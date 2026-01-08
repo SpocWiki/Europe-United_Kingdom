@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.0119
 dv_has_place_latitude: 51.5248
-dv_name: Bromley-By-Bow
+dv_has_name_: Bromley-By-Bow
 dv_zone: 2.5
 dv_Num_lines: 2
 dv_switch-to-Rail: 0

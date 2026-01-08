@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.2
 dv_has_place_latitude: 54.68
-dv_name: West Hartlepool
+dv_has_name_: West Hartlepool
 dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  

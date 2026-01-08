@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.75
 dv_has_place_latitude: 52.7
-dv_name: Shrewsbury
+dv_has_name_: Shrewsbury
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

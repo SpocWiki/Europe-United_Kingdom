@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.42
 dv_has_place_latitude: 51.33
-dv_name: Ramsgate
+dv_has_name_: Ramsgate
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  

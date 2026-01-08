@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1755
 dv_has_place_latitude: 51.5154
-dv_name: Paddington
+dv_has_name_: Paddington
 dv_zone: 1
 dv_Num_lines: 4
 dv_switch-to-Rail: 1

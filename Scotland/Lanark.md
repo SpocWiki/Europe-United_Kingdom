@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.78
 dv_has_place_latitude: 55.68
-dv_name: Lanark
+dv_has_name_: Lanark
 dv_Country: "[[../../UK]]"
 ---
 #is_a_/Place  

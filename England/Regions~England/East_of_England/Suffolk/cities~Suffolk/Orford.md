@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.57
 dv_has_place_latitude: 52.08
-dv_name: Orford
+dv_has_name_: Orford
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

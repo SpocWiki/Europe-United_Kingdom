@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -6.72
 dv_has_place_latitude: 55.13
-dv_name: Coleraine
+dv_has_name_: Coleraine
 dv_Country: "[[../../../../../../../Ireland]]"
 ---
 #is_a_/Place  

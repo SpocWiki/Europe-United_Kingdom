@@ -16,7 +16,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.0056
 dv_has_place_latitude: 51.5287
-dv_name: West Ham
+dv_has_name_: West Ham
 dv_zone: 3
 dv_Num_lines: 3
 dv_switch-to-Rail: 1

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.25
 dv_has_place_latitude: 50.73
-dv_name: Beachy Head
+dv_has_name_: Beachy Head
 dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  

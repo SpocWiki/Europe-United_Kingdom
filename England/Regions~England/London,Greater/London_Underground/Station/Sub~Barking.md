@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.081
 dv_has_place_latitude: 51.5396
-dv_name: Barking
+dv_has_name_: Barking
 dv_zone: 4
 dv_Num_lines: 2
 dv_switch-to-Rail: 1

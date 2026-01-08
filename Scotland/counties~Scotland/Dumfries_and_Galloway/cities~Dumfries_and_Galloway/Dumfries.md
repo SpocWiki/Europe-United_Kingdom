@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.58
 dv_has_place_latitude: 55.07
-dv_name: Dumfries
+dv_has_name_: Dumfries
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  

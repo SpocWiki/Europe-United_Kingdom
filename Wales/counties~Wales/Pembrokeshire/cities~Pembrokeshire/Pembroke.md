@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.87
 dv_has_place_latitude: 51.67
-dv_name: Pembroke
+dv_has_name_: Pembroke
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
