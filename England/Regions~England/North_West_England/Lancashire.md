@@ -40,17 +40,17 @@ markerFolder: ./Lancashire/
 
 ## Confidential Links & Embeds: 
 
-### [Lancashire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire|Lancashire]] 
 
-### [Lancashire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.public|Lancashire.public]] 
 
-### [Lancashire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.internal|Lancashire.internal]] 
 
-### [Lancashire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.protect|Lancashire.protect]] 
 
-### [Lancashire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.private|Lancashire.private]] 
 
-### [Lancashire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.personal|Lancashire.personal]] 
 
-### [Lancashire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire.secret|Lancashire.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Thurrock/
 
 ## Confidential Links & Embeds: 
 
-### [Thurrock](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock|Thurrock]] 
 
-### [Thurrock.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.public|Thurrock.public]] 
 
-### [Thurrock.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.internal|Thurrock.internal]] 
 
-### [Thurrock.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.protect|Thurrock.protect]] 
 
-### [Thurrock.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.private|Thurrock.private]] 
 
-### [Thurrock.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.personal|Thurrock.personal]] 
 
-### [Thurrock.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Thurrock.secret|Thurrock.secret]] 
 

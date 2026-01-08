@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30134
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.8
+dv_has_place_latitude: 51.22
+dv_name: Farnham
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.8] 
-[has_place_latitude::51.22] 
-[name::Farnham] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Farnham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham|Farnham]] 
 
-### [Farnham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.public|Farnham.public]] 
 
-### [Farnham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.internal|Farnham.internal]] 
 
-### [Farnham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.protect|Farnham.protect]] 
 
-### [Farnham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.private|Farnham.private]] 
 
-### [Farnham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.personal|Farnham.personal]] 
 
-### [Farnham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Surrey,County/cities~Surrey/Waverley/cities~Waverley/Farnham.secret|Farnham.secret]] 
 

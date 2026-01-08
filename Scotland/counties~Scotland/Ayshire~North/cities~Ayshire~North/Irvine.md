@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31127
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.67
+dv_has_place_latitude: 55.62
+dv_name: Irvine
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.67] 
-[has_place_latitude::55.62] 
-[name::Irvine] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Irvine](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine|Irvine]] 
 
-### [Irvine.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.public|Irvine.public]] 
 
-### [Irvine.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.internal|Irvine.internal]] 
 
-### [Irvine.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.protect|Irvine.protect]] 
 
-### [Irvine.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.private|Irvine.private]] 
 
-### [Irvine.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.personal|Irvine.personal]] 
 
-### [Irvine.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayshire~North/cities~Ayshire~North/Irvine.secret|Irvine.secret]] 
 

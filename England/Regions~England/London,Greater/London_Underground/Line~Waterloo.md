@@ -59,17 +59,17 @@ FROM outgoing([[Line~Waterloo]])
 
 ## Confidential Links & Embeds: 
 
-### [Line~Waterloo](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Waterloo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Waterloo|Line~Waterloo]] 
 
-### [Line~Waterloo.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Waterloo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Waterloo.public|Line~Waterloo.public]] 
 
-### [Line~Waterloo.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Waterloo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Waterloo.internal|Line~Waterloo.internal]] 
 
-### [Line~Waterloo.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Waterloo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Waterloo.protect|Line~Waterloo.protect]] 
 
-### [Line~Waterloo.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Waterloo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Waterloo.private|Line~Waterloo.private]] 
 
-### [Line~Waterloo.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Waterloo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Waterloo.personal|Line~Waterloo.personal]] 
 
-### [Line~Waterloo.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Waterloo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Waterloo.secret|Line~Waterloo.secret]] 
 

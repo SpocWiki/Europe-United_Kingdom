@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35701
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.2
+dv_has_place_latitude: 52.2
+dv_name: Worcester
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.2] 
-[has_place_latitude::52.2] 
-[name::Worcester] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Worcester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester|Worcester]] 
 
-### [Worcester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.public|Worcester.public]] 
 
-### [Worcester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.internal|Worcester.internal]] 
 
-### [Worcester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.protect|Worcester.protect]] 
 
-### [Worcester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.private|Worcester.private]] 
 
-### [Worcester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.personal|Worcester.personal]] 
 
-### [Worcester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Worcestershire/cities~Worcestershire/Worcester/cities~Worcester/Worcester.secret|Worcester.secret]] 
 

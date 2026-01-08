@@ -14,17 +14,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [West_Midlands,Region](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region|West_Midlands,Region]] 
 
-### [West_Midlands,Region.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.public|West_Midlands,Region.public]] 
 
-### [West_Midlands,Region.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.internal|West_Midlands,Region.internal]] 
 
-### [West_Midlands,Region.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.protect|West_Midlands,Region.protect]] 
 
-### [West_Midlands,Region.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.private|West_Midlands,Region.private]] 
 
-### [West_Midlands,Region.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.personal|West_Midlands,Region.personal]] 
 
-### [West_Midlands,Region.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region.secret|West_Midlands,Region.secret]] 
 

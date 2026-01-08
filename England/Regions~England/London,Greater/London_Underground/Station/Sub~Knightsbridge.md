@@ -12,6 +12,15 @@ mapmarker: subway
 tags:
   - geo/station
   - Europe/UK/City~London
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.1607
+dv_has_place_latitude: 51.5015
+dv_name: Knightsbridge
+dv_zone: 1
+dv_Num_lines: 1
+dv_switch-to-Rail: 0
+dv_Country: "[[../../../../../../UK]]"
+dv_City: "[[../../../London]]"
 ---
 SpocWebEntityId: 156001
 [StationSId::] 
@@ -19,15 +28,15 @@ isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.1607] 
-[has_place_latitude::51.5015] 
-[name::Knightsbridge] 
-[zone::1] 
-[Num_lines::1] 
-[switch-to-Rail::0] 
-Country :: [[UK]]  
-City :: [[../../../London]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+zone = `=this.dv_zone` 
+Num_lines = `=this.dv_Num_lines` 
+switch-to-Rail = `=this.dv_switch-to-Rail` 
+Country = `=this.dv_Country`
+City = `=this.dv_City`
 
 
 ```leaflet
@@ -48,17 +57,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Knightsbridge](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Knightsbridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Knightsbridge|Sub~Knightsbridge]] 
 
-### [Sub~Knightsbridge.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Knightsbridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Knightsbridge.public|Sub~Knightsbridge.public]] 
 
-### [Sub~Knightsbridge.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Knightsbridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Knightsbridge.internal|Sub~Knightsbridge.internal]] 
 
-### [Sub~Knightsbridge.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Knightsbridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Knightsbridge.protect|Sub~Knightsbridge.protect]] 
 
-### [Sub~Knightsbridge.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Knightsbridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Knightsbridge.private|Sub~Knightsbridge.private]] 
 
-### [Sub~Knightsbridge.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Knightsbridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Knightsbridge.personal|Sub~Knightsbridge.personal]] 
 
-### [Sub~Knightsbridge.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Knightsbridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Knightsbridge.secret|Sub~Knightsbridge.secret]] 
 

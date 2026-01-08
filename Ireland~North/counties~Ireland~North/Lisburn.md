@@ -40,17 +40,17 @@ markerFolder: ./Lisburn/
 
 ## Confidential Links & Embeds: 
 
-### [Lisburn](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn|Lisburn]] 
 
-### [Lisburn.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.public|Lisburn.public]] 
 
-### [Lisburn.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.internal|Lisburn.internal]] 
 
-### [Lisburn.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.protect|Lisburn.protect]] 
 
-### [Lisburn.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.private|Lisburn.private]] 
 
-### [Lisburn.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.personal|Lisburn.personal]] 
 
-### [Lisburn.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Lisburn.secret|Lisburn.secret]] 
 

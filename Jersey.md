@@ -4,7 +4,7 @@ aliases:
   - جيرزي
   - 泽西
   - Джерси
-  - ''
+  - ""
 location:
   - 49.2
   - -2.1
@@ -21,43 +21,86 @@ cssclasses:
   - Country
 publish: true
 title: Jersey
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
   - en
   - fr
   - nrf
+dv_ISO4217-currency_alphabetic: GBP
+dv_ISO4217-currency_name: Pound Sterling
+dv_ISO4217-currency_numeric: 826
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: JERSEY
+dv_Telephone: 44
+dv_Global: true
+dv_Global_Name: World
+dv_name: Jersey
+dv_name-en:
+  - Jersey
+  - Jersey
+dv_name-es: Jersey
+dv_name-fr: Jersey
+dv_name-cn: 泽西
+dv_name-ar: جيرزي
+dv_name-ru: Джерси
+dv_CLDR_display_name: Jersey
+dv_Region_Name: "[[../../../Europe]]"
+dv_Intermediate_Region_Name: "[[Channel Islands]]"
+dv_Sub-region_Name: "[[Northern Europe]]"
+dv_Region: 150
+dv_Intermediate_Region: 830
+dv_Sub-region: 154
+dv_Geoname-ID: 3042142
+dv_FIPS: JE
+dv_FIFA: GBJ
+dv_MARC: uik
+dv_GAUL: 128
+dv_DS: GBJ
+dv_TLD: .je
+dv_EDGAR: Y9
+dv_M49: 832
+dv_is_independent: Crown dependency of GB
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 832
+dv_name-de: Jersey
+dv_Continent: "[[../../../Europe]]"
+dv_Language-Id: 499
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_latitude: 49.19
+dv_developed_developing_countries: Developed
 ---
 
 
-[	ISO4217-currency_alphabetic	 :: GBP ] 
-[	ISO4217-currency_name	 :: Pound Sterling ] 
-[	ISO4217-currency_numeric	 :: 826 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: JERSEY ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 44 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Jersey ] 
+name = `=this.dv_name` 
 [	name-en	 :: Jersey ] 
-[	name-es	 :: Jersey ] 
-[	name-fr	 :: Jersey ] 
-[	name-cn	 :: 泽西 ] 
-[	name-ar	 :: جيرزي ] 
-[	name-ru	 :: Джерси ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Jersey ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
 [	UNTERM_English	 ::  ] 
-[	UNTERM_English_Formal	 ::  ] 
-[	UNTERM_Spanish_Formal	 ::  ] 
+[	UNTERM_Englis_a_ = `=this.dv_is_a_`
+[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ] 
 [	UNTERM_French	 ::  ] 
 [	UNTERM_Arabic	 ::  ] 
@@ -68,34 +111,34 @@ Languages:
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[Channel Islands]] 
-Sub-region_Name ::  [[Northern Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ] 
-[	Intermediate_Region	 :: 830 ] 
-[	Sub-region	 :: 154 ] 
+Region = `=this.dv_Region` 
+Intermediate_Region = `=this.dv_Intermediate_Region` 
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3042142 ] 
-[	FIPS	 :: JE ] 
-[	FIFA	 :: GBJ ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
 [	IOC	 ::  ] 
-[	MARC	 :: uik ] 
-[	GAUL	 :: 128 ] 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
 [	WMO	 ::  ] 
 [	ITU	 ::  ] 
-[	DS	 :: GBJ ] 
-[	TLD	 :: .je ] 
-[	EDGAR	 :: Y9 ] 
-[	M49	 :: 832 ] 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Crown dependency of GB ] 
-[	Developed_/Developing_Countries	 :: Developed ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 832 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
 
 
@@ -111,33 +154,33 @@ markerFolder: ./Jersey/
 ```
 
 [name-en::Jersey] 
-[name-de::Jersey] 
+name-de = `=this.dv_name-de` 
 [Area-Total::] 
 [Area-Land::] 
-Continent :: [[Europe]]  
+Continent = `=this.dv_Continent`
 [VehicleCode::] 
 [Capital-Id::] 
 [Alcohol-l::] 
-[Language-Id::499] 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+is_a_ = `=this.dv_is_a_`
 [has_place_longitude::] 
-[has_place_latitude::49.19] 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [Jersey](/_Standards/Earth/Continent/Europe/Europe~North/UK/Jersey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Jersey|Jersey]] 
 
-### [Jersey.public](/_public/Earth/Continent/Europe/Europe~North/UK/Jersey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Jersey.public|Jersey.public]] 
 
-### [Jersey.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Jersey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Jersey.internal|Jersey.internal]] 
 
-### [Jersey.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Jersey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Jersey.protect|Jersey.protect]] 
 
-### [Jersey.private](/_private/Earth/Continent/Europe/Europe~North/UK/Jersey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Jersey.private|Jersey.private]] 
 
-### [Jersey.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Jersey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Jersey.personal|Jersey.personal]] 
 
-### [Jersey.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Jersey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Jersey.secret|Jersey.secret]] 
 

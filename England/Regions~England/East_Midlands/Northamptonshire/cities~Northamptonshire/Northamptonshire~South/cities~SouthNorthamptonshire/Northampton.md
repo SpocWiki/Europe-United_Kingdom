@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32959
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.92
+dv_has_place_latitude: 52.18
+dv_name: Northampton
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.92] 
-[has_place_latitude::52.18] 
-[name::Northampton] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Northampton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton|Northampton]] 
 
-### [Northampton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.public|Northampton.public]] 
 
-### [Northampton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.internal|Northampton.internal]] 
 
-### [Northampton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.protect|Northampton.protect]] 
 
-### [Northampton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.private|Northampton.private]] 
 
-### [Northampton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.personal|Northampton.personal]] 
 
-### [Northampton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire/cities~Northamptonshire/Northamptonshire~South/cities~SouthNorthamptonshire/Northampton.secret|Northampton.secret]] 
 

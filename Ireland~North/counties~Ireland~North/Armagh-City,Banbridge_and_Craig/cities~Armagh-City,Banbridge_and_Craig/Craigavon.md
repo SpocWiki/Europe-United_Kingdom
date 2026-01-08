@@ -40,17 +40,17 @@ markerFolder: ./Craigavon/
 
 ## Confidential Links & Embeds: 
 
-### [Craigavon](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon|Craigavon]] 
 
-### [Craigavon.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.public|Craigavon.public]] 
 
-### [Craigavon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.internal|Craigavon.internal]] 
 
-### [Craigavon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.protect|Craigavon.protect]] 
 
-### [Craigavon.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.private|Craigavon.private]] 
 
-### [Craigavon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.personal|Craigavon.personal]] 
 
-### [Craigavon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon.secret|Craigavon.secret]] 
 

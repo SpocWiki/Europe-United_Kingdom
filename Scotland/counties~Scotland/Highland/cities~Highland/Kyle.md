@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31721
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -5.6
+dv_has_place_latitude: 57.2
+dv_name: Kyle
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-5.6] 
-[has_place_latitude::57.2] 
-[name::Kyle] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kyle](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle|Kyle]] 
 
-### [Kyle.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.public|Kyle.public]] 
 
-### [Kyle.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.internal|Kyle.internal]] 
 
-### [Kyle.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.protect|Kyle.protect]] 
 
-### [Kyle.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.private|Kyle.private]] 
 
-### [Kyle.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.personal|Kyle.personal]] 
 
-### [Kyle.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Kyle.secret|Kyle.secret]] 
 

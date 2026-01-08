@@ -41,17 +41,17 @@ markerFolder: ./Salford/
 
 ## Confidential Links & Embeds: 
 
-### [Salford,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County|Salford,County]] 
 
-### [Salford,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.public|Salford,County.public]] 
 
-### [Salford,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.internal|Salford,County.internal]] 
 
-### [Salford,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.protect|Salford,County.protect]] 
 
-### [Salford,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.private|Salford,County.private]] 
 
-### [Salford,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.personal|Salford,County.personal]] 
 
-### [Salford,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County.secret|Salford,County.secret]] 
 

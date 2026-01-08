@@ -40,17 +40,17 @@ markerFolder: ./Wiltshire/
 
 ## Confidential Links & Embeds: 
 
-### [Wiltshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire|Wiltshire]] 
 
-### [Wiltshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.public|Wiltshire.public]] 
 
-### [Wiltshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.internal|Wiltshire.internal]] 
 
-### [Wiltshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.protect|Wiltshire.protect]] 
 
-### [Wiltshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.private|Wiltshire.private]] 
 
-### [Wiltshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.personal|Wiltshire.personal]] 
 
-### [Wiltshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire.secret|Wiltshire.secret]] 
 

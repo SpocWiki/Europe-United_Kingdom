@@ -40,17 +40,17 @@ markerFolder: ./Bexley/
 
 ## Confidential Links & Embeds: 
 
-### [Bexley](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley|Bexley]] 
 
-### [Bexley.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.public|Bexley.public]] 
 
-### [Bexley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.internal|Bexley.internal]] 
 
-### [Bexley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.protect|Bexley.protect]] 
 
-### [Bexley.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.private|Bexley.private]] 
 
-### [Bexley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.personal|Bexley.personal]] 
 
-### [Bexley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Bexley.secret|Bexley.secret]] 
 

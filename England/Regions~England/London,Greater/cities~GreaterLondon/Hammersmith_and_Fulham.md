@@ -41,17 +41,17 @@ markerFolder: ./Hammersmith_and_Fulham/
 
 ## Confidential Links & Embeds: 
 
-### [Hammersmith_and_Fulham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham|Hammersmith_and_Fulham]] 
 
-### [Hammersmith_and_Fulham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.public|Hammersmith_and_Fulham.public]] 
 
-### [Hammersmith_and_Fulham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.internal|Hammersmith_and_Fulham.internal]] 
 
-### [Hammersmith_and_Fulham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.protect|Hammersmith_and_Fulham.protect]] 
 
-### [Hammersmith_and_Fulham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.private|Hammersmith_and_Fulham.private]] 
 
-### [Hammersmith_and_Fulham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.personal|Hammersmith_and_Fulham.personal]] 
 
-### [Hammersmith_and_Fulham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Hammersmith_and_Fulham.secret|Hammersmith_and_Fulham.secret]] 
 

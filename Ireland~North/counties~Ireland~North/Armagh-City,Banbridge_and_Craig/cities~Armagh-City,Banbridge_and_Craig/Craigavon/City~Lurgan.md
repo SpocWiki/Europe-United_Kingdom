@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32148
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.33
+dv_has_place_latitude: 54.47
+dv_name: Lurgan
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.33] 
-[has_place_latitude::54.47] 
-[name::Lurgan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Lurgan](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan|City~Lurgan]] 
 
-### [City~Lurgan.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.public|City~Lurgan.public]] 
 
-### [City~Lurgan.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.internal|City~Lurgan.internal]] 
 
-### [City~Lurgan.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.protect|City~Lurgan.protect]] 
 
-### [City~Lurgan.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.private|City~Lurgan.private]] 
 
-### [City~Lurgan.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.personal|City~Lurgan.personal]] 
 
-### [City~Lurgan.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Lurgan.secret|City~Lurgan.secret]] 
 

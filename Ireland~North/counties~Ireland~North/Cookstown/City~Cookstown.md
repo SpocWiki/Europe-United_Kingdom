@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29653
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.75
+dv_has_place_latitude: 54.65
+dv_name: Cookstown
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.75] 
-[has_place_latitude::54.65] 
-[name::Cookstown] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Cookstown](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown|City~Cookstown]] 
 
-### [City~Cookstown.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.public|City~Cookstown.public]] 
 
-### [City~Cookstown.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.internal|City~Cookstown.internal]] 
 
-### [City~Cookstown.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.protect|City~Cookstown.protect]] 
 
-### [City~Cookstown.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.private|City~Cookstown.private]] 
 
-### [City~Cookstown.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.personal|City~Cookstown.personal]] 
 
-### [City~Cookstown.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Cookstown/City~Cookstown.secret|City~Cookstown.secret]] 
 

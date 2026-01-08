@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29366
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.02
+dv_has_place_latitude: 51.42
+dv_name: Bromley
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.02] 
-[has_place_latitude::51.42] 
-[name::Bromley] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -40,17 +45,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bromley](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley|Bromley]] 
 
-### [Bromley.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.public|Bromley.public]] 
 
-### [Bromley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.internal|Bromley.internal]] 
 
-### [Bromley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.protect|Bromley.protect]] 
 
-### [Bromley.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.private|Bromley.private]] 
 
-### [Bromley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.personal|Bromley.personal]] 
 
-### [Bromley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Lewisham/Bromley.secret|Bromley.secret]] 
 

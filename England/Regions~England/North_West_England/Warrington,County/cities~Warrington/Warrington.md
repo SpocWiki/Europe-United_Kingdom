@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35457
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.55
+dv_has_place_latitude: 53.38
+dv_name: Warrington
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.55] 
-[has_place_latitude::53.38] 
-[name::Warrington] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Warrington](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington|Warrington]] 
 
-### [Warrington.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.public|Warrington.public]] 
 
-### [Warrington.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.internal|Warrington.internal]] 
 
-### [Warrington.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.protect|Warrington.protect]] 
 
-### [Warrington.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.private|Warrington.private]] 
 
-### [Warrington.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.personal|Warrington.personal]] 
 
-### [Warrington.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Warrington,County/cities~Warrington/Warrington.secret|Warrington.secret]] 
 

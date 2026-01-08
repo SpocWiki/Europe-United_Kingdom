@@ -146,11 +146,14 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20Diana%20sig
 monogram: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Monogram%20of%20Princess%20Diana%20of%20Wales.svg
 ISNI: "0000000121465032"
 Plex_person_key: 5d776abc594b2b001e6c466b
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Diana,_Princess_of_Wales,9685|WD~Diana,_Princess_of_Wales,9685]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Diana,_Princess_of_Wales,9685|WD~Diana,_Princess_of_Wales,9685]]"
 ---
 
 # [[Diana,Princess_of_Wales]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Diana,_Princess_of_Wales,9685|WD~Diana,_Princess_of_Wales,9685]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -178,4 +181,21 @@ Plex_person_key: 5d776abc594b2b001e6c466b
 > In August 1997, Diana died in a car crash in Paris; the incident led to extensive public mourning and global media attention. An inquest returned a verdict of unlawful killing due to gross negligence by a driver and the paparazzi pursuing her as found in Operation Paget, an investigation by the Metropolitan Police. Her legacy has had a significant effect on the royal family and British society.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diana,%20Princess%20of%20Wales) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/British_Royal_Family/Diana,Princess_of_Wales|Diana,Princess_of_Wales]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/British_Royal_Family/Diana,Princess_of_Wales.public|Diana,Princess_of_Wales.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/British_Royal_Family/Diana,Princess_of_Wales.internal|Diana,Princess_of_Wales.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/British_Royal_Family/Diana,Princess_of_Wales.protect|Diana,Princess_of_Wales.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/British_Royal_Family/Diana,Princess_of_Wales.private|Diana,Princess_of_Wales.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/British_Royal_Family/Diana,Princess_of_Wales.personal|Diana,Princess_of_Wales.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/British_Royal_Family/Diana,Princess_of_Wales.secret|Diana,Princess_of_Wales.secret]] 
 

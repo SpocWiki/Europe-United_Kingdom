@@ -13,6 +13,15 @@ mapmarker: subway
 tags:
   - geo/station
   - Europe/UK/City~London
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.0726
+dv_has_place_latitude: 51.5154
+dv_name: Aldgate East
+dv_zone: 1
+dv_Num_lines: 2
+dv_switch-to-Rail: 0
+dv_Country: "[[../../../../../../UK]]"
+dv_City: "[[../../../London]]"
 ---
 SpocWebEntityId: 155876
 [StationSId::] 
@@ -20,15 +29,15 @@ isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.0726] 
-[has_place_latitude::51.5154] 
-[name::Aldgate East] 
-[zone::1] 
-[Num_lines::2] 
-[switch-to-Rail::0] 
-Country :: [[UK]]  
-City :: [[../../../London]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+zone = `=this.dv_zone` 
+Num_lines = `=this.dv_Num_lines` 
+switch-to-Rail = `=this.dv_switch-to-Rail` 
+Country = `=this.dv_Country`
+City = `=this.dv_City`
 
 
 ```leaflet
@@ -49,17 +58,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Aldgate_East](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Aldgate_East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Aldgate_East|Sub~Aldgate_East]] 
 
-### [Sub~Aldgate_East.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Aldgate_East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Aldgate_East.public|Sub~Aldgate_East.public]] 
 
-### [Sub~Aldgate_East.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Aldgate_East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Aldgate_East.internal|Sub~Aldgate_East.internal]] 
 
-### [Sub~Aldgate_East.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Aldgate_East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Aldgate_East.protect|Sub~Aldgate_East.protect]] 
 
-### [Sub~Aldgate_East.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Aldgate_East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Aldgate_East.private|Sub~Aldgate_East.private]] 
 
-### [Sub~Aldgate_East.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Aldgate_East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Aldgate_East.personal|Sub~Aldgate_East.personal]] 
 
-### [Sub~Aldgate_East.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Aldgate_East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Aldgate_East.secret|Sub~Aldgate_East.secret]] 
 

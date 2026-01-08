@@ -41,17 +41,17 @@ markerFolder: ./Shetland_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Shetland_Islands](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands|Shetland_Islands]] 
 
-### [Shetland_Islands.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.public|Shetland_Islands.public]] 
 
-### [Shetland_Islands.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.internal|Shetland_Islands.internal]] 
 
-### [Shetland_Islands.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.protect|Shetland_Islands.protect]] 
 
-### [Shetland_Islands.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.private|Shetland_Islands.private]] 
 
-### [Shetland_Islands.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.personal|Shetland_Islands.personal]] 
 
-### [Shetland_Islands.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Shetland_Islands.secret|Shetland_Islands.secret]] 
 

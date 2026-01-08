@@ -40,17 +40,17 @@ markerFolder: ./Barnsley/
 
 ## Confidential Links & Embeds: 
 
-### [Barnsley](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley|Barnsley]] 
 
-### [Barnsley.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.public|Barnsley.public]] 
 
-### [Barnsley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.internal|Barnsley.internal]] 
 
-### [Barnsley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.protect|Barnsley.protect]] 
 
-### [Barnsley.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.private|Barnsley.private]] 
 
-### [Barnsley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.personal|Barnsley.personal]] 
 
-### [Barnsley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Barnsley.secret|Barnsley.secret]] 
 

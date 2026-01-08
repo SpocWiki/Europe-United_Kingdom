@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34440
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.43
+dv_has_place_latitude: 53.25
+dv_name: St.Asaph
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.43] 
-[has_place_latitude::53.25] 
-[name::St.Asaph] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Asaph](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph|St.Asaph]] 
 
-### [St.Asaph.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.public|St.Asaph.public]] 
 
-### [St.Asaph.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.internal|St.Asaph.internal]] 
 
-### [St.Asaph.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.protect|St.Asaph.protect]] 
 
-### [St.Asaph.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.private|St.Asaph.private]] 
 
-### [St.Asaph.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.personal|St.Asaph.personal]] 
 
-### [St.Asaph.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Denbighshire/cities~Denbighshire/St.Asaph.secret|St.Asaph.secret]] 
 

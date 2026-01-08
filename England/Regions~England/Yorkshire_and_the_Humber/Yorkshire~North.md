@@ -41,17 +41,17 @@ markerFolder: ./North_Yorkshire/
 
 ## Confidential Links & Embeds: 
 
-### [Yorkshire~North](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North|Yorkshire~North]] 
 
-### [Yorkshire~North.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.public|Yorkshire~North.public]] 
 
-### [Yorkshire~North.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.internal|Yorkshire~North.internal]] 
 
-### [Yorkshire~North.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.protect|Yorkshire~North.protect]] 
 
-### [Yorkshire~North.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.private|Yorkshire~North.private]] 
 
-### [Yorkshire~North.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.personal|Yorkshire~North.personal]] 
 
-### [Yorkshire~North.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North.secret|Yorkshire~North.secret]] 
 

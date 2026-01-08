@@ -40,17 +40,17 @@ markerFolder: ./Bridgend/
 
 ## Confidential Links & Embeds: 
 
-### [Bridgend](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend|Bridgend]] 
 
-### [Bridgend.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.public|Bridgend.public]] 
 
-### [Bridgend.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.internal|Bridgend.internal]] 
 
-### [Bridgend.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.protect|Bridgend.protect]] 
 
-### [Bridgend.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.private|Bridgend.private]] 
 
-### [Bridgend.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.personal|Bridgend.personal]] 
 
-### [Bridgend.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Bridgend.secret|Bridgend.secret]] 
 

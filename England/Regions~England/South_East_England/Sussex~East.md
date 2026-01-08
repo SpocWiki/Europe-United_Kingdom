@@ -40,17 +40,17 @@ markerFolder: ./Sussex~East/
 
 ## Confidential Links & Embeds: 
 
-### [Sussex~East](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East|Sussex~East]] 
 
-### [Sussex~East.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.public|Sussex~East.public]] 
 
-### [Sussex~East.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.internal|Sussex~East.internal]] 
 
-### [Sussex~East.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.protect|Sussex~East.protect]] 
 
-### [Sussex~East.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.private|Sussex~East.private]] 
 
-### [Sussex~East.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.personal|Sussex~East.personal]] 
 
-### [Sussex~East.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East.secret|Sussex~East.secret]] 
 

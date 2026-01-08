@@ -41,17 +41,17 @@ markerFolder: ./Swansea/
 
 ## Confidential Links & Embeds: 
 
-### [Swansea,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County|Swansea,County]] 
 
-### [Swansea,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.public|Swansea,County.public]] 
 
-### [Swansea,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.internal|Swansea,County.internal]] 
 
-### [Swansea,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.protect|Swansea,County.protect]] 
 
-### [Swansea,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.private|Swansea,County.private]] 
 
-### [Swansea,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.personal|Swansea,County.personal]] 
 
-### [Swansea,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Swansea,County.secret|Swansea,County.secret]] 
 

@@ -13,6 +13,15 @@ mapmarker: subway
 tags:
   - geo/station
   - Europe/UK/City~London
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.104
+dv_has_place_latitude: 51.546
+dv_name: Highbury &amp; Islington
+dv_zone: 2
+dv_Num_lines: 1
+dv_switch-to-Rail: 1
+dv_Country: "[[../../../../../../UK]]"
+dv_City: "[[../../../London]]"
 ---
 SpocWebEntityId: 155978
 [StationSId::] 
@@ -20,15 +29,15 @@ isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.104] 
-[has_place_latitude::51.546] 
-[name::Highbury &amp; Islington] 
-[zone::2] 
-[Num_lines::1] 
-[switch-to-Rail::1] 
-Country :: [[UK]]  
-City :: [[../../../London]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+zone = `=this.dv_zone` 
+Num_lines = `=this.dv_Num_lines` 
+switch-to-Rail = `=this.dv_switch-to-Rail` 
+Country = `=this.dv_Country`
+City = `=this.dv_City`
 
 
 ```leaflet
@@ -49,17 +58,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~Highbury_&_Islington](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Highbury_&_Islington.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Highbury_&_Islington|Sub~Highbury_&_Islington]] 
 
-### [Sub~Highbury_&_Islington.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Highbury_&_Islington.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Highbury_&_Islington.public|Sub~Highbury_&_Islington.public]] 
 
-### [Sub~Highbury_&_Islington.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Highbury_&_Islington.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Highbury_&_Islington.internal|Sub~Highbury_&_Islington.internal]] 
 
-### [Sub~Highbury_&_Islington.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Highbury_&_Islington.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Highbury_&_Islington.protect|Sub~Highbury_&_Islington.protect]] 
 
-### [Sub~Highbury_&_Islington.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Highbury_&_Islington.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Highbury_&_Islington.private|Sub~Highbury_&_Islington.private]] 
 
-### [Sub~Highbury_&_Islington.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Highbury_&_Islington.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Highbury_&_Islington.personal|Sub~Highbury_&_Islington.personal]] 
 
-### [Sub~Highbury_&_Islington.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~Highbury_&_Islington.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~Highbury_&_Islington.secret|Sub~Highbury_&_Islington.secret]] 
 

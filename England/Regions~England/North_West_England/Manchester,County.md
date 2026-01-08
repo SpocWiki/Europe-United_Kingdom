@@ -41,17 +41,17 @@ markerFolder: ./Manchester/
 
 ## Confidential Links & Embeds: 
 
-### [Manchester,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County|Manchester,County]] 
 
-### [Manchester,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.public|Manchester,County.public]] 
 
-### [Manchester,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.internal|Manchester,County.internal]] 
 
-### [Manchester,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.protect|Manchester,County.protect]] 
 
-### [Manchester,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.private|Manchester,County.private]] 
 
-### [Manchester,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.personal|Manchester,County.personal]] 
 
-### [Manchester,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County.secret|Manchester,County.secret]] 
 

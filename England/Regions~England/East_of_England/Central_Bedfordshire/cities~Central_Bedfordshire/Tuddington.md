@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35034
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.67
+dv_has_place_latitude: 51.93
+dv_name: Tuddington
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.67] 
-[has_place_latitude::51.93] 
-[name::Tuddington] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tuddington](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington|Tuddington]] 
 
-### [Tuddington.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.public|Tuddington.public]] 
 
-### [Tuddington.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.internal|Tuddington.internal]] 
 
-### [Tuddington.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.protect|Tuddington.protect]] 
 
-### [Tuddington.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.private|Tuddington.private]] 
 
-### [Tuddington.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.personal|Tuddington.personal]] 
 
-### [Tuddington.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire/cities~Central_Bedfordshire/Tuddington.secret|Tuddington.secret]] 
 

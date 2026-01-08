@@ -40,17 +40,17 @@ markerFolder: ./Leicestershire/
 
 ## Confidential Links & Embeds: 
 
-### [Leicestershire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire|Leicestershire]] 
 
-### [Leicestershire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.public|Leicestershire.public]] 
 
-### [Leicestershire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.internal|Leicestershire.internal]] 
 
-### [Leicestershire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.protect|Leicestershire.protect]] 
 
-### [Leicestershire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.private|Leicestershire.private]] 
 
-### [Leicestershire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.personal|Leicestershire.personal]] 
 
-### [Leicestershire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire.secret|Leicestershire.secret]] 
 

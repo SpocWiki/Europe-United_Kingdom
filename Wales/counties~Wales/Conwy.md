@@ -40,17 +40,17 @@ markerFolder: ./Conwy/
 
 ## Confidential Links & Embeds: 
 
-### [Conwy](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy|Conwy]] 
 
-### [Conwy.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.public|Conwy.public]] 
 
-### [Conwy.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.internal|Conwy.internal]] 
 
-### [Conwy.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.protect|Conwy.protect]] 
 
-### [Conwy.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.private|Conwy.private]] 
 
-### [Conwy.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.personal|Conwy.personal]] 
 
-### [Conwy.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Conwy.secret|Conwy.secret]] 
 

@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Concept", "NorthernIreland: kp34b"
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Northern_Ireland,26|WD~Northern_Ireland,26]]"
+dv_concept-northernireland: kp34b"
+dv_is_same_as: "[[../../../../../WikiData/WD~Northern_Ireland,26|WD~Northern_Ireland,26]]"
+
 has_time_started: 1921-05-08 
 aliases:
   - Northern Ireland
@@ -49,7 +55,7 @@ PM20_geo_code: A22c
 BHCL_UUID: a6627f0e-7e5b-48b7-a037-49cf3cf9c789
 UMLS_CUI: C0028415
 Krugosvet_article_archived_: Earth_sciences/geografiya/SEVERNAYA_IRLANDIYA.html
-Wolfram_Language_entity_code: Entity["Concept", "NorthernIreland::kp34b"]
+Wolfram_Language_entity_code: Entity"Concept", "NorthernIreland = `=this.dv_"Concept", "NorthernIreland`
 ISO_3166_2_code: GB-NIR
 GSS_code_2011_: N92000002
 Commons_category: Northern Ireland
@@ -131,7 +137,7 @@ booru_tag: northern_ireland
 
 # [[Ireland~North]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Northern_Ireland,26|WD~Northern_Ireland,26]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -184,17 +190,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ireland~North](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North|Ireland~North]] 
 
-### [Ireland~North.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North.public|Ireland~North.public]] 
 
-### [Ireland~North.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North.internal|Ireland~North.internal]] 
 
-### [Ireland~North.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North.protect|Ireland~North.protect]] 
 
-### [Ireland~North.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North.private|Ireland~North.private]] 
 
-### [Ireland~North.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North.personal|Ireland~North.personal]] 
 
-### [Ireland~North.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North.secret|Ireland~North.secret]] 
 

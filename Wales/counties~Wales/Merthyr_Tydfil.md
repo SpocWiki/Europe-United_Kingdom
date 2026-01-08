@@ -41,17 +41,17 @@ markerFolder: ./Merthyr_Tydfil/
 
 ## Confidential Links & Embeds: 
 
-### [Merthyr_Tydfil](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil|Merthyr_Tydfil]] 
 
-### [Merthyr_Tydfil.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.public|Merthyr_Tydfil.public]] 
 
-### [Merthyr_Tydfil.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.internal|Merthyr_Tydfil.internal]] 
 
-### [Merthyr_Tydfil.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.protect|Merthyr_Tydfil.protect]] 
 
-### [Merthyr_Tydfil.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.private|Merthyr_Tydfil.private]] 
 
-### [Merthyr_Tydfil.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.personal|Merthyr_Tydfil.personal]] 
 
-### [Merthyr_Tydfil.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Merthyr_Tydfil.secret|Merthyr_Tydfil.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Stoke-on-Trent/
 
 ## Confidential Links & Embeds: 
 
-### [Stoke-on-Trent,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County|Stoke-on-Trent,County]] 
 
-### [Stoke-on-Trent,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.public|Stoke-on-Trent,County.public]] 
 
-### [Stoke-on-Trent,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.internal|Stoke-on-Trent,County.internal]] 
 
-### [Stoke-on-Trent,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.protect|Stoke-on-Trent,County.protect]] 
 
-### [Stoke-on-Trent,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.private|Stoke-on-Trent,County.private]] 
 
-### [Stoke-on-Trent,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.personal|Stoke-on-Trent,County.personal]] 
 
-### [Stoke-on-Trent,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County.secret|Stoke-on-Trent,County.secret]] 
 

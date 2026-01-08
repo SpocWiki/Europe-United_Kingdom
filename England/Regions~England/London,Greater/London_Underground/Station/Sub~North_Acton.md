@@ -13,6 +13,15 @@ mapmarker: subway
 tags:
   - geo/station
   - Europe/UK/City~London
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.2597
+dv_has_place_latitude: 51.5237
+dv_name: North Acton
+dv_zone: 2.5
+dv_Num_lines: 1
+dv_switch-to-Rail: 0
+dv_Country: "[[../../../../../../UK]]"
+dv_City: "[[../../../London]]"
 ---
 SpocWebEntityId: 156032
 [StationSId::] 
@@ -20,15 +29,15 @@ isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.2597] 
-[has_place_latitude::51.5237] 
-[name::North Acton] 
-[zone::2.5] 
-[Num_lines::1] 
-[switch-to-Rail::0] 
-Country :: [[UK]]  
-City :: [[../../../London]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+zone = `=this.dv_zone` 
+Num_lines = `=this.dv_Num_lines` 
+switch-to-Rail = `=this.dv_switch-to-Rail` 
+Country = `=this.dv_Country`
+City = `=this.dv_City`
 
 
 ```leaflet
@@ -49,17 +58,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~North_Acton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~North_Acton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~North_Acton|Sub~North_Acton]] 
 
-### [Sub~North_Acton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~North_Acton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~North_Acton.public|Sub~North_Acton.public]] 
 
-### [Sub~North_Acton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~North_Acton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~North_Acton.internal|Sub~North_Acton.internal]] 
 
-### [Sub~North_Acton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~North_Acton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~North_Acton.protect|Sub~North_Acton.protect]] 
 
-### [Sub~North_Acton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~North_Acton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~North_Acton.private|Sub~North_Acton.private]] 
 
-### [Sub~North_Acton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~North_Acton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~North_Acton.personal|Sub~North_Acton.personal]] 
 
-### [Sub~North_Acton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~North_Acton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~North_Acton.secret|Sub~North_Acton.secret]] 
 

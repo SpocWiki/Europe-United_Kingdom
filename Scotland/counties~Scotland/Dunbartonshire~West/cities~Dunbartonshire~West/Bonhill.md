@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29266
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.57
+dv_has_place_latitude: 55.98
+dv_name: Bonhill
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.57] 
-[has_place_latitude::55.98] 
-[name::Bonhill] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bonhill](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill|Bonhill]] 
 
-### [Bonhill.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.public|Bonhill.public]] 
 
-### [Bonhill.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.internal|Bonhill.internal]] 
 
-### [Bonhill.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.protect|Bonhill.protect]] 
 
-### [Bonhill.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.private|Bonhill.private]] 
 
-### [Bonhill.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.personal|Bonhill.personal]] 
 
-### [Bonhill.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Bonhill.secret|Bonhill.secret]] 
 

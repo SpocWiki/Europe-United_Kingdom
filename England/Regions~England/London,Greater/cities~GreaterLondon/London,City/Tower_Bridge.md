@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Tower_Bridge,83125|WD~Tower_Bridge,83125]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Tower_Bridge,83125|WD~Tower_Bridge,83125]]"
+
 has_time_started: 1886-01-01 
 aliases:
 has_id_wikidata: Q83125
@@ -66,7 +70,7 @@ OS_grid_reference: TQ3367180267
 
 # [[Tower_Bridge]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Tower_Bridge,83125|WD~Tower_Bridge,83125]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -103,4 +107,21 @@ OS_grid_reference: TQ3367180267
 > which has led to a persistent urban legend about an American purchasing the wrong bridge.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tower%20Bridge) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Tower_Bridge|Tower_Bridge]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Tower_Bridge.public|Tower_Bridge.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Tower_Bridge.internal|Tower_Bridge.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Tower_Bridge.protect|Tower_Bridge.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Tower_Bridge.private|Tower_Bridge.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Tower_Bridge.personal|Tower_Bridge.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Tower_Bridge.secret|Tower_Bridge.secret]] 
 

@@ -51,17 +51,17 @@ markerFolder: ./Trafford/
 
 ## Confidential Links & Embeds: 
 
-### [Trafford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford|Trafford]] 
 
-### [Trafford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.public|Trafford.public]] 
 
-### [Trafford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.internal|Trafford.internal]] 
 
-### [Trafford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.protect|Trafford.protect]] 
 
-### [Trafford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.private|Trafford.private]] 
 
-### [Trafford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.personal|Trafford.personal]] 
 
-### [Trafford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Trafford.secret|Trafford.secret]] 
 

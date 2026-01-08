@@ -50,17 +50,17 @@ markerFolder: ./Newcastle_upon_Tyne/
 
 ## Confidential Links & Embeds: 
 
-### [Newcastle_upon_Tyne](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne|Newcastle_upon_Tyne]] 
 
-### [Newcastle_upon_Tyne.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.public|Newcastle_upon_Tyne.public]] 
 
-### [Newcastle_upon_Tyne.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.internal|Newcastle_upon_Tyne.internal]] 
 
-### [Newcastle_upon_Tyne.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.protect|Newcastle_upon_Tyne.protect]] 
 
-### [Newcastle_upon_Tyne.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.private|Newcastle_upon_Tyne.private]] 
 
-### [Newcastle_upon_Tyne.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.personal|Newcastle_upon_Tyne.personal]] 
 
-### [Newcastle_upon_Tyne.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne.secret|Newcastle_upon_Tyne.secret]] 
 

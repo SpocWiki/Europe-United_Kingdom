@@ -40,17 +40,17 @@ markerFolder: ./Carmarthenshire/
 
 ## Confidential Links & Embeds: 
 
-### [Carmarthenshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire|Carmarthenshire]] 
 
-### [Carmarthenshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.public|Carmarthenshire.public]] 
 
-### [Carmarthenshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.internal|Carmarthenshire.internal]] 
 
-### [Carmarthenshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.protect|Carmarthenshire.protect]] 
 
-### [Carmarthenshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.private|Carmarthenshire.private]] 
 
-### [Carmarthenshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.personal|Carmarthenshire.personal]] 
 
-### [Carmarthenshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire.secret|Carmarthenshire.secret]] 
 

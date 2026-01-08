@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28750
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.78
+dv_has_place_latitude: 56.12
+dv_name: Alloa
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.78] 
-[has_place_latitude::56.12] 
-[name::Alloa] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alloa](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa|Alloa]] 
 
-### [Alloa.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.public|Alloa.public]] 
 
-### [Alloa.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.internal|Alloa.internal]] 
 
-### [Alloa.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.protect|Alloa.protect]] 
 
-### [Alloa.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.private|Alloa.private]] 
 
-### [Alloa.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.personal|Alloa.personal]] 
 
-### [Alloa.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire/cities~Clackmannanshire/Alloa.secret|Alloa.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Glasgow/
 
 ## Confidential Links & Embeds: 
 
-### [Glasgow,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County|Glasgow,County]] 
 
-### [Glasgow,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.public|Glasgow,County.public]] 
 
-### [Glasgow,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.internal|Glasgow,County.internal]] 
 
-### [Glasgow,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.protect|Glasgow,County.protect]] 
 
-### [Glasgow,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.private|Glasgow,County.private]] 
 
-### [Glasgow,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.personal|Glasgow,County.personal]] 
 
-### [Glasgow,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County.secret|Glasgow,County.secret]] 
 

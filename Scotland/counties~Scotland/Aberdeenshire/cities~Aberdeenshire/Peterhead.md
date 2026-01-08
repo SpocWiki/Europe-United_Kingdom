@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33322
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.77
+dv_has_place_latitude: 57.5
+dv_name: Peterhead
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.77] 
-[has_place_latitude::57.5] 
-[name::Peterhead] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peterhead](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead|Peterhead]] 
 
-### [Peterhead.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.public|Peterhead.public]] 
 
-### [Peterhead.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.internal|Peterhead.internal]] 
 
-### [Peterhead.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.protect|Peterhead.protect]] 
 
-### [Peterhead.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.private|Peterhead.private]] 
 
-### [Peterhead.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.personal|Peterhead.personal]] 
 
-### [Peterhead.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Peterhead.secret|Peterhead.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Buckingham_Palace,42182|WD~Buckingham_Palace,42182]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Buckingham_Palace,42182|WD~Buckingham_Palace,42182]]"
+
 has_time_started: 1829-01-01 
 aliases:
   - Buckingham Palace
@@ -69,7 +73,7 @@ P8189: 987007294685405171
 
 # [[Buckingham_Palace]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Buckingham_Palace,42182|WD~Buckingham_Palace,42182]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -113,4 +117,21 @@ P8189: 987007294685405171
 > and on some days in winter and spring.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Buckingham%20Palace) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Buckingham_Palace|Buckingham_Palace]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Buckingham_Palace.public|Buckingham_Palace.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Buckingham_Palace.internal|Buckingham_Palace.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Buckingham_Palace.protect|Buckingham_Palace.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Buckingham_Palace.private|Buckingham_Palace.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Buckingham_Palace.personal|Buckingham_Palace.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Buckingham_Palace.secret|Buckingham_Palace.secret]] 
 

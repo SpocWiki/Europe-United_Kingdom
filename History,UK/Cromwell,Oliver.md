@@ -6,75 +6,75 @@ aliases:
   - Cromwell,Oliver
 has_id_wikidata: Q44279
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~farmer,131512]]'
-  - '[[_Standards/WikiData/WD~military_leader,1402561]]'
-  - '[[_Standards/WikiData/WD~army_officer,38239859]]'
-military_or_police_rank: '[[_Standards/WikiData/WD~colonel,104680]]'
-member_of_political_party: '[[_Standards/WikiData/WD~Whigs,108700]]'
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+  - "[[_Standards/WikiData/WD~farmer,131512]]"
+  - "[[_Standards/WikiData/WD~military_leader,1402561]]"
+  - "[[_Standards/WikiData/WD~army_officer,38239859]]"
+military_or_police_rank: "[[_Standards/WikiData/WD~colonel,104680]]"
+member_of_political_party: "[[_Standards/WikiData/WD~Whigs,108700]]"
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Puritans,137073]]'
-  - '[[_Standards/WikiData/WD~congregationalist_polity,960252]]'
+  - "[[_Standards/WikiData/WD~Puritans,137073]]"
+  - "[[_Standards/WikiData/WD~congregationalist_polity,960252]]"
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
-  - '[[_Standards/WikiData/WD~Commonwealth_of_England,330362]]'
+  - "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_England,330362]]"
 child:
-  - '[[_Standards/WikiData/WD~Richard_Cromwell,203980]]'
-  - '[[_Standards/WikiData/WD~Henry_Cromwell,376280]]'
-  - '[[_Standards/WikiData/WD~Elizabeth_Claypole,5362596]]'
-  - '[[_Standards/WikiData/WD~Mary_Cromwell,_Countess_Fauconberg,6779266]]'
-  - '[[_Standards/WikiData/WD~Bridget_Cromwell,17361986]]'
-  - '[[_Standards/WikiData/WD~Frances_Cromwell,17362794]]'
-  - '[[_Standards/WikiData/WD~Robert_Cromwell,75261151]]'
-  - '[[_Standards/WikiData/WD~Oliver_Cromwell,75261152]]'
-educated_at: '[[_Standards/WikiData/WD~Sidney_Sussex_College,327116]]'
-place_of_death: '[[_Standards/WikiData/WD~Palace_of_Whitehall,391620]]'
+  - "[[_Standards/WikiData/WD~Richard_Cromwell,203980]]"
+  - "[[_Standards/WikiData/WD~Henry_Cromwell,376280]]"
+  - "[[_Standards/WikiData/WD~Elizabeth_Claypole,5362596]]"
+  - "[[_Standards/WikiData/WD~Mary_Cromwell,_Countess_Fauconberg,6779266]]"
+  - "[[_Standards/WikiData/WD~Bridget_Cromwell,17361986]]"
+  - "[[_Standards/WikiData/WD~Frances_Cromwell,17362794]]"
+  - "[[_Standards/WikiData/WD~Robert_Cromwell,75261151]]"
+  - "[[_Standards/WikiData/WD~Oliver_Cromwell,75261152]]"
+educated_at: "[[_Standards/WikiData/WD~Sidney_Sussex_College,327116]]"
+place_of_death: "[[_Standards/WikiData/WD~Palace_of_Whitehall,391620]]"
 position_held:
-  - '[[_Standards/WikiData/WD~Lord_Protector,512196]]'
-  - '[[_Standards/WikiData/WD~Chancellor_of_the_University_of_Oxford,6566685]]'
-  - '[[_Standards/WikiData/WD~Member_of_Parliament_in_the_Parliament_of_England,18018860]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1628_29_Parliament,60586171]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_April_1640_Parliament,60586175]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1640_42_Parliament,61022159]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1653_Parliament,89048132]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1642_48_Parliament,105958303]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1648_53_Parliament,105958331]]'
+  - "[[_Standards/WikiData/WD~Lord_Protector,512196]]"
+  - "[[_Standards/WikiData/WD~Chancellor_of_the_University_of_Oxford,6566685]]"
+  - "[[_Standards/WikiData/WD~Member_of_Parliament_in_the_Parliament_of_England,18018860]]"
+  - "[[_Standards/WikiData/WD~Member_of_the_1628_29_Parliament,60586171]]"
+  - "[[_Standards/WikiData/WD~Member_of_the_April_1640_Parliament,60586175]]"
+  - "[[_Standards/WikiData/WD~Member_of_the_1640_42_Parliament,61022159]]"
+  - "[[_Standards/WikiData/WD~Member_of_the_1653_Parliament,89048132]]"
+  - "[[_Standards/WikiData/WD~Member_of_the_1642_48_Parliament,105958303]]"
+  - "[[_Standards/WikiData/WD~Member_of_the_1648_53_Parliament,105958331]]"
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-place_of_birth: '[[_Standards/WikiData/WD~Huntingdon,685640]]'
-archives_at: '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
-member_of: '[[_Standards/WikiData/WD~list_of_regicides_of_King_Charles_I,1439921]]'
-honorific_prefix: '[[_Standards/WikiData/WD~Highness,1623587]]'
-given_name: '[[_Standards/WikiData/WD~Oliver,2110096]]'
-spouse: '[[_Standards/WikiData/WD~Elizabeth_Cromwell,3375118]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-different_from: '[[_Standards/WikiData/WD~Oliver_Cromwell,7087470]]'
-family_name: '[[_Standards/WikiData/WD~Cromwell,16865886]]'
-father: '[[_Standards/WikiData/WD~Robert_Cromwell,16867826]]'
-sibling: '[[_Standards/WikiData/WD~Robina_Cromwell,22998114]]'
-noble_title: '[[_Standards/WikiData/WD~Lord_Protector_of_the_Commonwealth_of_England,_Scotland_and_Ireland,42913053]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - "[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+place_of_birth: "[[_Standards/WikiData/WD~Huntingdon,685640]]"
+archives_at: "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
+member_of: "[[_Standards/WikiData/WD~list_of_regicides_of_King_Charles_I,1439921]]"
+honorific_prefix: "[[_Standards/WikiData/WD~Highness,1623587]]"
+given_name: "[[_Standards/WikiData/WD~Oliver,2110096]]"
+spouse: "[[_Standards/WikiData/WD~Elizabeth_Cromwell,3375118]]"
+manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+different_from: "[[_Standards/WikiData/WD~Oliver_Cromwell,7087470]]"
+family_name: "[[_Standards/WikiData/WD~Cromwell,16865886]]"
+father: "[[_Standards/WikiData/WD~Robert_Cromwell,16867826]]"
+sibling: "[[_Standards/WikiData/WD~Robina_Cromwell,22998114]]"
+noble_title: "[[_Standards/WikiData/WD~Lord_Protector_of_the_Commonwealth_of_England,_Scotland_and_Ireland,42913053]]"
 depicted_by:
-  - '[[_Standards/WikiData/WD~Oliver_Cromwell,_Lord_Protector_(1599_1658),52147740]]'
-  - '[[_Standards/WikiData/WD~Oliver_Cromwell_(1599_1658),_Lord_Protector_of_England,118893285]]'
-mother: '[[_Standards/WikiData/WD~Elizabeth_Steward,75421057]]'
+  - "[[_Standards/WikiData/WD~Oliver_Cromwell,_Lord_Protector_(1599_1658),52147740]]"
+  - "[[_Standards/WikiData/WD~Oliver_Cromwell_(1599_1658),_Lord_Protector_of_England,118893285]]"
+mother: "[[_Standards/WikiData/WD~Elizabeth_Steward,75421057]]"
 date_of_birth: 1599-05-05T00:00:00Z
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-native_language: '[[_Standards/WikiData/WD~English,1860]]'
-place_of_burial: '[[_Standards/WikiData/WD~Westminster_Abbey,5933]]'
-cause_of_death: '[[_Standards/WikiData/WD~malaria,12156]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+native_language: "[[_Standards/WikiData/WD~English,1860]]"
+place_of_burial: "[[_Standards/WikiData/WD~Westminster_Abbey,5933]]"
+cause_of_death: "[[_Standards/WikiData/WD~malaria,12156]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
 Libris_URI: 86lnnk1s5t70j6w
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/6985
 date_of_death: 1658-09-13T00:00:00Z
@@ -87,13 +87,16 @@ name_in_native_language: Oliver Cromwell
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Cromwell%20by%20Samuel%20Cooper.jpg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Oliver%20Cromwell.svg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Cromwell%20Signature.svg
-ISNI: 0000000121005431
+ISNI: 121005431
 Krugosvet_article_archived_: gosudarstvo-i-politika/kromvel-oliver
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Oliver_Cromwell,44279|WD~Oliver_Cromwell,44279]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Oliver_Cromwell,44279|WD~Oliver_Cromwell,44279]]"
 ---
 
 # [[Cromwell,Oliver]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Oliver_Cromwell,44279|WD~Oliver_Cromwell,44279]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -124,4 +127,21 @@ Krugosvet_article_archived_: gosudarstvo-i-politika/kromvel-oliver
 > His statue outside the Houses of Parliament, first proposed in 1856, was not erected until 1895, with most of the funds privately supplied by Prime Minister Archibald Primrose.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oliver%20Cromwell) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/History,UK/Cromwell,Oliver|Cromwell,Oliver]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/History,UK/Cromwell,Oliver.public|Cromwell,Oliver.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/History,UK/Cromwell,Oliver.internal|Cromwell,Oliver.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/History,UK/Cromwell,Oliver.protect|Cromwell,Oliver.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/History,UK/Cromwell,Oliver.private|Cromwell,Oliver.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/History,UK/Cromwell,Oliver.personal|Cromwell,Oliver.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/History,UK/Cromwell,Oliver.secret|Cromwell,Oliver.secret]] 
 

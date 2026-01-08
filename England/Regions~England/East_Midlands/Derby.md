@@ -40,17 +40,17 @@ markerFolder: ./Derby/
 
 ## Confidential Links & Embeds: 
 
-### [Derby](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby|Derby]] 
 
-### [Derby.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.public|Derby.public]] 
 
-### [Derby.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.internal|Derby.internal]] 
 
-### [Derby.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.protect|Derby.protect]] 
 
-### [Derby.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.private|Derby.private]] 
 
-### [Derby.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.personal|Derby.personal]] 
 
-### [Derby.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derby.secret|Derby.secret]] 
 

@@ -49,17 +49,17 @@ markerFolder: ./Walsall/
 
 ## Confidential Links & Embeds: 
 
-### [Walsall,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County|Walsall,County]] 
 
-### [Walsall,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.public|Walsall,County.public]] 
 
-### [Walsall,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.internal|Walsall,County.internal]] 
 
-### [Walsall,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.protect|Walsall,County.protect]] 
 
-### [Walsall,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.private|Walsall,County.private]] 
 
-### [Walsall,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.personal|Walsall,County.personal]] 
 
-### [Walsall,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/Walsall,County.secret|Walsall,County.secret]] 
 

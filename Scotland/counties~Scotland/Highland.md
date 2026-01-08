@@ -40,17 +40,17 @@ markerFolder: ./Highland/
 
 ## Confidential Links & Embeds: 
 
-### [Highland](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland|Highland]] 
 
-### [Highland.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.public|Highland.public]] 
 
-### [Highland.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.internal|Highland.internal]] 
 
-### [Highland.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.protect|Highland.protect]] 
 
-### [Highland.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.private|Highland.private]] 
 
-### [Highland.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.personal|Highland.personal]] 
 
-### [Highland.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland.secret|Highland.secret]] 
 

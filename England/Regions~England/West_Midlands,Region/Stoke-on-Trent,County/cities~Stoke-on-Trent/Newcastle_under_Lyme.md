@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32885
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.18
+dv_has_place_latitude: 53.03
+dv_name: Newcastle under Lyme
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.18] 
-[has_place_latitude::53.03] 
-[name::Newcastle under Lyme] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Newcastle_under_Lyme](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme|Newcastle_under_Lyme]] 
 
-### [Newcastle_under_Lyme.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.public|Newcastle_under_Lyme.public]] 
 
-### [Newcastle_under_Lyme.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.internal|Newcastle_under_Lyme.internal]] 
 
-### [Newcastle_under_Lyme.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.protect|Newcastle_under_Lyme.protect]] 
 
-### [Newcastle_under_Lyme.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.private|Newcastle_under_Lyme.private]] 
 
-### [Newcastle_under_Lyme.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.personal|Newcastle_under_Lyme.personal]] 
 
-### [Newcastle_under_Lyme.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Newcastle_under_Lyme.secret|Newcastle_under_Lyme.secret]] 
 

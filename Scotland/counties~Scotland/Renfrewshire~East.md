@@ -40,17 +40,17 @@ markerFolder: ./Renfrewshire~East/
 
 ## Confidential Links & Embeds: 
 
-### [Renfrewshire~East](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East|Renfrewshire~East]] 
 
-### [Renfrewshire~East.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.public|Renfrewshire~East.public]] 
 
-### [Renfrewshire~East.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.internal|Renfrewshire~East.internal]] 
 
-### [Renfrewshire~East.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.protect|Renfrewshire~East.protect]] 
 
-### [Renfrewshire~East.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.private|Renfrewshire~East.private]] 
 
-### [Renfrewshire~East.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.personal|Renfrewshire~East.personal]] 
 
-### [Renfrewshire~East.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East.secret|Renfrewshire~East.secret]] 
 

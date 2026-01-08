@@ -40,17 +40,17 @@ markerFolder: ./Dundee/
 
 ## Confidential Links & Embeds: 
 
-### [Dundee](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee|Dundee]] 
 
-### [Dundee.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.public|Dundee.public]] 
 
-### [Dundee.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.internal|Dundee.internal]] 
 
-### [Dundee.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.protect|Dundee.protect]] 
 
-### [Dundee.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.private|Dundee.private]] 
 
-### [Dundee.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.personal|Dundee.personal]] 
 
-### [Dundee.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dundee.secret|Dundee.secret]] 
 

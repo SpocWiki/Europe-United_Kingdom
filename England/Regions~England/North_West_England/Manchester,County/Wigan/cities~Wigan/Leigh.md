@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31919
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.5
+dv_has_place_latitude: 53.5
+dv_name: Leigh
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.5] 
-[has_place_latitude::53.5] 
-[name::Leigh] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leigh](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh|Leigh]] 
 
-### [Leigh.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.public|Leigh.public]] 
 
-### [Leigh.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.internal|Leigh.internal]] 
 
-### [Leigh.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.protect|Leigh.protect]] 
 
-### [Leigh.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.private|Leigh.private]] 
 
-### [Leigh.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.personal|Leigh.personal]] 
 
-### [Leigh.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Wigan/cities~Wigan/Leigh.secret|Leigh.secret]] 
 

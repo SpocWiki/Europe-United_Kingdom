@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~London_Underground,20075]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~London_Underground,20075]]"
+
 has_time_started: 1890-01-01 
 aliases:
   - London Underground
@@ -74,7 +78,7 @@ Facebook_username: londonunderground
 
 # [[London_Underground]] 
 
-#is_/same_as :: [[WD~London_Underground,20075]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -122,4 +126,21 @@ markerFile: [[London_Underground]]
 > The LPTB commissioned many new station buildings, posters and public artworks in a modernist style. The schematic Tube map, designed by Harry Beck in 1931, was voted a national design icon in 2006 and now includes other transport systems besides the Underground, such as the DLR, London Overground, Thameslink, the Elizabeth line, and Tramlink. Other famous London Underground branding includes the roundel and the Johnston typeface, created by Edward Johnston in 1916.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/London%20Underground) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground|London_Underground]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground.public|London_Underground.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground.internal|London_Underground.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground.protect|London_Underground.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground.private|London_Underground.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground.personal|London_Underground.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground.secret|London_Underground.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34577
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.15
+dv_has_place_latitude: 53.4
+dv_name: Stockport
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.15] 
-[has_place_latitude::53.4] 
-[name::Stockport] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stockport](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport|Stockport]] 
 
-### [Stockport.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.public|Stockport.public]] 
 
-### [Stockport.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.internal|Stockport.internal]] 
 
-### [Stockport.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.protect|Stockport.protect]] 
 
-### [Stockport.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.private|Stockport.private]] 
 
-### [Stockport.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.personal|Stockport.personal]] 
 
-### [Stockport.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Stockport,County/cities~Stockport/Stockport.secret|Stockport.secret]] 
 

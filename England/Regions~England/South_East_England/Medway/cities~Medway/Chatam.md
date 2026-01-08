@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29550
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.55
+dv_has_place_latitude: 51.4
+dv_name: Chatam
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.55] 
-[has_place_latitude::51.4] 
-[name::Chatam] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chatam](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam|Chatam]] 
 
-### [Chatam.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.public|Chatam.public]] 
 
-### [Chatam.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.internal|Chatam.internal]] 
 
-### [Chatam.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.protect|Chatam.protect]] 
 
-### [Chatam.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.private|Chatam.private]] 
 
-### [Chatam.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.personal|Chatam.personal]] 
 
-### [Chatam.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Chatam.secret|Chatam.secret]] 
 

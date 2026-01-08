@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29843
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.4
+dv_has_place_latitude: 50.72
+dv_name: Dorchester
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.4] 
-[has_place_latitude::50.72] 
-[name::Dorchester] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dorchester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester|Dorchester]] 
 
-### [Dorchester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.public|Dorchester.public]] 
 
-### [Dorchester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.internal|Dorchester.internal]] 
 
-### [Dorchester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.protect|Dorchester.protect]] 
 
-### [Dorchester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.private|Dorchester.private]] 
 
-### [Dorchester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.personal|Dorchester.personal]] 
 
-### [Dorchester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/WestDorset/cities~WestDorset/Dorchester.secret|Dorchester.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Northumberland/
 
 ## Confidential Links & Embeds: 
 
-### [Northumberland](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland|Northumberland]] 
 
-### [Northumberland.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.public|Northumberland.public]] 
 
-### [Northumberland.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.internal|Northumberland.internal]] 
 
-### [Northumberland.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.protect|Northumberland.protect]] 
 
-### [Northumberland.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.private|Northumberland.private]] 
 
-### [Northumberland.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.personal|Northumberland.personal]] 
 
-### [Northumberland.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland.secret|Northumberland.secret]] 
 

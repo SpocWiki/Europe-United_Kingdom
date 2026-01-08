@@ -21,12 +21,19 @@ instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Van%20der%20Hagen-KW1049B11%20003-BRITANNIA%20prout%20divisa%20fuit%20temporibus%20ANGLO-SAXONUM%2C%20praesertim%20durante%20illorum%20HEPTARCHIA%20crop.jpeg
 Commons_category: History of the United Kingdom
 IMDb_keyword: british-history
+dv_has_:
+  previous_:
+    item: "[[England/England,History]]"
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_the_United_Kingdom,113162|WD~History_of_the_United_Kingdom,113162]]"
+dv_has_previous_item: "[[England/England,History]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_the_United_Kingdom,113162|WD~History_of_the_United_Kingdom,113162]]"
 ---
 
 # [[History,UK]] 
 
-#has_/previous_/item :: [[England,History]] 
-#is_/same_as :: [[../../../../../../WikiData/WD~History_of_the_United_Kingdom,113162|WD~History_of_the_United_Kingdom,113162]] 
+has_previous_item = `=this.dv_has_previous_item`
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -64,4 +71,19 @@ IMDb_keyword: british-history
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20the%20United%20Kingdom) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/History,UK|History,UK]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/History,UK.public|History,UK.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/History,UK.internal|History,UK.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/History,UK.protect|History,UK.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/History,UK.private|History,UK.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/History,UK.personal|History,UK.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/History,UK.secret|History,UK.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29570
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.1
+dv_has_place_latitude: 51.9
+dv_name: Cheltenham
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.1] 
-[has_place_latitude::51.9] 
-[name::Cheltenham] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cheltenham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham|Cheltenham]] 
 
-### [Cheltenham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.public|Cheltenham.public]] 
 
-### [Cheltenham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.internal|Cheltenham.internal]] 
 
-### [Cheltenham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.protect|Cheltenham.protect]] 
 
-### [Cheltenham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.private|Cheltenham.private]] 
 
-### [Cheltenham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.personal|Cheltenham.personal]] 
 
-### [Cheltenham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Cheltenham/cities~Cheltenham/Cheltenham.secret|Cheltenham.secret]] 
 

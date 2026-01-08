@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34392
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.43
+dv_has_place_latitude: 54.98
+dv_name: South Shieldd
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.43] 
-[has_place_latitude::54.98] 
-[name::South Shieldd] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [South_Shieldd](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd|South_Shieldd]] 
 
-### [South_Shieldd.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.public|South_Shieldd.public]] 
 
-### [South_Shieldd.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.internal|South_Shieldd.internal]] 
 
-### [South_Shieldd.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.protect|South_Shieldd.protect]] 
 
-### [South_Shieldd.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.private|South_Shieldd.private]] 
 
-### [South_Shieldd.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.personal|South_Shieldd.personal]] 
 
-### [South_Shieldd.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South/cities~SouthTyneside/South_Shieldd.secret|South_Shieldd.secret]] 
 

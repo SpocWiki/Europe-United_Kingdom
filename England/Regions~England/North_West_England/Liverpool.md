@@ -40,17 +40,17 @@ markerFolder: ./Liverpool/
 
 ## Confidential Links & Embeds: 
 
-### [Liverpool](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool|Liverpool]] 
 
-### [Liverpool.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.public|Liverpool.public]] 
 
-### [Liverpool.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.internal|Liverpool.internal]] 
 
-### [Liverpool.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.protect|Liverpool.protect]] 
 
-### [Liverpool.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.private|Liverpool.private]] 
 
-### [Liverpool.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.personal|Liverpool.personal]] 
 
-### [Liverpool.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool.secret|Liverpool.secret]] 
 

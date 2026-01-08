@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34443
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.5
+dv_has_place_latitude: 54.52
+dv_name: St.Bees Head
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.5] 
-[has_place_latitude::54.52] 
-[name::St.Bees Head] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Bees_Head](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head|St.Bees_Head]] 
 
-### [St.Bees_Head.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.public|St.Bees_Head.public]] 
 
-### [St.Bees_Head.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.internal|St.Bees_Head.internal]] 
 
-### [St.Bees_Head.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.protect|St.Bees_Head.protect]] 
 
-### [St.Bees_Head.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.private|St.Bees_Head.private]] 
 
-### [St.Bees_Head.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.personal|St.Bees_Head.personal]] 
 
-### [St.Bees_Head.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Copeland/cities~Copeland/St.Bees_Head.secret|St.Bees_Head.secret]] 
 

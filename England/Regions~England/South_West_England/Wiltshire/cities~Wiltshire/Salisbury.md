@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33887
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.78
+dv_has_place_latitude: 51.07
+dv_name: Salisbury
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.78] 
-[has_place_latitude::51.07] 
-[name::Salisbury] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salisbury](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury|Salisbury]] 
 
-### [Salisbury.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.public|Salisbury.public]] 
 
-### [Salisbury.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.internal|Salisbury.internal]] 
 
-### [Salisbury.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.protect|Salisbury.protect]] 
 
-### [Salisbury.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.private|Salisbury.private]] 
 
-### [Salisbury.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.personal|Salisbury.personal]] 
 
-### [Salisbury.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Wiltshire/cities~Wiltshire/Salisbury.secret|Salisbury.secret]] 
 

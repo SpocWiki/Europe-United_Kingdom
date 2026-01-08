@@ -40,17 +40,17 @@ markerFolder: ./Bedford/
 
 ## Confidential Links & Embeds: 
 
-### [Bedford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford|Bedford]] 
 
-### [Bedford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.public|Bedford.public]] 
 
-### [Bedford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.internal|Bedford.internal]] 
 
-### [Bedford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.protect|Bedford.protect]] 
 
-### [Bedford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.private|Bedford.private]] 
 
-### [Bedford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.personal|Bedford.personal]] 
 
-### [Bedford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Bedford.secret|Bedford.secret]] 
 

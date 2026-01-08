@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34393
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.4
+dv_has_place_latitude: 50.9
+dv_name: Southampton
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.4] 
-[has_place_latitude::50.9] 
-[name::Southampton] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Southampton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton|Southampton]] 
 
-### [Southampton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.public|Southampton.public]] 
 
-### [Southampton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.internal|Southampton.internal]] 
 
-### [Southampton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.protect|Southampton.protect]] 
 
-### [Southampton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.private|Southampton.private]] 
 
-### [Southampton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.personal|Southampton.personal]] 
 
-### [Southampton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton.secret|Southampton.secret]] 
 

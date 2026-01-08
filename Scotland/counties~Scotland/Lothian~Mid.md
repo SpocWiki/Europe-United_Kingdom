@@ -41,17 +41,17 @@ markerFolder: ./Lothian~Mid/
 
 ## Confidential Links & Embeds: 
 
-### [Lothian~Mid](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid|Lothian~Mid]] 
 
-### [Lothian~Mid.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.public|Lothian~Mid.public]] 
 
-### [Lothian~Mid.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.internal|Lothian~Mid.internal]] 
 
-### [Lothian~Mid.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.protect|Lothian~Mid.protect]] 
 
-### [Lothian~Mid.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.private|Lothian~Mid.private]] 
 
-### [Lothian~Mid.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.personal|Lothian~Mid.personal]] 
 
-### [Lothian~Mid.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid.secret|Lothian~Mid.secret]] 
 

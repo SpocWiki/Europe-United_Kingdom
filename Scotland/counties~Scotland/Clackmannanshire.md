@@ -40,17 +40,17 @@ markerFolder: ./Clackmannanshire/
 
 ## Confidential Links & Embeds: 
 
-### [Clackmannanshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire|Clackmannanshire]] 
 
-### [Clackmannanshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.public|Clackmannanshire.public]] 
 
-### [Clackmannanshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.internal|Clackmannanshire.internal]] 
 
-### [Clackmannanshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.protect|Clackmannanshire.protect]] 
 
-### [Clackmannanshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.private|Clackmannanshire.private]] 
 
-### [Clackmannanshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.personal|Clackmannanshire.personal]] 
 
-### [Clackmannanshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Clackmannanshire.secret|Clackmannanshire.secret]] 
 

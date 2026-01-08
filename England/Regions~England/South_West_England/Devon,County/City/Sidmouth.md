@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34243
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.18
+dv_has_place_latitude: 50.68
+dv_name: Sidmouth
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.18] 
-[has_place_latitude::50.68] 
-[name::Sidmouth] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sidmouth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth|Sidmouth]] 
 
-### [Sidmouth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.public|Sidmouth.public]] 
 
-### [Sidmouth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.internal|Sidmouth.internal]] 
 
-### [Sidmouth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.protect|Sidmouth.protect]] 
 
-### [Sidmouth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.private|Sidmouth.private]] 
 
-### [Sidmouth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.personal|Sidmouth.personal]] 
 
-### [Sidmouth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/City/Sidmouth.secret|Sidmouth.secret]] 
 

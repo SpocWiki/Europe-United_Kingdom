@@ -41,17 +41,17 @@ markerFolder: ./Swindon/
 
 ## Confidential Links & Embeds: 
 
-### [Swindon,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County|Swindon,County]] 
 
-### [Swindon,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.public|Swindon,County.public]] 
 
-### [Swindon,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.internal|Swindon,County.internal]] 
 
-### [Swindon,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.protect|Swindon,County.protect]] 
 
-### [Swindon,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.private|Swindon,County.private]] 
 
-### [Swindon,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.personal|Swindon,County.personal]] 
 
-### [Swindon,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Swindon,County.secret|Swindon,County.secret]] 
 

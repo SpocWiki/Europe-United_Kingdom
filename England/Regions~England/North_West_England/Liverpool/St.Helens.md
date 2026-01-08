@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [St.Helens](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens|St.Helens]] 
 
-### [St.Helens.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.public|St.Helens.public]] 
 
-### [St.Helens.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.internal|St.Helens.internal]] 
 
-### [St.Helens.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.protect|St.Helens.protect]] 
 
-### [St.Helens.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.private|St.Helens.private]] 
 
-### [St.Helens.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.personal|St.Helens.personal]] 
 
-### [St.Helens.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Liverpool/St.Helens.secret|St.Helens.secret]] 
 

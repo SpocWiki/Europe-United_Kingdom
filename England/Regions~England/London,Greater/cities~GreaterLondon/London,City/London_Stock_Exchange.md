@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~London_Stock_Exchange,171240]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~London_Stock_Exchange,171240]]"
+
 has_time_started: 1698-01-01 
 aliases:
   - London Stock Exchange
@@ -52,7 +56,7 @@ X_Twitter_username: LSEplc
 
 # [[London_Stock_Exchange]] 
 
-#is_/same_as :: [[WD~London_Stock_Exchange,171240]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -87,4 +91,21 @@ markerFile: [[London_Stock_Exchange]]
 > approximately 15% of British adults reported having investments in stocks and shares.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/London%20Stock%20Exchange) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Stock_Exchange|London_Stock_Exchange]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Stock_Exchange.public|London_Stock_Exchange.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Stock_Exchange.internal|London_Stock_Exchange.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Stock_Exchange.protect|London_Stock_Exchange.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Stock_Exchange.private|London_Stock_Exchange.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Stock_Exchange.personal|London_Stock_Exchange.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Stock_Exchange.secret|London_Stock_Exchange.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Orkney/
 
 ## Confidential Links & Embeds: 
 
-### [Orkney](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney|Orkney]] 
 
-### [Orkney.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.public|Orkney.public]] 
 
-### [Orkney.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.internal|Orkney.internal]] 
 
-### [Orkney.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.protect|Orkney.protect]] 
 
-### [Orkney.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.private|Orkney.private]] 
 
-### [Orkney.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.personal|Orkney.personal]] 
 
-### [Orkney.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Orkney.secret|Orkney.secret]] 
 

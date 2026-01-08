@@ -20,30 +20,55 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 icon: flag-gb
+dv_name-en: United Kingdom
+dv_name-de: Großbritannien
+dv_ISO2: GB
+dv_ISO3: GBR
+dv_has_:
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
+  image_for_:
+    flag: "![[./Flag_of_the_United_Kingdom.svg|200]] ![](./Flag_of_the_United_Kingdom.svg)"
+    coat_of_arms: "![[./Coat_of_Arms_of_the_United_Kingdom.svg|250]] ![](./Coat_of_Arms_of_the_United_Kingdom.svg)"
+  sound_of_:
+    anthem: "![[Anthem-United-kingdom.mp3]]"
+dv_Area-Total: 241752
+dv_Area-Land: 241600
+dv_has_place_continent: "[[../../../Europe]]"
+dv_VehicleCode: GB
+dv_Capital: "[[UK/City~London]]"
+dv_Alcohol-l: 13.4
+dv_Language-Id: 499
+dv_has_place_longitude: -2.14482
+dv_has_place_latitude: 52.8829
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
+dv_has_image_for_flag: "![[./Flag_of_the_United_Kingdom.svg|200]] ![](./Flag_of_the_United_Kingdom.svg)"
+dv_has_image_for_coat_of_arms: "![[./Coat_of_Arms_of_the_United_Kingdom.svg|250]] ![](./Coat_of_Arms_of_the_United_Kingdom.svg)"
+dv_has_sound_of_anthem: "![[Anthem-United-kingdom.mp3]]"
 ---
 
 # [[UK]] 
 
 ## International Names
 
-[name-en::United Kingdom]
-[name-de::Großbritannien]
+name-en = `=this.dv_name-en`
+name-de = `=this.dv_name-de`
 
-[ISO2::GB] 
-[ISO3::GBR] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-United_Kingdom 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
 ### #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./Flag_of_the_United_Kingdom.svg|200]] <img src="./Flag_of_the_United_Kingdom.svg" width="200"/> 
+has_image_for_flag = `=this.dv_has_image_for_flag`
 
 ## #has_/text_of_/abstract  
 
@@ -123,10 +148,10 @@ icon: flag-gb
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Coat_of_Arms_of_the_United_Kingdom.svg|250]] <img src="./Coat_of_Arms_of_the_United_Kingdom.svg" width="250"/> 
+has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
 
 
-#has_/sound_of_/anthem :: ![[Anthem-United-kingdom.mp3]]
+has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
 
 ### #has_/map  
 
@@ -139,30 +164,30 @@ geojsonFolder: .//
 markerFolder: ./City/
 ```
 
-[Area-Total::241752] 
-[Area-Land::241600] 
-has_place_continent:: [[Europe]]  
-[VehicleCode::GB] 
-Capital :: [[UK/City~London]]  
-[Alcohol-l::13.4] 
-[Language-Id::499] 
-[has_place_longitude::-2.14482]
-[has_place_latitude::52.8829]
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~North/UK/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~North/UK/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~North/UK/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/ReadMe.secret|ReadMe.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29349
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3
+dv_has_place_latitude: 51.13
+dv_name: Bridgewater
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3] 
-[has_place_latitude::51.13] 
-[name::Bridgewater] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bridgewater](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater|Bridgewater]] 
 
-### [Bridgewater.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.public|Bridgewater.public]] 
 
-### [Bridgewater.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.internal|Bridgewater.internal]] 
 
-### [Bridgewater.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.protect|Bridgewater.protect]] 
 
-### [Bridgewater.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.private|Bridgewater.private]] 
 
-### [Bridgewater.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.personal|Bridgewater.personal]] 
 
-### [Bridgewater.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Sedgemoor/cities~Sedgemoor/Bridgewater.secret|Bridgewater.secret]] 
 

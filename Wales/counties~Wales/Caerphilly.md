@@ -40,17 +40,17 @@ markerFolder: ./Caerphilly/
 
 ## Confidential Links & Embeds: 
 
-### [Caerphilly](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly|Caerphilly]] 
 
-### [Caerphilly.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.public|Caerphilly.public]] 
 
-### [Caerphilly.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.internal|Caerphilly.internal]] 
 
-### [Caerphilly.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.protect|Caerphilly.protect]] 
 
-### [Caerphilly.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.private|Caerphilly.private]] 
 
-### [Caerphilly.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.personal|Caerphilly.personal]] 
 
-### [Caerphilly.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Caerphilly.secret|Caerphilly.secret]] 
 

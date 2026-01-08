@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34193
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.92
+dv_has_place_latitude: 55.58
+dv_name: Selkirk
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.92] 
-[has_place_latitude::55.58] 
-[name::Selkirk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Selkirk](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk|Selkirk]] 
 
-### [Selkirk.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.public|Selkirk.public]] 
 
-### [Selkirk.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.internal|Selkirk.internal]] 
 
-### [Selkirk.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.protect|Selkirk.protect]] 
 
-### [Selkirk.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.private|Selkirk.private]] 
 
-### [Selkirk.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.personal|Selkirk.personal]] 
 
-### [Selkirk.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/Selkirk.secret|Selkirk.secret]] 
 

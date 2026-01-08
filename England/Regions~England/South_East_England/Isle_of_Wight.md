@@ -41,17 +41,17 @@ markerFolder: ./Isle_of_Wight/
 
 ## Confidential Links & Embeds: 
 
-### [Isle_of_Wight](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight|Isle_of_Wight]] 
 
-### [Isle_of_Wight.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.public|Isle_of_Wight.public]] 
 
-### [Isle_of_Wight.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.internal|Isle_of_Wight.internal]] 
 
-### [Isle_of_Wight.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.protect|Isle_of_Wight.protect]] 
 
-### [Isle_of_Wight.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.private|Isle_of_Wight.private]] 
 
-### [Isle_of_Wight.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.personal|Isle_of_Wight.personal]] 
 
-### [Isle_of_Wight.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight.secret|Isle_of_Wight.secret]] 
 

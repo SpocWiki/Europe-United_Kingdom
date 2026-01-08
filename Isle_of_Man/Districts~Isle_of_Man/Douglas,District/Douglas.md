@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 14148
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.5
+dv_has_place_latitude: 54.15
+dv_name: Douglas
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.5] 
-[has_place_latitude::54.15] 
-[name::Douglas] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Douglas](/_Standards/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas|Douglas]] 
 
-### [Douglas.public](/_public/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.public|Douglas.public]] 
 
-### [Douglas.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.internal|Douglas.internal]] 
 
-### [Douglas.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.protect|Douglas.protect]] 
 
-### [Douglas.private](/_private/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.private|Douglas.private]] 
 
-### [Douglas.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.personal|Douglas.personal]] 
 
-### [Douglas.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man/Districts~Isle_of_Man/Douglas,District/Douglas.secret|Douglas.secret]] 
 

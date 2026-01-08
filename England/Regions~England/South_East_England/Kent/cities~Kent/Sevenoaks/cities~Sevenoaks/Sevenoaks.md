@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34223
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.2
+dv_has_place_latitude: 51.27
+dv_name: Sevenoaks
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.2] 
-[has_place_latitude::51.27] 
-[name::Sevenoaks] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sevenoaks](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks|Sevenoaks]] 
 
-### [Sevenoaks.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.public|Sevenoaks.public]] 
 
-### [Sevenoaks.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.internal|Sevenoaks.internal]] 
 
-### [Sevenoaks.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.protect|Sevenoaks.protect]] 
 
-### [Sevenoaks.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.private|Sevenoaks.private]] 
 
-### [Sevenoaks.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.personal|Sevenoaks.personal]] 
 
-### [Sevenoaks.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Sevenoaks/cities~Sevenoaks/Sevenoaks.secret|Sevenoaks.secret]] 
 

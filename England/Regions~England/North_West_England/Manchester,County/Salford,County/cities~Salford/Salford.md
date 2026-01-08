@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33885
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.3
+dv_has_place_latitude: 53.48
+dv_name: Salford
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.3] 
-[has_place_latitude::53.48] 
-[name::Salford] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford|Salford]] 
 
-### [Salford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.public|Salford.public]] 
 
-### [Salford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.internal|Salford.internal]] 
 
-### [Salford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.protect|Salford.protect]] 
 
-### [Salford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.private|Salford.private]] 
 
-### [Salford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.personal|Salford.personal]] 
 
-### [Salford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/Salford,County/cities~Salford/Salford.secret|Salford.secret]] 
 

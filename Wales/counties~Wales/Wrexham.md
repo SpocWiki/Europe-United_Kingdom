@@ -40,17 +40,17 @@ markerFolder: ./Wrexham/
 
 ## Confidential Links & Embeds: 
 
-### [Wrexham](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham|Wrexham]] 
 
-### [Wrexham.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.public|Wrexham.public]] 
 
-### [Wrexham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.internal|Wrexham.internal]] 
 
-### [Wrexham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.protect|Wrexham.protect]] 
 
-### [Wrexham.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.private|Wrexham.private]] 
 
-### [Wrexham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.personal|Wrexham.personal]] 
 
-### [Wrexham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Wrexham.secret|Wrexham.secret]] 
 

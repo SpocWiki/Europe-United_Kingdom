@@ -40,17 +40,17 @@ markerFolder: ./Kent/
 
 ## Confidential Links & Embeds: 
 
-### [Kent](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent|Kent]] 
 
-### [Kent.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.public|Kent.public]] 
 
-### [Kent.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.internal|Kent.internal]] 
 
-### [Kent.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.protect|Kent.protect]] 
 
-### [Kent.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.private|Kent.private]] 
 
-### [Kent.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.personal|Kent.personal]] 
 
-### [Kent.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent.secret|Kent.secret]] 
 

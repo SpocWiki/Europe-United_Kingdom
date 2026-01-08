@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Museum", "NaturalHistoryMuseumOfLondon: rxpg7"
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Natural_History_Museum,_London,309388]]"
+dv_museum-naturalhistorymuseumoflondon: rxpg7"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Natural_History_Museum,_London,309388]]"
+
 has_time_started: 1881-01-01 
 aliases:
   - British Museum (Natural History)
@@ -116,7 +122,7 @@ phone_number: +44-20-7942-5000
 IPv4_routing_prefix: 157.140.0.0/16
 IPv6_routing_prefix: 2001:630:101::/48
 EU_Participant_Identification_Code: 999642037
-Wolfram_Language_entity_code: Entity["Museum", "NaturalHistoryMuseumOfLondon::rxpg7"]
+Wolfram_Language_entity_code: Entity"Museum", "NaturalHistoryMuseumOfLondon = `=this.dv_"Museum", "NaturalHistoryMuseumOfLondon`
 Instagram_username: natural_history_museum
 Facebook_username: naturalhistorymuseum
 GitHub_username: NaturalHistoryMuseum
@@ -125,7 +131,7 @@ X_Twitter_username: NHM_London
 
 # [[Natural_History_Museum,London]] 
 
-#is_/same_as :: [[WD~Natural_History_Museum,_London,309388]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -187,4 +193,21 @@ X_Twitter_username: NHM_London
 > The two largest strategic groups are the Public Engagement Group and the Science Group.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Natural%20History%20Museum,%20London) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kensington/Natural_History_Museum,London|Natural_History_Museum,London]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kensington/Natural_History_Museum,London.public|Natural_History_Museum,London.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kensington/Natural_History_Museum,London.internal|Natural_History_Museum,London.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kensington/Natural_History_Museum,London.protect|Natural_History_Museum,London.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kensington/Natural_History_Museum,London.private|Natural_History_Museum,London.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kensington/Natural_History_Museum,London.personal|Natural_History_Museum,London.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Kensington/Natural_History_Museum,London.secret|Natural_History_Museum,London.secret]] 
 

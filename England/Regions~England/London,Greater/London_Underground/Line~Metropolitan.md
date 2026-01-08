@@ -87,17 +87,17 @@ FROM outgoing([[Line~Metropolitan]])
 
 ## Confidential Links & Embeds: 
 
-### [Line~Metropolitan](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Metropolitan|Line~Metropolitan]] 
 
-### [Line~Metropolitan.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Metropolitan.public|Line~Metropolitan.public]] 
 
-### [Line~Metropolitan.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Metropolitan.internal|Line~Metropolitan.internal]] 
 
-### [Line~Metropolitan.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Metropolitan.protect|Line~Metropolitan.protect]] 
 
-### [Line~Metropolitan.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Metropolitan.private|Line~Metropolitan.private]] 
 
-### [Line~Metropolitan.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Metropolitan.personal|Line~Metropolitan.personal]] 
 
-### [Line~Metropolitan.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Metropolitan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Metropolitan.secret|Line~Metropolitan.secret]] 
 

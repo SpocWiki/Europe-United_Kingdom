@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34304
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.55
+dv_has_place_latitude: 53.4
+dv_name: Skerries
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.55] 
-[has_place_latitude::53.4] 
-[name::Skerries] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Skerries](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries|Skerries]] 
 
-### [Skerries.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.public|Skerries.public]] 
 
-### [Skerries.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.internal|Skerries.internal]] 
 
-### [Skerries.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.protect|Skerries.protect]] 
 
-### [Skerries.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.private|Skerries.private]] 
 
-### [Skerries.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.personal|Skerries.personal]] 
 
-### [Skerries.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Anglesey-Isle/cities~Anglesey-Isle/Skerries.secret|Skerries.secret]] 
 

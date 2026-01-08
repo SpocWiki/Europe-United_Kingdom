@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32047
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.83
+dv_has_place_latitude: 52.67
+dv_name: Litchfield
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.83] 
-[has_place_latitude::52.67] 
-[name::Litchfield] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Litchfield](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield|Litchfield]] 
 
-### [Litchfield.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.public|Litchfield.public]] 
 
-### [Litchfield.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.internal|Litchfield.internal]] 
 
-### [Litchfield.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.protect|Litchfield.protect]] 
 
-### [Litchfield.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.private|Litchfield.private]] 
 
-### [Litchfield.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.personal|Litchfield.personal]] 
 
-### [Litchfield.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Staffordshire,County/cities~Staffordshire/Lichfield/cities~Lichfield/Litchfield.secret|Litchfield.secret]] 
 

@@ -14,17 +14,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [North_West_England](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England|North_West_England]] 
 
-### [North_West_England.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.public|North_West_England.public]] 
 
-### [North_West_England.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.internal|North_West_England.internal]] 
 
-### [North_West_England.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.protect|North_West_England.protect]] 
 
-### [North_West_England.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.private|North_West_England.private]] 
 
-### [North_West_England.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.personal|North_West_England.personal]] 
 
-### [North_West_England.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England.secret|North_West_England.secret]] 
 

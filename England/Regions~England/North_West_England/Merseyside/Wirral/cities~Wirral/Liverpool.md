@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.07
+dv_has_place_latitude: 53.4
+dv_name: Liverpool
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]"
+
 has_time_started: 1207-01-01 
 aliases:
   - Liverpool
@@ -95,17 +103,17 @@ FIPS_10_4_countries_and_regions_: UKH8
 # [[Liverpool]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.07] 
-[has_place_latitude::53.4] 
-[name::Liverpool] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -138,19 +146,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liverpool)
 
+
 ## Confidential Links & Embeds: 
 
-### [Liverpool](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool|Liverpool]] 
 
-### [Liverpool.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.public|Liverpool.public]] 
 
-### [Liverpool.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.internal|Liverpool.internal]] 
 
-### [Liverpool.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.protect|Liverpool.protect]] 
 
-### [Liverpool.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.private|Liverpool.private]] 
 
-### [Liverpool.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.personal|Liverpool.personal]] 
 
-### [Liverpool.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool.secret|Liverpool.secret]] 
 

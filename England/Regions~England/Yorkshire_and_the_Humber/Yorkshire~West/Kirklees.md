@@ -40,17 +40,17 @@ markerFolder: ./Kirklees/
 
 ## Confidential Links & Embeds: 
 
-### [Kirklees](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees|Kirklees]] 
 
-### [Kirklees.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.public|Kirklees.public]] 
 
-### [Kirklees.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.internal|Kirklees.internal]] 
 
-### [Kirklees.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.protect|Kirklees.protect]] 
 
-### [Kirklees.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.private|Kirklees.private]] 
 
-### [Kirklees.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.personal|Kirklees.personal]] 
 
-### [Kirklees.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Kirklees.secret|Kirklees.secret]] 
 

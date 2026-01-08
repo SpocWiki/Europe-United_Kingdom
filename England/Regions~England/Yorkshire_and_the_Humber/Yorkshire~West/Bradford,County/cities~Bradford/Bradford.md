@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29305
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.75
+dv_has_place_latitude: 53.8
+dv_name: Bradford
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.75] 
-[has_place_latitude::53.8] 
-[name::Bradford] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bradford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford|Bradford]] 
 
-### [Bradford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.public|Bradford.public]] 
 
-### [Bradford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.internal|Bradford.internal]] 
 
-### [Bradford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.protect|Bradford.protect]] 
 
-### [Bradford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.private|Bradford.private]] 
 
-### [Bradford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.personal|Bradford.personal]] 
 
-### [Bradford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford.secret|Bradford.secret]] 
 

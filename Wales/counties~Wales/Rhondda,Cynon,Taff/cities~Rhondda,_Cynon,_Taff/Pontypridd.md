@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33452
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.35
+dv_has_place_latitude: 51.58
+dv_name: Pontypridd
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.35] 
-[has_place_latitude::51.58] 
-[name::Pontypridd] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pontypridd](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd|Pontypridd]] 
 
-### [Pontypridd.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.public|Pontypridd.public]] 
 
-### [Pontypridd.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.internal|Pontypridd.internal]] 
 
-### [Pontypridd.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.protect|Pontypridd.protect]] 
 
-### [Pontypridd.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.private|Pontypridd.private]] 
 
-### [Pontypridd.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.personal|Pontypridd.personal]] 
 
-### [Pontypridd.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff/cities~Rhondda,_Cynon,_Taff/Pontypridd.secret|Pontypridd.secret]] 
 

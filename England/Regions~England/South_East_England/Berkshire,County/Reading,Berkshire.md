@@ -51,17 +51,17 @@ markerFolder: ./Reading/
 
 ## Confidential Links & Embeds: 
 
-### [Reading,Berkshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire|Reading,Berkshire]] 
 
-### [Reading,Berkshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.public|Reading,Berkshire.public]] 
 
-### [Reading,Berkshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.internal|Reading,Berkshire.internal]] 
 
-### [Reading,Berkshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.protect|Reading,Berkshire.protect]] 
 
-### [Reading,Berkshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.private|Reading,Berkshire.private]] 
 
-### [Reading,Berkshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.personal|Reading,Berkshire.personal]] 
 
-### [Reading,Berkshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Reading,Berkshire.secret|Reading,Berkshire.secret]] 
 

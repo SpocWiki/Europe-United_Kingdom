@@ -41,17 +41,17 @@ markerFolder: ./Milton_Keynes/
 
 ## Confidential Links & Embeds: 
 
-### [Milton_Keynes](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes|Milton_Keynes]] 
 
-### [Milton_Keynes.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.public|Milton_Keynes.public]] 
 
-### [Milton_Keynes.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.internal|Milton_Keynes.internal]] 
 
-### [Milton_Keynes.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.protect|Milton_Keynes.protect]] 
 
-### [Milton_Keynes.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.private|Milton_Keynes.private]] 
 
-### [Milton_Keynes.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.personal|Milton_Keynes.personal]] 
 
-### [Milton_Keynes.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Milton_Keynes.secret|Milton_Keynes.secret]] 
 

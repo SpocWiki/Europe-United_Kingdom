@@ -18,17 +18,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/ReadMe.secret|ReadMe.secret]] 
 

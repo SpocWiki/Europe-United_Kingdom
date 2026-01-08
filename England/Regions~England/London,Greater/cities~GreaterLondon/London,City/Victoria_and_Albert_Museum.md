@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Building", "VictoriaAndAlbertMuseum: hpy3y"
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Victoria_and_Albert_Museum,213322|WD~Victoria_and_Albert_Museum,213322]]"
+dv_building-victoriaandalbertmuseum: hpy3y"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Victoria_and_Albert_Museum,213322|WD~Victoria_and_Albert_Museum,213322]]"
+
 has_time_started: 1852-01-01 
 aliases:
 has_id_wikidata: Q213322
@@ -88,7 +94,7 @@ ISNI:
   - 000000012207309X
   - "0000000123230472"
 P1015: "1542229200035"
-Wolfram_Language_entity_code: Entity["Building", "VictoriaAndAlbertMuseum::hpy3y"]
+Wolfram_Language_entity_code: Entity"Building", "VictoriaAndAlbertMuseum = `=this.dv_"Building", "VictoriaAndAlbertMuseum`
 X_Twitter_username:
   - v_and_a
   - V_and_A
@@ -99,7 +105,7 @@ street_address: Cromwell Gardens
 
 # [[Victoria_and_Albert_Museum]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Victoria_and_Albert_Museum,213322|WD~Victoria_and_Albert_Museum,213322]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -117,4 +123,21 @@ street_address: Cromwell Gardens
 > Since 2001 the museum has embarked on a major £150m renovation programme. The new European galleries for the 17th century and the 18th century were opened on 9 December 2015. These restored the original Aston Webb interiors and host the European collections 1600–1815.  The Young V&A in east London is a branch of the museum, and a new branch in London – V&A East – is being planned. The first V&A museum outside London, V&A Dundee opened on 15 September 2018.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Victoria%20and%20Albert%20Museum) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Victoria_and_Albert_Museum|Victoria_and_Albert_Museum]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Victoria_and_Albert_Museum.public|Victoria_and_Albert_Museum.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Victoria_and_Albert_Museum.internal|Victoria_and_Albert_Museum.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Victoria_and_Albert_Museum.protect|Victoria_and_Albert_Museum.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Victoria_and_Albert_Museum.private|Victoria_and_Albert_Museum.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Victoria_and_Albert_Museum.personal|Victoria_and_Albert_Museum.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/Victoria_and_Albert_Museum.secret|Victoria_and_Albert_Museum.secret]] 
 

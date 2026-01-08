@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [South_West_England](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England|South_West_England]] 
 
-### [South_West_England.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.public|South_West_England.public]] 
 
-### [South_West_England.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.internal|South_West_England.internal]] 
 
-### [South_West_England.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.protect|South_West_England.protect]] 
 
-### [South_West_England.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.private|South_West_England.private]] 
 
-### [South_West_England.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.personal|South_West_England.personal]] 
 
-### [South_West_England.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England.secret|South_West_England.secret]] 
 

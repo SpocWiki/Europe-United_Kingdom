@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29043
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.35
+dv_has_place_latitude: 51.35
+dv_name: Bath
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.35] 
-[has_place_latitude::51.35] 
-[name::Bath] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bath](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath|Bath]] 
 
-### [Bath.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.public|Bath.public]] 
 
-### [Bath.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.internal|Bath.internal]] 
 
-### [Bath.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.protect|Bath.protect]] 
 
-### [Bath.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.private|Bath.private]] 
 
-### [Bath.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.personal|Bath.personal]] 
 
-### [Bath.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bath-North_East_Somerset/cities~Bath/Bath.secret|Bath.secret]] 
 

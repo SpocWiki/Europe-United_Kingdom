@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35431
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.82
+dv_has_place_latitude: 52.82
+dv_name: Waltham
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.82] 
-[has_place_latitude::52.82] 
-[name::Waltham] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waltham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham|Waltham]] 
 
-### [Waltham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.public|Waltham.public]] 
 
-### [Waltham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.internal|Waltham.internal]] 
 
-### [Waltham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.protect|Waltham.protect]] 
 
-### [Waltham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.private|Waltham.private]] 
 
-### [Waltham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.personal|Waltham.personal]] 
 
-### [Waltham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Melton/cities~Melton/Waltham.secret|Waltham.secret]] 
 

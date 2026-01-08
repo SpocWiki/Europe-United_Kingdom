@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29008
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.13
+dv_has_place_latitude: 53.22
+dv_name: Bangor
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.13] 
-[has_place_latitude::53.22] 
-[name::Bangor] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bangor](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor|Bangor]] 
 
-### [Bangor.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.public|Bangor.public]] 
 
-### [Bangor.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.internal|Bangor.internal]] 
 
-### [Bangor.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.protect|Bangor.protect]] 
 
-### [Bangor.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.private|Bangor.private]] 
 
-### [Bangor.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.personal|Bangor.personal]] 
 
-### [Bangor.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd/cities~Gwynedd/Bangor.secret|Bangor.secret]] 
 

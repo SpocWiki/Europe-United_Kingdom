@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.83
+dv_has_place_latitude: 52.5
+dv_name: Birmingham
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Birmingham,2256|WD~Birmingham,2256]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Birmingham,2256|WD~Birmingham,2256]]"
+
 has_time_started: 0601-01-01 
 location:
   - 52.5
@@ -118,16 +126,16 @@ official_name: Birmingham
 # [[Birmingham,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.83] 
-[has_place_latitude::52.5] 
-[name::Birmingham] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Birmingham,2256|WD~Birmingham,2256]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -142,17 +150,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Birmingham,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City|Birmingham,City]] 
 
-### [Birmingham,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.public|Birmingham,City.public]] 
 
-### [Birmingham,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.internal|Birmingham,City.internal]] 
 
-### [Birmingham,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.protect|Birmingham,City.protect]] 
 
-### [Birmingham,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.private|Birmingham,City.private]] 
 
-### [Birmingham,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.personal|Birmingham,City.personal]] 
 
-### [Birmingham,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City.secret|Birmingham,City.secret]] 
 

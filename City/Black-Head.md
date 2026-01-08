@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29215
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.9
+dv_has_place_latitude: 50.02
+dv_name: Black-Head
+dv_Country: "[[../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.9] 
-[has_place_latitude::50.02] 
-[name::Black-Head] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Black-Head](/_Standards/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/City/Black-Head|Black-Head]] 
 
-### [Black-Head.public](/_public/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.public|Black-Head.public]] 
 
-### [Black-Head.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.internal|Black-Head.internal]] 
 
-### [Black-Head.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.protect|Black-Head.protect]] 
 
-### [Black-Head.private](/_private/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.private|Black-Head.private]] 
 
-### [Black-Head.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.personal|Black-Head.personal]] 
 
-### [Black-Head.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/City/Black-Head.secret|Black-Head.secret]] 
 

@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Greater_London,23306]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Greater_London,23306]]"
+
 has_time_started: 1965-04-01 
 aliases:
   - Greater London
@@ -111,7 +115,7 @@ official_name: Greater London
 
 # [[London,Greater]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Greater_London,23306]]
+is_same_as = `=this.dv_is_same_as`
 
 Describes [[London,Greater/cities~GreaterLondon/London,City|London,City]] and surrounding Area.
 
@@ -152,17 +156,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [London,Greater](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater|London,Greater]] 
 
-### [London,Greater.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.public|London,Greater.public]] 
 
-### [London,Greater.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.internal|London,Greater.internal]] 
 
-### [London,Greater.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.protect|London,Greater.protect]] 
 
-### [London,Greater.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.private|London,Greater.private]] 
 
-### [London,Greater.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.personal|London,Greater.personal]] 
 
-### [London,Greater.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater.secret|London,Greater.secret]] 
 

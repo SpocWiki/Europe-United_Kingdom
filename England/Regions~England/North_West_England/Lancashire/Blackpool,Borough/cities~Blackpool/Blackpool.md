@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29217
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.05
+dv_has_place_latitude: 53.82
+dv_name: Blackpool
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.05] 
-[has_place_latitude::53.82] 
-[name::Blackpool] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blackpool](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool|Blackpool]] 
 
-### [Blackpool.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.public|Blackpool.public]] 
 
-### [Blackpool.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.internal|Blackpool.internal]] 
 
-### [Blackpool.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.protect|Blackpool.protect]] 
 
-### [Blackpool.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.private|Blackpool.private]] 
 
-### [Blackpool.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.personal|Blackpool.personal]] 
 
-### [Blackpool.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackpool,Borough/cities~Blackpool/Blackpool.secret|Blackpool.secret]] 
 

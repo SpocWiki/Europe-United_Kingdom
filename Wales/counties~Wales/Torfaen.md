@@ -40,17 +40,17 @@ markerFolder: ./Torfaen/
 
 ## Confidential Links & Embeds: 
 
-### [Torfaen](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen|Torfaen]] 
 
-### [Torfaen.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.public|Torfaen.public]] 
 
-### [Torfaen.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.internal|Torfaen.internal]] 
 
-### [Torfaen.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.protect|Torfaen.protect]] 
 
-### [Torfaen.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.private|Torfaen.private]] 
 
-### [Torfaen.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.personal|Torfaen.personal]] 
 
-### [Torfaen.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Torfaen.secret|Torfaen.secret]] 
 

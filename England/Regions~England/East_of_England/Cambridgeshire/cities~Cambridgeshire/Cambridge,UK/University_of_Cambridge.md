@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"University", "UniversityOfCambridge: bb6jn"
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~University_of_Cambridge,35794|WD~University_of_Cambridge,35794]]"
+dv_university-universityofcambridge: bb6jn"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~University_of_Cambridge,35794|WD~University_of_Cambridge,35794]]"
+
 has_time_started: 1209-01-01 
 aliases:
 has_id_wikidata: Q35794
@@ -106,7 +112,7 @@ GitHub_topic: cambridge-university
 Facebook_username: cambridge.university
 Instagram_username: cambridgeuniversity
 postal_code: CB2 1TN
-Wolfram_Language_entity_code: Entity["University", "UniversityOfCambridge::bb6jn"]
+Wolfram_Language_entity_code: Entity"University", "UniversityOfCambridge = `=this.dv_"University", "UniversityOfCambridge`
 EU_VAT_number: GB823847609
 street_address: University of Cambridge, Vice Chancellor's Office, University Offices, The Old Schools, Cambridge, CB2 1TN
 motto_text: Hinc lucem et pocula sacra
@@ -153,7 +159,7 @@ X_Twitter_username: Cambridge_Uni
 
 # [[University_of_Cambridge]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~University_of_Cambridge,35794|WD~University_of_Cambridge,35794]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -176,4 +182,21 @@ X_Twitter_username: Cambridge_Uni
 > Among the university's notable alumni are Francis Bacon, Lord Byron, Oliver Cromwell, Charles Darwin, Rajiv Gandhi, John Harvard, Stephen Hawking, John Maynard Keynes, John Milton, Vladimir Nabokov, Jawaharlal Nehru, Isaac Newton, Salman Rushdie, Bertrand Russell, Alan Turing, Ludwig Wittgenstein, and 194 Olympic medal-winning athletes. Its alumni, academics, and affiliates have won 126 Nobel Prizes.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Cambridge) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK/University_of_Cambridge|University_of_Cambridge]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK/University_of_Cambridge.public|University_of_Cambridge.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK/University_of_Cambridge.internal|University_of_Cambridge.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK/University_of_Cambridge.protect|University_of_Cambridge.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK/University_of_Cambridge.private|University_of_Cambridge.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK/University_of_Cambridge.personal|University_of_Cambridge.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK/University_of_Cambridge.secret|University_of_Cambridge.secret]] 
 

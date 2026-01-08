@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30372
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.6
+dv_has_place_latitude: 54.97
+dv_name: Gateshead
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.6] 
-[has_place_latitude::54.97] 
-[name::Gateshead] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gateshead](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead|Gateshead]] 
 
-### [Gateshead.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.public|Gateshead.public]] 
 
-### [Gateshead.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.internal|Gateshead.internal]] 
 
-### [Gateshead.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.protect|Gateshead.protect]] 
 
-### [Gateshead.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.private|Gateshead.private]] 
 
-### [Gateshead.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.personal|Gateshead.personal]] 
 
-### [Gateshead.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Gateshead.secret|Gateshead.secret]] 
 

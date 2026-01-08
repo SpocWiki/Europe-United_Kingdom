@@ -41,17 +41,17 @@ markerFolder: ./Rhondda,_Cynon,_Taff/
 
 ## Confidential Links & Embeds: 
 
-### [Rhondda,Cynon,Taff](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff|Rhondda,Cynon,Taff]] 
 
-### [Rhondda,Cynon,Taff.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.public|Rhondda,Cynon,Taff.public]] 
 
-### [Rhondda,Cynon,Taff.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.internal|Rhondda,Cynon,Taff.internal]] 
 
-### [Rhondda,Cynon,Taff.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.protect|Rhondda,Cynon,Taff.protect]] 
 
-### [Rhondda,Cynon,Taff.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.private|Rhondda,Cynon,Taff.private]] 
 
-### [Rhondda,Cynon,Taff.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.personal|Rhondda,Cynon,Taff.personal]] 
 
-### [Rhondda,Cynon,Taff.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Rhondda,Cynon,Taff.secret|Rhondda,Cynon,Taff.secret]] 
 

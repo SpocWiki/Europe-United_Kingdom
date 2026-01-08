@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29419
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.25
+dv_has_place_latitude: 53.77
+dv_name: Burnley
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.25] 
-[has_place_latitude::53.77] 
-[name::Burnley] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Burnley](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley|Burnley]] 
 
-### [Burnley.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.public|Burnley.public]] 
 
-### [Burnley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.internal|Burnley.internal]] 
 
-### [Burnley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.protect|Burnley.protect]] 
 
-### [Burnley.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.private|Burnley.private]] 
 
-### [Burnley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.personal|Burnley.personal]] 
 
-### [Burnley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Burnley/cities~Burnley/Burnley.secret|Burnley.secret]] 
 

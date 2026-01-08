@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34448
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -5.27
+dv_has_place_latitude: 51.88
+dv_name: St.David
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-5.27] 
-[has_place_latitude::51.88] 
-[name::St.David] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.David](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David|St.David]] 
 
-### [St.David.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.public|St.David.public]] 
 
-### [St.David.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.internal|St.David.internal]] 
 
-### [St.David.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.protect|St.David.protect]] 
 
-### [St.David.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.private|St.David.private]] 
 
-### [St.David.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.personal|St.David.personal]] 
 
-### [St.David.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/St.David.secret|St.David.secret]] 
 

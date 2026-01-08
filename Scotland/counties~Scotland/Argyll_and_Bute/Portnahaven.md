@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33479
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.58
+dv_has_place_latitude: 55.68
+dv_name: Portnahaven
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.58] 
-[has_place_latitude::55.68] 
-[name::Portnahaven] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Portnahaven](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven|Portnahaven]] 
 
-### [Portnahaven.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.public|Portnahaven.public]] 
 
-### [Portnahaven.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.internal|Portnahaven.internal]] 
 
-### [Portnahaven.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.protect|Portnahaven.protect]] 
 
-### [Portnahaven.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.private|Portnahaven.private]] 
 
-### [Portnahaven.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.personal|Portnahaven.personal]] 
 
-### [Portnahaven.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute/Portnahaven.secret|Portnahaven.secret]] 
 

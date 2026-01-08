@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32202
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.13
+dv_has_place_latitude: 53.27
+dv_name: Macclesfield
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.13] 
-[has_place_latitude::53.27] 
-[name::Macclesfield] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Macclesfield](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield|Macclesfield]] 
 
-### [Macclesfield.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.public|Macclesfield.public]] 
 
-### [Macclesfield.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.internal|Macclesfield.internal]] 
 
-### [Macclesfield.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.protect|Macclesfield.protect]] 
 
-### [Macclesfield.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.private|Macclesfield.private]] 
 
-### [Macclesfield.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.personal|Macclesfield.personal]] 
 
-### [Macclesfield.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East/cities~Cheshire-East/Macclesfield.secret|Macclesfield.secret]] 
 

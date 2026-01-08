@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29686
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.45
+dv_has_place_latitude: 55.72
+dv_name: Cumray
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.45] 
-[has_place_latitude::55.72] 
-[name::Cumray] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cumray](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray|Cumray]] 
 
-### [Cumray.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.public|Cumray.public]] 
 
-### [Cumray.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.internal|Cumray.internal]] 
 
-### [Cumray.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.protect|Cumray.protect]] 
 
-### [Cumray.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.private|Cumray.private]] 
 
-### [Cumray.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.personal|Cumray.personal]] 
 
-### [Cumray.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~East/cities~Ayrshire~East/Cumray.secret|Cumray.secret]] 
 

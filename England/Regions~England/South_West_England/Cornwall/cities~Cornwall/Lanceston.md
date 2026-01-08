@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31798
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.37
+dv_has_place_latitude: 50.6
+dv_name: Lanceston
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.37] 
-[has_place_latitude::50.6] 
-[name::Lanceston] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lanceston](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston|Lanceston]] 
 
-### [Lanceston.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.public|Lanceston.public]] 
 
-### [Lanceston.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.internal|Lanceston.internal]] 
 
-### [Lanceston.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.protect|Lanceston.protect]] 
 
-### [Lanceston.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.private|Lanceston.private]] 
 
-### [Lanceston.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.personal|Lanceston.personal]] 
 
-### [Lanceston.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall/cities~Cornwall/Lanceston.secret|Lanceston.secret]] 
 

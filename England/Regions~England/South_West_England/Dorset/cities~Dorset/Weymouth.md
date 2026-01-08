@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35585
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.45
+dv_has_place_latitude: 50.6
+dv_name: Weymouth
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.45] 
-[has_place_latitude::50.6] 
-[name::Weymouth] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weymouth](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth|Weymouth]] 
 
-### [Weymouth.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.public|Weymouth.public]] 
 
-### [Weymouth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.internal|Weymouth.internal]] 
 
-### [Weymouth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.protect|Weymouth.protect]] 
 
-### [Weymouth.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.private|Weymouth.private]] 
 
-### [Weymouth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.personal|Weymouth.personal]] 
 
-### [Weymouth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/cities~Dorset/Weymouth.secret|Weymouth.secret]] 
 

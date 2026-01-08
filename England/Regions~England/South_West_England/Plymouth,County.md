@@ -41,17 +41,17 @@ markerFolder: ./Plymouth/
 
 ## Confidential Links & Embeds: 
 
-### [Plymouth,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County|Plymouth,County]] 
 
-### [Plymouth,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.public|Plymouth,County.public]] 
 
-### [Plymouth,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.internal|Plymouth,County.internal]] 
 
-### [Plymouth,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.protect|Plymouth,County.protect]] 
 
-### [Plymouth,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.private|Plymouth,County.private]] 
 
-### [Plymouth,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.personal|Plymouth,County.personal]] 
 
-### [Plymouth,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Plymouth,County.secret|Plymouth,County.secret]] 
 

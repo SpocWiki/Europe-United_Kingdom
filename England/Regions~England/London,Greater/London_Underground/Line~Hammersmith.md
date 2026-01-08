@@ -81,17 +81,17 @@ FROM outgoing([[Line~Hammersmith]])
 
 ## Confidential Links & Embeds: 
 
-### [Line~Hammersmith](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Hammersmith.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Hammersmith|Line~Hammersmith]] 
 
-### [Line~Hammersmith.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Hammersmith.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Hammersmith.public|Line~Hammersmith.public]] 
 
-### [Line~Hammersmith.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Hammersmith.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Hammersmith.internal|Line~Hammersmith.internal]] 
 
-### [Line~Hammersmith.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Hammersmith.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Hammersmith.protect|Line~Hammersmith.protect]] 
 
-### [Line~Hammersmith.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Hammersmith.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Hammersmith.private|Line~Hammersmith.private]] 
 
-### [Line~Hammersmith.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Hammersmith.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Hammersmith.personal|Line~Hammersmith.personal]] 
 
-### [Line~Hammersmith.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Hammersmith.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Hammersmith.secret|Line~Hammersmith.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32203
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.5
+dv_has_place_latitude: 57.67
+dv_name: Macduff
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.5] 
-[has_place_latitude::57.67] 
-[name::Macduff] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Macduff](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff|Macduff]] 
 
-### [Macduff.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.public|Macduff.public]] 
 
-### [Macduff.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.internal|Macduff.internal]] 
 
-### [Macduff.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.protect|Macduff.protect]] 
 
-### [Macduff.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.private|Macduff.private]] 
 
-### [Macduff.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.personal|Macduff.personal]] 
 
-### [Macduff.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire/cities~Aberdeenshire/Macduff.secret|Macduff.secret]] 
 

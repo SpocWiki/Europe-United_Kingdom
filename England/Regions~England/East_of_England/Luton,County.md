@@ -41,17 +41,17 @@ markerFolder: ./Luton/
 
 ## Confidential Links & Embeds: 
 
-### [Luton,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County|Luton,County]] 
 
-### [Luton,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.public|Luton,County.public]] 
 
-### [Luton,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.internal|Luton,County.internal]] 
 
-### [Luton,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.protect|Luton,County.protect]] 
 
-### [Luton,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.private|Luton,County.private]] 
 
-### [Luton,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.personal|Luton,County.personal]] 
 
-### [Luton,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Luton,County.secret|Luton,County.secret]] 
 

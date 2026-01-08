@@ -40,17 +40,17 @@ markerFolder: ./Somerset/
 
 ## Confidential Links & Embeds: 
 
-### [Somerset](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset|Somerset]] 
 
-### [Somerset.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.public|Somerset.public]] 
 
-### [Somerset.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.internal|Somerset.internal]] 
 
-### [Somerset.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.protect|Somerset.protect]] 
 
-### [Somerset.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.private|Somerset.private]] 
 
-### [Somerset.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.personal|Somerset.personal]] 
 
-### [Somerset.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset.secret|Somerset.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31456
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.58
+dv_has_place_latitude: 54.2
+dv_name: Kirkly
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.58] 
-[has_place_latitude::54.2] 
-[name::Kirkly] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirkly](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly|Kirkly]] 
 
-### [Kirkly.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.public|Kirkly.public]] 
 
-### [Kirkly.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.internal|Kirkly.internal]] 
 
-### [Kirkly.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.protect|Kirkly.protect]] 
 
-### [Kirkly.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.private|Kirkly.private]] 
 
-### [Kirkly.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.personal|Kirkly.personal]] 
 
-### [Kirkly.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/South-Lakeland/cities~SouthLakeland/Kirkly.secret|Kirkly.secret]] 
 

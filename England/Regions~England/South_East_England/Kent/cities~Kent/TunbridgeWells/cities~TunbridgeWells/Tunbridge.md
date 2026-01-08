@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35042
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.27
+dv_has_place_latitude: 51.13
+dv_name: Tunbridge
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.27] 
-[has_place_latitude::51.13] 
-[name::Tunbridge] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tunbridge](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge|Tunbridge]] 
 
-### [Tunbridge.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.public|Tunbridge.public]] 
 
-### [Tunbridge.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.internal|Tunbridge.internal]] 
 
-### [Tunbridge.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.protect|Tunbridge.protect]] 
 
-### [Tunbridge.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.private|Tunbridge.private]] 
 
-### [Tunbridge.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.personal|Tunbridge.personal]] 
 
-### [Tunbridge.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/TunbridgeWells/cities~TunbridgeWells/Tunbridge.secret|Tunbridge.secret]] 
 

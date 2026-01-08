@@ -41,17 +41,17 @@ markerFolder: ./Wolverhampton/
 
 ## Confidential Links & Embeds: 
 
-### [Wolverhampton,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County|Wolverhampton,County]] 
 
-### [Wolverhampton,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.public|Wolverhampton,County.public]] 
 
-### [Wolverhampton,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.internal|Wolverhampton,County.internal]] 
 
-### [Wolverhampton,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.protect|Wolverhampton,County.protect]] 
 
-### [Wolverhampton,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.private|Wolverhampton,County.private]] 
 
-### [Wolverhampton,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.personal|Wolverhampton,County.personal]] 
 
-### [Wolverhampton,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Wolverhampton,County.secret|Wolverhampton,County.secret]] 
 

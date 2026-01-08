@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29482
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.2
+dv_has_place_latitude: 51.49
+dv_name: Cardiff
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.2] 
-[has_place_latitude::51.49] 
-[name::Cardiff] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cardiff,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City|Cardiff,City]] 
 
-### [Cardiff,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.public|Cardiff,City.public]] 
 
-### [Cardiff,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.internal|Cardiff,City.internal]] 
 
-### [Cardiff,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.protect|Cardiff,City.protect]] 
 
-### [Cardiff,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.private|Cardiff,City.private]] 
 
-### [Cardiff,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.personal|Cardiff,City.personal]] 
 
-### [Cardiff,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Cardiff,City.secret|Cardiff,City.secret]] 
 

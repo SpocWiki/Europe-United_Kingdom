@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33476
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.47
+dv_has_place_latitude: 54.87
+dv_name: Portglenone
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.47] 
-[has_place_latitude::54.87] 
-[name::Portglenone] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Portglenone](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone|Portglenone]] 
 
-### [Portglenone.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.public|Portglenone.public]] 
 
-### [Portglenone.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.internal|Portglenone.internal]] 
 
-### [Portglenone.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.protect|Portglenone.protect]] 
 
-### [Portglenone.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.private|Portglenone.private]] 
 
-### [Portglenone.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.personal|Portglenone.personal]] 
 
-### [Portglenone.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena/cities~Ballymena/Portglenone.secret|Portglenone.secret]] 
 

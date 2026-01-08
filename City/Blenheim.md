@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29232
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -5.07
+dv_has_place_latitude: 50.02
+dv_name: Blenheim
+dv_Country: "[[../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-5.07] 
-[has_place_latitude::50.02] 
-[name::Blenheim] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blenheim](/_Standards/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/City/Blenheim|Blenheim]] 
 
-### [Blenheim.public](/_public/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.public|Blenheim.public]] 
 
-### [Blenheim.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.internal|Blenheim.internal]] 
 
-### [Blenheim.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.protect|Blenheim.protect]] 
 
-### [Blenheim.private](/_private/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.private|Blenheim.private]] 
 
-### [Blenheim.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.personal|Blenheim.personal]] 
 
-### [Blenheim.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/City/Blenheim.secret|Blenheim.secret]] 
 

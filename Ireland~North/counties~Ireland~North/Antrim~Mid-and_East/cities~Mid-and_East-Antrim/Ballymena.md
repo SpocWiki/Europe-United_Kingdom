@@ -40,17 +40,17 @@ markerFolder: ./Ballymena/
 
 ## Confidential Links & Embeds: 
 
-### [Ballymena](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena|Ballymena]] 
 
-### [Ballymena.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.public|Ballymena.public]] 
 
-### [Ballymena.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.internal|Ballymena.internal]] 
 
-### [Ballymena.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.protect|Ballymena.protect]] 
 
-### [Ballymena.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.private|Ballymena.private]] 
 
-### [Ballymena.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.personal|Ballymena.personal]] 
 
-### [Ballymena.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Ballymena.secret|Ballymena.secret]] 
 

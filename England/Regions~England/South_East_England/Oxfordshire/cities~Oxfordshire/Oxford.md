@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.25
+dv_has_place_latitude: 51.77
+dv_name: Oxford
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Oxford,34217]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Oxford,34217]]"
+
 has_time_started: 1000-01-01 
 aliases:
   - Oxford
@@ -106,15 +114,15 @@ nickname: The City of Dreaming Spires
 # [[Oxford]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.25] 
-[has_place_latitude::51.77] 
-[name::Oxford] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Oxford,34217]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -150,19 +158,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oxford)
 
+
 ## Confidential Links & Embeds: 
 
-### [Oxford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford|Oxford]] 
 
-### [Oxford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford.public|Oxford.public]] 
 
-### [Oxford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford.internal|Oxford.internal]] 
 
-### [Oxford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford.protect|Oxford.protect]] 
 
-### [Oxford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford.private|Oxford.private]] 
 
-### [Oxford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford.personal|Oxford.personal]] 
 
-### [Oxford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/cities~Oxford/Oxford.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford.secret|Oxford.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Dorset/
 
 ## Confidential Links & Embeds: 
 
-### [Dorset](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset|Dorset]] 
 
-### [Dorset.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.public|Dorset.public]] 
 
-### [Dorset.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.internal|Dorset.internal]] 
 
-### [Dorset.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.protect|Dorset.protect]] 
 
-### [Dorset.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.private|Dorset.private]] 
 
-### [Dorset.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.personal|Dorset.personal]] 
 
-### [Dorset.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset.secret|Dorset.secret]] 
 

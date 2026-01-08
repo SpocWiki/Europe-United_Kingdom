@@ -41,17 +41,17 @@ markerFolder: ./Dumfries_and_Galloway/
 
 ## Confidential Links & Embeds: 
 
-### [Dumfries_and_Galloway](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway|Dumfries_and_Galloway]] 
 
-### [Dumfries_and_Galloway.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.public|Dumfries_and_Galloway.public]] 
 
-### [Dumfries_and_Galloway.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.internal|Dumfries_and_Galloway.internal]] 
 
-### [Dumfries_and_Galloway.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.protect|Dumfries_and_Galloway.protect]] 
 
-### [Dumfries_and_Galloway.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.private|Dumfries_and_Galloway.private]] 
 
-### [Dumfries_and_Galloway.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.personal|Dumfries_and_Galloway.personal]] 
 
-### [Dumfries_and_Galloway.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway.secret|Dumfries_and_Galloway.secret]] 
 

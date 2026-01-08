@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32357
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.55
+dv_has_place_latitude: 56.18
+dv_name: May
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.55] 
-[has_place_latitude::56.18] 
-[name::May] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Isle~May](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May|Isle~May]] 
 
-### [Isle~May.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.public|Isle~May.public]] 
 
-### [Isle~May.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.internal|Isle~May.internal]] 
 
-### [Isle~May.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.protect|Isle~May.protect]] 
 
-### [Isle~May.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.private|Isle~May.private]] 
 
-### [Isle~May.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.personal|Isle~May.personal]] 
 
-### [Isle~May.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/Isle~May.secret|Isle~May.secret]] 
 

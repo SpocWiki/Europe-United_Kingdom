@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34446
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.3
+dv_has_place_latitude: 50.6
+dv_name: St.Catherines Point
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.3] 
-[has_place_latitude::50.6] 
-[name::St.Catherines Point] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Catherines_Point](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point|St.Catherines_Point]] 
 
-### [St.Catherines_Point.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.public|St.Catherines_Point.public]] 
 
-### [St.Catherines_Point.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.internal|St.Catherines_Point.internal]] 
 
-### [St.Catherines_Point.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.protect|St.Catherines_Point.protect]] 
 
-### [St.Catherines_Point.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.private|St.Catherines_Point.private]] 
 
-### [St.Catherines_Point.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.personal|St.Catherines_Point.personal]] 
 
-### [St.Catherines_Point.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/St.Catherines_Point.secret|St.Catherines_Point.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Wokingham/
 
 ## Confidential Links & Embeds: 
 
-### [Wokingham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham|Wokingham]] 
 
-### [Wokingham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.public|Wokingham.public]] 
 
-### [Wokingham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.internal|Wokingham.internal]] 
 
-### [Wokingham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.protect|Wokingham.protect]] 
 
-### [Wokingham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.private|Wokingham.private]] 
 
-### [Wokingham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.personal|Wokingham.personal]] 
 
-### [Wokingham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Wokingham.secret|Wokingham.secret]] 
 

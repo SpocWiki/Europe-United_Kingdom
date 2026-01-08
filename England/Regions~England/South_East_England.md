@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [South_East_England](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England|South_East_England]] 
 
-### [South_East_England.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.public|South_East_England.public]] 
 
-### [South_East_England.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.internal|South_East_England.internal]] 
 
-### [South_East_England.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.protect|South_East_England.protect]] 
 
-### [South_East_England.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.private|South_East_England.private]] 
 
-### [South_East_England.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.personal|South_East_England.personal]] 
 
-### [South_East_England.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England.secret|South_East_England.secret]] 
 

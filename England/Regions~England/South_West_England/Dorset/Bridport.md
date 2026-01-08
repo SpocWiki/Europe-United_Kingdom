@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29350
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.77
+dv_has_place_latitude: 50.7
+dv_name: Bridport
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.77] 
-[has_place_latitude::50.7] 
-[name::Bridport] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bridport](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport|Bridport]] 
 
-### [Bridport.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.public|Bridport.public]] 
 
-### [Bridport.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.internal|Bridport.internal]] 
 
-### [Bridport.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.protect|Bridport.protect]] 
 
-### [Bridport.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.private|Bridport.private]] 
 
-### [Bridport.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.personal|Bridport.personal]] 
 
-### [Bridport.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Bridport.secret|Bridport.secret]] 
 

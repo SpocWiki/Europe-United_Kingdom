@@ -40,17 +40,17 @@ markerFolder: ./Cumbria/
 
 ## Confidential Links & Embeds: 
 
-### [Cumbria](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria|Cumbria]] 
 
-### [Cumbria.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.public|Cumbria.public]] 
 
-### [Cumbria.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.internal|Cumbria.internal]] 
 
-### [Cumbria.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.protect|Cumbria.protect]] 
 
-### [Cumbria.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.private|Cumbria.private]] 
 
-### [Cumbria.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.personal|Cumbria.personal]] 
 
-### [Cumbria.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria.secret|Cumbria.secret]] 
 

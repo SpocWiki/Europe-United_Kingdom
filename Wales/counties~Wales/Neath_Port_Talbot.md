@@ -41,17 +41,17 @@ markerFolder: ./Neath_Port_Talbot/
 
 ## Confidential Links & Embeds: 
 
-### [Neath_Port_Talbot](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot|Neath_Port_Talbot]] 
 
-### [Neath_Port_Talbot.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.public|Neath_Port_Talbot.public]] 
 
-### [Neath_Port_Talbot.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.internal|Neath_Port_Talbot.internal]] 
 
-### [Neath_Port_Talbot.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.protect|Neath_Port_Talbot.protect]] 
 
-### [Neath_Port_Talbot.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.private|Neath_Port_Talbot.private]] 
 
-### [Neath_Port_Talbot.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.personal|Neath_Port_Talbot.personal]] 
 
-### [Neath_Port_Talbot.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Neath_Port_Talbot.secret|Neath_Port_Talbot.secret]] 
 

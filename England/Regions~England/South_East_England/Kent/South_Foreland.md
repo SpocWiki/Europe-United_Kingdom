@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34391
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.37
+dv_has_place_latitude: 51.13
+dv_name: South Foreland
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.37] 
-[has_place_latitude::51.13] 
-[name::South Foreland] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [South_Foreland](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland|South_Foreland]] 
 
-### [South_Foreland.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.public|South_Foreland.public]] 
 
-### [South_Foreland.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.internal|South_Foreland.internal]] 
 
-### [South_Foreland.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.protect|South_Foreland.protect]] 
 
-### [South_Foreland.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.private|South_Foreland.private]] 
 
-### [South_Foreland.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.personal|South_Foreland.personal]] 
 
-### [South_Foreland.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/South_Foreland.secret|South_Foreland.secret]] 
 

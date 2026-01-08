@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29484
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.92
+dv_has_place_latitude: 54.88
+dv_name: Carlisle
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.92] 
-[has_place_latitude::54.88] 
-[name::Carlisle] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carlisle](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle|Carlisle]] 
 
-### [Carlisle.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.public|Carlisle.public]] 
 
-### [Carlisle.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.internal|Carlisle.internal]] 
 
-### [Carlisle.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.protect|Carlisle.protect]] 
 
-### [Carlisle.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.private|Carlisle.private]] 
 
-### [Carlisle.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.personal|Carlisle.personal]] 
 
-### [Carlisle.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Carlisle.secret|Carlisle.secret]] 
 

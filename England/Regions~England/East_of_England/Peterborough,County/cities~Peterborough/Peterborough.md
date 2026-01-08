@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33321
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.28
+dv_has_place_latitude: 52.6
+dv_name: Peterborough
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.28] 
-[has_place_latitude::52.6] 
-[name::Peterborough] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peterborough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough|Peterborough]] 
 
-### [Peterborough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.public|Peterborough.public]] 
 
-### [Peterborough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.internal|Peterborough.internal]] 
 
-### [Peterborough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.protect|Peterborough.protect]] 
 
-### [Peterborough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.private|Peterborough.private]] 
 
-### [Peterborough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.personal|Peterborough.personal]] 
 
-### [Peterborough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Peterborough,County/cities~Peterborough/Peterborough.secret|Peterborough.secret]] 
 

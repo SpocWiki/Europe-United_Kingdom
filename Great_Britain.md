@@ -4,34 +4,34 @@ aliases:
   - Great_Britain
 has_id_wikidata: Q23666
 located_in_or_next_to_body_of_water:
-  - '[[_Standards/WikiData/WD~Celtic_Sea,81499]]'
-  - '[[_Standards/WikiData/WD~Sea_of_the_Hebrides,1971856]]'
-  - '[[_Standards/WikiData/WD~North_Sea,1693]]'
-  - '[[_Standards/WikiData/WD~Irish_Sea,41735]]'
-highest_point: '[[_Standards/WikiData/WD~Ben_Nevis,104674]]'
+  - "[[_Standards/WikiData/WD~Celtic_Sea,81499]]"
+  - "[[_Standards/WikiData/WD~Sea_of_the_Hebrides,1971856]]"
+  - "[[_Standards/WikiData/WD~North_Sea,1693]]"
+  - "[[_Standards/WikiData/WD~Irish_Sea,41735]]"
+highest_point: "[[_Standards/WikiData/WD~Ben_Nevis,104674]]"
 named_after:
-  - '[[_Standards/WikiData/WD~Britannia,138396]]'
-  - '[[_Standards/WikiData/WD~British,842438]]'
-  - '[[_Standards/WikiData/WD~Brutus_of_Troy,994929]]'
+  - "[[_Standards/WikiData/WD~Britannia,138396]]"
+  - "[[_Standards/WikiData/WD~British,842438]]"
+  - "[[_Standards/WikiData/WD~Brutus_of_Troy,994929]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
-  - '[[_Standards/WikiData/WD~Great_Britain,107482134]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Albion,674040]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-category_of_associated_people: '[[_Standards/WikiData/WD~Q32670711,32670711]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Great_Britain,135495233]]'
+  - "[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]"
+  - "[[_Standards/WikiData/WD~Great_Britain,107482134]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Albion,674040]]"
+described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+category_of_associated_people: "[[_Standards/WikiData/WD~Q32670711,32670711]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Great_Britain,135495233]]"
 coordinate_location: Point(-2.416666666 53.833333333)
-instance_of: '[[_Standards/WikiData/WD~island,23442]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~Greenwich_Mean_Time,30192]]'
+instance_of: "[[_Standards/WikiData/WD~island,23442]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~Greenwich_Mean_Time,30192]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Scotland,22]]'
-  - '[[_Standards/WikiData/WD~England,21]]'
-continent: '[[_Standards/WikiData/WD~Europe,46]]'
-territory_overlaps: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~British_Isles,38272]]'
-part_of: '[[_Standards/WikiData/WD~British_Isles,38272]]'
+  - "[[_Standards/WikiData/WD~Scotland,22]]"
+  - "[[_Standards/WikiData/WD~England,21]]"
+continent: "[[_Standards/WikiData/WD~Europe,46]]"
+territory_overlaps: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~British_Isles,38272]]"
+part_of: "[[_Standards/WikiData/WD~British_Isles,38272]]"
 population: 65121000
 area: 228938
 U_S_National_Archives_Identifier: 10045170
@@ -52,11 +52,14 @@ location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Britain
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Groussbritannien.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20Great%20Britain%20and%20Northern%20Ireland%20in%20April%202002.jpg
 demonym: Brit
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Great_Britain,23666|WD~Great_Britain,23666]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Great_Britain,23666|WD~Great_Britain,23666]]"
 ---
 
 # [[Great_Britain]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Great_Britain,23666|WD~Great_Britain,23666]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -82,4 +85,21 @@ demonym: Brit
 > This territory, together with Northern Ireland, constitutes the [[../UK|United Kingdom]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Britain) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Great_Britain|Great_Britain]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Great_Britain.public|Great_Britain.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Great_Britain.internal|Great_Britain.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Great_Britain.protect|Great_Britain.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Great_Britain.private|Great_Britain.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Great_Britain.personal|Great_Britain.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Great_Britain.secret|Great_Britain.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34669
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.35
+dv_has_place_latitude: 54.92
+dv_name: Sunderland
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.35] 
-[has_place_latitude::54.92] 
-[name::Sunderland] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sunderland](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland|Sunderland]] 
 
-### [Sunderland.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.public|Sunderland.public]] 
 
-### [Sunderland.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.internal|Sunderland.internal]] 
 
-### [Sunderland.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.protect|Sunderland.protect]] 
 
-### [Sunderland.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.private|Sunderland.private]] 
 
-### [Sunderland.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.personal|Sunderland.personal]] 
 
-### [Sunderland.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Sunderland,County/Sunderland.secret|Sunderland.secret]] 
 

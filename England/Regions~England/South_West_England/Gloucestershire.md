@@ -40,17 +40,17 @@ markerFolder: ./Gloucestershire/
 
 ## Confidential Links & Embeds: 
 
-### [Gloucestershire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire|Gloucestershire]] 
 
-### [Gloucestershire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.public|Gloucestershire.public]] 
 
-### [Gloucestershire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.internal|Gloucestershire.internal]] 
 
-### [Gloucestershire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.protect|Gloucestershire.protect]] 
 
-### [Gloucestershire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.private|Gloucestershire.private]] 
 
-### [Gloucestershire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.personal|Gloucestershire.personal]] 
 
-### [Gloucestershire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire.secret|Gloucestershire.secret]] 
 

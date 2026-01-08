@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33286
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.87
+dv_has_place_latitude: 51.67
+dv_name: Pembroke
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.87] 
-[has_place_latitude::51.67] 
-[name::Pembroke] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pembroke](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke|Pembroke]] 
 
-### [Pembroke.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.public|Pembroke.public]] 
 
-### [Pembroke.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.internal|Pembroke.internal]] 
 
-### [Pembroke.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.protect|Pembroke.protect]] 
 
-### [Pembroke.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.private|Pembroke.private]] 
 
-### [Pembroke.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.personal|Pembroke.personal]] 
 
-### [Pembroke.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Pembroke.secret|Pembroke.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Scottish_Borders/
 
 ## Confidential Links & Embeds: 
 
-### [Scottish_Borders](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders|Scottish_Borders]] 
 
-### [Scottish_Borders.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.public|Scottish_Borders.public]] 
 
-### [Scottish_Borders.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.internal|Scottish_Borders.internal]] 
 
-### [Scottish_Borders.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.protect|Scottish_Borders.protect]] 
 
-### [Scottish_Borders.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.private|Scottish_Borders.private]] 
 
-### [Scottish_Borders.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.personal|Scottish_Borders.personal]] 
 
-### [Scottish_Borders.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders.secret|Scottish_Borders.secret]] 
 

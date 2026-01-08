@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35633
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.72
+dv_has_place_latitude: 50.92
+dv_name: Winchelsea
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.72] 
-[has_place_latitude::50.92] 
-[name::Winchelsea] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Winchelsea](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea|Winchelsea]] 
 
-### [Winchelsea.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.public|Winchelsea.public]] 
 
-### [Winchelsea.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.internal|Winchelsea.internal]] 
 
-### [Winchelsea.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.protect|Winchelsea.protect]] 
 
-### [Winchelsea.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.private|Winchelsea.private]] 
 
-### [Winchelsea.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.personal|Winchelsea.personal]] 
 
-### [Winchelsea.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Rother/cities~Rother/Winchelsea.secret|Winchelsea.secret]] 
 

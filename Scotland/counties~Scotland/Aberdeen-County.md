@@ -41,17 +41,17 @@ markerFolder: ./Aberdeen/
 
 ## Confidential Links & Embeds: 
 
-### [Aberdeen-County](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County|Aberdeen-County]] 
 
-### [Aberdeen-County.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.public|Aberdeen-County.public]] 
 
-### [Aberdeen-County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.internal|Aberdeen-County.internal]] 
 
-### [Aberdeen-County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.protect|Aberdeen-County.protect]] 
 
-### [Aberdeen-County.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.private|Aberdeen-County.private]] 
 
-### [Aberdeen-County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.personal|Aberdeen-County.personal]] 
 
-### [Aberdeen-County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeen-County.secret|Aberdeen-County.secret]] 
 

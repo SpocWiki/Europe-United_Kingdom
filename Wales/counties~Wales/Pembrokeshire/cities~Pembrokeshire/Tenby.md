@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34808
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.7
+dv_has_place_latitude: 51.67
+dv_name: Tenby
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.7] 
-[has_place_latitude::51.67] 
-[name::Tenby] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tenby](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby|Tenby]] 
 
-### [Tenby.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.public|Tenby.public]] 
 
-### [Tenby.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.internal|Tenby.internal]] 
 
-### [Tenby.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.protect|Tenby.protect]] 
 
-### [Tenby.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.private|Tenby.private]] 
 
-### [Tenby.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.personal|Tenby.personal]] 
 
-### [Tenby.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire/cities~Pembrokeshire/Tenby.secret|Tenby.secret]] 
 

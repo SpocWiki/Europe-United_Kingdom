@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34460
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.1
+dv_has_place_latitude: 49.18
+dv_name: St.Helier
+dv_Country: "[[../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.1] 
-[has_place_latitude::49.18] 
-[name::St.Helier] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Helier](/_Standards/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier|St.Helier]] 
 
-### [St.Helier.public](/_public/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.public|St.Helier.public]] 
 
-### [St.Helier.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.internal|St.Helier.internal]] 
 
-### [St.Helier.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.protect|St.Helier.protect]] 
 
-### [St.Helier.private](/_private/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.private|St.Helier.private]] 
 
-### [St.Helier.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.personal|St.Helier.personal]] 
 
-### [St.Helier.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Jersey/St.Helier.secret|St.Helier.secret]] 
 

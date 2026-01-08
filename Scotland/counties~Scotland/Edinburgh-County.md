@@ -41,17 +41,17 @@ markerFolder: ./Edinburgh/
 
 ## Confidential Links & Embeds: 
 
-### [Edinburgh-County](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County|Edinburgh-County]] 
 
-### [Edinburgh-County.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.public|Edinburgh-County.public]] 
 
-### [Edinburgh-County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.internal|Edinburgh-County.internal]] 
 
-### [Edinburgh-County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.protect|Edinburgh-County.protect]] 
 
-### [Edinburgh-County.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.private|Edinburgh-County.private]] 
 
-### [Edinburgh-County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.personal|Edinburgh-County.personal]] 
 
-### [Edinburgh-County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County.secret|Edinburgh-County.secret]] 
 

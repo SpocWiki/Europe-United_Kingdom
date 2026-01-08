@@ -4,16 +4,19 @@ aliases:
   - History_of_Wales
   - History of Wales
 has_id_wikidata: Q1063608
-subclass_of: '[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Wales,14336136]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+subclass_of: "[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Wales,14336136]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
 Dewey_Decimal_Classification: 942
 Commons_category: History of Wales
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~History_of_Wales,1063608|WD~History_of_Wales,1063608]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~History_of_Wales,1063608|WD~History_of_Wales,1063608]]"
 ---
 
 # [[History_of_Wales]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~History_of_Wales,1063608|WD~History_of_Wales,1063608]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -87,4 +90,21 @@ Commons_category: History of Wales
 > and was renamed as the Welsh Parliament in English and Senedd Cymru in Welsh in May 2020.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Wales) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/History_of_Wales|History_of_Wales]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/History_of_Wales.public|History_of_Wales.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/History_of_Wales.internal|History_of_Wales.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/History_of_Wales.protect|History_of_Wales.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/History_of_Wales.private|History_of_Wales.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/History_of_Wales.personal|History_of_Wales.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/History_of_Wales.secret|History_of_Wales.secret]] 
 

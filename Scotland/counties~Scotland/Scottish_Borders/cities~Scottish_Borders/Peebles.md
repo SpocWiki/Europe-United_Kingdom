@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33273
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.18
+dv_has_place_latitude: 55.65
+dv_name: Peebles
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.18] 
-[has_place_latitude::55.65] 
-[name::Peebles] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peebles](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles|Peebles]] 
 
-### [Peebles.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.public|Peebles.public]] 
 
-### [Peebles.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.internal|Peebles.internal]] 
 
-### [Peebles.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.protect|Peebles.protect]] 
 
-### [Peebles.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.private|Peebles.private]] 
 
-### [Peebles.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.personal|Peebles.personal]] 
 
-### [Peebles.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Peebles.secret|Peebles.secret]] 
 

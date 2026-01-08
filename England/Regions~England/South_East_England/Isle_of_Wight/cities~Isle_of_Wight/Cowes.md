@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29667
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.27
+dv_has_place_latitude: 50.75
+dv_name: Cowes
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.27] 
-[has_place_latitude::50.75] 
-[name::Cowes] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cowes](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes|Cowes]] 
 
-### [Cowes.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.public|Cowes.public]] 
 
-### [Cowes.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.internal|Cowes.internal]] 
 
-### [Cowes.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.protect|Cowes.protect]] 
 
-### [Cowes.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.private|Cowes.private]] 
 
-### [Cowes.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.personal|Cowes.personal]] 
 
-### [Cowes.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Isle_of_Wight/cities~Isle_of_Wight/Cowes.secret|Cowes.secret]] 
 

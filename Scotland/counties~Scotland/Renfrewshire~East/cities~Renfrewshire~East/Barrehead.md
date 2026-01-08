@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29031
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.4
+dv_has_place_latitude: 55.8
+dv_name: Barrehead
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.4] 
-[has_place_latitude::55.8] 
-[name::Barrehead] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barrehead](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead|Barrehead]] 
 
-### [Barrehead.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.public|Barrehead.public]] 
 
-### [Barrehead.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.internal|Barrehead.internal]] 
 
-### [Barrehead.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.protect|Barrehead.protect]] 
 
-### [Barrehead.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.private|Barrehead.private]] 
 
-### [Barrehead.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.personal|Barrehead.personal]] 
 
-### [Barrehead.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire~East/cities~Renfrewshire~East/Barrehead.secret|Barrehead.secret]] 
 

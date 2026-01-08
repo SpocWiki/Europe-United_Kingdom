@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29037
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.52
+dv_has_place_latitude: 58.35
+dv_name: Barvas
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.52] 
-[has_place_latitude::58.35] 
-[name::Barvas] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barvas](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas|Barvas]] 
 
-### [Barvas.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.public|Barvas.public]] 
 
-### [Barvas.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.internal|Barvas.internal]] 
 
-### [Barvas.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.protect|Barvas.protect]] 
 
-### [Barvas.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.private|Barvas.private]] 
 
-### [Barvas.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.personal|Barvas.personal]] 
 
-### [Barvas.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar/cities~Eilean_Siar/Barvas.secret|Barvas.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Northamptonshire/
 
 ## Confidential Links & Embeds: 
 
-### [Northamptonshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire|Northamptonshire]] 
 
-### [Northamptonshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.public|Northamptonshire.public]] 
 
-### [Northamptonshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.internal|Northamptonshire.internal]] 
 
-### [Northamptonshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.protect|Northamptonshire.protect]] 
 
-### [Northamptonshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.private|Northamptonshire.private]] 
 
-### [Northamptonshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.personal|Northamptonshire.personal]] 
 
-### [Northamptonshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Northamptonshire.secret|Northamptonshire.secret]] 
 

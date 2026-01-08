@@ -41,17 +41,17 @@ markerFolder: ./Isles_of_Scilly/
 
 ## Confidential Links & Embeds: 
 
-### [Isles_of_Scilly](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly|Isles_of_Scilly]] 
 
-### [Isles_of_Scilly.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.public|Isles_of_Scilly.public]] 
 
-### [Isles_of_Scilly.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.internal|Isles_of_Scilly.internal]] 
 
-### [Isles_of_Scilly.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.protect|Isles_of_Scilly.protect]] 
 
-### [Isles_of_Scilly.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.private|Isles_of_Scilly.private]] 
 
-### [Isles_of_Scilly.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.personal|Isles_of_Scilly.personal]] 
 
-### [Isles_of_Scilly.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Isles_of_Scilly.secret|Isles_of_Scilly.secret]] 
 

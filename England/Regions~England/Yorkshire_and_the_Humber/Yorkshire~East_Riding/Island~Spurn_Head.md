@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34426
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.2
+dv_has_place_latitude: 53.62
+dv_name: Spurn Head
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.2] 
-[has_place_latitude::53.62] 
-[name::Spurn Head] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Spurn_Head](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head|Island~Spurn_Head]] 
 
-### [Island~Spurn_Head.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.public|Island~Spurn_Head.public]] 
 
-### [Island~Spurn_Head.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.internal|Island~Spurn_Head.internal]] 
 
-### [Island~Spurn_Head.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.protect|Island~Spurn_Head.protect]] 
 
-### [Island~Spurn_Head.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.private|Island~Spurn_Head.private]] 
 
-### [Island~Spurn_Head.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.personal|Island~Spurn_Head.personal]] 
 
-### [Island~Spurn_Head.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Island~Spurn_Head.secret|Island~Spurn_Head.secret]] 
 

@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"University", "UniversityOfOxford: 646mq"
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~University_of_Oxford,34433|WD~University_of_Oxford,34433]]"
+dv_university-universityofoxford: 646mq"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~University_of_Oxford,34433|WD~University_of_Oxford,34433]]"
+
 has_time_started: 1096-01-01 
 aliases:
   - Oxbridge
@@ -140,7 +146,7 @@ PermID: 5000698033
 Legal_Entity_Identifier: 5493009OEHU6YS545T65
 P1015: 90196003
 EU_Participant_Identification_Code: 999984350
-Wolfram_Language_entity_code: Entity["University", "UniversityOfOxford::646mq"]
+Wolfram_Language_entity_code: Entity"University", "UniversityOfOxford = `=this.dv_"University", "UniversityOfOxford`
 EU_VAT_number: GB 125 5067 30
 domain_name: ox.ac.uk
 Bluesky_handle: ox.ac.uk
@@ -198,7 +204,7 @@ API_endpoint_URL: https://registry.shibboleth.ox.ac.uk/idp
 
 # [[University_of_Oxford]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~University_of_Oxford,34433|WD~University_of_Oxford,34433]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -223,4 +229,21 @@ API_endpoint_URL: https://registry.shibboleth.ox.ac.uk/idp
 > Oxford has educated a wide range of notable alumni, including 31 prime ministers of the United Kingdom and many heads of state and government around the world. As of October 2025, 76 Nobel Prize laureates, 4 Fields Medalists, and 6 Turing Award winners have matriculated, worked, or held visiting fellowships at the University of Oxford. Its alumni have won 160 Olympic medals. Oxford is home to a number of scholarships, including the Rhodes Scholarship, one of the oldest international graduate scholarship programmes in the world.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Oxford) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/University_of_Oxford|University_of_Oxford]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/University_of_Oxford.public|University_of_Oxford.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/University_of_Oxford.internal|University_of_Oxford.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/University_of_Oxford.protect|University_of_Oxford.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/University_of_Oxford.private|University_of_Oxford.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/University_of_Oxford.personal|University_of_Oxford.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxford/University_of_Oxford.secret|University_of_Oxford.secret]] 
 

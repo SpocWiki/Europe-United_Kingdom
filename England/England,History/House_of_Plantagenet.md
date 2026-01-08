@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Concept", "Plantagenet: 498p2"
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~House_of_Plantagenet,106151]]"
+dv_concept-plantagenet: 498p2"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~House_of_Plantagenet,106151]]"
+
 has_time_started: 1126-01-01 
 has_time_stopped: 1485-01-01 
 aliases:
@@ -29,7 +35,7 @@ country: "[[_Standards/WikiData/WD~county_of_Anjou,2991084]]"
 topic_has_template: "[[_Standards/WikiData/WD~Q111317631,111317631]]"
 dissolved_abolished_or_demolished_date: 1485-01-01T00:00:00Z
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20maison%20Plantagen%C3%AAt.svg
-Wolfram_Language_entity_code: Entity["Concept", "Plantagenet::498p2"]
+Wolfram_Language_entity_code: Entity"Concept", "Plantagenet = `=this.dv_"Concept", "Plantagenet`
 Commons_category: House of Plantagenet
 Krugosvet_article_archived_: istoriya/plantagenety
 Colon_Classification: V3'G
@@ -41,7 +47,7 @@ inception: 1126-01-01T00:00:00Z
 
 # [[House_of_Plantagenet]] 
 
-#is_/same_as :: [[WD~House_of_Plantagenet,106151]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -88,4 +94,21 @@ inception: 1126-01-01T00:00:00Z
 > Every monarch of England, and later the United Kingdom, from Henry VII to present has been a descendant of the Plantagenets.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/House%20of%20Plantagenet) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/England,History/House_of_Plantagenet|House_of_Plantagenet]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/England,History/House_of_Plantagenet.public|House_of_Plantagenet.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/England,History/House_of_Plantagenet.internal|House_of_Plantagenet.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/England,History/House_of_Plantagenet.protect|House_of_Plantagenet.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/England,History/House_of_Plantagenet.private|House_of_Plantagenet.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/England,History/House_of_Plantagenet.personal|House_of_Plantagenet.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/England,History/House_of_Plantagenet.secret|House_of_Plantagenet.secret]] 
 

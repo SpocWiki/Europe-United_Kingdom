@@ -40,17 +40,17 @@ markerFolder: ./Carrickfergus/
 
 ## Confidential Links & Embeds: 
 
-### [Carrickfergus](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus|Carrickfergus]] 
 
-### [Carrickfergus.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.public|Carrickfergus.public]] 
 
-### [Carrickfergus.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.internal|Carrickfergus.internal]] 
 
-### [Carrickfergus.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.protect|Carrickfergus.protect]] 
 
-### [Carrickfergus.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.private|Carrickfergus.private]] 
 
-### [Carrickfergus.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.personal|Carrickfergus.personal]] 
 
-### [Carrickfergus.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Carrickfergus.secret|Carrickfergus.secret]] 
 

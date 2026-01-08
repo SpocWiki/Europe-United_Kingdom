@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33472
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -5.12
+dv_has_place_latitude: 54.83
+dv_name: Port Patrick
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-5.12] 
-[has_place_latitude::54.83] 
-[name::Port Patrick] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Port_Patrick](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick|Port_Patrick]] 
 
-### [Port_Patrick.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.public|Port_Patrick.public]] 
 
-### [Port_Patrick.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.internal|Port_Patrick.internal]] 
 
-### [Port_Patrick.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.protect|Port_Patrick.protect]] 
 
-### [Port_Patrick.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.private|Port_Patrick.private]] 
 
-### [Port_Patrick.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.personal|Port_Patrick.personal]] 
 
-### [Port_Patrick.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dumfries_and_Galloway/cities~Dumfries_and_Galloway/Port_Patrick.secret|Port_Patrick.secret]] 
 

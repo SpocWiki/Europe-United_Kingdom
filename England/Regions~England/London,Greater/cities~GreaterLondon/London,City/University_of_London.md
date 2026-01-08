@@ -1,10 +1,16 @@
-﻿---
+---
+dv_"University", "UniversityOfLondon: gs286"
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~University_of_London,170027|WD~University_of_London,170027]]"
+dv_university-universityoflondon: gs286"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~University_of_London,170027|WD~University_of_London,170027]]"
+
 has_time_started: 1836-01-01 
 aliases:
 has_id_wikidata: Q170027
 Corporate_Number_Japan_: "6700150101703"
 P1015: "90273541"
-Wolfram_Language_entity_code: Entity["University", "UniversityOfLondon::gs286"]
+Wolfram_Language_entity_code: Entity"University", "UniversityOfLondon = `=this.dv_"University", "UniversityOfLondon`
 Facebook_username: LondonU
 subreddit: rhul
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/25342723
@@ -90,7 +96,7 @@ ISNI: "0000000121612573"
 
 # [[University_of_London]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~University_of_London,170027|WD~University_of_London,170027]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -109,4 +115,21 @@ ISNI: "0000000121612573"
 > As of 2015, there are around 2 million University of London alumni across the world, including at least 14 monarchs or royalty, more than 60 presidents or prime ministers (including five prime ministers of the United Kingdom), two Cabinet Secretaries of the UK, 98 Nobel laureates, five Fields Medallists, four Turing Award winners, six Grammy winners, two Oscar winners, three Olympic gold medalists and the "Father of the Nation" of several countries. The university owns the University of London Press.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20London)  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/University_of_London|University_of_London]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/University_of_London.public|University_of_London.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/University_of_London.internal|University_of_London.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/University_of_London.protect|University_of_London.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/University_of_London.private|University_of_London.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/University_of_London.personal|University_of_London.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/University_of_London.secret|University_of_London.secret]] 
 

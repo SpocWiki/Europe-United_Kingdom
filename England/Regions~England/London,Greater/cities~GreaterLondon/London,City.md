@@ -1,4 +1,15 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~London,84|WD~London,84]]"
+dv_located-inon-physical-feature: "[[../../../../../../../../../WikiData/WD~Great_Britain,23666]]"
+dv_topics-main-wikimedia-portal: "[[WikiData/WD~Portal_London,11383072]]"
+dv_x-twitter-username:
+  - LDN_gov
+  - ldn_gov
+dv_unlocode: GBLON
+dv_us-national-archives-identifier: 10045656
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~London,84|WD~London,84]]"
+
 has_time_started: 0047-01-01 
 aliases:
   - London
@@ -239,7 +250,7 @@ official blog URL: https://www.london.gov.uk/city-hall-blog
 
 Describes [[London,City]] without its surrounding Area. 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~London,84|WD~London,84]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -270,17 +281,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [London,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City|London,City]] 
 
-### [London,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.public|London,City.public]] 
 
-### [London,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.internal|London,City.internal]] 
 
-### [London,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.protect|London,City.protect]] 
 
-### [London,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.private|London,City.private]] 
 
-### [London,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.personal|London,City.personal]] 
 
-### [London,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City.secret|London,City.secret]] 
 

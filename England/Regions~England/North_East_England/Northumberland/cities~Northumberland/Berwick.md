@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29150
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2
+dv_has_place_latitude: 55.77
+dv_name: Berwick
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2] 
-[has_place_latitude::55.77] 
-[name::Berwick] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Berwick](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick|Berwick]] 
 
-### [Berwick.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.public|Berwick.public]] 
 
-### [Berwick.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.internal|Berwick.internal]] 
 
-### [Berwick.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.protect|Berwick.protect]] 
 
-### [Berwick.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.private|Berwick.private]] 
 
-### [Berwick.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.personal|Berwick.personal]] 
 
-### [Berwick.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/cities~Northumberland/Berwick.secret|Berwick.secret]] 
 

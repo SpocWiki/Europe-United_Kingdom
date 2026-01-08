@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34879
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.07
+dv_has_place_latitude: 52.53
+dv_name: Tipton
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.07] 
-[has_place_latitude::52.53] 
-[name::Tipton] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tipton](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton|Tipton]] 
 
-### [Tipton.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.public|Tipton.public]] 
 
-### [Tipton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.internal|Tipton.internal]] 
 
-### [Tipton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.protect|Tipton.protect]] 
 
-### [Tipton.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.private|Tipton.private]] 
 
-### [Tipton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.personal|Tipton.personal]] 
 
-### [Tipton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Tipton.secret|Tipton.secret]] 
 

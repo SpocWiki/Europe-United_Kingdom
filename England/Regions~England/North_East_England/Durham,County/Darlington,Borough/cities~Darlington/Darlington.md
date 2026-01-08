@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29720
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.55
+dv_has_place_latitude: 54.53
+dv_name: Darlington
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.55] 
-[has_place_latitude::54.53] 
-[name::Darlington] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Darlington](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington|Darlington]] 
 
-### [Darlington.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.public|Darlington.public]] 
 
-### [Darlington.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.internal|Darlington.internal]] 
 
-### [Darlington.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.protect|Darlington.protect]] 
 
-### [Darlington.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.private|Darlington.private]] 
 
-### [Darlington.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.personal|Darlington.personal]] 
 
-### [Darlington.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Darlington,Borough/cities~Darlington/Darlington.secret|Darlington.secret]] 
 

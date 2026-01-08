@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29362
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.45
+dv_has_place_latitude: 51.37
+dv_name: Broadstairs
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.45] 
-[has_place_latitude::51.37] 
-[name::Broadstairs] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Broadstairs](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs|Broadstairs]] 
 
-### [Broadstairs.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.public|Broadstairs.public]] 
 
-### [Broadstairs.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.internal|Broadstairs.internal]] 
 
-### [Broadstairs.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.protect|Broadstairs.protect]] 
 
-### [Broadstairs.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.private|Broadstairs.private]] 
 
-### [Broadstairs.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.personal|Broadstairs.personal]] 
 
-### [Broadstairs.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Broadstairs.secret|Broadstairs.secret]] 
 

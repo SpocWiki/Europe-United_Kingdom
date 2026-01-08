@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28653
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.28
+dv_has_place_latitude: 51.65
+dv_name: Abingdon
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.28] 
-[has_place_latitude::51.65] 
-[name::Abingdon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abingdon](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon|Abingdon]] 
 
-### [Abingdon.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.public|Abingdon.public]] 
 
-### [Abingdon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.internal|Abingdon.internal]] 
 
-### [Abingdon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.protect|Abingdon.protect]] 
 
-### [Abingdon.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.private|Abingdon.private]] 
 
-### [Abingdon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.personal|Abingdon.personal]] 
 
-### [Abingdon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire/cities~Oxfordshire/Oxfordshire~South/cities~SouthOxfordshire/Abingdon.secret|Abingdon.secret]] 
 

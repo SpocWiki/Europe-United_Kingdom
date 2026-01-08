@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33216
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.43
+dv_has_place_latitude: 55.85
+dv_name: Paisley
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.43] 
-[has_place_latitude::55.85] 
-[name::Paisley] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Paisley](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley|Paisley]] 
 
-### [Paisley.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.public|Paisley.public]] 
 
-### [Paisley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.internal|Paisley.internal]] 
 
-### [Paisley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.protect|Paisley.protect]] 
 
-### [Paisley.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.private|Paisley.private]] 
 
-### [Paisley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.personal|Paisley.personal]] 
 
-### [Paisley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Paisley.secret|Paisley.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 12021
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.27
+dv_has_place_latitude: 52.37
+dv_name: Rugby
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.27] 
-[has_place_latitude::52.37] 
-[name::Rugby] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rugby](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby|Rugby]] 
 
-### [Rugby.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.public|Rugby.public]] 
 
-### [Rugby.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.internal|Rugby.internal]] 
 
-### [Rugby.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.protect|Rugby.protect]] 
 
-### [Rugby.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.private|Rugby.private]] 
 
-### [Rugby.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.personal|Rugby.personal]] 
 
-### [Rugby.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/cities~Warwickshire/Rugby/cities~Rugby/Rugby.secret|Rugby.secret]] 
 

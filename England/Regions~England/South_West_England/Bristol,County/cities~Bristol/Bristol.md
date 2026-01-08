@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29359
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.58
+dv_has_place_latitude: 51.45
+dv_name: Bristol
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.58] 
-[has_place_latitude::51.45] 
-[name::Bristol] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bristol](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol|Bristol]] 
 
-### [Bristol.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.public|Bristol.public]] 
 
-### [Bristol.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.internal|Bristol.internal]] 
 
-### [Bristol.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.protect|Bristol.protect]] 
 
-### [Bristol.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.private|Bristol.private]] 
 
-### [Bristol.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.personal|Bristol.personal]] 
 
-### [Bristol.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol.secret|Bristol.secret]] 
 

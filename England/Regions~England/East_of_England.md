@@ -16,17 +16,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [East_of_England](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England|East_of_England]] 
 
-### [East_of_England.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.public|East_of_England.public]] 
 
-### [East_of_England.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.internal|East_of_England.internal]] 
 
-### [East_of_England.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.protect|East_of_England.protect]] 
 
-### [East_of_England.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.private|East_of_England.private]] 
 
-### [East_of_England.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.personal|East_of_England.personal]] 
 
-### [East_of_England.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England.secret|East_of_England.secret]] 
 

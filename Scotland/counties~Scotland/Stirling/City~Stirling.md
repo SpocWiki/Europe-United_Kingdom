@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34572
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.93
+dv_has_place_latitude: 56.12
+dv_name: Stirling
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.93] 
-[has_place_latitude::56.12] 
-[name::Stirling] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Stirling](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling|City~Stirling]] 
 
-### [City~Stirling.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.public|City~Stirling.public]] 
 
-### [City~Stirling.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.internal|City~Stirling.internal]] 
 
-### [City~Stirling.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.protect|City~Stirling.protect]] 
 
-### [City~Stirling.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.private|City~Stirling.private]] 
 
-### [City~Stirling.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.personal|City~Stirling.personal]] 
 
-### [City~Stirling.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Stirling/City~Stirling.secret|City~Stirling.secret]] 
 

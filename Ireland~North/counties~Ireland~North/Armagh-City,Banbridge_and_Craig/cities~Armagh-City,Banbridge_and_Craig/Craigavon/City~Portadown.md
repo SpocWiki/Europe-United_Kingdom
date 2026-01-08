@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33474
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.45
+dv_has_place_latitude: 54.42
+dv_name: Portadown
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.45] 
-[has_place_latitude::54.42] 
-[name::Portadown] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Portadown](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown|City~Portadown]] 
 
-### [City~Portadown.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.public|City~Portadown.public]] 
 
-### [City~Portadown.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.internal|City~Portadown.internal]] 
 
-### [City~Portadown.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.protect|City~Portadown.protect]] 
 
-### [City~Portadown.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.private|City~Portadown.private]] 
 
-### [City~Portadown.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.personal|City~Portadown.personal]] 
 
-### [City~Portadown.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Craigavon/City~Portadown.secret|City~Portadown.secret]] 
 

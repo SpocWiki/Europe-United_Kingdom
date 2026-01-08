@@ -121,17 +121,17 @@ FROM outgoing([[Line~Piccadilly]])
 
 ## Confidential Links & Embeds: 
 
-### [Line~Piccadilly](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Piccadilly.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Piccadilly|Line~Piccadilly]] 
 
-### [Line~Piccadilly.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Piccadilly.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Piccadilly.public|Line~Piccadilly.public]] 
 
-### [Line~Piccadilly.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Piccadilly.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Piccadilly.internal|Line~Piccadilly.internal]] 
 
-### [Line~Piccadilly.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Piccadilly.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Piccadilly.protect|Line~Piccadilly.protect]] 
 
-### [Line~Piccadilly.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Piccadilly.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Piccadilly.private|Line~Piccadilly.private]] 
 
-### [Line~Piccadilly.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Piccadilly.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Piccadilly.personal|Line~Piccadilly.personal]] 
 
-### [Line~Piccadilly.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Line~Piccadilly.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Line~Piccadilly.secret|Line~Piccadilly.secret]] 
 

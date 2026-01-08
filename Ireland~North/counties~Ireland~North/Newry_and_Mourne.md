@@ -41,17 +41,17 @@ markerFolder: ./Newry_and_Mourne/
 
 ## Confidential Links & Embeds: 
 
-### [Newry_and_Mourne](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne|Newry_and_Mourne]] 
 
-### [Newry_and_Mourne.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.public|Newry_and_Mourne.public]] 
 
-### [Newry_and_Mourne.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.internal|Newry_and_Mourne.internal]] 
 
-### [Newry_and_Mourne.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.protect|Newry_and_Mourne.protect]] 
 
-### [Newry_and_Mourne.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.private|Newry_and_Mourne.private]] 
 
-### [Newry_and_Mourne.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.personal|Newry_and_Mourne.personal]] 
 
-### [Newry_and_Mourne.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Newry_and_Mourne.secret|Newry_and_Mourne.secret]] 
 

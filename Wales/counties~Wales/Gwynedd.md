@@ -40,17 +40,17 @@ markerFolder: ./Gwynedd/
 
 ## Confidential Links & Embeds: 
 
-### [Gwynedd](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd|Gwynedd]] 
 
-### [Gwynedd.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.public|Gwynedd.public]] 
 
-### [Gwynedd.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.internal|Gwynedd.internal]] 
 
-### [Gwynedd.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.protect|Gwynedd.protect]] 
 
-### [Gwynedd.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.private|Gwynedd.private]] 
 
-### [Gwynedd.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.personal|Gwynedd.personal]] 
 
-### [Gwynedd.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Gwynedd.secret|Gwynedd.secret]] 
 

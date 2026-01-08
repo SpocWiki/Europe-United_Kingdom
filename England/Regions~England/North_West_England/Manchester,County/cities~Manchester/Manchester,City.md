@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.23
+dv_has_place_latitude: 53.48
+dv_name: Manchester
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Manchester,18125|WD~Manchester,18125]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Manchester,18125|WD~Manchester,18125]]"
+
 has_time_started: 1301-01-01 
 aliases:
   - Manchester
@@ -110,17 +118,17 @@ official_website: https://cms.manchester.gov.uk/
 # [[Manchester,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.23] 
-[has_place_latitude::53.48] 
-[name::Manchester] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Manchester,18125|WD~Manchester,18125]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -149,19 +157,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manchester)
 
+
 ## Confidential Links & Embeds: 
 
-### [Manchester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester,City|Manchester,City]] 
 
-### [Manchester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester,City.public|Manchester,City.public]] 
 
-### [Manchester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester,City.internal|Manchester,City.internal]] 
 
-### [Manchester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester,City.protect|Manchester,City.protect]] 
 
-### [Manchester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester,City.private|Manchester,City.private]] 
 
-### [Manchester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester,City.personal|Manchester,City.personal]] 
 
-### [Manchester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester,City.secret|Manchester,City.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32036
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.6
+dv_has_place_latitude: 55.98
+dv_name: Linlithgow
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.6] 
-[has_place_latitude::55.98] 
-[name::Linlithgow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Linlithgow](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow|Linlithgow]] 
 
-### [Linlithgow.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.public|Linlithgow.public]] 
 
-### [Linlithgow.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.internal|Linlithgow.internal]] 
 
-### [Linlithgow.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.protect|Linlithgow.protect]] 
 
-### [Linlithgow.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.private|Linlithgow.private]] 
 
-### [Linlithgow.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.personal|Linlithgow.personal]] 
 
-### [Linlithgow.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~West/cities~Lothian~West/Linlithgow.secret|Linlithgow.secret]] 
 

@@ -13,6 +13,15 @@ mapmarker: subway
 tags:
   - geo/station
   - Europe/UK/City~London
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.1238
+dv_has_place_latitude: 51.5308
+dv_name: King's Cross St. Pancras
+dv_zone: 1
+dv_Num_lines: 6
+dv_switch-to-Rail: 1
+dv_Country: "[[../../../../../../UK]]"
+dv_City: "[[../../../London]]"
 ---
 SpocWebEntityId: 156000
 [StationSId::] 
@@ -20,15 +29,15 @@ isDeleted: false
 isReadOnly: false
 confidential: public
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.1238] 
-[has_place_latitude::51.5308] 
-[name::King's Cross St. Pancras] 
-[zone::1] 
-[Num_lines::6] 
-[switch-to-Rail::1] 
-Country :: [[UK]]  
-City :: [[../../../London]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+zone = `=this.dv_zone` 
+Num_lines = `=this.dv_Num_lines` 
+switch-to-Rail = `=this.dv_switch-to-Rail` 
+Country = `=this.dv_Country`
+City = `=this.dv_City`
 
 
 ```leaflet
@@ -49,17 +58,17 @@ FROM [[]]
 
 ## Confidential Links & Embeds: 
 
-### [Sub~King's_Cross_St._Pancras](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~King's_Cross_St._Pancras.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~King's_Cross_St._Pancras|Sub~King's_Cross_St._Pancras]] 
 
-### [Sub~King's_Cross_St._Pancras.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~King's_Cross_St._Pancras.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~King's_Cross_St._Pancras.public|Sub~King's_Cross_St._Pancras.public]] 
 
-### [Sub~King's_Cross_St._Pancras.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~King's_Cross_St._Pancras.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~King's_Cross_St._Pancras.internal|Sub~King's_Cross_St._Pancras.internal]] 
 
-### [Sub~King's_Cross_St._Pancras.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~King's_Cross_St._Pancras.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~King's_Cross_St._Pancras.protect|Sub~King's_Cross_St._Pancras.protect]] 
 
-### [Sub~King's_Cross_St._Pancras.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~King's_Cross_St._Pancras.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~King's_Cross_St._Pancras.private|Sub~King's_Cross_St._Pancras.private]] 
 
-### [Sub~King's_Cross_St._Pancras.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~King's_Cross_St._Pancras.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~King's_Cross_St._Pancras.personal|Sub~King's_Cross_St._Pancras.personal]] 
 
-### [Sub~King's_Cross_St._Pancras.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Underground/Station/Sub~King's_Cross_St._Pancras.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/London_Underground/Station/Sub~King's_Cross_St._Pancras.secret|Sub~King's_Cross_St._Pancras.secret]] 
 

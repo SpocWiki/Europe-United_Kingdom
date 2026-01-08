@@ -40,17 +40,17 @@ markerFolder: ./Derry/
 
 ## Confidential Links & Embeds: 
 
-### [Derry](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry|Derry]] 
 
-### [Derry.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.public|Derry.public]] 
 
-### [Derry.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.internal|Derry.internal]] 
 
-### [Derry.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.protect|Derry.protect]] 
 
-### [Derry.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.private|Derry.private]] 
 
-### [Derry.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.personal|Derry.personal]] 
 
-### [Derry.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry.secret|Derry.secret]] 
 

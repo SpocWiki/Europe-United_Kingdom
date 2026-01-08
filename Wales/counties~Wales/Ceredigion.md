@@ -40,17 +40,17 @@ markerFolder: ./Ceredigion/
 
 ## Confidential Links & Embeds: 
 
-### [Ceredigion](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion|Ceredigion]] 
 
-### [Ceredigion.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.public|Ceredigion.public]] 
 
-### [Ceredigion.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.internal|Ceredigion.internal]] 
 
-### [Ceredigion.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.protect|Ceredigion.protect]] 
 
-### [Ceredigion.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.private|Ceredigion.private]] 
 
-### [Ceredigion.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.personal|Ceredigion.personal]] 
 
-### [Ceredigion.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion.secret|Ceredigion.secret]] 
 

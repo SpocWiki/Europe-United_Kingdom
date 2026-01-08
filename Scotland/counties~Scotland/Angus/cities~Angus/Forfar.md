@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30214
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.88
+dv_has_place_latitude: 56.65
+dv_name: Forfar
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.88] 
-[has_place_latitude::56.65] 
-[name::Forfar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Forfar](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar|Forfar]] 
 
-### [Forfar.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.public|Forfar.public]] 
 
-### [Forfar.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.internal|Forfar.internal]] 
 
-### [Forfar.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.protect|Forfar.protect]] 
 
-### [Forfar.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.private|Forfar.private]] 
 
-### [Forfar.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.personal|Forfar.personal]] 
 
-### [Forfar.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Angus/cities~Angus/Forfar.secret|Forfar.secret]] 
 

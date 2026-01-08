@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Museum", "NationalGalleryLondon: t8jnm"
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~National_Gallery,180788]]"
+dv_museum-nationalgallerylondon: t8jnm"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~National_Gallery,180788]]"
+
 has_time_started: 1824-01-01 
 aliases:
   - National Gallery
@@ -89,7 +95,7 @@ online_catalog_URL: https://www.nationalgallery.org.uk/paintings/search-the-coll
 phone_number: +44 20 7747 2885
 ISNI: 0000000406058908
 Libris_URI: 64jln8hq4nghd1c
-Wolfram_Language_entity_code: Entity["Museum", "NationalGalleryLondon::t8jnm"]
+Wolfram_Language_entity_code: Entity"Museum", "NationalGalleryLondon = `=this.dv_"Museum", "NationalGalleryLondon`
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/NATSIONALNAYA_GALEREYA.html
 Commons_Institution_page: National Gallery, London
 Commons_gallery: National Gallery, London
@@ -106,7 +112,7 @@ AGORHA_UUID: a2d2d69b-fbcd-417b-adbd-e86495798c53
 
 # [[National_Gallery]] 
 
-#is_/same_as :: [[WD~National_Gallery,180788]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -128,4 +134,21 @@ AGORHA_UUID: a2d2d69b-fbcd-417b-adbd-e86495798c53
 > The present building, the third site to house the National Gallery, was designed by William Wilkins. Building began in 1832 and it opened to the public in 1838. Only the façade onto Trafalgar Square remains essentially unchanged from this time, as the building has been expanded piecemeal throughout its history. Wilkins's building was often criticised for the perceived weaknesses of its design and for its lack of space; the latter problem led to the establishment of the Tate Gallery for British art in 1897. The Sainsbury Wing, a 1991 extension to the west by Robert Venturi and Denise Scott Brown, is a significant example of Postmodernist architecture in Britain.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Gallery) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Westminster/National_Gallery|National_Gallery]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Westminster/National_Gallery.public|National_Gallery.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Westminster/National_Gallery.internal|National_Gallery.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Westminster/National_Gallery.protect|National_Gallery.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Westminster/National_Gallery.private|National_Gallery.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Westminster/National_Gallery.personal|National_Gallery.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Westminster/National_Gallery.secret|National_Gallery.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Gateshead/
 
 ## Confidential Links & Embeds: 
 
-### [Gateshead](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead|Gateshead]] 
 
-### [Gateshead.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.public|Gateshead.public]] 
 
-### [Gateshead.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.internal|Gateshead.internal]] 
 
-### [Gateshead.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.protect|Gateshead.protect]] 
 
-### [Gateshead.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.private|Gateshead.private]] 
 
-### [Gateshead.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.personal|Gateshead.personal]] 
 
-### [Gateshead.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Gateshead.secret|Gateshead.secret]] 
 

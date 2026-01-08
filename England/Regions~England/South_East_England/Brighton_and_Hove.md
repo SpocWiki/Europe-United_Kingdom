@@ -41,17 +41,17 @@ markerFolder: ./Brighton_and_Hove/
 
 ## Confidential Links & Embeds: 
 
-### [Brighton_and_Hove](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove|Brighton_and_Hove]] 
 
-### [Brighton_and_Hove.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.public|Brighton_and_Hove.public]] 
 
-### [Brighton_and_Hove.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.internal|Brighton_and_Hove.internal]] 
 
-### [Brighton_and_Hove.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.protect|Brighton_and_Hove.protect]] 
 
-### [Brighton_and_Hove.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.private|Brighton_and_Hove.private]] 
 
-### [Brighton_and_Hove.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.personal|Brighton_and_Hove.personal]] 
 
-### [Brighton_and_Hove.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove.secret|Brighton_and_Hove.secret]] 
 

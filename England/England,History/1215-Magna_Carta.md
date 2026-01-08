@@ -23,3 +23,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Magna%20Carta) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/England,History/1215-Magna_Carta|1215-Magna_Carta]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/England,History/1215-Magna_Carta.public|1215-Magna_Carta.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/England,History/1215-Magna_Carta.internal|1215-Magna_Carta.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/England,History/1215-Magna_Carta.protect|1215-Magna_Carta.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/England,History/1215-Magna_Carta.private|1215-Magna_Carta.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/England,History/1215-Magna_Carta.personal|1215-Magna_Carta.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/England,History/1215-Magna_Carta.secret|1215-Magna_Carta.secret]] 
+

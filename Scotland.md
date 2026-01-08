@@ -172,11 +172,14 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Scotland%20from%20sate
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Scotland%20in%20the%20UK%20and%20Europe.svg
 official_website: https://www.gov.scot/
 Dewey_Decimal_Classification: 2--411
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Scotland,22|WD~Scotland,22]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Scotland,22|WD~Scotland,22]]"
 ---
 
 # [[Scotland]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Scotland,22|WD~Scotland,22]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -217,20 +220,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Scotland) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Scotland](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland|Scotland]] 
 
-### [Scotland.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland.public|Scotland.public]] 
 
-### [Scotland.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland.internal|Scotland.internal]] 
 
-### [Scotland.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland.protect|Scotland.protect]] 
 
-### [Scotland.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland.private|Scotland.private]] 
 
-### [Scotland.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland.personal|Scotland.personal]] 
 
-### [Scotland.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland.secret|Scotland.secret]] 
 

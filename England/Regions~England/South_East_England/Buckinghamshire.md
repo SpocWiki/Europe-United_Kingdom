@@ -40,17 +40,17 @@ markerFolder: ./Buckinghamshire/
 
 ## Confidential Links & Embeds: 
 
-### [Buckinghamshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire|Buckinghamshire]] 
 
-### [Buckinghamshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.public|Buckinghamshire.public]] 
 
-### [Buckinghamshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.internal|Buckinghamshire.internal]] 
 
-### [Buckinghamshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.protect|Buckinghamshire.protect]] 
 
-### [Buckinghamshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.private|Buckinghamshire.private]] 
 
-### [Buckinghamshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.personal|Buckinghamshire.personal]] 
 
-### [Buckinghamshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Buckinghamshire.secret|Buckinghamshire.secret]] 
 

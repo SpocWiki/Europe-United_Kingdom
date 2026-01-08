@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29908
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.55
+dv_has_place_latitude: 55.78
+dv_name: Dumbarton
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.55] 
-[has_place_latitude::55.78] 
-[name::Dumbarton] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dumbarton](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton|Dumbarton]] 
 
-### [Dumbarton.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.public|Dumbarton.public]] 
 
-### [Dumbarton.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.internal|Dumbarton.internal]] 
 
-### [Dumbarton.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.protect|Dumbarton.protect]] 
 
-### [Dumbarton.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.private|Dumbarton.private]] 
 
-### [Dumbarton.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.personal|Dumbarton.personal]] 
 
-### [Dumbarton.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Dumbarton.secret|Dumbarton.secret]] 
 

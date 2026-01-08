@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~England,21|WD~England,21]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~England,21|WD~England,21]]"
+
 has_time_started: 0927-07-17 
 aliases:
   - english
@@ -177,7 +181,7 @@ official_website: https://www.visitengland.com/
 
 # [[England]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~England,21|WD~England,21]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -193,17 +197,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [England](/_Standards/Earth/Continent/Europe/Europe~North/UK/England.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England|England]] 
 
-### [England.public](/_public/Earth/Continent/Europe/Europe~North/UK/England.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England.public|England.public]] 
 
-### [England.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England.internal|England.internal]] 
 
-### [England.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England.protect|England.protect]] 
 
-### [England.private](/_private/Earth/Continent/Europe/Europe~North/UK/England.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England.private|England.private]] 
 
-### [England.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England.personal|England.personal]] 
 
-### [England.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England.secret|England.secret]] 
 

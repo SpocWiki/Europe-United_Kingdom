@@ -41,17 +41,17 @@ markerFolder: ./Ayrshire~South/
 
 ## Confidential Links & Embeds: 
 
-### [Ayrshire~South](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South|Ayrshire~South]] 
 
-### [Ayrshire~South.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.public|Ayrshire~South.public]] 
 
-### [Ayrshire~South.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.internal|Ayrshire~South.internal]] 
 
-### [Ayrshire~South.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.protect|Ayrshire~South.protect]] 
 
-### [Ayrshire~South.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.private|Ayrshire~South.private]] 
 
-### [Ayrshire~South.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.personal|Ayrshire~South.personal]] 
 
-### [Ayrshire~South.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South.secret|Ayrshire~South.secret]] 
 

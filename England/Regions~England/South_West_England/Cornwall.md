@@ -40,17 +40,17 @@ markerFolder: ./Cornwall/
 
 ## Confidential Links & Embeds: 
 
-### [Cornwall](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall|Cornwall]] 
 
-### [Cornwall.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.public|Cornwall.public]] 
 
-### [Cornwall.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.internal|Cornwall.internal]] 
 
-### [Cornwall.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.protect|Cornwall.protect]] 
 
-### [Cornwall.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.private|Cornwall.private]] 
 
-### [Cornwall.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.personal|Cornwall.personal]] 
 
-### [Cornwall.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Cornwall.secret|Cornwall.secret]] 
 

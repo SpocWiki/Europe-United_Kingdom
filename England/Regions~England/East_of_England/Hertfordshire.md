@@ -40,17 +40,17 @@ markerFolder: ./Hertfordshire/
 
 ## Confidential Links & Embeds: 
 
-### [Hertfordshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire|Hertfordshire]] 
 
-### [Hertfordshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.public|Hertfordshire.public]] 
 
-### [Hertfordshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.internal|Hertfordshire.internal]] 
 
-### [Hertfordshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.protect|Hertfordshire.protect]] 
 
-### [Hertfordshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.private|Hertfordshire.private]] 
 
-### [Hertfordshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.personal|Hertfordshire.personal]] 
 
-### [Hertfordshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire.secret|Hertfordshire.secret]] 
 

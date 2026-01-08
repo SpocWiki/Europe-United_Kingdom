@@ -41,17 +41,17 @@ markerFolder: ./Lanarkshire~North/
 
 ## Confidential Links & Embeds: 
 
-### [Lanarkshire~North](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North|Lanarkshire~North]] 
 
-### [Lanarkshire~North.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.public|Lanarkshire~North.public]] 
 
-### [Lanarkshire~North.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.internal|Lanarkshire~North.internal]] 
 
-### [Lanarkshire~North.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.protect|Lanarkshire~North.protect]] 
 
-### [Lanarkshire~North.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.private|Lanarkshire~North.private]] 
 
-### [Lanarkshire~North.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.personal|Lanarkshire~North.personal]] 
 
-### [Lanarkshire~North.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lanarkshire~North.secret|Lanarkshire~North.secret]] 
 

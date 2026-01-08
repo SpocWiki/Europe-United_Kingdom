@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32158
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.95
+dv_has_place_latitude: 50.72
+dv_name: Lyme Regio
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.95] 
-[has_place_latitude::50.72] 
-[name::Lyme Regio] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lyme_Regio](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio|Lyme_Regio]] 
 
-### [Lyme_Regio.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.public|Lyme_Regio.public]] 
 
-### [Lyme_Regio.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.internal|Lyme_Regio.internal]] 
 
-### [Lyme_Regio.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.protect|Lyme_Regio.protect]] 
 
-### [Lyme_Regio.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.private|Lyme_Regio.private]] 
 
-### [Lyme_Regio.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.personal|Lyme_Regio.personal]] 
 
-### [Lyme_Regio.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Dorset/Lyme_Regio.secret|Lyme_Regio.secret]] 
 

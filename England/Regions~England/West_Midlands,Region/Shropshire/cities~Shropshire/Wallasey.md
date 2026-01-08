@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35420
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.07
+dv_has_place_latitude: 52.58
+dv_name: Wallasey
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.07] 
-[has_place_latitude::52.58] 
-[name::Wallasey] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wallasey](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey|Wallasey]] 
 
-### [Wallasey.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.public|Wallasey.public]] 
 
-### [Wallasey.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.internal|Wallasey.internal]] 
 
-### [Wallasey.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.protect|Wallasey.protect]] 
 
-### [Wallasey.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.private|Wallasey.private]] 
 
-### [Wallasey.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.personal|Wallasey.personal]] 
 
-### [Wallasey.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Shropshire/cities~Shropshire/Wallasey.secret|Wallasey.secret]] 
 

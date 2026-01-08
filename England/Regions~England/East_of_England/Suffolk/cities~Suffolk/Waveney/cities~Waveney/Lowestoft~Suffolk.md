@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32113
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.75
+dv_has_place_latitude: 52.48
+dv_name: Lowestoft~Suffolk
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.75] 
-[has_place_latitude::52.48] 
-[name::Lowestoft~Suffolk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lowestoft~Suffolk](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk|Lowestoft~Suffolk]] 
 
-### [Lowestoft~Suffolk.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.public|Lowestoft~Suffolk.public]] 
 
-### [Lowestoft~Suffolk.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.internal|Lowestoft~Suffolk.internal]] 
 
-### [Lowestoft~Suffolk.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.protect|Lowestoft~Suffolk.protect]] 
 
-### [Lowestoft~Suffolk.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.private|Lowestoft~Suffolk.private]] 
 
-### [Lowestoft~Suffolk.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.personal|Lowestoft~Suffolk.personal]] 
 
-### [Lowestoft~Suffolk.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Waveney/cities~Waveney/Lowestoft~Suffolk.secret|Lowestoft~Suffolk.secret]] 
 

@@ -20,22 +20,27 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.08
+dv_has_place_latitude: 51.35
+dv_name: Croydon
+dv_Country: "[[../../../../../UK]]"
 ---
 
 # [[Croydon,Borough]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.08] 
-[has_place_latitude::51.35] 
-[name::Croydon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -56,17 +61,17 @@ markerFolder: ./Croydon/
 
 ## Confidential Links & Embeds: 
 
-### [Croydon](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough|Croydon,Borough]] 
 
-### [Croydon.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough.public|Croydon,Borough.public]] 
 
-### [Croydon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough.internal|Croydon,Borough.internal]] 
 
-### [Croydon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough.protect|Croydon,Borough.protect]] 
 
-### [Croydon.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough.private|Croydon,Borough.private]] 
 
-### [Croydon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough.personal|Croydon,Borough.personal]] 
 
-### [Croydon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/Croydon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough.secret|Croydon,Borough.secret]] 
 

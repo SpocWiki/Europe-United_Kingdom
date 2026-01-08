@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29902
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.08
+dv_has_place_latitude: 52.5
+dv_name: Dudley
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.08] 
-[has_place_latitude::52.5] 
-[name::Dudley] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dudley](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley|Dudley]] 
 
-### [Dudley.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.public|Dudley.public]] 
 
-### [Dudley.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.internal|Dudley.internal]] 
 
-### [Dudley.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.protect|Dudley.protect]] 
 
-### [Dudley.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.private|Dudley.private]] 
 
-### [Dudley.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.personal|Dudley.personal]] 
 
-### [Dudley.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Sandwell/cities~Sandwell/Dudley.secret|Dudley.secret]] 
 

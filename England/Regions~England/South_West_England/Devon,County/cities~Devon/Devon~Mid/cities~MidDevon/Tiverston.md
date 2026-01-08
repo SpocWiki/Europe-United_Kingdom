@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34889
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.5
+dv_has_place_latitude: 50.92
+dv_name: Tiverston
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.5] 
-[has_place_latitude::50.92] 
-[name::Tiverston] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tiverston](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston|Tiverston]] 
 
-### [Tiverston.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.public|Tiverston.public]] 
 
-### [Tiverston.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.internal|Tiverston.internal]] 
 
-### [Tiverston.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.protect|Tiverston.protect]] 
 
-### [Tiverston.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.private|Tiverston.private]] 
 
-### [Tiverston.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.personal|Tiverston.personal]] 
 
-### [Tiverston.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Devon~Mid/cities~MidDevon/Tiverston.secret|Tiverston.secret]] 
 

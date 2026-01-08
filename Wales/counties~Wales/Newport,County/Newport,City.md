@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Newport,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City|Newport,City]] 
 
-### [Newport,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.public|Newport,City.public]] 
 
-### [Newport,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.internal|Newport,City.internal]] 
 
-### [Newport,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.protect|Newport,City.protect]] 
 
-### [Newport,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.private|Newport,City.private]] 
 
-### [Newport,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.personal|Newport,City.personal]] 
 
-### [Newport,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Newport,County/Newport,City.secret|Newport,City.secret]] 
 

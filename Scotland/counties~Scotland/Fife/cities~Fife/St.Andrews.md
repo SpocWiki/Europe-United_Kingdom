@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34434
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.82
+dv_has_place_latitude: 56.32
+dv_name: St.Andrews
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.82] 
-[has_place_latitude::56.32] 
-[name::St.Andrews] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Andrews](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews|St.Andrews]] 
 
-### [St.Andrews.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.public|St.Andrews.public]] 
 
-### [St.Andrews.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.internal|St.Andrews.internal]] 
 
-### [St.Andrews.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.protect|St.Andrews.protect]] 
 
-### [St.Andrews.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.private|St.Andrews.private]] 
 
-### [St.Andrews.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.personal|St.Andrews.personal]] 
 
-### [St.Andrews.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/St.Andrews.secret|St.Andrews.secret]] 
 

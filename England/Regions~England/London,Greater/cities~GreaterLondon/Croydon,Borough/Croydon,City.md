@@ -22,22 +22,27 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.08
+dv_has_place_latitude: 51.35
+dv_name: Croydon
+dv_Country: "[[../../../../../../UK]]"
 ---
 
 # [[Croydon,City]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.08] 
-[has_place_latitude::51.35] 
-[name::Croydon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -67,19 +72,21 @@ markerFolder: ./Croydon,City/
 > Croydon lies on a transport corridor between central London and the south coast of England, to the north of two high gaps in the North Downs, one taken by the A23 Brighton Road and the main railway line through Purley and Merstham and the other by the A22 from Purley to the M25 Godstone interchange. Road traffic is diverted away from a largely pedestrianised town centre, mostly consisting of North End. East Croydon railway station is a hub of the national railway system, with frequent fast services to central London, Brighton and the south coast. The town is also at the centre of the only tramway system in Southern England.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Croydon)
+
+
 ## Confidential Links & Embeds: 
 
-### [Croydon](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough/Croydon,City|Croydon,City]] 
 
-### [Croydon.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough/Croydon,City.public|Croydon,City.public]] 
 
-### [Croydon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough/Croydon,City.internal|Croydon,City.internal]] 
 
-### [Croydon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough/Croydon,City.protect|Croydon,City.protect]] 
 
-### [Croydon.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough/Croydon,City.private|Croydon,City.private]] 
 
-### [Croydon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough/Croydon,City.personal|Croydon,City.personal]] 
 
-### [Croydon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Croydon,Borough/Croydon,City.secret|Croydon,City.secret]] 
 

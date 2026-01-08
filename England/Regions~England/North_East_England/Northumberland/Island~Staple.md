@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34518
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.28
+dv_has_place_latitude: 55.63
+dv_name: Staples
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.28] 
-[has_place_latitude::55.63] 
-[name::Staples] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Staple](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple|Island~Staple]] 
 
-### [Island~Staple.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.public|Island~Staple.public]] 
 
-### [Island~Staple.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.internal|Island~Staple.internal]] 
 
-### [Island~Staple.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.protect|Island~Staple.protect]] 
 
-### [Island~Staple.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.private|Island~Staple.private]] 
 
-### [Island~Staple.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.personal|Island~Staple.personal]] 
 
-### [Island~Staple.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Northumberland/Island~Staple.secret|Island~Staple.secret]] 
 

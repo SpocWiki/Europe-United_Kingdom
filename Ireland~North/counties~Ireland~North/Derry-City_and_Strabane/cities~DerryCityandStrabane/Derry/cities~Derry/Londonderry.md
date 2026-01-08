@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32082
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.33
+dv_has_place_latitude: 55
+dv_name: Londonderry
+dv_Country: "[[../../../../../../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.33] 
-[has_place_latitude::55] 
-[name::Londonderry] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Londonderry](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry|Londonderry]] 
 
-### [Londonderry.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.public|Londonderry.public]] 
 
-### [Londonderry.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.internal|Londonderry.internal]] 
 
-### [Londonderry.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.protect|Londonderry.protect]] 
 
-### [Londonderry.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.private|Londonderry.private]] 
 
-### [Londonderry.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.personal|Londonderry.personal]] 
 
-### [Londonderry.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Derry/cities~Derry/Londonderry.secret|Londonderry.secret]] 
 

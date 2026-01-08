@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Cambridge,350]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Cambridge,350]]"
+
 has_time_started: 0001-01-01 
 aliases:
 has_id_wikidata: Q350
@@ -74,7 +78,7 @@ inception: 0001-01-01T00:00:00Z
 
 # [[Cambridge,UK]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Cambridge,350]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map  
 
@@ -111,4 +115,19 @@ markerFile: [[Cambridge,UK]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Cambridge) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK|Cambridge,UK]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK.public|Cambridge,UK.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK.internal|Cambridge,UK.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK.protect|Cambridge,UK.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK.private|Cambridge,UK.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK.personal|Cambridge,UK.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Cambridge,UK.secret|Cambridge,UK.secret]] 
 

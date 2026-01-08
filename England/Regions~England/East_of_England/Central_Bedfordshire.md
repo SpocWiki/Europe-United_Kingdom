@@ -41,17 +41,17 @@ markerFolder: ./Central_Bedfordshire/
 
 ## Confidential Links & Embeds: 
 
-### [Central_Bedfordshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire|Central_Bedfordshire]] 
 
-### [Central_Bedfordshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.public|Central_Bedfordshire.public]] 
 
-### [Central_Bedfordshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.internal|Central_Bedfordshire.internal]] 
 
-### [Central_Bedfordshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.protect|Central_Bedfordshire.protect]] 
 
-### [Central_Bedfordshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.private|Central_Bedfordshire.private]] 
 
-### [Central_Bedfordshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.personal|Central_Bedfordshire.personal]] 
 
-### [Central_Bedfordshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Central_Bedfordshire.secret|Central_Bedfordshire.secret]] 
 

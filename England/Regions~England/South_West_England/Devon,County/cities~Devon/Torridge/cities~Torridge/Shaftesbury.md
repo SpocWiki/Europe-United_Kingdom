@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34226
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.53
+dv_has_place_latitude: 51
+dv_name: Shaftesbury
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.53] 
-[has_place_latitude::51] 
-[name::Shaftesbury] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Shaftesbury](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury|Shaftesbury]] 
 
-### [Shaftesbury.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.public|Shaftesbury.public]] 
 
-### [Shaftesbury.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.internal|Shaftesbury.internal]] 
 
-### [Shaftesbury.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.protect|Shaftesbury.protect]] 
 
-### [Shaftesbury.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.private|Shaftesbury.private]] 
 
-### [Shaftesbury.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.personal|Shaftesbury.personal]] 
 
-### [Shaftesbury.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County/cities~Devon/Torridge/cities~Torridge/Shaftesbury.secret|Shaftesbury.secret]] 
 

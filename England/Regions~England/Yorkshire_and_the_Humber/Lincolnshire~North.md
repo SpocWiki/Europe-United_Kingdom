@@ -40,17 +40,17 @@ markerFolder: ./Lincolnshire~North/
 
 ## Confidential Links & Embeds: 
 
-### [Lincolnshire~North](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North|Lincolnshire~North]] 
 
-### [Lincolnshire~North.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.public|Lincolnshire~North.public]] 
 
-### [Lincolnshire~North.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.internal|Lincolnshire~North.internal]] 
 
-### [Lincolnshire~North.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.protect|Lincolnshire~North.protect]] 
 
-### [Lincolnshire~North.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.private|Lincolnshire~North.private]] 
 
-### [Lincolnshire~North.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.personal|Lincolnshire~North.personal]] 
 
-### [Lincolnshire~North.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North.secret|Lincolnshire~North.secret]] 
 

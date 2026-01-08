@@ -41,17 +41,17 @@ markerFolder: ./Bristol/
 
 ## Confidential Links & Embeds: 
 
-### [Bristol,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County|Bristol,County]] 
 
-### [Bristol,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.public|Bristol,County.public]] 
 
-### [Bristol,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.internal|Bristol,County.internal]] 
 
-### [Bristol,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.protect|Bristol,County.protect]] 
 
-### [Bristol,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.private|Bristol,County.private]] 
 
-### [Bristol,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.personal|Bristol,County.personal]] 
 
-### [Bristol,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bristol,County.secret|Bristol,County.secret]] 
 

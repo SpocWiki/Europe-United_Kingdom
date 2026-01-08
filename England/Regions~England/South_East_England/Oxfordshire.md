@@ -42,17 +42,17 @@ markerFolder: ./Oxfordshire//
 
 ## Confidential Links & Embeds: 
 
-### [Oxfordshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire|Oxfordshire]] 
 
-### [Oxfordshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.public|Oxfordshire.public]] 
 
-### [Oxfordshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.internal|Oxfordshire.internal]] 
 
-### [Oxfordshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.protect|Oxfordshire.protect]] 
 
-### [Oxfordshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.private|Oxfordshire.private]] 
 
-### [Oxfordshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.personal|Oxfordshire.personal]] 
 
-### [Oxfordshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Oxfordshire.secret|Oxfordshire.secret]] 
 

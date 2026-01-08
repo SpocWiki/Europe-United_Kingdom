@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32880
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.95
+dv_has_place_latitude: 50.98
+dv_name: New Romney
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.95] 
-[has_place_latitude::50.98] 
-[name::New Romney] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [New_Romney](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney|New_Romney]] 
 
-### [New_Romney.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.public|New_Romney.public]] 
 
-### [New_Romney.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.internal|New_Romney.internal]] 
 
-### [New_Romney.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.protect|New_Romney.protect]] 
 
-### [New_Romney.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.private|New_Romney.private]] 
 
-### [New_Romney.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.personal|New_Romney.personal]] 
 
-### [New_Romney.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Shepway/cities~Shepway/New_Romney.secret|New_Romney.secret]] 
 

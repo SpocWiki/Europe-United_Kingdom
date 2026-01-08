@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31056
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.18
+dv_has_place_latitude: 52.33
+dv_name: Huntingdon
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.18] 
-[has_place_latitude::52.33] 
-[name::Huntingdon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Huntingdon](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon|Huntingdon]] 
 
-### [Huntingdon.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.public|Huntingdon.public]] 
 
-### [Huntingdon.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.internal|Huntingdon.internal]] 
 
-### [Huntingdon.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.protect|Huntingdon.protect]] 
 
-### [Huntingdon.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.private|Huntingdon.private]] 
 
-### [Huntingdon.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.personal|Huntingdon.personal]] 
 
-### [Huntingdon.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Cambridgeshire/cities~Cambridgeshire/Huntingdonshire/cities~Huntingdonshire/Huntingdon.secret|Huntingdon.secret]] 
 

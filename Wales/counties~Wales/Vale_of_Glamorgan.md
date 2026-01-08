@@ -41,17 +41,17 @@ markerFolder: ./Vale_of_Glamorgan/
 
 ## Confidential Links & Embeds: 
 
-### [Vale_of_Glamorgan](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan|Vale_of_Glamorgan]] 
 
-### [Vale_of_Glamorgan.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.public|Vale_of_Glamorgan.public]] 
 
-### [Vale_of_Glamorgan.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.internal|Vale_of_Glamorgan.internal]] 
 
-### [Vale_of_Glamorgan.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.protect|Vale_of_Glamorgan.protect]] 
 
-### [Vale_of_Glamorgan.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.private|Vale_of_Glamorgan.private]] 
 
-### [Vale_of_Glamorgan.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.personal|Vale_of_Glamorgan.personal]] 
 
-### [Vale_of_Glamorgan.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Vale_of_Glamorgan.secret|Vale_of_Glamorgan.secret]] 
 

@@ -5,110 +5,110 @@ aliases:
   - Gladstone
 has_id_wikidata: Q160852
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~diplomat,193391]]'
-  - '[[_Standards/WikiData/WD~statistician,2732142]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+  - "[[_Standards/WikiData/WD~politician,82955]]"
+  - "[[_Standards/WikiData/WD~diplomat,193391]]"
+  - "[[_Standards/WikiData/WD~statistician,2732142]]"
+  - "[[_Standards/WikiData/WD~writer,36180]]"
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
-  - '[[_Standards/WikiData/WD~Accademia_dei_Lincei,338432]]'
-  - '[[_Standards/WikiData/WD~Accademia_della_Crusca,338489]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Serbian_Academy_of_Sciences_and_Arts,1132636]]'
-  - '[[_Standards/WikiData/WD~American_Antiquarian_Society,4742987]]'
-  - '[[_Standards/WikiData/WD~Serbian_Learned_Society,12759592]]'
-  - '[[_Standards/WikiData/WD~Historic_Society_of_Lancashire_and_Cheshire,16933227]]'
-  - '[[_Standards/WikiData/WD~Hellenic_Philological_Society_of_Constantinople,18912936]]'
-employer: '[[_Standards/WikiData/WD~University_of_Edinburgh,160302]]'
+  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
+  - "[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]"
+  - "[[_Standards/WikiData/WD~Accademia_dei_Lincei,338432]]"
+  - "[[_Standards/WikiData/WD~Accademia_della_Crusca,338489]]"
+  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
+  - "[[_Standards/WikiData/WD~Serbian_Academy_of_Sciences_and_Arts,1132636]]"
+  - "[[_Standards/WikiData/WD~American_Antiquarian_Society,4742987]]"
+  - "[[_Standards/WikiData/WD~Serbian_Learned_Society,12759592]]"
+  - "[[_Standards/WikiData/WD~Historic_Society_of_Lancashire_and_Cheshire,16933227]]"
+  - "[[_Standards/WikiData/WD~Hellenic_Philological_Society_of_Constantinople,18912936]]"
+employer: "[[_Standards/WikiData/WD~University_of_Edinburgh,160302]]"
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 educated_at:
-  - '[[_Standards/WikiData/WD~Eton_College,192088]]'
-  - '[[_Standards/WikiData/WD~Christ_Church,745967]]'
-place_of_death: '[[_Standards/WikiData/WD~Hawarden_Castle,370127]]'
+  - "[[_Standards/WikiData/WD~Eton_College,192088]]"
+  - "[[_Standards/WikiData/WD~Christ_Church,745967]]"
+place_of_death: "[[_Standards/WikiData/WD~Hawarden_Castle,370127]]"
 member_of_political_party:
-  - '[[_Standards/WikiData/WD~Tories,499956]]'
-  - '[[_Standards/WikiData/WD~Liberal_Party,622441]]'
-  - '[[_Standards/WikiData/WD~Conservative_Party,9626]]'
+  - "[[_Standards/WikiData/WD~Tories,499956]]"
+  - "[[_Standards/WikiData/WD~Liberal_Party,622441]]"
+  - "[[_Standards/WikiData/WD~Conservative_Party,9626]]"
 position_held:
-  - '[[_Standards/WikiData/WD~Chancellor_of_the_Exchequer,531471]]'
-  - '[[_Standards/WikiData/WD~Secretary_of_State_for_War_and_the_Colonies,1546682]]'
-  - '[[_Standards/WikiData/WD~Leader_of_the_House_of_Commons,2636053]]'
-  - '[[_Standards/WikiData/WD~Leader_of_the_Opposition,2741536]]'
-  - '[[_Standards/WikiData/WD~Master_of_the_Mint,6785312]]'
-  - '[[_Standards/WikiData/WD~Vice_President_of_the_Board_of_Trade,7925001]]'
-  - '[[_Standards/WikiData/WD~President_of_the_Board_of_Trade,27037814]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_Privy_Council_of_the_United_Kingdom,28841847]]'
-  - '[[_Standards/WikiData/WD~member_of_the_11th_Parliament_of_the_United_Kingdom,41582546]]'
-  - '[[_Standards/WikiData/WD~member_of_the_13th_Parliament_of_the_United_Kingdom,41582550]]'
-  - '[[_Standards/WikiData/WD~member_of_the_12th_Parliament_of_the_United_Kingdom,41582548]]'
-  - '[[_Standards/WikiData/WD~member_of_the_15th_Parliament_of_the_United_Kingdom,41582555]]'
-  - '[[_Standards/WikiData/WD~member_of_the_14th_Parliament_of_the_United_Kingdom,41582553]]'
-  - '[[_Standards/WikiData/WD~member_of_the_18th_Parliament_of_the_United_Kingdom,41582558]]'
-  - '[[_Standards/WikiData/WD~member_of_the_19th_Parliament_of_the_United_Kingdom,41582559]]'
-  - '[[_Standards/WikiData/WD~member_of_the_16th_Parliament_of_the_United_Kingdom,41582556]]'
-  - '[[_Standards/WikiData/WD~member_of_the_17th_Parliament_of_the_United_Kingdom,41582557]]'
-  - '[[_Standards/WikiData/WD~member_of_the_21st_Parliament_of_the_United_Kingdom,41582563]]'
-  - '[[_Standards/WikiData/WD~member_of_the_20th_Parliament_of_the_United_Kingdom,41582560]]'
-  - '[[_Standards/WikiData/WD~member_of_the_22nd_Parliament_of_the_United_Kingdom,41582565]]'
-  - '[[_Standards/WikiData/WD~member_of_the_24th_Parliament_of_the_United_Kingdom,41582570]]'
-  - '[[_Standards/WikiData/WD~member_of_the_23rd_Parliament_of_the_United_Kingdom,41582568]]'
-  - '[[_Standards/WikiData/WD~member_of_the_25th_Parliament_of_the_United_Kingdom,41582572]]'
-  - '[[_Standards/WikiData/WD~Lord_High_Commissioner_of_the_Ionian_Islands,50804969]]'
-  - '[[_Standards/WikiData/WD~president_of_the_Royal_Statistical_Society,104594648]]'
-  - '[[_Standards/WikiData/WD~Prime_Minister_of_the_United_Kingdom,14211]]'
+  - "[[_Standards/WikiData/WD~Chancellor_of_the_Exchequer,531471]]"
+  - "[[_Standards/WikiData/WD~Secretary_of_State_for_War_and_the_Colonies,1546682]]"
+  - "[[_Standards/WikiData/WD~Leader_of_the_House_of_Commons,2636053]]"
+  - "[[_Standards/WikiData/WD~Leader_of_the_Opposition,2741536]]"
+  - "[[_Standards/WikiData/WD~Master_of_the_Mint,6785312]]"
+  - "[[_Standards/WikiData/WD~Vice_President_of_the_Board_of_Trade,7925001]]"
+  - "[[_Standards/WikiData/WD~President_of_the_Board_of_Trade,27037814]]"
+  - "[[_Standards/WikiData/WD~Member_of_the_Privy_Council_of_the_United_Kingdom,28841847]]"
+  - "[[_Standards/WikiData/WD~member_of_the_11th_Parliament_of_the_United_Kingdom,41582546]]"
+  - "[[_Standards/WikiData/WD~member_of_the_13th_Parliament_of_the_United_Kingdom,41582550]]"
+  - "[[_Standards/WikiData/WD~member_of_the_12th_Parliament_of_the_United_Kingdom,41582548]]"
+  - "[[_Standards/WikiData/WD~member_of_the_15th_Parliament_of_the_United_Kingdom,41582555]]"
+  - "[[_Standards/WikiData/WD~member_of_the_14th_Parliament_of_the_United_Kingdom,41582553]]"
+  - "[[_Standards/WikiData/WD~member_of_the_18th_Parliament_of_the_United_Kingdom,41582558]]"
+  - "[[_Standards/WikiData/WD~member_of_the_19th_Parliament_of_the_United_Kingdom,41582559]]"
+  - "[[_Standards/WikiData/WD~member_of_the_16th_Parliament_of_the_United_Kingdom,41582556]]"
+  - "[[_Standards/WikiData/WD~member_of_the_17th_Parliament_of_the_United_Kingdom,41582557]]"
+  - "[[_Standards/WikiData/WD~member_of_the_21st_Parliament_of_the_United_Kingdom,41582563]]"
+  - "[[_Standards/WikiData/WD~member_of_the_20th_Parliament_of_the_United_Kingdom,41582560]]"
+  - "[[_Standards/WikiData/WD~member_of_the_22nd_Parliament_of_the_United_Kingdom,41582565]]"
+  - "[[_Standards/WikiData/WD~member_of_the_24th_Parliament_of_the_United_Kingdom,41582570]]"
+  - "[[_Standards/WikiData/WD~member_of_the_23rd_Parliament_of_the_United_Kingdom,41582568]]"
+  - "[[_Standards/WikiData/WD~member_of_the_25th_Parliament_of_the_United_Kingdom,41582572]]"
+  - "[[_Standards/WikiData/WD~Lord_High_Commissioner_of_the_Ionian_Islands,50804969]]"
+  - "[[_Standards/WikiData/WD~president_of_the_Royal_Statistical_Society,104594648]]"
+  - "[[_Standards/WikiData/WD~Prime_Minister_of_the_United_Kingdom,14211]]"
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_first_supplement,16014700]]'
-  - '[[_Standards/WikiData/WD~Q19036877,19036877]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_first_supplement,16014700]]"
+  - "[[_Standards/WikiData/WD~Q19036877,19036877]]"
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-archives_at: '[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]'
-contributed_to_creative_work: '[[_Standards/WikiData/WD~Popular_Science,773087]]'
-honorific_prefix: '[[_Standards/WikiData/WD~The_Right_Honourable,1480896]]'
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+archives_at: "[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]"
+contributed_to_creative_work: "[[_Standards/WikiData/WD~Popular_Science,773087]]"
+honorific_prefix: "[[_Standards/WikiData/WD~The_Right_Honourable,1480896]]"
 child:
-  - '[[_Standards/WikiData/WD~Herbert_Gladstone,_1st_Viscount_Gladstone,2347324]]'
-  - '[[_Standards/WikiData/WD~William_Henry_Gladstone,4020043]]'
-  - '[[_Standards/WikiData/WD~Henry_Gladstone,_1st_Baron_Gladstone_of_Hawarden,5721979]]'
-  - '[[_Standards/WikiData/WD~Mary_Gladstone,6779642]]'
-  - '[[_Standards/WikiData/WD~Helen_Gladstone,18593098]]'
-  - '[[_Standards/WikiData/WD~Stephen_Edward_Gladstone,75550952]]'
-  - '[[_Standards/WikiData/WD~Agnes_Gladstone,75567235]]'
-  - '[[_Standards/WikiData/WD~Catherine_Jessy_Gladstone,75573127]]'
-spouse: '[[_Standards/WikiData/WD~Catherine_Gladstone,5052698]]'
-sibling: '[[_Standards/WikiData/WD~John_Gladstone,6250233]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-father: '[[_Standards/WikiData/WD~Sir_John_Gladstone,_1st_Baronet,7527795]]'
+  - "[[_Standards/WikiData/WD~Herbert_Gladstone,_1st_Viscount_Gladstone,2347324]]"
+  - "[[_Standards/WikiData/WD~William_Henry_Gladstone,4020043]]"
+  - "[[_Standards/WikiData/WD~Henry_Gladstone,_1st_Baron_Gladstone_of_Hawarden,5721979]]"
+  - "[[_Standards/WikiData/WD~Mary_Gladstone,6779642]]"
+  - "[[_Standards/WikiData/WD~Helen_Gladstone,18593098]]"
+  - "[[_Standards/WikiData/WD~Stephen_Edward_Gladstone,75550952]]"
+  - "[[_Standards/WikiData/WD~Agnes_Gladstone,75567235]]"
+  - "[[_Standards/WikiData/WD~Catherine_Jessy_Gladstone,75573127]]"
+spouse: "[[_Standards/WikiData/WD~Catherine_Gladstone,5052698]]"
+sibling: "[[_Standards/WikiData/WD~John_Gladstone,6250233]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Anglicanism,6423963]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+father: "[[_Standards/WikiData/WD~Sir_John_Gladstone,_1st_Baronet,7527795]]"
 given_name:
-  - '[[_Standards/WikiData/WD~William,12344159]]'
-  - '[[_Standards/WikiData/WD~Ewart,21508019]]'
-award_received: '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+  - "[[_Standards/WikiData/WD~William,12344159]]"
+  - "[[_Standards/WikiData/WD~Ewart,21508019]]"
+award_received: "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]"
 depicted_by:
-  - '[[_Standards/WikiData/WD~Dinner_at_Haddo_House,_1884,28050421]]'
-  - '[[_Standards/WikiData/WD~Statue_of_William_Ewart_Gladstone,52184689]]'
-  - '[[_Standards/WikiData/WD~The_Right_Hon._William_Ewart_Gladstone,_DCL,_PC,_(1809_1898),52209563]]'
-  - '[[_Standards/WikiData/WD~William_Ewart_Gladstone_(1809_98),_Prime_Minister,119763412]]'
-family_name: '[[_Standards/WikiData/WD~Gladstone,29627647]]'
-mother: '[[_Standards/WikiData/WD~Anne_MacKenzie_Robertson,75318027]]'
+  - "[[_Standards/WikiData/WD~Dinner_at_Haddo_House,_1884,28050421]]"
+  - "[[_Standards/WikiData/WD~Statue_of_William_Ewart_Gladstone,52184689]]"
+  - "[[_Standards/WikiData/WD~The_Right_Hon._William_Ewart_Gladstone,_DCL,_PC,_(1809_1898),52209563]]"
+  - "[[_Standards/WikiData/WD~William_Ewart_Gladstone_(1809_98),_Prime_Minister,119763412]]"
+family_name: "[[_Standards/WikiData/WD~Gladstone,29627647]]"
+mother: "[[_Standards/WikiData/WD~Anne_MacKenzie_Robertson,75318027]]"
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]'
-  - '[[_Standards/WikiData/WD~Moravian_Knowledge_Network_Research,113678653]]'
+  - "[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]"
+  - "[[_Standards/WikiData/WD~Moravian_Knowledge_Network_Research,113678653]]"
 date_of_death: 1898-05-19T00:00:00Z
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-place_of_burial: '[[_Standards/WikiData/WD~Westminster_Abbey,5933]]'
-field_of_work: '[[_Standards/WikiData/WD~politics,7163]]'
-place_of_birth: '[[_Standards/WikiData/WD~Liverpool,24826]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-work_location: '[[_Standards/WikiData/WD~London,84]]'
+writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+place_of_burial: "[[_Standards/WikiData/WD~Westminster_Abbey,5933]]"
+field_of_work: "[[_Standards/WikiData/WD~politics,7163]]"
+place_of_birth: "[[_Standards/WikiData/WD~Liverpool,24826]]"
+instance_of: "[[_Standards/WikiData/WD~human,5]]"
+work_location: "[[_Standards/WikiData/WD~London,84]]"
 U_S_National_Archives_Identifier: 18514968
 P1015: 90140296
 Europeana_entity: agent/base/146953
@@ -129,12 +129,15 @@ escutcheon_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gladstone%2
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Ewart%20Gladstone%20Signature%202.svg
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Ewart%20Gladstone%20voice.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Ewart%20Gladstone%2C%201892%20%28cropped%29.jpg
-ISNI: 0000000121387062
+ISNI: 121387062
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~William_Ewart_Gladstone,160852|WD~William_Ewart_Gladstone,160852]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~William_Ewart_Gladstone,160852|WD~William_Ewart_Gladstone,160852]]"
 ---
 
 # [[William_Ewart_Gladstone]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~William_Ewart_Gladstone,160852|WD~William_Ewart_Gladstone,160852]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -167,4 +170,21 @@ ISNI: 0000000121387062
 > Gladstone was known affectionately by his supporters as "The People's William" or the "G.O.M." ("Grand Old Man", or, to political rivals "God's Only Mistake"). Historians often rank Gladstone as one of the greatest prime ministers in British history.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/William%20Ewart%20Gladstone) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/History,UK/William_Ewart_Gladstone|William_Ewart_Gladstone]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/History,UK/William_Ewart_Gladstone.public|William_Ewart_Gladstone.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/History,UK/William_Ewart_Gladstone.internal|William_Ewart_Gladstone.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/History,UK/William_Ewart_Gladstone.protect|William_Ewart_Gladstone.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/History,UK/William_Ewart_Gladstone.private|William_Ewart_Gladstone.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/History,UK/William_Ewart_Gladstone.personal|William_Ewart_Gladstone.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/History,UK/William_Ewart_Gladstone.secret|William_Ewart_Gladstone.secret]] 
 

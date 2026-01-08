@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30919
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.08
+dv_has_place_latitude: 51.8
+dv_name: Hertford
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.08] 
-[has_place_latitude::51.8] 
-[name::Hertford] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hertford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford|Hertford]] 
 
-### [Hertford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.public|Hertford.public]] 
 
-### [Hertford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.internal|Hertford.internal]] 
 
-### [Hertford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.protect|Hertford.protect]] 
 
-### [Hertford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.private|Hertford.private]] 
 
-### [Hertford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.personal|Hertford.personal]] 
 
-### [Hertford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Hertfordshire/cities~Hertfordshire/Hertfordshire~East/cities~EastHertfordshire/Hertford.secret|Hertford.secret]] 
 

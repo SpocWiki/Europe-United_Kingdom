@@ -40,17 +40,17 @@ markerFolder: ./Banbridge/
 
 ## Confidential Links & Embeds: 
 
-### [Banbridge](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge|Banbridge]] 
 
-### [Banbridge.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.public|Banbridge.public]] 
 
-### [Banbridge.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.internal|Banbridge.internal]] 
 
-### [Banbridge.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.protect|Banbridge.protect]] 
 
-### [Banbridge.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.private|Banbridge.private]] 
 
-### [Banbridge.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.personal|Banbridge.personal]] 
 
-### [Banbridge.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Banbridge.secret|Banbridge.secret]] 
 

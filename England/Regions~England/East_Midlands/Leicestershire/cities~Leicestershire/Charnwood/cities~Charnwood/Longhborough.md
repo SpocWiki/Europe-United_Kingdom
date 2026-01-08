@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32086
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.2
+dv_has_place_latitude: 52.78
+dv_name: Longhborough
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.2] 
-[has_place_latitude::52.78] 
-[name::Longhborough] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Longhborough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough|Longhborough]] 
 
-### [Longhborough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.public|Longhborough.public]] 
 
-### [Longhborough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.internal|Longhborough.internal]] 
 
-### [Longhborough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.protect|Longhborough.protect]] 
 
-### [Longhborough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.private|Longhborough.private]] 
 
-### [Longhborough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.personal|Longhborough.personal]] 
 
-### [Longhborough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Leicestershire/cities~Leicestershire/Charnwood/cities~Charnwood/Longhborough.secret|Longhborough.secret]] 
 

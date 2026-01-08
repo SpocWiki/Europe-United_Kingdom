@@ -40,17 +40,17 @@ markerFolder: ./Aberdeenshire/
 
 ## Confidential Links & Embeds: 
 
-### [Aberdeenshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire|Aberdeenshire]] 
 
-### [Aberdeenshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.public|Aberdeenshire.public]] 
 
-### [Aberdeenshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.internal|Aberdeenshire.internal]] 
 
-### [Aberdeenshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.protect|Aberdeenshire.protect]] 
 
-### [Aberdeenshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.private|Aberdeenshire.private]] 
 
-### [Aberdeenshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.personal|Aberdeenshire.personal]] 
 
-### [Aberdeenshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Aberdeenshire.secret|Aberdeenshire.secret]] 
 

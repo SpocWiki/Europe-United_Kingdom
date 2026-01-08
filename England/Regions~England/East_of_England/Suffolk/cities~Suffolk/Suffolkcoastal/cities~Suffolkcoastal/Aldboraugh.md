@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28722
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.5
+dv_has_place_latitude: 52.13
+dv_name: Aldboraugh
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.5] 
-[has_place_latitude::52.13] 
-[name::Aldboraugh] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aldboraugh](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh|Aldboraugh]] 
 
-### [Aldboraugh.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.public|Aldboraugh.public]] 
 
-### [Aldboraugh.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.internal|Aldboraugh.internal]] 
 
-### [Aldboraugh.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.protect|Aldboraugh.protect]] 
 
-### [Aldboraugh.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.private|Aldboraugh.private]] 
 
-### [Aldboraugh.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.personal|Aldboraugh.personal]] 
 
-### [Aldboraugh.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Aldboraugh.secret|Aldboraugh.secret]] 
 

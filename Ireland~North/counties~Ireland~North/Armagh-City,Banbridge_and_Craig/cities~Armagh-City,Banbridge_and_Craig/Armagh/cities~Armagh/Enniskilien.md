@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30033
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -6.63
+dv_has_place_latitude: 54.35
+dv_name: Enniskilien
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-6.63] 
-[has_place_latitude::54.35] 
-[name::Enniskilien] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Enniskilien](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien|Enniskilien]] 
 
-### [Enniskilien.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.public|Enniskilien.public]] 
 
-### [Enniskilien.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.internal|Enniskilien.internal]] 
 
-### [Enniskilien.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.protect|Enniskilien.protect]] 
 
-### [Enniskilien.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.private|Enniskilien.private]] 
 
-### [Enniskilien.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.personal|Enniskilien.personal]] 
 
-### [Enniskilien.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Armagh-City,Banbridge_and_Craig/cities~Armagh-City,Banbridge_and_Craig/Armagh/cities~Armagh/Enniskilien.secret|Enniskilien.secret]] 
 

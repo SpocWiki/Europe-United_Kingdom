@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31037
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.18
+dv_has_place_latitude: 50.83
+dv_name: Hove
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.18] 
-[has_place_latitude::50.83] 
-[name::Hove] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hove](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove|Hove]] 
 
-### [Hove.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.public|Hove.public]] 
 
-### [Hove.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.internal|Hove.internal]] 
 
-### [Hove.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.protect|Hove.protect]] 
 
-### [Hove.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.private|Hove.private]] 
 
-### [Hove.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.personal|Hove.personal]] 
 
-### [Hove.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Hove.secret|Hove.secret]] 
 

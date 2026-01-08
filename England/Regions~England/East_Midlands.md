@@ -16,17 +16,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [East_Midlands](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands|East_Midlands]] 
 
-### [East_Midlands.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.public|East_Midlands.public]] 
 
-### [East_Midlands.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.internal|East_Midlands.internal]] 
 
-### [East_Midlands.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.protect|East_Midlands.protect]] 
 
-### [East_Midlands.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.private|East_Midlands.private]] 
 
-### [East_Midlands.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.personal|East_Midlands.personal]] 
 
-### [East_Midlands.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands.secret|East_Midlands.secret]] 
 

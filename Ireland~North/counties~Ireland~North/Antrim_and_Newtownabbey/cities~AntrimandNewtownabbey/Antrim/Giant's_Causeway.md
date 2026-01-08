@@ -4,24 +4,24 @@ aliases:
   - Giants Causeway
   - Giant's_Causeway
 has_id_wikidata: Q106187
-historic_county: '[[_Standards/WikiData/WD~County_Antrim,189592]]'
+historic_county: "[[_Standards/WikiData/WD~County_Antrim,189592]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~landform,271669]]'
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~columnar_basalt,6633995]]'
-maintained_by: '[[_Standards/WikiData/WD~National_Trust,333515]]'
+  - "[[_Standards/WikiData/WD~landform,271669]]"
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~columnar_basalt,6633995]]"
+maintained_by: "[[_Standards/WikiData/WD~National_Trust,333515]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Causeway_Coast_and_Glens,5054638]]'
-facet_of: '[[_Standards/WikiData/WD~columnar_jointing,15427433]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Causeway_Coast_and_Glens,5054638]]"
+facet_of: "[[_Standards/WikiData/WD~columnar_jointing,15427433]]"
 World_Heritage_criteria:
-  - '[[_Standards/WikiData/WD~(viii),23038983]]'
-  - '[[_Standards/WikiData/WD~(vii),23038981]]'
-heritage_designation: '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+  - "[[_Standards/WikiData/WD~(viii),23038983]]"
+  - "[[_Standards/WikiData/WD~(vii),23038981]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
 social_media_followers: 10089
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Giant%27s%20Causeway%20%2836834542085%29.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Giants%20Causeway%20banner.JPG
@@ -30,11 +30,14 @@ official_website: http://www.giantscausewayofficialguide.com/Home.aspx
 X_Twitter_username: GCausewayNT
 Commons_category: Giant's Causeway
 coordinate_location: Point(-6.511666666 55.240833333)
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Giant's_Causeway,106187|WD~Giant's_Causeway,106187]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Giant's_Causeway,106187|WD~Giant's_Causeway,106187]]"
 ---
 
 # [[Giant's_Causeway]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Giant's_Causeway,106187|WD~Giant's_Causeway,106187]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -47,4 +50,21 @@ coordinate_location: Point(-6.511666666 55.240833333)
 > Much of the Giant's Causeway and Causeway Coast World Heritage Site is owned and managed by the National Trust. It is one of the most popular tourist attractions in Northern Ireland, receiving more than 998,000 visitors in 2019. Access to the Giant's Causeway is free of charge: it is not necessary to go via the visitor centre that charges a fee. The remainder of the site is owned by the Crown Estate and several private landowners.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Giant's%20Causeway) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/Giant's_Causeway|Giant's_Causeway]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/Giant's_Causeway.public|Giant's_Causeway.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/Giant's_Causeway.internal|Giant's_Causeway.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/Giant's_Causeway.protect|Giant's_Causeway.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/Giant's_Causeway.private|Giant's_Causeway.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/Giant's_Causeway.personal|Giant's_Causeway.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Antrim/Giant's_Causeway.secret|Giant's_Causeway.secret]] 
 

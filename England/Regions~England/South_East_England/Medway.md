@@ -40,17 +40,17 @@ markerFolder: ./Medway/
 
 ## Confidential Links & Embeds: 
 
-### [Medway](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway|Medway]] 
 
-### [Medway.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.public|Medway.public]] 
 
-### [Medway.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.internal|Medway.internal]] 
 
-### [Medway.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.protect|Medway.protect]] 
 
-### [Medway.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.private|Medway.private]] 
 
-### [Medway.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.personal|Medway.personal]] 
 
-### [Medway.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway.secret|Medway.secret]] 
 

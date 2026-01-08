@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28954
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.63
+dv_has_place_latitude: 55.47
+dv_name: Ayr
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.63] 
-[has_place_latitude::55.47] 
-[name::Ayr] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ayr](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr|Ayr]] 
 
-### [Ayr.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.public|Ayr.public]] 
 
-### [Ayr.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.internal|Ayr.internal]] 
 
-### [Ayr.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.protect|Ayr.protect]] 
 
-### [Ayr.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.private|Ayr.private]] 
 
-### [Ayr.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.personal|Ayr.personal]] 
 
-### [Ayr.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Ayrshire~South/cities~Ayrshire~South/Ayr.secret|Ayr.secret]] 
 

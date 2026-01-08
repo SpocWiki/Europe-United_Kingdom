@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34156
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.63
+dv_has_place_latitude: 53.6
+dv_name: Scunthorpe
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.63] 
-[has_place_latitude::53.6] 
-[name::Scunthorpe] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Scunthorpe](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe|Scunthorpe]] 
 
-### [Scunthorpe.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.public|Scunthorpe.public]] 
 
-### [Scunthorpe.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.internal|Scunthorpe.internal]] 
 
-### [Scunthorpe.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.protect|Scunthorpe.protect]] 
 
-### [Scunthorpe.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.private|Scunthorpe.private]] 
 
-### [Scunthorpe.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.personal|Scunthorpe.personal]] 
 
-### [Scunthorpe.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North/cities~NorthLincolnshire/Scunthorpe.secret|Scunthorpe.secret]] 
 

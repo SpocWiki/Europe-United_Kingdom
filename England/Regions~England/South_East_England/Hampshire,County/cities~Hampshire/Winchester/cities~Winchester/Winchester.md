@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35634
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.3
+dv_has_place_latitude: 51.07
+dv_name: Winchester
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.3] 
-[has_place_latitude::51.07] 
-[name::Winchester] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Winchester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester|Winchester]] 
 
-### [Winchester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.public|Winchester.public]] 
 
-### [Winchester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.internal|Winchester.internal]] 
 
-### [Winchester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.protect|Winchester.protect]] 
 
-### [Winchester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.private|Winchester.private]] 
 
-### [Winchester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.personal|Winchester.personal]] 
 
-### [Winchester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Winchester/cities~Winchester/Winchester.secret|Winchester.secret]] 
 

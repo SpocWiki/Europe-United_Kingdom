@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32889
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3
+dv_has_place_latitude: 51.58
+dv_name: Newport~Monmouthshire
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3] 
-[has_place_latitude::51.58] 
-[name::Newport~Monmouthshire] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Newport,Monmouthshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire|Newport,Monmouthshire]] 
 
-### [Newport,Monmouthshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.public|Newport,Monmouthshire.public]] 
 
-### [Newport,Monmouthshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.internal|Newport,Monmouthshire.internal]] 
 
-### [Newport,Monmouthshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.protect|Newport,Monmouthshire.protect]] 
 
-### [Newport,Monmouthshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.private|Newport,Monmouthshire.private]] 
 
-### [Newport,Monmouthshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.personal|Newport,Monmouthshire.personal]] 
 
-### [Newport,Monmouthshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Newport,Monmouthshire.secret|Newport,Monmouthshire.secret]] 
 

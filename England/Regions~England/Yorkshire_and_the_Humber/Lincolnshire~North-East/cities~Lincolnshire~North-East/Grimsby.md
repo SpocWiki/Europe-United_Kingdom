@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30582
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.08
+dv_has_place_latitude: 53.57
+dv_name: Grimsby
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.08] 
-[has_place_latitude::53.57] 
-[name::Grimsby] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grimsby](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby|Grimsby]] 
 
-### [Grimsby.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.public|Grimsby.public]] 
 
-### [Grimsby.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.internal|Grimsby.internal]] 
 
-### [Grimsby.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.protect|Grimsby.protect]] 
 
-### [Grimsby.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.private|Grimsby.private]] 
 
-### [Grimsby.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.personal|Grimsby.personal]] 
 
-### [Grimsby.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire~North-East/cities~Lincolnshire~North-East/Grimsby.secret|Grimsby.secret]] 
 

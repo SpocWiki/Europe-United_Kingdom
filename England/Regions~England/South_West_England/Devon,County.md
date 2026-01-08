@@ -41,17 +41,17 @@ markerFolder: ./Devon/
 
 ## Confidential Links & Embeds: 
 
-### [Devon,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County|Devon,County]] 
 
-### [Devon,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.public|Devon,County.public]] 
 
-### [Devon,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.internal|Devon,County.internal]] 
 
-### [Devon,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.protect|Devon,County.protect]] 
 
-### [Devon,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.private|Devon,County.private]] 
 
-### [Devon,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.personal|Devon,County.personal]] 
 
-### [Devon,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Devon,County.secret|Devon,County.secret]] 
 

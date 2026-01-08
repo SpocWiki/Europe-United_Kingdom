@@ -41,17 +41,17 @@ markerFolder: ./Dudley/
 
 ## Confidential Links & Embeds: 
 
-### [Dudley,Borough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough|Dudley,Borough]] 
 
-### [Dudley,Borough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.public|Dudley,Borough.public]] 
 
-### [Dudley,Borough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.internal|Dudley,Borough.internal]] 
 
-### [Dudley,Borough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.protect|Dudley,Borough.protect]] 
 
-### [Dudley,Borough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.private|Dudley,Borough.private]] 
 
-### [Dudley,Borough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.personal|Dudley,Borough.personal]] 
 
-### [Dudley,Borough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Dudley,Borough.secret|Dudley,Borough.secret]] 
 

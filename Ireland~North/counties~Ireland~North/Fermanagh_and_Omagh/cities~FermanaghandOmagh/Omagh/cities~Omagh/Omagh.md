@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33107
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.25
+dv_has_place_latitude: 54.57
+dv_name: Omagh
+dv_Country: "[[../../../../../../../Ireland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.25] 
-[has_place_latitude::54.57] 
-[name::Omagh] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Ireland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Omagh](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh|Omagh]] 
 
-### [Omagh.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.public|Omagh.public]] 
 
-### [Omagh.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.internal|Omagh.internal]] 
 
-### [Omagh.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.protect|Omagh.protect]] 
 
-### [Omagh.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.private|Omagh.private]] 
 
-### [Omagh.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.personal|Omagh.personal]] 
 
-### [Omagh.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Fermanagh_and_Omagh/cities~FermanaghandOmagh/Omagh/cities~Omagh/Omagh.secret|Omagh.secret]] 
 

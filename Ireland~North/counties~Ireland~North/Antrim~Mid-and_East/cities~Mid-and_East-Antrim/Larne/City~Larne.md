@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31856
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -5.82
+dv_has_place_latitude: 54.83
+dv_name: Larne
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-5.82] 
-[has_place_latitude::54.83] 
-[name::Larne] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Larne](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne|City~Larne]] 
 
-### [City~Larne.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.public|City~Larne.public]] 
 
-### [City~Larne.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.internal|City~Larne.internal]] 
 
-### [City~Larne.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.protect|City~Larne.protect]] 
 
-### [City~Larne.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.private|City~Larne.private]] 
 
-### [City~Larne.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.personal|City~Larne.personal]] 
 
-### [City~Larne.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim~Mid-and_East/cities~Mid-and_East-Antrim/Larne/City~Larne.secret|City~Larne.secret]] 
 

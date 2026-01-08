@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34396
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.08
+dv_has_place_latitude: 50.78
+dv_name: Southsea
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.08] 
-[has_place_latitude::50.78] 
-[name::Southsea] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Southsea](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea|Southsea]] 
 
-### [Southsea.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.public|Southsea.public]] 
 
-### [Southsea.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.internal|Southsea.internal]] 
 
-### [Southsea.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.protect|Southsea.protect]] 
 
-### [Southsea.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.private|Southsea.private]] 
 
-### [Southsea.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.personal|Southsea.personal]] 
 
-### [Southsea.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Southsea.secret|Southsea.secret]] 
 

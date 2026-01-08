@@ -18,17 +18,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Causeway-Coast_and_Glens](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens|Causeway-Coast_and_Glens]] 
 
-### [Causeway-Coast_and_Glens.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.public|Causeway-Coast_and_Glens.public]] 
 
-### [Causeway-Coast_and_Glens.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.internal|Causeway-Coast_and_Glens.internal]] 
 
-### [Causeway-Coast_and_Glens.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.protect|Causeway-Coast_and_Glens.protect]] 
 
-### [Causeway-Coast_and_Glens.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.private|Causeway-Coast_and_Glens.private]] 
 
-### [Causeway-Coast_and_Glens.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.personal|Causeway-Coast_and_Glens.personal]] 
 
-### [Causeway-Coast_and_Glens.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Causeway-Coast_and_Glens.secret|Causeway-Coast_and_Glens.secret]] 
 

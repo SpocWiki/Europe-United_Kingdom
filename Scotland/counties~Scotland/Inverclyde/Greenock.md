@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30556
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.75
+dv_has_place_latitude: 55.95
+dv_name: Greenock
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.75] 
-[has_place_latitude::55.95] 
-[name::Greenock] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Greenock](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock|Greenock]] 
 
-### [Greenock.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.public|Greenock.public]] 
 
-### [Greenock.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.internal|Greenock.internal]] 
 
-### [Greenock.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.protect|Greenock.protect]] 
 
-### [Greenock.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.private|Greenock.private]] 
 
-### [Greenock.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.personal|Greenock.personal]] 
 
-### [Greenock.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Inverclyde/Greenock.secret|Greenock.secret]] 
 

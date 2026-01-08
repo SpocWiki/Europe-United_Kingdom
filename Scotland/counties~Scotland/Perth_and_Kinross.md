@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### [Perth_and_Kinross](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross|Perth_and_Kinross]] 
 
-### [Perth_and_Kinross.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.public|Perth_and_Kinross.public]] 
 
-### [Perth_and_Kinross.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.internal|Perth_and_Kinross.internal]] 
 
-### [Perth_and_Kinross.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.protect|Perth_and_Kinross.protect]] 
 
-### [Perth_and_Kinross.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.private|Perth_and_Kinross.private]] 
 
-### [Perth_and_Kinross.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.personal|Perth_and_Kinross.personal]] 
 
-### [Perth_and_Kinross.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Perth_and_Kinross.secret|Perth_and_Kinross.secret]] 
 

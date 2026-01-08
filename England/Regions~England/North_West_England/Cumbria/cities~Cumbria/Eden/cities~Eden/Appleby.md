@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28846
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.5
+dv_has_place_latitude: 54.57
+dv_name: Appleby
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.5] 
-[has_place_latitude::54.57] 
-[name::Appleby] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Appleby](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby|Appleby]] 
 
-### [Appleby.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.public|Appleby.public]] 
 
-### [Appleby.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.internal|Appleby.internal]] 
 
-### [Appleby.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.protect|Appleby.protect]] 
 
-### [Appleby.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.private|Appleby.private]] 
 
-### [Appleby.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.personal|Appleby.personal]] 
 
-### [Appleby.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cumbria/cities~Cumbria/Eden/cities~Eden/Appleby.secret|Appleby.secret]] 
 

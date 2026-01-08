@@ -50,17 +50,17 @@ markerFolder: ./Sefton/
 
 ## Confidential Links & Embeds: 
 
-### [Sefton,Borough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough|Sefton,Borough]] 
 
-### [Sefton,Borough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.public|Sefton,Borough.public]] 
 
-### [Sefton,Borough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.internal|Sefton,Borough.internal]] 
 
-### [Sefton,Borough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.protect|Sefton,Borough.protect]] 
 
-### [Sefton,Borough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.private|Sefton,Borough.private]] 
 
-### [Sefton,Borough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.personal|Sefton,Borough.personal]] 
 
-### [Sefton,Borough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough.secret|Sefton,Borough.secret]] 
 

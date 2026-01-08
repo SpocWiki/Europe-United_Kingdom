@@ -6,7 +6,7 @@ aliases:
   - ????? ???
   - ???
   - ?????? ???
-  - ''
+  - ""
   - Isle_of_Man
 location:
   - 54.25
@@ -25,38 +25,80 @@ cssclasses:
   - Country
 publish: true
 title: Isle of Man
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
 Languages:
   - en
   - gv
+dv_ISO4217-currency_alphabetic: GBP
+dv_ISO4217-currency_name: Pound Sterling
+dv_ISO4217-currency_numeric: 826
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: ISLE OF MAN
+dv_Telephone: 44
+dv_Global: true
+dv_Global_Name: World
+dv_name: Isle of Man
+dv_name-en:
+  - Isle of Man
+  - Isle of Man
+dv_name-es: Isla de Man
+dv_name-fr: �le de Man
+dv_name-cn: ???
+dv_name-ar: ????? ???
+dv_name-ru: ?????? ???
+dv_CLDR_display_name: Isle of Man
+dv_Region_Name: "[[../../../Europe]]"
+dv_Intermediate_Region_Name: "[[Isle_of_Man]]"
+dv_Sub-region_Name: "[[Northern Europe]]"
+dv_Region: 150
+dv_Sub-region: 154
+dv_Geoname-ID: 3042225
+dv_FIPS: IM
+dv_FIFA: GBM
+dv_MARC: uik
+dv_GAUL: 120
+dv_DS: GBM
+dv_TLD: .im
+dv_EDGAR: Y8
+dv_M49: 833
+dv_is_independent: Crown dependency of GB
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 833
+dv_name-de: Isle of Man
+dv_has_place_continent: "[[../../../Europe]]"
+dv_Language-Id: 499
+dv_has_place_longitude: -4.5
+dv_has_place_latitude: 54.25
+dv_developed_developing_countries: Developed
 ---
 
 # Isle_of_Man
 
-[	ISO4217-currency_alphabetic	 :: GBP ]
-[	ISO4217-currency_name	 :: Pound Sterling ]
-[	ISO4217-currency_numeric	 :: 826 ]
-[	ISO4217-currency_minor_unit	 :: 2 ]
-[	ISO4217-currency_country_name	 :: ISLE OF MAN ]
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-[	Telephone	 :: 44 ]
+Telephone = `=this.dv_Telephone`
 
-[	Global	 :: True ]
-[	Global_Name	 :: World ]
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-[	name	 :: Isle of Man ]
+name = `=this.dv_name`
 [	name-en	 :: Isle of Man ]
-[	name-es	 :: Isla de Man ]
-[	name-fr	 :: �le de Man ]
-[	name-cn	 :: ??? ]
-[	name-ar	 :: ????? ??? ]
-[	name-ru	 :: ?????? ??? ]
+name-es = `=this.dv_name-es`
+name-fr = `=this.dv_name-fr`
+name-cn = `=this.dv_name-cn`
+name-ar = `=this.dv_name-ar`
+name-ru = `=this.dv_name-ru`
 
-[	CLDR_display_name	 :: Isle of Man ]
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
 [	UNTERM_English	 ::  ]
 [	UNTERM_English_Formal	 ::  ]
@@ -71,34 +113,34 @@ Languages:
 [	UNTERM_Russian	 ::  ]
 [	UNTERM_Russian_Formal	 ::  ]
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Northern Europe]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 150 ]
-[	Intermediate_Region	 ::  ]
-[	Sub-region	 :: 154 ]
+Region = `=this.dv_Region`
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region`
 
-[	Geoname-ID	 :: 3042225 ]
-[	FIPS	 :: IM ]
-[	FIFA	 :: GBM ]
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
 [	IOC	 ::  ]
-[	MARC	 :: uik ]
-[	GAUL	 :: 120 ]
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
 [	WMO	 ::  ]
 [	ITU	 ::  ]
-[	DS	 :: GBM ]
-[	TLD	 :: .im ]
-[	EDGAR	 :: Y8 ]
-[	M49	 :: 833 ]
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-[	is_independent	 :: Crown dependency of GB ]
-[	Developed_/Developing_Countries	 :: Developed ]
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
 
-[	ISO3166-1-numeric	 :: 833 ]
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 
 
@@ -114,31 +156,31 @@ markerFolder: ./Isle_of_Man/
 ```
 
 [name-en::Isle of Man]
-[name-de::Isle of Man]
+name-de = `=this.dv_name-de`
 [Area-Total::]
 [Area-Land::]
-has_place_continent:: [[Europe]]  
+has_place_continent = `=this.dv_has_place_continent`
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
-[Language-Id::499]
-[has_place_longitude::-4.5]
-[has_place_latitude::54.25]
+Language-Id = `=this.dv_Language-Id`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Confidential Links & Embeds: 
 
-### [Isle_of_Man](/_Standards/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man|Isle_of_Man]] 
 
-### [Isle_of_Man.public](/_public/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.public|Isle_of_Man.public]] 
 
-### [Isle_of_Man.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.internal|Isle_of_Man.internal]] 
 
-### [Isle_of_Man.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.protect|Isle_of_Man.protect]] 
 
-### [Isle_of_Man.private](/_private/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.private|Isle_of_Man.private]] 
 
-### [Isle_of_Man.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.personal|Isle_of_Man.personal]] 
 
-### [Isle_of_Man.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Isle_of_Man.secret|Isle_of_Man.secret]] 
 

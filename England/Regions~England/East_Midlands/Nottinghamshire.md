@@ -40,17 +40,17 @@ markerFolder: ./Nottinghamshire/
 
 ## Confidential Links & Embeds: 
 
-### [Nottinghamshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire|Nottinghamshire]] 
 
-### [Nottinghamshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.public|Nottinghamshire.public]] 
 
-### [Nottinghamshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.internal|Nottinghamshire.internal]] 
 
-### [Nottinghamshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.protect|Nottinghamshire.protect]] 
 
-### [Nottinghamshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.private|Nottinghamshire.private]] 
 
-### [Nottinghamshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.personal|Nottinghamshire.personal]] 
 
-### [Nottinghamshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottinghamshire.secret|Nottinghamshire.secret]] 
 

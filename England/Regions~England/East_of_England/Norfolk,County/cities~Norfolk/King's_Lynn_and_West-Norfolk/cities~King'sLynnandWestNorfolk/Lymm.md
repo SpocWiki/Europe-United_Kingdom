@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32159
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.37
+dv_has_place_latitude: 52.78
+dv_name: Lymm
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.37] 
-[has_place_latitude::52.78] 
-[name::Lymm] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lymm](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm|Lymm]] 
 
-### [Lymm.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.public|Lymm.public]] 
 
-### [Lymm.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.internal|Lymm.internal]] 
 
-### [Lymm.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.protect|Lymm.protect]] 
 
-### [Lymm.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.private|Lymm.private]] 
 
-### [Lymm.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.personal|Lymm.personal]] 
 
-### [Lymm.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Norfolk,County/cities~Norfolk/King's_Lynn_and_West-Norfolk/cities~King'sLynnandWestNorfolk/Lymm.secret|Lymm.secret]] 
 

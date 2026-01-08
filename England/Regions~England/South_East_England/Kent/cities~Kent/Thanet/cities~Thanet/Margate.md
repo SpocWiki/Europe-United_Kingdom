@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32276
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.38
+dv_has_place_latitude: 51.38
+dv_name: Margate
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.38] 
-[has_place_latitude::51.38] 
-[name::Margate] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Margate](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate|Margate]] 
 
-### [Margate.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.public|Margate.public]] 
 
-### [Margate.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.internal|Margate.internal]] 
 
-### [Margate.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.protect|Margate.protect]] 
 
-### [Margate.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.private|Margate.private]] 
 
-### [Margate.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.personal|Margate.personal]] 
 
-### [Margate.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Margate.secret|Margate.secret]] 
 

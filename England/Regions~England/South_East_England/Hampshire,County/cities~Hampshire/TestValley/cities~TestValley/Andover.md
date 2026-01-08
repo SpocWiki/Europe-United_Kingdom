@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28824
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.47
+dv_has_place_latitude: 51.22
+dv_name: Andover
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.47] 
-[has_place_latitude::51.22] 
-[name::Andover] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Andover](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover|Andover]] 
 
-### [Andover.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.public|Andover.public]] 
 
-### [Andover.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.internal|Andover.internal]] 
 
-### [Andover.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.protect|Andover.protect]] 
 
-### [Andover.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.private|Andover.private]] 
 
-### [Andover.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.personal|Andover.personal]] 
 
-### [Andover.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/TestValley/cities~TestValley/Andover.secret|Andover.secret]] 
 

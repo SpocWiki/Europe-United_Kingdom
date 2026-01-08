@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~English_Civil_War,80330|WD~English_Civil_War,80330]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~English_Civil_War,80330|WD~English_Civil_War,80330]]"
+
 has_time_started: 1642-01-01 
 has_time_stopped: 1651-09-03 
 aliases:
@@ -27,7 +31,7 @@ start_time: 1642-01-01T00:00:00Z
 
 # [[English_Civil_War]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~English_Civil_War,80330|WD~English_Civil_War,80330]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -40,4 +44,21 @@ start_time: 1642-01-01T00:00:00Z
 > In 1650, Charles II was crowned King of Scotland, in return for agreeing to create a Presbyterian church in both England and Scotland. The subsequent Anglo-Scottish war ended with Parliamentarian victory at Worcester on 3 September 1651. Both Ireland and Scotland were incorporated into the Commonwealth, and the British Isles became a unitary state. This arrangement ultimately proved both unpopular and unviable in the long term, and was dissolved upon the Stuart Restoration in 1660. The outcome of the civil wars effectively set England and Scotland on course towards a parliamentary monarchy form of government.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/English%20Civil%20War) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/England,History/English_Civil_War|English_Civil_War]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/England,History/English_Civil_War.public|English_Civil_War.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/England,History/English_Civil_War.internal|English_Civil_War.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/England,History/English_Civil_War.protect|English_Civil_War.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/England,History/English_Civil_War.private|English_Civil_War.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/England,History/English_Civil_War.personal|English_Civil_War.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/England,History/English_Civil_War.secret|English_Civil_War.secret]] 
 

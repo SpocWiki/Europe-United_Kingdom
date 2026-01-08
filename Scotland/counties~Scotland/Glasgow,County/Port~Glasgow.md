@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33470
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.68
+dv_has_place_latitude: 55.93
+dv_name: Port Glasgow
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.68] 
-[has_place_latitude::55.93] 
-[name::Port Glasgow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Port~Glasgow](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow|Port~Glasgow]] 
 
-### [Port~Glasgow.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.public|Port~Glasgow.public]] 
 
-### [Port~Glasgow.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.internal|Port~Glasgow.internal]] 
 
-### [Port~Glasgow.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.protect|Port~Glasgow.protect]] 
 
-### [Port~Glasgow.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.private|Port~Glasgow.private]] 
 
-### [Port~Glasgow.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.personal|Port~Glasgow.personal]] 
 
-### [Port~Glasgow.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Port~Glasgow.secret|Port~Glasgow.secret]] 
 

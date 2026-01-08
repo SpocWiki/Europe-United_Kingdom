@@ -15,15 +15,20 @@ tags:
 SpocWebEntityId: 29095
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.38
+dv_has_place_latitude: 56.43
+dv_name: Belrock
+dv_Country: "[[../../../../../UK]]"
 ---
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.38] 
-[has_place_latitude::56.43] 
-[name::Belrock] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -48,17 +53,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bell_Rock_Lighthouse](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse|Bell_Rock_Lighthouse]] 
 
-### [Bell_Rock_Lighthouse.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.public|Bell_Rock_Lighthouse.public]] 
 
-### [Bell_Rock_Lighthouse.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.internal|Bell_Rock_Lighthouse.internal]] 
 
-### [Bell_Rock_Lighthouse.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.protect|Bell_Rock_Lighthouse.protect]] 
 
-### [Bell_Rock_Lighthouse.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.private|Bell_Rock_Lighthouse.private]] 
 
-### [Bell_Rock_Lighthouse.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.personal|Bell_Rock_Lighthouse.personal]] 
 
-### [Bell_Rock_Lighthouse.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/City/Bell_Rock_Lighthouse.secret|Bell_Rock_Lighthouse.secret]] 
 

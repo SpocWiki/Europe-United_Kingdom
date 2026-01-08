@@ -41,17 +41,17 @@ markerFolder: ./Nottingham/
 
 ## Confidential Links & Embeds: 
 
-### [Nottingham,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County|Nottingham,County]] 
 
-### [Nottingham,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.public|Nottingham,County.public]] 
 
-### [Nottingham,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.internal|Nottingham,County.internal]] 
 
-### [Nottingham,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.protect|Nottingham,County.protect]] 
 
-### [Nottingham,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.private|Nottingham,County.private]] 
 
-### [Nottingham,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.personal|Nottingham,County.personal]] 
 
-### [Nottingham,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Nottingham,County.secret|Nottingham,County.secret]] 
 

@@ -18,17 +18,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Antrim_and_Newtownabbey](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey|Antrim_and_Newtownabbey]] 
 
-### [Antrim_and_Newtownabbey.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.public|Antrim_and_Newtownabbey.public]] 
 
-### [Antrim_and_Newtownabbey.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.internal|Antrim_and_Newtownabbey.internal]] 
 
-### [Antrim_and_Newtownabbey.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.protect|Antrim_and_Newtownabbey.protect]] 
 
-### [Antrim_and_Newtownabbey.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.private|Antrim_and_Newtownabbey.private]] 
 
-### [Antrim_and_Newtownabbey.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.personal|Antrim_and_Newtownabbey.personal]] 
 
-### [Antrim_and_Newtownabbey.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey.secret|Antrim_and_Newtownabbey.secret]] 
 

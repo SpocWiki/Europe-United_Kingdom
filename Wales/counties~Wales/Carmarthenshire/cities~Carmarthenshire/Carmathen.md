@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29488
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.3
+dv_has_place_latitude: 51.85
+dv_name: Carmathen
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.3] 
-[has_place_latitude::51.85] 
-[name::Carmathen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carmathen](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen|Carmathen]] 
 
-### [Carmathen.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.public|Carmathen.public]] 
 
-### [Carmathen.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.internal|Carmathen.internal]] 
 
-### [Carmathen.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.protect|Carmathen.protect]] 
 
-### [Carmathen.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.private|Carmathen.private]] 
 
-### [Carmathen.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.personal|Carmathen.personal]] 
 
-### [Carmathen.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Carmathen.secret|Carmathen.secret]] 
 

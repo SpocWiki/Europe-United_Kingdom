@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34839
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.15
+dv_has_place_latitude: 51.98
+dv_name: Tewkesbury
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.15] 
-[has_place_latitude::51.98] 
-[name::Tewkesbury] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tewkesbury](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury|Tewkesbury]] 
 
-### [Tewkesbury.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.public|Tewkesbury.public]] 
 
-### [Tewkesbury.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.internal|Tewkesbury.internal]] 
 
-### [Tewkesbury.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.protect|Tewkesbury.protect]] 
 
-### [Tewkesbury.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.private|Tewkesbury.private]] 
 
-### [Tewkesbury.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.personal|Tewkesbury.personal]] 
 
-### [Tewkesbury.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Gloucestershire/cities~Gloucestershire/Tewkesbury/cities~Tewkesbury/Tewkesbury.secret|Tewkesbury.secret]] 
 

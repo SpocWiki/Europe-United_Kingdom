@@ -41,17 +41,17 @@ markerFolder: ./Cheshire-West_and_Chester/
 
 ## Confidential Links & Embeds: 
 
-### [Cheshire-West_and_Chester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester|Cheshire-West_and_Chester]] 
 
-### [Cheshire-West_and_Chester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.public|Cheshire-West_and_Chester.public]] 
 
-### [Cheshire-West_and_Chester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.internal|Cheshire-West_and_Chester.internal]] 
 
-### [Cheshire-West_and_Chester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.protect|Cheshire-West_and_Chester.protect]] 
 
-### [Cheshire-West_and_Chester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.private|Cheshire-West_and_Chester.private]] 
 
-### [Cheshire-West_and_Chester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.personal|Cheshire-West_and_Chester.personal]] 
 
-### [Cheshire-West_and_Chester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-West_and_Chester.secret|Cheshire-West_and_Chester.secret]] 
 

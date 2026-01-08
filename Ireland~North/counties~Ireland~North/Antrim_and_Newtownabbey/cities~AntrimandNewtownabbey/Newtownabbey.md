@@ -40,17 +40,17 @@ markerFolder: ./Newtownabbey/
 
 ## Confidential Links & Embeds: 
 
-### [Newtownabbey](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey|Newtownabbey]] 
 
-### [Newtownabbey.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.public|Newtownabbey.public]] 
 
-### [Newtownabbey.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.internal|Newtownabbey.internal]] 
 
-### [Newtownabbey.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.protect|Newtownabbey.protect]] 
 
-### [Newtownabbey.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.private|Newtownabbey.private]] 
 
-### [Newtownabbey.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.personal|Newtownabbey.personal]] 
 
-### [Newtownabbey.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Antrim_and_Newtownabbey/cities~AntrimandNewtownabbey/Newtownabbey.secret|Newtownabbey.secret]] 
 

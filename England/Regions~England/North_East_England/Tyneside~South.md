@@ -41,17 +41,17 @@ markerFolder: ./South_Tyneside/
 
 ## Confidential Links & Embeds: 
 
-### [Tyneside~South](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South|Tyneside~South]] 
 
-### [Tyneside~South.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.public|Tyneside~South.public]] 
 
-### [Tyneside~South.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.internal|Tyneside~South.internal]] 
 
-### [Tyneside~South.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.protect|Tyneside~South.protect]] 
 
-### [Tyneside~South.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.private|Tyneside~South.private]] 
 
-### [Tyneside~South.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.personal|Tyneside~South.personal]] 
 
-### [Tyneside~South.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Tyneside~South.secret|Tyneside~South.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29920
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.57
+dv_has_place_latitude: 54.77
+dv_name: Durham
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.57] 
-[has_place_latitude::54.77] 
-[name::Durham] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Durham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham|Durham]] 
 
-### [Durham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.public|Durham.public]] 
 
-### [Durham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.internal|Durham.internal]] 
 
-### [Durham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.protect|Durham.protect]] 
 
-### [Durham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.private|Durham.private]] 
 
-### [Durham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.personal|Durham.personal]] 
 
-### [Durham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/cities~Durham/Durham.secret|Durham.secret]] 
 

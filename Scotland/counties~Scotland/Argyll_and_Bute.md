@@ -41,17 +41,17 @@ markerFolder: ./Argyll_and_Bute/
 
 ## Confidential Links & Embeds: 
 
-### [Argyll_and_Bute](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute|Argyll_and_Bute]] 
 
-### [Argyll_and_Bute.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.public|Argyll_and_Bute.public]] 
 
-### [Argyll_and_Bute.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.internal|Argyll_and_Bute.internal]] 
 
-### [Argyll_and_Bute.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.protect|Argyll_and_Bute.protect]] 
 
-### [Argyll_and_Bute.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.private|Argyll_and_Bute.private]] 
 
-### [Argyll_and_Bute.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.personal|Argyll_and_Bute.personal]] 
 
-### [Argyll_and_Bute.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Argyll_and_Bute.secret|Argyll_and_Bute.secret]] 
 

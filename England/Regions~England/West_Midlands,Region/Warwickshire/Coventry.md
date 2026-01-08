@@ -62,17 +62,17 @@ markerFolder: ./Coventry/
 
 ## Confidential Links & Embeds: 
 
-### [Coventry](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry|Coventry]] 
 
-### [Coventry.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.public|Coventry.public]] 
 
-### [Coventry.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.internal|Coventry.internal]] 
 
-### [Coventry.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.protect|Coventry.protect]] 
 
-### [Coventry.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.private|Coventry.private]] 
 
-### [Coventry.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.personal|Coventry.personal]] 
 
-### [Coventry.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry.secret|Coventry.secret]] 
 

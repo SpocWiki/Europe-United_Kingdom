@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34856
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.93
+dv_has_place_latitude: 53.62
+dv_name: Thorne
+dv_Country: "[[../../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.93] 
-[has_place_latitude::53.62] 
-[name::Thorne] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Thorne](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne|Thorne]] 
 
-### [Thorne.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.public|Thorne.public]] 
 
-### [Thorne.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.internal|Thorne.internal]] 
 
-### [Thorne.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.protect|Thorne.protect]] 
 
-### [Thorne.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.private|Thorne.private]] 
 
-### [Thorne.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.personal|Thorne.personal]] 
 
-### [Thorne.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Holland~South/Doncaster,County/cities~Doncaster/Thorne.secret|Thorne.secret]] 
 

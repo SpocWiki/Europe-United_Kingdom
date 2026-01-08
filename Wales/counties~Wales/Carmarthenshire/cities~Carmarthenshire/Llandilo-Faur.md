@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32057
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.98
+dv_has_place_latitude: 51.88
+dv_name: Llandilo-Faur
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.98] 
-[has_place_latitude::51.88] 
-[name::Llandilo-Faur] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Llandilo-Faur](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur|Llandilo-Faur]] 
 
-### [Llandilo-Faur.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.public|Llandilo-Faur.public]] 
 
-### [Llandilo-Faur.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.internal|Llandilo-Faur.internal]] 
 
-### [Llandilo-Faur.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.protect|Llandilo-Faur.protect]] 
 
-### [Llandilo-Faur.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.private|Llandilo-Faur.private]] 
 
-### [Llandilo-Faur.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.personal|Llandilo-Faur.personal]] 
 
-### [Llandilo-Faur.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Carmarthenshire/cities~Carmarthenshire/Llandilo-Faur.secret|Llandilo-Faur.secret]] 
 

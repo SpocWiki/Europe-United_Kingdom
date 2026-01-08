@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35531
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.6
+dv_has_place_latitude: 51.22
+dv_name: Wells
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.6] 
-[has_place_latitude::51.22] 
-[name::Wells] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wells](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells|Wells]] 
 
-### [Wells.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.public|Wells.public]] 
 
-### [Wells.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.internal|Wells.internal]] 
 
-### [Wells.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.protect|Wells.protect]] 
 
-### [Wells.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.private|Wells.private]] 
 
-### [Wells.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.personal|Wells.personal]] 
 
-### [Wells.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset/cities~Somerset/Mendip/cities~Mendip/Wells.secret|Wells.secret]] 
 

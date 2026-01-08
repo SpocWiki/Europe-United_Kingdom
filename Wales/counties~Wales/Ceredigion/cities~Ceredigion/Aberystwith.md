@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28652
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.08
+dv_has_place_latitude: 52.42
+dv_name: Aberystwith
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.08] 
-[has_place_latitude::52.42] 
-[name::Aberystwith] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aberystwith](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith|Aberystwith]] 
 
-### [Aberystwith.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.public|Aberystwith.public]] 
 
-### [Aberystwith.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.internal|Aberystwith.internal]] 
 
-### [Aberystwith.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.protect|Aberystwith.protect]] 
 
-### [Aberystwith.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.private|Aberystwith.private]] 
 
-### [Aberystwith.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.personal|Aberystwith.personal]] 
 
-### [Aberystwith.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Ceredigion/cities~Ceredigion/Aberystwith.secret|Aberystwith.secret]] 
 

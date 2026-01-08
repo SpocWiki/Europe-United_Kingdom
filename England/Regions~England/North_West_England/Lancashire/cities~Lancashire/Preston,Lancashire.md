@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Preston,Lancashire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire|Preston,Lancashire]] 
 
-### [Preston,Lancashire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.public|Preston,Lancashire.public]] 
 
-### [Preston,Lancashire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.internal|Preston,Lancashire.internal]] 
 
-### [Preston,Lancashire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.protect|Preston,Lancashire.protect]] 
 
-### [Preston,Lancashire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.private|Preston,Lancashire.private]] 
 
-### [Preston,Lancashire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.personal|Preston,Lancashire.personal]] 
 
-### [Preston,Lancashire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire.secret|Preston,Lancashire.secret]] 
 

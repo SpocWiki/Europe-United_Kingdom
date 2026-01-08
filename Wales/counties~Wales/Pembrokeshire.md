@@ -40,17 +40,17 @@ markerFolder: ./Pembrokeshire/
 
 ## Confidential Links & Embeds: 
 
-### [Pembrokeshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire|Pembrokeshire]] 
 
-### [Pembrokeshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.public|Pembrokeshire.public]] 
 
-### [Pembrokeshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.internal|Pembrokeshire.internal]] 
 
-### [Pembrokeshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.protect|Pembrokeshire.protect]] 
 
-### [Pembrokeshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.private|Pembrokeshire.private]] 
 
-### [Pembrokeshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.personal|Pembrokeshire.personal]] 
 
-### [Pembrokeshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Pembrokeshire.secret|Pembrokeshire.secret]] 
 

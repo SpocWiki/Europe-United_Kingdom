@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~London_Bridge,130206]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~London_Bridge,130206]]"
+
 has_time_started: 1973-03-16 
 aliases:
 has_id_wikidata: Q130206
@@ -56,7 +60,7 @@ Commons_category: London Bridge
 
 # [[London_Bridge]] 
 
-#is_/same_as :: [[WD~London_Bridge,130206]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -113,4 +117,21 @@ markerFile: [[London_Bridge]]
 > that has been designated as a business improvement district.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/London%20Bridge) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Bridge|London_Bridge]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Bridge.public|London_Bridge.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Bridge.internal|London_Bridge.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Bridge.protect|London_Bridge.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Bridge.private|London_Bridge.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Bridge.personal|London_Bridge.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City/London_Bridge.secret|London_Bridge.secret]] 
 

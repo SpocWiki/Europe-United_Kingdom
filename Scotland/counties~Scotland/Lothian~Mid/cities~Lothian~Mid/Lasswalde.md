@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31860
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.12
+dv_has_place_latitude: 55.88
+dv_name: Lasswalde
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.12] 
-[has_place_latitude::55.88] 
-[name::Lasswalde] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lasswalde](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde|Lasswalde]] 
 
-### [Lasswalde.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.public|Lasswalde.public]] 
 
-### [Lasswalde.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.internal|Lasswalde.internal]] 
 
-### [Lasswalde.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.protect|Lasswalde.protect]] 
 
-### [Lasswalde.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.private|Lasswalde.private]] 
 
-### [Lasswalde.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.personal|Lasswalde.personal]] 
 
-### [Lasswalde.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Lothian~Mid/cities~Lothian~Mid/Lasswalde.secret|Lasswalde.secret]] 
 

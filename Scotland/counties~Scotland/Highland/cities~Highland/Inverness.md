@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31119
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.23
+dv_has_place_latitude: 57.48
+dv_name: Inverness
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.23] 
-[has_place_latitude::57.48] 
-[name::Inverness] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Inverness](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness|Inverness]] 
 
-### [Inverness.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.public|Inverness.public]] 
 
-### [Inverness.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.internal|Inverness.internal]] 
 
-### [Inverness.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.protect|Inverness.protect]] 
 
-### [Inverness.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.private|Inverness.private]] 
 
-### [Inverness.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.personal|Inverness.personal]] 
 
-### [Inverness.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Highland/cities~Highland/Inverness.secret|Inverness.secret]] 
 

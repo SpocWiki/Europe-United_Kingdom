@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32888
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.32
+dv_has_place_latitude: 50.7
+dv_name: Newport~Insel Wright
+dv_Country: "[[../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.32] 
-[has_place_latitude::50.7] 
-[name::Newport~Insel Wright] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Newport,Insel_Wright](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright|Newport,Insel_Wright]] 
 
-### [Newport,Insel_Wright.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.public|Newport,Insel_Wright.public]] 
 
-### [Newport,Insel_Wright.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.internal|Newport,Insel_Wright.internal]] 
 
-### [Newport,Insel_Wright.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.protect|Newport,Insel_Wright.protect]] 
 
-### [Newport,Insel_Wright.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.private|Newport,Insel_Wright.private]] 
 
-### [Newport,Insel_Wright.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.personal|Newport,Insel_Wright.personal]] 
 
-### [Newport,Insel_Wright.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/Newport,Insel_Wright.secret|Newport,Insel_Wright.secret]] 
 

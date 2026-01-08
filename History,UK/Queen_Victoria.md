@@ -1,7 +1,12 @@
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Victoria,9439]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Victoria,9439]]"
+---
 
 # [[Queen_Victoria]] 
 
-#is_/same_as :: [[WD~Victoria,9439]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -47,4 +52,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Queen%20Victoria) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/History,UK/Queen_Victoria|Queen_Victoria]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/History,UK/Queen_Victoria.public|Queen_Victoria.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/History,UK/Queen_Victoria.internal|Queen_Victoria.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/History,UK/Queen_Victoria.protect|Queen_Victoria.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/History,UK/Queen_Victoria.private|Queen_Victoria.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/History,UK/Queen_Victoria.personal|Queen_Victoria.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/History,UK/Queen_Victoria.secret|Queen_Victoria.secret]] 
 

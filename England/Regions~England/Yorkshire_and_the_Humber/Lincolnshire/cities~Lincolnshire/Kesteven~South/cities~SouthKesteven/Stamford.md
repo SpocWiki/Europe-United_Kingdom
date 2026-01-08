@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34516
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.48
+dv_has_place_latitude: 52.65
+dv_name: Stamford
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.48] 
-[has_place_latitude::52.65] 
-[name::Stamford] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stamford](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford|Stamford]] 
 
-### [Stamford.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.public|Stamford.public]] 
 
-### [Stamford.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.internal|Stamford.internal]] 
 
-### [Stamford.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.protect|Stamford.protect]] 
 
-### [Stamford.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.private|Stamford.private]] 
 
-### [Stamford.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.personal|Stamford.personal]] 
 
-### [Stamford.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Lincolnshire/cities~Lincolnshire/Kesteven~South/cities~SouthKesteven/Stamford.secret|Stamford.secret]] 
 

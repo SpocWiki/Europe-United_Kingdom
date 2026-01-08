@@ -50,21 +50,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Regions%20of%20England)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Regions~England](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England|Regions~England]] 
 
-### [Regions~England.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.public|Regions~England.public]] 
 
-### [Regions~England.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.internal|Regions~England.internal]] 
 
-### [Regions~England.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.protect|Regions~England.protect]] 
 
-### [Regions~England.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.private|Regions~England.private]] 
 
-### [Regions~England.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.personal|Regions~England.personal]] 
 
-### [Regions~England.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England.secret|Regions~England.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29191
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.05
+dv_has_place_latitude: 53.38
+dv_name: Birkenhead
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.05] 
-[has_place_latitude::53.38] 
-[name::Birkenhead] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Birkenhead](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead|Birkenhead]] 
 
-### [Birkenhead.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.public|Birkenhead.public]] 
 
-### [Birkenhead.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.internal|Birkenhead.internal]] 
 
-### [Birkenhead.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.protect|Birkenhead.protect]] 
 
-### [Birkenhead.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.private|Birkenhead.private]] 
 
-### [Birkenhead.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.personal|Birkenhead.personal]] 
 
-### [Birkenhead.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead.secret|Birkenhead.secret]] 
 

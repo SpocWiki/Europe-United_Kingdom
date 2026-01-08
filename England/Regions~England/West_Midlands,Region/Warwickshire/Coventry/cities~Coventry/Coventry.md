@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29666
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.58
+dv_has_place_latitude: 52.42
+dv_name: Coventry
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.58] 
-[has_place_latitude::52.42] 
-[name::Coventry] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Coventry](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry|Coventry]] 
 
-### [Coventry.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.public|Coventry.public]] 
 
-### [Coventry.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.internal|Coventry.internal]] 
 
-### [Coventry.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.protect|Coventry.protect]] 
 
-### [Coventry.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.private|Coventry.private]] 
 
-### [Coventry.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.personal|Coventry.personal]] 
 
-### [Coventry.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Warwickshire/Coventry/cities~Coventry/Coventry.secret|Coventry.secret]] 
 

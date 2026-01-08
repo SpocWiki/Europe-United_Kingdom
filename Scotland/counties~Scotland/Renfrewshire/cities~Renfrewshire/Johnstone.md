@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31210
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.5
+dv_has_place_latitude: 55.83
+dv_name: Johnstone
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.5] 
-[has_place_latitude::55.83] 
-[name::Johnstone] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Johnstone](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone|Johnstone]] 
 
-### [Johnstone.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.public|Johnstone.public]] 
 
-### [Johnstone.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.internal|Johnstone.internal]] 
 
-### [Johnstone.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.protect|Johnstone.protect]] 
 
-### [Johnstone.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.private|Johnstone.private]] 
 
-### [Johnstone.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.personal|Johnstone.personal]] 
 
-### [Johnstone.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Renfrewshire/cities~Renfrewshire/Johnstone.secret|Johnstone.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Powys/
 
 ## Confidential Links & Embeds: 
 
-### [Powys](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys|Powys]] 
 
-### [Powys.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.public|Powys.public]] 
 
-### [Powys.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.internal|Powys.internal]] 
 
-### [Powys.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.protect|Powys.protect]] 
 
-### [Powys.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.private|Powys.private]] 
 
-### [Powys.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.personal|Powys.personal]] 
 
-### [Powys.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Powys.secret|Powys.secret]] 
 

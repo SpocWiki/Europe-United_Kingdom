@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32556
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.72
+dv_has_place_latitude: 51.82
+dv_name: Monmouth
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.72] 
-[has_place_latitude::51.82] 
-[name::Monmouth] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monmouth](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth|Monmouth]] 
 
-### [Monmouth.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.public|Monmouth.public]] 
 
-### [Monmouth.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.internal|Monmouth.internal]] 
 
-### [Monmouth.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.protect|Monmouth.protect]] 
 
-### [Monmouth.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.private|Monmouth.private]] 
 
-### [Monmouth.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.personal|Monmouth.personal]] 
 
-### [Monmouth.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Monmouthshire/Monmouth.secret|Monmouth.secret]] 
 

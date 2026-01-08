@@ -6,27 +6,34 @@ aliases:
   - History_of_England
   - England,History
 has_id_wikidata: Q11755949
-part_of: '[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]'
+part_of: "[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
-has_part_s_: '[[_Standards/WikiData/WD~history_of_Essex,5776050]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_England,10522123]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
+has_part_s_: "[[_Standards/WikiData/WD~history_of_Essex,5776050]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_England,10522123]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
 coordinate_location: Point(-1.0 53.0)
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~England,21]]'
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~England,21]]"
 Dewey_Decimal_Classification: 942
 Colon_Classification: V3
 Commons_category: History of England
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Van%20der%20Hagen-KW1049B11%20004-A%20NEW%20MAP%20OF%20THE%20KINGDOME%20of%20ENGLAND%2C%20Representing%20the%20Princedome%20of%20WALES%2C%20and%20other%20PROVINCES%2C%20CITIES%2C%20MARKET%20TOWNS%2C%20with%20the%20ROADS%20from%20TOWN%20to%20TOWN.jpeg
+dv_has_:
+  next_:
+    item: "[[../History,UK]]"
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~History_of_England,11755949|WD~History_of_England,11755949]]"
+dv_has_next_item: "[[../History,UK]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~History_of_England,11755949|WD~History_of_England,11755949]]"
 ---
 
 # [[England,History]] 
 
 
-#has_/next_/item :: [[../History,UK]] 
-#is_/same_as :: [[../../../../../../WikiData/WD~History_of_England,11755949|WD~History_of_England,11755949]] 
+has_next_item = `=this.dv_has_next_item`
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -117,4 +124,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlas%20Van%20der%20Ha
 > almost all of the empire's overseas territories became independent countries.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20England) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/England,History|England,History]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/England,History.public|England,History.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/England,History.internal|England,History.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/England,History.protect|England,History.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/England,History.private|England,History.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/England,History.personal|England,History.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/England,History.secret|England,History.secret]] 
 

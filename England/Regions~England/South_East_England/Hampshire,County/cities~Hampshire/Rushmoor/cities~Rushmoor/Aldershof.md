@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28723
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.77
+dv_has_place_latitude: 51.25
+dv_name: Aldershof
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.77] 
-[has_place_latitude::51.25] 
-[name::Aldershof] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aldershof](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof|Aldershof]] 
 
-### [Aldershof.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.public|Aldershof.public]] 
 
-### [Aldershof.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.internal|Aldershof.internal]] 
 
-### [Aldershof.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.protect|Aldershof.protect]] 
 
-### [Aldershof.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.private|Aldershof.private]] 
 
-### [Aldershof.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.personal|Aldershof.personal]] 
 
-### [Aldershof.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County/cities~Hampshire/Rushmoor/cities~Rushmoor/Aldershof.secret|Aldershof.secret]] 
 

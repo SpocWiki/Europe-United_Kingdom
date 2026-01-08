@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30551
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.37
+dv_has_place_latitude: 51.43
+dv_name: Gravesend
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.37] 
-[has_place_latitude::51.43] 
-[name::Gravesend] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gravesend](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend|Gravesend]] 
 
-### [Gravesend.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.public|Gravesend.public]] 
 
-### [Gravesend.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.internal|Gravesend.internal]] 
 
-### [Gravesend.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.protect|Gravesend.protect]] 
 
-### [Gravesend.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.private|Gravesend.private]] 
 
-### [Gravesend.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.personal|Gravesend.personal]] 
 
-### [Gravesend.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Gravesham/cities~Gravesham/Gravesend.secret|Gravesend.secret]] 
 

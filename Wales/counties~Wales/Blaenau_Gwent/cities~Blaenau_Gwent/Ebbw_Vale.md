@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29953
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.2
+dv_has_place_latitude: 51.77
+dv_name: Ebbw Vale
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.2] 
-[has_place_latitude::51.77] 
-[name::Ebbw Vale] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ebbw_Vale](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale|Ebbw_Vale]] 
 
-### [Ebbw_Vale.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.public|Ebbw_Vale.public]] 
 
-### [Ebbw_Vale.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.internal|Ebbw_Vale.internal]] 
 
-### [Ebbw_Vale.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.protect|Ebbw_Vale.protect]] 
 
-### [Ebbw_Vale.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.private|Ebbw_Vale.private]] 
 
-### [Ebbw_Vale.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.personal|Ebbw_Vale.personal]] 
 
-### [Ebbw_Vale.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Blaenau_Gwent/cities~Blaenau_Gwent/Ebbw_Vale.secret|Ebbw_Vale.secret]] 
 

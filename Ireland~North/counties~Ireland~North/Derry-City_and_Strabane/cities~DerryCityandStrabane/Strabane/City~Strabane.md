@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34604
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -7.47
+dv_has_place_latitude: 54.83
+dv_name: Strabane
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-7.47] 
-[has_place_latitude::54.83] 
-[name::Strabane] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [City~Strabane](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane|City~Strabane]] 
 
-### [City~Strabane.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.public|City~Strabane.public]] 
 
-### [City~Strabane.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.internal|City~Strabane.internal]] 
 
-### [City~Strabane.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.protect|City~Strabane.protect]] 
 
-### [City~Strabane.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.private|City~Strabane.private]] 
 
-### [City~Strabane.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.personal|City~Strabane.personal]] 
 
-### [City~Strabane.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Derry-City_and_Strabane/cities~DerryCityandStrabane/Strabane/City~Strabane.secret|City~Strabane.secret]] 
 

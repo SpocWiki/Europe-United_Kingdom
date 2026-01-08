@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30216
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.62
+dv_has_place_latitude: 57.62
+dv_name: Forres
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.62] 
-[has_place_latitude::57.62] 
-[name::Forres] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Forres](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres|Forres]] 
 
-### [Forres.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.public|Forres.public]] 
 
-### [Forres.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.internal|Forres.internal]] 
 
-### [Forres.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.protect|Forres.protect]] 
 
-### [Forres.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.private|Forres.private]] 
 
-### [Forres.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.personal|Forres.personal]] 
 
-### [Forres.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Moray/cities~Moray/Forres.secret|Forres.secret]] 
 

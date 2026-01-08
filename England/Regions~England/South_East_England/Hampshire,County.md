@@ -41,17 +41,17 @@ markerFolder: ./Hampshire/
 
 ## Confidential Links & Embeds: 
 
-### [Hampshire,County](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County|Hampshire,County]] 
 
-### [Hampshire,County.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.public|Hampshire,County.public]] 
 
-### [Hampshire,County.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.internal|Hampshire,County.internal]] 
 
-### [Hampshire,County.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.protect|Hampshire,County.protect]] 
 
-### [Hampshire,County.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.private|Hampshire,County.private]] 
 
-### [Hampshire,County.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.personal|Hampshire,County.personal]] 
 
-### [Hampshire,County.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Hampshire,County.secret|Hampshire,County.secret]] 
 

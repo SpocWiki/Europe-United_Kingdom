@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34395
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3
+dv_has_place_latitude: 53.65
+dv_name: Southport
+dv_Country: "[[../../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3] 
-[has_place_latitude::53.65] 
-[name::Southport] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Southport](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport|Southport]] 
 
-### [Southport.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.public|Southport.public]] 
 
-### [Southport.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.internal|Southport.internal]] 
 
-### [Southport.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.protect|Southport.protect]] 
 
-### [Southport.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.private|Southport.private]] 
 
-### [Southport.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.personal|Southport.personal]] 
 
-### [Southport.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Sefton,Borough/cities~Sefton/Sefton-city/cities~Sefton-city/Southport.secret|Southport.secret]] 
 

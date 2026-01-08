@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28730
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.58
+dv_has_place_latitude: 56
+dv_name: Alexandria
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.58] 
-[has_place_latitude::56] 
-[name::Alexandria] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alexandria](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria|Alexandria]] 
 
-### [Alexandria.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.public|Alexandria.public]] 
 
-### [Alexandria.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.internal|Alexandria.internal]] 
 
-### [Alexandria.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.protect|Alexandria.protect]] 
 
-### [Alexandria.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.private|Alexandria.private]] 
 
-### [Alexandria.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.personal|Alexandria.personal]] 
 
-### [Alexandria.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Alexandria.secret|Alexandria.secret]] 
 

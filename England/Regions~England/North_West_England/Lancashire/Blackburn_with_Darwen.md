@@ -48,17 +48,17 @@ markerFolder: ./Blackburn_with_Darwen/
 
 ## Confidential Links & Embeds: 
 
-### [Blackburn_with_Darwen](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen|Blackburn_with_Darwen]] 
 
-### [Blackburn_with_Darwen.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.public|Blackburn_with_Darwen.public]] 
 
-### [Blackburn_with_Darwen.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.internal|Blackburn_with_Darwen.internal]] 
 
-### [Blackburn_with_Darwen.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.protect|Blackburn_with_Darwen.protect]] 
 
-### [Blackburn_with_Darwen.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.private|Blackburn_with_Darwen.private]] 
 
-### [Blackburn_with_Darwen.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.personal|Blackburn_with_Darwen.personal]] 
 
-### [Blackburn_with_Darwen.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Lancashire/Blackburn_with_Darwen.secret|Blackburn_with_Darwen.secret]] 
 

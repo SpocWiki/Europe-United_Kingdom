@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29915
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.47
+dv_has_place_latitude: 56.07
+dv_name: Dunfermline
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.47] 
-[has_place_latitude::56.07] 
-[name::Dunfermline] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dunfermline](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline|Dunfermline]] 
 
-### [Dunfermline.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.public|Dunfermline.public]] 
 
-### [Dunfermline.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.internal|Dunfermline.internal]] 
 
-### [Dunfermline.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.protect|Dunfermline.protect]] 
 
-### [Dunfermline.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.private|Dunfermline.private]] 
 
-### [Dunfermline.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.personal|Dunfermline.personal]] 
 
-### [Dunfermline.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Fife/cities~Fife/Dunfermline.secret|Dunfermline.secret]] 
 

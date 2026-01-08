@@ -40,17 +40,17 @@ markerFolder: ./Suffolk/
 
 ## Confidential Links & Embeds: 
 
-### [Suffolk](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk|Suffolk]] 
 
-### [Suffolk.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.public|Suffolk.public]] 
 
-### [Suffolk.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.internal|Suffolk.internal]] 
 
-### [Suffolk.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.protect|Suffolk.protect]] 
 
-### [Suffolk.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.private|Suffolk.private]] 
 
-### [Suffolk.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.personal|Suffolk.personal]] 
 
-### [Suffolk.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk.secret|Suffolk.secret]] 
 

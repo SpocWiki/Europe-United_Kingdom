@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33341
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.33
+dv_has_place_latitude: 50.82
+dv_name: Pevensey
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.33] 
-[has_place_latitude::50.82] 
-[name::Pevensey] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pevensey](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey|Pevensey]] 
 
-### [Pevensey.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.public|Pevensey.public]] 
 
-### [Pevensey.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.internal|Pevensey.internal]] 
 
-### [Pevensey.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.protect|Pevensey.protect]] 
 
-### [Pevensey.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.private|Pevensey.private]] 
 
-### [Pevensey.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.personal|Pevensey.personal]] 
 
-### [Pevensey.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~East/cities~EastSussex/Wealden/cities~Wealden/Pevensey.secret|Pevensey.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Tower_Hamlets/
 
 ## Confidential Links & Embeds: 
 
-### [Tower_Hamlets](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets|Tower_Hamlets]] 
 
-### [Tower_Hamlets.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.public|Tower_Hamlets.public]] 
 
-### [Tower_Hamlets.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.internal|Tower_Hamlets.internal]] 
 
-### [Tower_Hamlets.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.protect|Tower_Hamlets.protect]] 
 
-### [Tower_Hamlets.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.private|Tower_Hamlets.private]] 
 
-### [Tower_Hamlets.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.personal|Tower_Hamlets.personal]] 
 
-### [Tower_Hamlets.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Tower_Hamlets.secret|Tower_Hamlets.secret]] 
 

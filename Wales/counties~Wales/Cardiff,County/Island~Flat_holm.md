@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 30181
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.1
+dv_has_place_latitude: 51.38
+dv_name: Flatholme
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.1] 
-[has_place_latitude::51.38] 
-[name::Flatholme] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Island~Flat_holm](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm|Island~Flat_holm]] 
 
-### [Island~Flat_holm.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.public|Island~Flat_holm.public]] 
 
-### [Island~Flat_holm.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.internal|Island~Flat_holm.internal]] 
 
-### [Island~Flat_holm.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.protect|Island~Flat_holm.protect]] 
 
-### [Island~Flat_holm.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.private|Island~Flat_holm.private]] 
 
-### [Island~Flat_holm.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.personal|Island~Flat_holm.personal]] 
 
-### [Island~Flat_holm.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales/counties~Wales/Cardiff,County/Island~Flat_holm.secret|Island~Flat_holm.secret]] 
 

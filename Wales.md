@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Wales,25|WD~Wales,25]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Wales,25|WD~Wales,25]]"
+
 has_time_started: 0500-01-01 
 aliases:
   - Cymru
@@ -174,7 +178,7 @@ Dewey_Decimal_Classification: 2--429
 
 # [[Wales]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Wales,25|WD~Wales,25]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -202,17 +206,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wales](/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Wales|Wales]] 
 
-### [Wales.public](/_public/Earth/Continent/Europe/Europe~North/UK/Wales.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Wales.public|Wales.public]] 
 
-### [Wales.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Wales.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Wales.internal|Wales.internal]] 
 
-### [Wales.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Wales.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Wales.protect|Wales.protect]] 
 
-### [Wales.private](/_private/Earth/Continent/Europe/Europe~North/UK/Wales.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Wales.private|Wales.private]] 
 
-### [Wales.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Wales.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Wales.personal|Wales.personal]] 
 
-### [Wales.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Wales.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Wales.secret|Wales.secret]] 
 

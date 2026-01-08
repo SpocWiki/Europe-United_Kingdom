@@ -16,22 +16,30 @@ tags:
 SpocWebEntityId: 30464
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.25
+dv_has_place_latitude: 55.88
+dv_name: Glasgow~Schottland
+dv_Country: "[[../../../../UK]]"
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Glasgow,4093|WD~Glasgow,4093]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Glasgow,4093|WD~Glasgow,4093]]"
 ---
 
 # [[Glasgow,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.25] 
-[has_place_latitude::55.88] 
-[name::Glasgow~Schottland] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Glasgow,4093|WD~Glasgow,4093]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -59,20 +67,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Glasgow) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Glasgow,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City|Glasgow,City]] 
 
-### [Glasgow,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.public|Glasgow,City.public]] 
 
-### [Glasgow,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.internal|Glasgow,City.internal]] 
 
-### [Glasgow,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.protect|Glasgow,City.protect]] 
 
-### [Glasgow,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.private|Glasgow,City.private]] 
 
-### [Glasgow,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.personal|Glasgow,City.personal]] 
 
-### [Glasgow,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City.secret|Glasgow,City.secret]] 
 

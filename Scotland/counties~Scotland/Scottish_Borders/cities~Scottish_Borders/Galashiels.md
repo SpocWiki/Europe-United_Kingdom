@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30344
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.82
+dv_has_place_latitude: 55.62
+dv_name: Galashiels
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.82] 
-[has_place_latitude::55.62] 
-[name::Galashiels] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Galashiels](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels|Galashiels]] 
 
-### [Galashiels.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.public|Galashiels.public]] 
 
-### [Galashiels.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.internal|Galashiels.internal]] 
 
-### [Galashiels.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.protect|Galashiels.protect]] 
 
-### [Galashiels.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.private|Galashiels.private]] 
 
-### [Galashiels.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.personal|Galashiels.personal]] 
 
-### [Galashiels.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Scottish_Borders/cities~Scottish_Borders/Galashiels.secret|Galashiels.secret]] 
 

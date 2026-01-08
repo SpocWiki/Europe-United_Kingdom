@@ -40,17 +40,17 @@ markerFolder: ./Derbyshire/
 
 ## Confidential Links & Embeds: 
 
-### [Derbyshire](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire|Derbyshire]] 
 
-### [Derbyshire.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.public|Derbyshire.public]] 
 
-### [Derbyshire.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.internal|Derbyshire.internal]] 
 
-### [Derbyshire.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.protect|Derbyshire.protect]] 
 
-### [Derbyshire.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.private|Derbyshire.private]] 
 
-### [Derbyshire.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.personal|Derbyshire.personal]] 
 
-### [Derbyshire.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_Midlands/Derbyshire.secret|Derbyshire.secret]] 
 

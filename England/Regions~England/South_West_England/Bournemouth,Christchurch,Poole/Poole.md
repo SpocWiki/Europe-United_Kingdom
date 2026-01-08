@@ -40,17 +40,17 @@ markerFolder: ./Poole/
 
 ## Confidential Links & Embeds: 
 
-### [Poole](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole|Poole]] 
 
-### [Poole.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.public|Poole.public]] 
 
-### [Poole.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.internal|Poole.internal]] 
 
-### [Poole.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.protect|Poole.protect]] 
 
-### [Poole.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.private|Poole.private]] 
 
-### [Poole.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.personal|Poole.personal]] 
 
-### [Poole.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Bournemouth,Christchurch,Poole/Poole.secret|Poole.secret]] 
 

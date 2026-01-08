@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29288
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.6
+dv_has_place_latitude: 56.02
+dv_name: Borrowstounness
+dv_Country: "[[../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.6] 
-[has_place_latitude::56.02] 
-[name::Borrowstounness] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borrowstounness](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness|Borrowstounness]] 
 
-### [Borrowstounness.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.public|Borrowstounness.public]] 
 
-### [Borrowstounness.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.internal|Borrowstounness.internal]] 
 
-### [Borrowstounness.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.protect|Borrowstounness.protect]] 
 
-### [Borrowstounness.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.private|Borrowstounness.private]] 
 
-### [Borrowstounness.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.personal|Borrowstounness.personal]] 
 
-### [Borrowstounness.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/Borrowstounness.secret|Borrowstounness.secret]] 
 

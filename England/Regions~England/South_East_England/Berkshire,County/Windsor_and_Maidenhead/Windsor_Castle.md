@@ -1,4 +1,12 @@
-﻿---
+---
+dv_"Building", "WindsorCastle: 4rvdh"
+dv_"HistoricalSite", "WindsorCastle: qhx53"
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Windsor_Castle,42646|WD~Windsor_Castle,42646]]"
+dv_building-windsorcastle: 4rvdh"
+dv_historicalsite-windsorcastle: qhx53"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Windsor_Castle,42646|WD~Windsor_Castle,42646]]"
+
 has_time_started: 1070-01-01 
 aliases:
   - Windsor Castle
@@ -11,9 +19,9 @@ location:
 inception: 1070-01-01T00:00:00Z
 P1015: 97016324
 Wolfram_Language_entity_code:
-  - Entity["Building", "WindsorCastle::4rvdh"]
+  - Entity"Building", "WindsorCastle = `=this.dv_"Building", "WindsorCastle`
   - Entity["Castle", "WindsorCastle"]
-  - Entity["HistoricalSite", "WindsorCastle::qhx53"]
+  - Entity"HistoricalSite", "WindsorCastle = `=this.dv_"HistoricalSite", "WindsorCastle`
 Commons_Institution_page: Royal Collection, Windsor Castle
 OS_grid_reference: SU9700277033
 street_address: Windsor SL4 1NJ
@@ -100,7 +108,7 @@ ISNI: 0000000121495119
 
 # [[Windsor_Castle]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Windsor_Castle,42646|WD~Windsor_Castle,42646]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -117,4 +125,21 @@ ISNI: 0000000121495119
 > Windsor Castle survived the tumultuous period of the English Civil War, when it was used as a military headquarters by Parliamentary forces and a prison for Charles I. At the Restoration of the monarchy in 1660, Charles II had much of Windsor Castle rebuilt with the help of the architect Hugh May, creating a set of extravagant Baroque interiors. After a period of neglect during the 18th century, George III and George IV  had Charles II's palace renovated and rebuilt at colossal expense, producing the current design of the state apartments, full of Rococo, Gothic and Baroque furnishings. Queen Victoria made a few minor changes to the castle, which became the centre for royal entertainment for much of her reign. During the First World War, the historic estate inspired the naming of the royal House of Windsor. In the reign of George VI, it was used as a refuge by the royal family during the Luftwaffe bombing campaigns of the Second World War. An extensive restoration of several state rooms took place after the castle survived a fire in 1992. It is a popular tourist attraction, a venue for hosting state visits, and was the main residence of Elizabeth II from 2011 to 2022.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Windsor%20Castle) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Windsor_and_Maidenhead/Windsor_Castle|Windsor_Castle]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Windsor_and_Maidenhead/Windsor_Castle.public|Windsor_Castle.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Windsor_and_Maidenhead/Windsor_Castle.internal|Windsor_Castle.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Windsor_and_Maidenhead/Windsor_Castle.protect|Windsor_Castle.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Windsor_and_Maidenhead/Windsor_Castle.private|Windsor_Castle.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Windsor_and_Maidenhead/Windsor_Castle.personal|Windsor_Castle.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Windsor_and_Maidenhead/Windsor_Castle.secret|Windsor_Castle.secret]] 
 

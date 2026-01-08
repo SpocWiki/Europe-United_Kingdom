@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29586
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.78
+dv_has_place_latitude: 50.8
+dv_name: Chichester
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.78] 
-[has_place_latitude::50.8] 
-[name::Chichester] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chichester](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester|Chichester]] 
 
-### [Chichester.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.public|Chichester.public]] 
 
-### [Chichester.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.internal|Chichester.internal]] 
 
-### [Chichester.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.protect|Chichester.protect]] 
 
-### [Chichester.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.private|Chichester.private]] 
 
-### [Chichester.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.personal|Chichester.personal]] 
 
-### [Chichester.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Sussex~West/cities~WestSussex/Chichester/cities~Chichester/Chichester.secret|Chichester.secret]] 
 

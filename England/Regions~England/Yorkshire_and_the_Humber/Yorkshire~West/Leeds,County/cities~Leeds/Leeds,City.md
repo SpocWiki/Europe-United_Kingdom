@@ -16,22 +16,30 @@ tags:
 SpocWebEntityId: 31906
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.53
+dv_has_place_latitude: 53.8
+dv_name: Leeds
+dv_Country: "[[../../../../../../../UK]]"
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Leeds,39121|WD~Leeds,39121]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Leeds,39121|WD~Leeds,39121]]"
 ---
 
 # [[Leeds,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.53] 
-[has_place_latitude::53.8] 
-[name::Leeds] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Leeds,39121|WD~Leeds,39121]] 
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: Leeds
@@ -60,17 +68,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leeds](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds,City|Leeds,City]] 
 
-### [Leeds.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds,City.public|Leeds,City.public]] 
 
-### [Leeds.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds,City.internal|Leeds,City.internal]] 
 
-### [Leeds.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds,City.protect|Leeds,City.protect]] 
 
-### [Leeds.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds,City.private|Leeds,City.private]] 
 
-### [Leeds.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds,City.personal|Leeds,City.personal]] 
 
-### [Leeds.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds,City.secret|Leeds,City.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30781
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.18
+dv_has_place_latitude: 54.7
+dv_name: Hartlepool
+dv_Country: "[[../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.18] 
-[has_place_latitude::54.7] 
-[name::Hartlepool] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hartlepool,City](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City|Hartlepool,City]] 
 
-### [Hartlepool,City.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.public|Hartlepool,City.public]] 
 
-### [Hartlepool,City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.internal|Hartlepool,City.internal]] 
 
-### [Hartlepool,City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.protect|Hartlepool,City.protect]] 
 
-### [Hartlepool,City.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.private|Hartlepool,City.private]] 
 
-### [Hartlepool,City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.personal|Hartlepool,City.personal]] 
 
-### [Hartlepool,City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_East_England/Durham,County/Hartlepool,Borough/cities~Hartlepool/Hartlepool,City.secret|Hartlepool,City.secret]] 
 

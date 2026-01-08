@@ -41,17 +41,17 @@ markerFolder: ./Telford_and_Wrekin/
 
 ## Confidential Links & Embeds: 
 
-### [Telford_and_Wrekin](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin|Telford_and_Wrekin]] 
 
-### [Telford_and_Wrekin.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.public|Telford_and_Wrekin.public]] 
 
-### [Telford_and_Wrekin.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.internal|Telford_and_Wrekin.internal]] 
 
-### [Telford_and_Wrekin.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.protect|Telford_and_Wrekin.protect]] 
 
-### [Telford_and_Wrekin.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.private|Telford_and_Wrekin.private]] 
 
-### [Telford_and_Wrekin.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.personal|Telford_and_Wrekin.personal]] 
 
-### [Telford_and_Wrekin.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Telford_and_Wrekin.secret|Telford_and_Wrekin.secret]] 
 

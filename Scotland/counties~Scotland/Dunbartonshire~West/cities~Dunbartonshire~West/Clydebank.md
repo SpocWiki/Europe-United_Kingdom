@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29632
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.4
+dv_has_place_latitude: 55.9
+dv_name: Clydebank
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.4] 
-[has_place_latitude::55.9] 
-[name::Clydebank] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Clydebank](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank|Clydebank]] 
 
-### [Clydebank.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.public|Clydebank.public]] 
 
-### [Clydebank.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.internal|Clydebank.internal]] 
 
-### [Clydebank.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.protect|Clydebank.protect]] 
 
-### [Clydebank.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.private|Clydebank.private]] 
 
-### [Clydebank.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.personal|Clydebank.personal]] 
 
-### [Clydebank.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West/cities~Dunbartonshire~West/Clydebank.secret|Clydebank.secret]] 
 

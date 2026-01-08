@@ -18,17 +18,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Ards_and_NorthDown](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown|Ards_and_NorthDown]] 
 
-### [Ards_and_NorthDown.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.public|Ards_and_NorthDown.public]] 
 
-### [Ards_and_NorthDown.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.internal|Ards_and_NorthDown.internal]] 
 
-### [Ards_and_NorthDown.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.protect|Ards_and_NorthDown.protect]] 
 
-### [Ards_and_NorthDown.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.private|Ards_and_NorthDown.private]] 
 
-### [Ards_and_NorthDown.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.personal|Ards_and_NorthDown.personal]] 
 
-### [Ards_and_NorthDown.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Ards_and_NorthDown.secret|Ards_and_NorthDown.secret]] 
 

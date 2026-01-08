@@ -41,17 +41,17 @@ markerFolder: ./Kingston_upon_Hull/
 
 ## Confidential Links & Embeds: 
 
-### [Kingston_upon_Hull](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull|Kingston_upon_Hull]] 
 
-### [Kingston_upon_Hull.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.public|Kingston_upon_Hull.public]] 
 
-### [Kingston_upon_Hull.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.internal|Kingston_upon_Hull.internal]] 
 
-### [Kingston_upon_Hull.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.protect|Kingston_upon_Hull.protect]] 
 
-### [Kingston_upon_Hull.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.private|Kingston_upon_Hull.private]] 
 
-### [Kingston_upon_Hull.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.personal|Kingston_upon_Hull.personal]] 
 
-### [Kingston_upon_Hull.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull.secret|Kingston_upon_Hull.secret]] 
 

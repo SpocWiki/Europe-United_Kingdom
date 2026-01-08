@@ -41,17 +41,17 @@ markerFolder: ./North_Somerset/
 
 ## Confidential Links & Embeds: 
 
-### [Somerset~North](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North|Somerset~North]] 
 
-### [Somerset~North.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.public|Somerset~North.public]] 
 
-### [Somerset~North.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.internal|Somerset~North.internal]] 
 
-### [Somerset~North.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.protect|Somerset~North.protect]] 
 
-### [Somerset~North.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.private|Somerset~North.private]] 
 
-### [Somerset~North.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.personal|Somerset~North.personal]] 
 
-### [Somerset~North.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_West_England/Somerset~North.secret|Somerset~North.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30125
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.78
+dv_has_place_latitude: 56
+dv_name: Falkirk
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.78] 
-[has_place_latitude::56] 
-[name::Falkirk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Falkirk](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk|Falkirk]] 
 
-### [Falkirk.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.public|Falkirk.public]] 
 
-### [Falkirk.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.internal|Falkirk.internal]] 
 
-### [Falkirk.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.protect|Falkirk.protect]] 
 
-### [Falkirk.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.private|Falkirk.private]] 
 
-### [Falkirk.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.personal|Falkirk.personal]] 
 
-### [Falkirk.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Falkirk/cities~Falkirk/Falkirk.secret|Falkirk.secret]] 
 

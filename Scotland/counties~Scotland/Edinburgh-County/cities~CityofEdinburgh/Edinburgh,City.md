@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.18
+dv_has_place_latitude: 55.95
+dv_name: Edinburgh
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Edinburgh,23436|WD~Edinburgh,23436]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Edinburgh,23436|WD~Edinburgh,23436]]"
+
 has_time_started: 0601-01-01 
 aliases:
 location:
@@ -153,17 +161,17 @@ OS_grid_reference: NT275735
 # [[Edinburgh,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.18] 
-[has_place_latitude::55.95] 
-[name::Edinburgh] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[UK]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Edinburgh,23436|WD~Edinburgh,23436]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -224,19 +232,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Edinburgh)
 
+
 ## Confidential Links & Embeds: 
 
-### [Edinburgh-City](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh,City|Edinburgh,City]] 
 
-### [Edinburgh-City.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh,City.public|Edinburgh,City.public]] 
 
-### [Edinburgh-City.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh,City.internal|Edinburgh,City.internal]] 
 
-### [Edinburgh-City.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh,City.protect|Edinburgh,City.protect]] 
 
-### [Edinburgh-City.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh,City.private|Edinburgh,City.private]] 
 
-### [Edinburgh-City.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh,City.personal|Edinburgh,City.personal]] 
 
-### [Edinburgh-City.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh,City.secret|Edinburgh,City.secret]] 
 

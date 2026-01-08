@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../WikiData/WD~Wembley_Stadium,43279|WD~Wembley_Stadium,43279]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Wembley_Stadium,43279|WD~Wembley_Stadium,43279]]"
+
 has_time_stopped: 2002-09-30 
 aliases:
 has_id_wikidata: Q43279
@@ -42,7 +46,7 @@ date_of_official_opening: 1923-04-28T00:00:00Z
 
 # [[Wembley_Stadium]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Wembley_Stadium,43279|WD~Wembley_Stadium,43279]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -76,3 +80,21 @@ date_of_official_opening: 1923-04-28T00:00:00Z
 > In 2014, Wembley Stadium entered into a six-year sponsorship agreement with mobile provider EE Limited, under which it provides technology and infrastructure services for the venue. Under the agreement, the facility is officially referred to as "Wembley Stadium connected by EE". The deal was renewed in 2019 and again in 2025 for a further four years, through to 2028.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wembley%20Stadium) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Brent/Wembley_Stadium|Wembley_Stadium]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Brent/Wembley_Stadium.public|Wembley_Stadium.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Brent/Wembley_Stadium.internal|Wembley_Stadium.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Brent/Wembley_Stadium.protect|Wembley_Stadium.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Brent/Wembley_Stadium.private|Wembley_Stadium.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Brent/Wembley_Stadium.personal|Wembley_Stadium.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/London,Greater/cities~GreaterLondon/Brent/Wembley_Stadium.secret|Wembley_Stadium.secret]] 
+

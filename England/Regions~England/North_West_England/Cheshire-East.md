@@ -40,17 +40,17 @@ markerFolder: ./Cheshire-East/
 
 ## Confidential Links & Embeds: 
 
-### [Cheshire-East](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East|Cheshire-East]] 
 
-### [Cheshire-East.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.public|Cheshire-East.public]] 
 
-### [Cheshire-East.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.internal|Cheshire-East.internal]] 
 
-### [Cheshire-East.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.protect|Cheshire-East.protect]] 
 
-### [Cheshire-East.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.private|Cheshire-East.private]] 
 
-### [Cheshire-East.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.personal|Cheshire-East.personal]] 
 
-### [Cheshire-East.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Cheshire-East.secret|Cheshire-East.secret]] 
 

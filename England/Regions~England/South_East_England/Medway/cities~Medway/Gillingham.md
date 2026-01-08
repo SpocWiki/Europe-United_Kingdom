@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30457
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.55
+dv_has_place_latitude: 51.38
+dv_name: Gillingham
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.55] 
-[has_place_latitude::51.38] 
-[name::Gillingham] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gillingham](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham|Gillingham]] 
 
-### [Gillingham.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.public|Gillingham.public]] 
 
-### [Gillingham.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.internal|Gillingham.internal]] 
 
-### [Gillingham.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.protect|Gillingham.protect]] 
 
-### [Gillingham.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.private|Gillingham.private]] 
 
-### [Gillingham.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.personal|Gillingham.personal]] 
 
-### [Gillingham.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Medway/cities~Medway/Gillingham.secret|Gillingham.secret]] 
 

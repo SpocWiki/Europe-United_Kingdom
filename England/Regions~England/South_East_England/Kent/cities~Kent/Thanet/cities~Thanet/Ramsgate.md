@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33628
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.42
+dv_has_place_latitude: 51.33
+dv_name: Ramsgate
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.42] 
-[has_place_latitude::51.33] 
-[name::Ramsgate] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ramsgate](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate|Ramsgate]] 
 
-### [Ramsgate.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.public|Ramsgate.public]] 
 
-### [Ramsgate.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.internal|Ramsgate.internal]] 
 
-### [Ramsgate.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.protect|Ramsgate.protect]] 
 
-### [Ramsgate.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.private|Ramsgate.private]] 
 
-### [Ramsgate.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.personal|Ramsgate.personal]] 
 
-### [Ramsgate.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Kent/cities~Kent/Thanet/cities~Thanet/Ramsgate.secret|Ramsgate.secret]] 
 

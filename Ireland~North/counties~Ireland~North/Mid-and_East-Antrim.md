@@ -18,17 +18,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Mid-and_East-Antrim](/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim|Mid-and_East-Antrim]] 
 
-### [Mid-and_East-Antrim.public](/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.public|Mid-and_East-Antrim.public]] 
 
-### [Mid-and_East-Antrim.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.internal|Mid-and_East-Antrim.internal]] 
 
-### [Mid-and_East-Antrim.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.protect|Mid-and_East-Antrim.protect]] 
 
-### [Mid-and_East-Antrim.private](/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.private|Mid-and_East-Antrim.private]] 
 
-### [Mid-and_East-Antrim.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.personal|Mid-and_East-Antrim.personal]] 
 
-### [Mid-and_East-Antrim.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Ireland~North/counties~Ireland~North/Mid-and_East-Antrim.secret|Mid-and_East-Antrim.secret]] 
 

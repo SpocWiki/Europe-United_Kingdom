@@ -41,17 +41,17 @@ markerFolder: ./Eilean_Siar/
 
 ## Confidential Links & Embeds: 
 
-### [Eilean_Siar](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar|Eilean_Siar]] 
 
-### [Eilean_Siar.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.public|Eilean_Siar.public]] 
 
-### [Eilean_Siar.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.internal|Eilean_Siar.internal]] 
 
-### [Eilean_Siar.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.protect|Eilean_Siar.protect]] 
 
-### [Eilean_Siar.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.private|Eilean_Siar.private]] 
 
-### [Eilean_Siar.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.personal|Eilean_Siar.personal]] 
 
-### [Eilean_Siar.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Eilean_Siar.secret|Eilean_Siar.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31905
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.42
+dv_has_place_latitude: 52.03
+dv_name: Ledburg
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.42] 
-[has_place_latitude::52.03] 
-[name::Ledburg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ledburg](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg|Ledburg]] 
 
-### [Ledburg.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.public|Ledburg.public]] 
 
-### [Ledburg.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.internal|Ledburg.internal]] 
 
-### [Ledburg.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.protect|Ledburg.protect]] 
 
-### [Ledburg.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.private|Ledburg.private]] 
 
-### [Ledburg.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.personal|Ledburg.personal]] 
 
-### [Ledburg.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/West_Midlands,Region/Herefordshire/cities~Herefordshire/Ledburg.secret|Ledburg.secret]] 
 

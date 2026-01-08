@@ -41,17 +41,17 @@ markerFolder: ./Dunbartonshire~West/
 
 ## Confidential Links & Embeds: 
 
-### [Dunbartonshire~West](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West|Dunbartonshire~West]] 
 
-### [Dunbartonshire~West.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.public|Dunbartonshire~West.public]] 
 
-### [Dunbartonshire~West.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.internal|Dunbartonshire~West.internal]] 
 
-### [Dunbartonshire~West.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.protect|Dunbartonshire~West.protect]] 
 
-### [Dunbartonshire~West.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.private|Dunbartonshire~West.private]] 
 
-### [Dunbartonshire~West.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.personal|Dunbartonshire~West.personal]] 
 
-### [Dunbartonshire~West.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~West.secret|Dunbartonshire~West.secret]] 
 

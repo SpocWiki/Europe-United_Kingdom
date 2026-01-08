@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31455
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.15
+dv_has_place_latitude: 55.93
+dv_name: Kirkintilloch
+dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.15] 
-[has_place_latitude::55.93] 
-[name::Kirkintilloch] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[UK]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirkintilloch](/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch|Kirkintilloch]] 
 
-### [Kirkintilloch.public](/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.public|Kirkintilloch.public]] 
 
-### [Kirkintilloch.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.internal|Kirkintilloch.internal]] 
 
-### [Kirkintilloch.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.protect|Kirkintilloch.protect]] 
 
-### [Kirkintilloch.private](/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.private|Kirkintilloch.private]] 
 
-### [Kirkintilloch.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.personal|Kirkintilloch.personal]] 
 
-### [Kirkintilloch.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/Scotland/counties~Scotland/Dunbartonshire~East/cities~Dunbartonshire~East/Kirkintilloch.secret|Kirkintilloch.secret]] 
 

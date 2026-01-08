@@ -41,17 +41,17 @@ markerFolder: ./Knowsley/
 
 ## Confidential Links & Embeds: 
 
-### [Knowsley,Borough](/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough|Knowsley,Borough]] 
 
-### [Knowsley,Borough.public](/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.public|Knowsley,Borough.public]] 
 
-### [Knowsley,Borough.internal](/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.internal|Knowsley,Borough.internal]] 
 
-### [Knowsley,Borough.protect](/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.protect|Knowsley,Borough.protect]] 
 
-### [Knowsley,Borough.private](/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.private|Knowsley,Borough.private]] 
 
-### [Knowsley,Borough.personal](/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.personal|Knowsley,Borough.personal]] 
 
-### [Knowsley,Borough.secret](/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/North_West_England/Merseyside/Knowsley,Borough.secret|Knowsley,Borough.secret]] 
 
