@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.07
 dv_has_place_latitude: 53.4
-dv_has_name_: Liverpool
+dv_has_name: Liverpool
 dv_is_:
   same_as: "[[../../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]"
 dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]"
@@ -106,7 +106,7 @@ FIPS_10_4_countries_and_regions_: UKH8
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[UK]]  
 [StateId::] 

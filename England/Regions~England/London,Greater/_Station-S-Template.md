@@ -16,7 +16,7 @@ dv_StationSId: "{{Id}}"
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: "{{GeoLon}}"
 dv_has_place_latitude: "{{GeoLat}}"
-dv_has_name_: "{{name}}"
+dv_has_name: "{{name}}"
 dv_zone: "{{zone}}"
 dv_Num_lines: "{{total_lines}}"
 dv_switch-to-Rail: "{{rail}}"
@@ -31,7 +31,7 @@ StationSId = `=this.dv_StationSId`
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 zone = `=this.dv_zone` 
 Num_lines = `=this.dv_Num_lines` 
 switch-to-Rail = `=this.dv_switch-to-Rail` 

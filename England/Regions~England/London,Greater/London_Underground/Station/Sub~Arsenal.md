@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1059
 dv_has_place_latitude: 51.5586
-dv_has_name_: Arsenal
+dv_has_name: Arsenal
 dv_zone: 2
 dv_Num_lines: 1
 dv_switch-to-Rail: 0
@@ -31,7 +31,7 @@ confidential: public
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 zone = `=this.dv_zone` 
 Num_lines = `=this.dv_Num_lines` 
 switch-to-Rail = `=this.dv_switch-to-Rail` 

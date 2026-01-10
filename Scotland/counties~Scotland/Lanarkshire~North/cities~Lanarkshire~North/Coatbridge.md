@@ -17,14 +17,14 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.03
 dv_has_place_latitude: 55.87
-dv_has_name_: Coatbridge
+dv_has_name: Coatbridge
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

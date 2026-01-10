@@ -17,14 +17,14 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.25
 dv_has_place_latitude: 53.77
-dv_has_name_: Burnley
+dv_has_name: Burnley
 dv_Country: "[[../../../../../../../../UK]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

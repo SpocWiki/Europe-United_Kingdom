@@ -15,7 +15,7 @@ tags:
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.1337
 dv_has_place_latitude: 51.5282
-dv_has_name_: Euston
+dv_has_name: Euston
 dv_zone: 1
 dv_Num_lines: 2
 dv_switch-to-Rail: 1
@@ -31,7 +31,7 @@ confidential: public
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 zone = `=this.dv_zone` 
 Num_lines = `=this.dv_Num_lines` 
 switch-to-Rail = `=this.dv_switch-to-Rail` 

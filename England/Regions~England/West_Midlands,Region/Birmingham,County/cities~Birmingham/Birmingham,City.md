@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.83
 dv_has_place_latitude: 52.5
-dv_has_name_: Birmingham
+dv_has_name: Birmingham
 dv_is_:
   same_as: "[[../../../../../../../../../../WikiData/WD~Birmingham,2256|WD~Birmingham,2256]]"
 dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Birmingham,2256|WD~Birmingham,2256]]"
@@ -129,7 +129,7 @@ official_name: Birmingham
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[UK]]  
 [StateId::] 

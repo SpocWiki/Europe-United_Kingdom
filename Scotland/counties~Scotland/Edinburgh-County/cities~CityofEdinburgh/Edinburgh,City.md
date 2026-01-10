@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.18
 dv_has_place_latitude: 55.95
-dv_has_name_: Edinburgh
+dv_has_name: Edinburgh
 dv_is_:
   same_as: "[[../../../../../../../../../WikiData/WD~Edinburgh,23436|WD~Edinburgh,23436]]"
 dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Edinburgh,23436|WD~Edinburgh,23436]]"
@@ -164,7 +164,7 @@ OS_grid_reference: NT275735
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[UK]]  
 [StateId::] 

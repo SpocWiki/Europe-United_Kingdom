@@ -23,14 +23,14 @@ dv_has_place_longitude:
 dv_has_place_latitude:
   - 51
   - 97
-dv_has_name_: Felixstown/Suffolk
+dv_has_name: Felixstown/Suffolk
 dv_Country: "[[../../../../../UK]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
 [has_place_longitude::1,33] 
 [has_place_latitude::51,97] 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

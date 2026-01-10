@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.25
 dv_has_place_latitude: 55.88
-dv_has_name_: Glasgow~Schottland
+dv_has_name: Glasgow~Schottland
 dv_Country: "[[../../../../UK]]"
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Glasgow,4093|WD~Glasgow,4093]]"
@@ -32,7 +32,7 @@ dv_is_same_as: "[[../../../../../../../../WikiData/WD~Glasgow,4093|WD~Glasgow,40
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 
