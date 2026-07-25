@@ -299,7 +299,7 @@ publishDate: ''
 expiryDate: ''
 icon: flag-gb
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]'
 - '[[/_Standards/WikiData/WD~European_Free_Trade_Association,166546|WD~European_Free_Trade_Association,166546]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
@@ -478,7 +478,7 @@ language_used:
 - '[[/_Standards/WikiData/WD~British_Sign_Language,33000|WD~British_Sign_Language,33000]]'
 - '[[/_Standards/WikiData/WD~Shelta,36705|WD~Shelta,36705]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 - '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
@@ -773,7 +773,7 @@ dv_ISO2: GB
 dv_ISO3: GBR
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+  - '[[../../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~North/UK|UK]]'
   - '[[/_public/Earth/Continent/Europe/Europe~North/UK.public|UK.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~North/UK.internal|UK.internal]]'
@@ -783,8 +783,8 @@ dv_is_:
   - '[[/_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]]'
 dv_has_:
   image_for_:
-    flag: '[[./UK/Flag_of_the_United_Kingdom.svg|Flag_of_the_United_Kingdom.svg|200]]'
-    coat_of_arms: '[[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|Coat_of_Arms_of_the_United_Kingdom.svg|250]]'
+    flag: '[[Flag_of_the_United_Kingdom.svg|Flag_of_the_United_Kingdom.svg|200]]'
+    coat_of_arms: '[[Coat_of_Arms_of_the_United_Kingdom.svg|Coat_of_Arms_of_the_United_Kingdom.svg|250]]'
   name_:
     ab: Британиаду
     ace: Keurajeuën Inggréh
@@ -1139,19 +1139,19 @@ dv_has_:
     zh_tw: 英國
     zu: Umbuso Ohlangeneyo
   sound_of_:
-    anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]'
+    anthem: '[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]'
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
 dv_Area-Total: 241752
 dv_Area-Land: 241600
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: GB
 dv_Alcohol-l: 13.4
 dv_Language-Id: 499
 dv_has_place_longitude: -2.14482
 dv_has_place_latitude: 52.8829
 dv_is_same_as:
-- '[[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- '[[../../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~North/UK|UK]]'
 - '[[/_public/Earth/Continent/Europe/Europe~North/UK.public|UK.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~North/UK.internal|UK.internal]]'
@@ -1160,9 +1160,9 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Europe/Europe~North/UK.personal|UK.personal]]'
 - '[[/_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
-dv_has_image_for_flag: '[[./UK/Flag_of_the_United_Kingdom.svg|Flag_of_the_United_Kingdom.svg|200]]'
-dv_has_image_for_coat_of_arms: '[[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|Coat_of_Arms_of_the_United_Kingdom.svg|250]]'
-dv_has_sound_of_anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]'
+dv_has_image_for_flag: '[[Flag_of_the_United_Kingdom.svg|Flag_of_the_United_Kingdom.svg|200]]'
+dv_has_image_for_coat_of_arms: '[[Coat_of_Arms_of_the_United_Kingdom.svg|Coat_of_Arms_of_the_United_Kingdom.svg|250]]'
+dv_has_sound_of_anthem: '[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]'
 Unicode_character: 🇬🇧
 ---
 
@@ -1176,11 +1176,11 @@ has_name_de = `=this.dv_has_name_de`
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]] 
+#is_/same_as :: [[../../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]] 
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-UK)
-into a Subfolder named `UK`, so that this Link into the Sub-Repository works: [[UK/ReadMe|ReadMe]] 
+into a Subfolder named `UK`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1197,18 +1197,18 @@ Below is a comprehensive table detailing the 12 regions of the United Kingdom.
 
 | Region                                                                            | Pop/M |   kkm² | GVA/G£ |  pP/k£ | Notable Properties                                          |
 | --------------------------------------------------------------------------------- | ----: | -----: | -----: | -----: | ----------------------------------------------------------- |
-| [[UK/England/Regions~England/East_Midlands\|East Midlands]]                       | 4.864 | 15.627 |    120 | 24.683 | Known for engineering, manufacturing, and agriculture       |
-| [[UK/England/Regions~England/East_of_England\|East of England]]                   | 6.269 | 19.116 |    182 | 29.103 | Significant technology and science industries               |
-| [[UK/England/Regions~England/London,Greater\|Greater London]]                                                                    | 9.002 |  1.572 |    487 | 54.111 | Leading global financial center, diverse cultural scene     |
-| [[UK/England/Regions~England/North_East_England\|North East England]]             | 2.647 |  8.592 |     48 | 18.128 | Industrial heritage, growing service sector                 |
-| [[UK/England/Regions~England/North_West_England\|North West England]]             | 7.367 | 14.165 |    208 | 28.237 | Industrial legacy, strong cultural sites                    |
-| [[UK/Ireland~North\|Northern Ireland]]                                            | 1.905 | 14.130 |     46 | 24.126 | Known for tourism, manufacturing, and traditional expertise |
-| [[UK/Scotland\|Scotland]]                                                         | 5.479 | 77.933 |    150 | 27.376 | Rich in natural resources, strong finance, and education    |
-| [[UK/England/Regions~England/South_East_England\|South East England]]             | 9.278 | 19.096 |    315 | 33.958 | Financial sector, proximity to London, high tech industries |
-| [[UK/England/Regions~England/South_West_England\|South West England]]             | 5.624 | 23.829 |    144 | 25.597 | Tourism, agriculture, and aerospace industries              |
-| [[UK/Wales\|Wales]]                                                               | 3.190 | 20.779 |     79 | 24.764 | Rich cultural heritage, manufacturing, and public services  |
-| [[UK/England/Regions~England/West_Midlands,Region\|West Midlands]]                | 5.961 | 13.004 |    166 | 27.855 | Automotive industry, diverse services sector                |
-| [[UK/England/Regions~England/Yorkshire_and_the_Humber\|Yorkshire and the Humber]] | 5.502 | 15.420 |    134 | 24.363 | Historical industries, growing digital tech and culture     |
+| [[England/Regions~England/East_Midlands/|East Midlands]]                       | 4.864 | 15.627 |    120 | 24.683 | Known for engineering, manufacturing, and agriculture       |
+| [[England/Regions~England/East_of_England/|East of England]]                   | 6.269 | 19.116 |    182 | 29.103 | Significant technology and science industries               |
+| [[England/Regions~England/London,Greater/|Greater London]]                                                                    | 9.002 |  1.572 |    487 | 54.111 | Leading global financial center, diverse cultural scene     |
+| [[England/Regions~England/North_East_England/|North East England]]             | 2.647 |  8.592 |     48 | 18.128 | Industrial heritage, growing service sector                 |
+| [[England/Regions~England/North_West_England/|North West England]]             | 7.367 | 14.165 |    208 | 28.237 | Industrial legacy, strong cultural sites                    |
+| [[Ireland~North/|Northern Ireland]]                                            | 1.905 | 14.130 |     46 | 24.126 | Known for tourism, manufacturing, and traditional expertise |
+| [[Scotland/|Scotland]]                                                         | 5.479 | 77.933 |    150 | 27.376 | Rich in natural resources, strong finance, and education    |
+| [[England/Regions~England/South_East_England/|South East England]]             | 9.278 | 19.096 |    315 | 33.958 | Financial sector, proximity to London, high tech industries |
+| [[England/Regions~England/South_West_England/|South West England]]             | 5.624 | 23.829 |    144 | 25.597 | Tourism, agriculture, and aerospace industries              |
+| [[Wales/|Wales]]                                                               | 3.190 | 20.779 |     79 | 24.764 | Rich cultural heritage, manufacturing, and public services  |
+| [[England/Regions~England/West_Midlands,Region/|West Midlands]]                | 5.961 | 13.004 |    166 | 27.855 | Automotive industry, diverse services sector                |
+| [[England/Regions~England/Yorkshire_and_the_Humber/|Yorkshire and the Humber]] | 5.502 | 15.420 |    134 | 24.363 | Historical industries, growing digital tech and culture     |
 
 
 ## #has_/place_/city   
@@ -1217,34 +1217,34 @@ Major Cities with Population in 1000s as of @2020
 
 | City                                                                                                                                                                                      | County                                                                     | Pop/k |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----: |
-| [[UK/England/Regions~England/London,Greater/cities~GreaterLondon/London,City\|London-City]]                                                                                                                                             | [[UK/England/Regions~England/London,Greater\|Greater London]]                                     |  9748 |
-| [[UK/England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester,City\|Manchester]]                                                                                                | [[Greater Manchester]]                                                     | 2812 |
-| [[UK/England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City\|Birmingham]]                                                                                           | West Midlands                                                              | 2685 |
-| [[UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds,City\|Leeds]]/[[UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford\|Bradford]]                                 | West Yorkshire                                                             | 1942 |
-| [[UK/Scotland/counties~Scotland/Glasgow,County/Glasgow,City\|Glasgow,City]]                                                                                                               | [[UK/Scotland/counties~Scotland/Glasgow,County\|Glasgow-County]]           | 1708 |
-| [[UK/England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton\|Southampton]]/[[UK/England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Portsmouth\|Portsmouth]] | [[UK/England/Regions~England/South_East_England/Hampshire,County\|Hampshire]]                |  959 |
-| [[UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool\|Liverpool]]                                                                                                                 | [[UK/England/Regions~England/North_West_England/Merseyside\|Merseyside]]                     |  923 |
-| [[UK/England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Newcastle_upon_Tyne\|Newcastle_upon_Tyne]]                                                                   | [[Tyne and Wear]]                                                          |  829 |
-| [[UK/England/Regions~England/East_Midlands/Nottingham,County/cities~Nottingham/Nottingham\|Nottingham]]                                                                                                | [[UK/England/Regions~England/East_Midlands/Nottinghamshire\|Nottinghamshire]]           |  813 |
-| [[UK/England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County/cities~Sheffield/Sheffield\|Sheffield]]                                                                                                    | [[South Yorkshire]]                                                        |  751 |
-| [[UK/England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol\|Bristol]]                                                                                                            | [[UK/England/Regions~England/South_West_England/Bristol,County\|Bristol,County]]             |  714 |
-| [[UK/Ireland~North/counties~Ireland~North/Belfast,County/cities~Belfast/Belfast,City\|Belfast,City]]                                                                                      | [[UK/Ireland~North/counties~Ireland~North/Belfast,County\|Belfast,County]] |  647 |
-| [[UK/England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Brighton\|Brighton]] [[Worthing]] [[Littlehampton]]                                                              | [[UK/England/Regions~England/South_East_England/Sussex~East\|Sussex~East]]                   |  628 |
-| [[UK/England/Regions~England/East_Midlands/Leicestershire/Leicester,City\|Leicester]]                                                                              | [[UK/England/Regions~England/East_Midlands/Leicestershire\|Leicestershire]]             |  571 |
-| [[UK/Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh,City\|Edinburgh-City]]                                                                                  | City of Edinburgh                                                          |  559 |
-| Bournemouth/Poole                                                                                                                                                                         | [[UK/England/Regions~England/South_West_England/Dorset\|Dorset]]                             |  523 |
-| [[UK/Wales/counties~Wales/Cardiff,County/Cardiff,City\|Cardiff,City]]                                                                                                                     | [[UK/Wales/counties~Wales/Cardiff,County\|Cardiff,County]]                 |  492 |
+| [[England/Regions~England/London,Greater/cities~GreaterLondon/London,City/|London-City]]                                                                                                                                             | [[England/Regions~England/London,Greater/|Greater London]]                                     |  9748 |
+| [[England/Regions~England/North_West_England/Manchester,County/cities~Manchester/Manchester,City/|Manchester]]                                                                                                | [[Greater Manchester]]                                                     | 2812 |
+| [[England/Regions~England/West_Midlands,Region/Birmingham,County/cities~Birmingham/Birmingham,City/|Birmingham]]                                                                                           | West Midlands                                                              | 2685 |
+| [[England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Leeds,County/cities~Leeds/Leeds,City/|Leeds]]/[[England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~West/Bradford,County/cities~Bradford/Bradford/|Bradford]]                                 | West Yorkshire                                                             | 1942 |
+| [[Scotland/counties~Scotland/Glasgow,County/Glasgow,City/|Glasgow,City]]                                                                                                               | [[Scotland/counties~Scotland/Glasgow,County/|Glasgow-County]]           | 1708 |
+| [[England/Regions~England/South_East_England/Southampton,County/cities~Southampton/Southampton/|Southampton]]/[[England/Regions~England/South_East_England/Portsmouth,County/cities~Portsmouth/Portsmouth/|Portsmouth]] | [[England/Regions~England/South_East_England/Hampshire,County/|Hampshire]]                |  959 |
+| [[England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Liverpool/|Liverpool]]                                                                                                                 | [[England/Regions~England/North_West_England/Merseyside/|Merseyside]]                     |  923 |
+| [[England/Regions~England/North_East_England/Newcastle_upon_Tyne/cities~Newcastle_upon_Tyne/Newcastle_upon_Tyne/|Newcastle_upon_Tyne]]                                                                   | [[Tyne and Wear]]                                                          |  829 |
+| [[England/Regions~England/East_Midlands/Nottingham,County/cities~Nottingham/Nottingham/|Nottingham]]                                                                                                | [[England/Regions~England/East_Midlands/Nottinghamshire/|Nottinghamshire]]           |  813 |
+| [[England/Regions~England/Yorkshire_and_the_Humber/Sheffield,County/cities~Sheffield/Sheffield/|Sheffield]]                                                                                                    | [[South Yorkshire]]                                                        |  751 |
+| [[England/Regions~England/South_West_England/Bristol,County/cities~Bristol/Bristol/|Bristol]]                                                                                                            | [[England/Regions~England/South_West_England/Bristol,County/|Bristol,County]]             |  714 |
+| [[Ireland~North/counties~Ireland~North/Belfast,County/cities~Belfast/Belfast,City/|Belfast,City]]                                                                                      | [[Ireland~North/counties~Ireland~North/Belfast,County/|Belfast,County]] |  647 |
+| [[England/Regions~England/South_East_England/Brighton_and_Hove/cities~Brighton_and_Hove/Brighton/|Brighton]] [[Worthing]] [[Littlehampton]]                                                              | [[England/Regions~England/South_East_England/Sussex~East/|Sussex~East]]                   |  628 |
+| [[England/Regions~England/East_Midlands/Leicestershire/Leicester,City/|Leicester]]                                                                              | [[England/Regions~England/East_Midlands/Leicestershire/|Leicestershire]]             |  571 |
+| [[Scotland/counties~Scotland/Edinburgh-County/cities~CityofEdinburgh/Edinburgh,City/|Edinburgh-City]]                                                                                  | City of Edinburgh                                                          |  559 |
+| Bournemouth/Poole                                                                                                                                                                         | [[England/Regions~England/South_West_England/Dorset/|Dorset]]                             |  523 |
+| [[Wales/counties~Wales/Cardiff,County/Cardiff,City/|Cardiff,City]]                                                                                                                     | [[Wales/counties~Wales/Cardiff,County/|Cardiff,County]]                 |  492 |
 | Coventry-Bedworth                                                                                                                                                                         | [[West Midlands]]                                                          |  450 |
-| Teesside (Middlesbrough)                                                                                                                                                                  | [[UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North\|North_Yorkshire]]           |  395 |
-| [[UK/England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Stoke-upon-Trent\|Stoke-upon-Trent]] (The Potteries)                                                            | [[UK/England/Regions~England/West_Midlands,Region/Staffordshire,County\|Staffordshire]]        |  394 |
-| [[Reading-Wokingham]]                                                                                                                                                                     | [[UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West\|West_Berkshire]]             |  353 |
-| [[UK/England/Regions~England/North_East_England/Sunderland,County\|Sunderland,County]]                                                                                                                                                  | Tyne and Wear                                                                                     |   347 |
-| [[UK/England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire\|Preston,Lancashire]]                                                                                                                   | [[UK/England/Regions~England/North_West_England/Lancashire\|Lancashire]]                          |   336 |
-| [[UK/England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead\|Birkenhead]]                                                                                                               | [[UK/England/Regions~England/North_West_England/Merseyside\|Merseyside]]                     |  334 |
-| [[UK/England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull/cities~Kingston_upon_Hull/Kingston-upon-Hull\|Kingston-upon-Hull]]                                                                       | East Riding of Yorkshire                                                   |  327 |
-| [[UK/Wales/counties~Wales/Newport,County/Newport,City\|Newport,City]]                                                                                                                     | [[UK/Wales/counties~Wales/Newport,County\|Newport,County]]                 |  323 |
-| [[UK/England/Regions~England/East_of_England/Essex/cities~Essex/Southend-on-Sea\|Southend-on-Sea]]                                                                                                       | [[UK/England/Regions~England/East_of_England/Essex\|Essex]]                               |  321 |
-| [[UK/Wales/counties~Wales/Swansea,County/Swansea,City\|Swansea,City]]                                                                                                                     | [[UK/Wales/counties~Wales/Swansea,County\|Swansea,County]]                 |  318 |
+| Teesside (Middlesbrough)                                                                                                                                                                  | [[England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~North/|North_Yorkshire]]           |  395 |
+| [[England/Regions~England/West_Midlands,Region/Stoke-on-Trent,County/cities~Stoke-on-Trent/Stoke-upon-Trent/|Stoke-upon-Trent]] (The Potteries)                                                            | [[England/Regions~England/West_Midlands,Region/Staffordshire,County/|Staffordshire]]        |  394 |
+| [[Reading-Wokingham]]                                                                                                                                                                     | [[England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/|West_Berkshire]]             |  353 |
+| [[England/Regions~England/North_East_England/Sunderland,County/|Sunderland,County]]                                                                                                                                                  | Tyne and Wear                                                                                     |   347 |
+| [[England/Regions~England/North_West_England/Lancashire/cities~Lancashire/Preston,Lancashire/|Preston,Lancashire]]                                                                                                                   | [[England/Regions~England/North_West_England/Lancashire/|Lancashire]]                          |   336 |
+| [[England/Regions~England/North_West_England/Merseyside/Wirral/cities~Wirral/Birkenhead/|Birkenhead]]                                                                                                               | [[England/Regions~England/North_West_England/Merseyside/|Merseyside]]                     |  334 |
+| [[England/Regions~England/Yorkshire_and_the_Humber/Yorkshire~East_Riding/Kingston_upon_Hull/cities~Kingston_upon_Hull/Kingston-upon-Hull/|Kingston-upon-Hull]]                                                                       | East Riding of Yorkshire                                                   |  327 |
+| [[Wales/counties~Wales/Newport,County/Newport,City/|Newport,City]]                                                                                                                     | [[Wales/counties~Wales/Newport,County/|Newport,County]]                 |  323 |
+| [[England/Regions~England/East_of_England/Essex/cities~Essex/Southend-on-Sea/|Southend-on-Sea]]                                                                                                       | [[England/Regions~England/East_of_England/Essex/|Essex]]                               |  321 |
+| [[Wales/counties~Wales/Swansea,County/Swansea,City/|Swansea,City]]                                                                                                                     | [[Wales/counties~Wales/Swansea,County/|Swansea,County]]                 |  318 |
 
 
 ### #has_/image_for_/flag 
@@ -1304,13 +1304,13 @@ has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 > The capital and largest city of the United Kingdom 
 > (as well as the capital of England) is London. 
 > The cities of Edinburgh, Cardiff, and Belfast are respectively 
-> the national capitals of Scotland, Wales, and [[UK/Ireland~North|Northern Ireland]]. 
+> the national capitals of Scotland, Wales, and [[Ireland~North|Northern Ireland]]. 
 > Other major cities include Birmingham, Manchester, Glasgow, and Leeds. 
 > 
 > The UK consists of three distinct legal jurisdictions: 
 > England and Wales, Scotland, and Northern Ireland. 
 > This is due to these areas retaining their existing legal systems after joining the UK. 
-> Since 1998, [[UK/Scotland|Scotland]], [[UK/Wales|Wales]], and Northern Ireland 
+> Since 1998, [[Scotland|Scotland]], [[Wales|Wales]], and Northern Ireland 
 > also have their own devolved governments and legislatures, each with varying powers.
 > 
 > The UK has the world's sixth-largest economy by nominal gross domestic product (GDP), 
@@ -1361,7 +1361,7 @@ markerFolder: ./UK/City/
 
 ```leaflet
 id: UK_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1384,7 +1384,7 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land` 
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode` 
-Capital :: [[UK/London,City|London,City]]  
+Capital :: [[London,City|London,City]]  
 Alcohol-l = `=this.dv_Alcohol-l` 
 Language-Id = `=this.dv_Language-Id` 
 has_place_longitude = `=this.dv_has_place_longitude` 
