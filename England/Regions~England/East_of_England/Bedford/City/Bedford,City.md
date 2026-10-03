@@ -18,7 +18,7 @@ dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.55
 dv_has_place_latitude: 52.13
 dv_has_name: Bedford
-dv_Country: "[[../../../../..]]"
+dv_Country: "[[../../../../../../UK]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
