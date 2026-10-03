@@ -4,6 +4,10 @@ aliases:
 location:
   - 51.97
   - 1.33
+  - 51
+  - 97
+  - 1
+  - 33
 mapzoom:
   - 7
   - 12
@@ -57,3 +61,23 @@ maxZoom: 18
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/cities~Suffolk/Suffolkcoastal/cities~Suffolkcoastal/Felixstown~Suffolk.secret|Felixstown~Suffolk.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/East_of_England/Suffolk/Felixstown~Suffolk.md`
+
+#is_a_/Place
+is_a_ = `=this.dv_is_a_`
+[has_place_longitude::1,33]
+[has_place_latitude::51,97]
+name = `=this.dv_has_name`
+State ::
+Country = `=this.dv_Country`
+[StateId::]
+[Population::]
+
+```leaflet
+id: Felixstown/Suffolk
+coordinates: [[Felixstown/Suffolk]]
+markerFile: [[Felixstown/Suffolk]]
+defaultZoom: 11
+maxZoom: 18
+```

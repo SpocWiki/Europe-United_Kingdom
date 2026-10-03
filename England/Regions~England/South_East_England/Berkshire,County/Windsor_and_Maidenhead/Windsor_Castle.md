@@ -16,6 +16,8 @@ coordinate_location: Point(-0.60483 51.4838)
 location:
   - 51.4838
   - -0.60483
+  - 51.48
+  - -0.58
 inception: 1070-01-01T00:00:00Z
 P1015: 97016324
 Wolfram_Language_entity_code:
@@ -104,6 +106,21 @@ official_website:
   - https://www.rct.uk/visit/windsorcastle
   - https://www.royalcollection.org.uk/visit/windsorcastle
 ISNI: 0000000121495119
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
+type: City
+tags:
+  - geo/City
+SpocWebEntityId: 35640
+isDeleted: false
+confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.58
+dv_has_place_latitude: 51.48
+dv_has_name: Windsor Castle
+dv_Country: "[[../../../../../../../../UK]]"
 ---
 
 # [[Windsor_Castle]] 
@@ -143,3 +160,23 @@ is_same_as = `=this.dv_is_same_as`
 
 ### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Windsor_and_Maidenhead/Windsor_Castle.secret|Windsor_Castle.secret]] 
 
+
+## Merged from `_Standards/Earth/Continent/Europe/Europe~North/UK/England/Regions~England/South_East_England/Berkshire,County/Berkshire~West/Slough,County/cities~Slough/Windsor_Castle.md`
+
+#is_a_/Place
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+name = `=this.dv_has_name`
+State ::
+Country = `=this.dv_Country`
+[StateId::]
+[Population::]
+
+```leaflet
+id: Windsor Castle
+coordinates: [[Windsor_Castle]]
+markerFile: [[Windsor_Castle]]
+defaultZoom: 11
+maxZoom: 18
+```
