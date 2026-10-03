@@ -33,8 +33,8 @@ id: Barnsley
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Barnsley/
-markerFolder: ./Barnsley/
+geojsonFolder: ./Barnsley,County/
+markerFolder: ./Barnsley,County/
 ```
 
 
