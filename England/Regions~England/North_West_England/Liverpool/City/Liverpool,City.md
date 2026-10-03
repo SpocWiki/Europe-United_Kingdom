@@ -1,11 +1,11 @@
 ---
-dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.07
 dv_has_place_latitude: 53.4
 dv_has_name: Liverpool
 dv_is_:
-  same_as: "[[../../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]"
-dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]"
+  same_as: "[[../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]"
+dv_is_same_as: "[[../../../../../../../../../../WikiData/WD~Liverpool,24826|WD~Liverpool,24826]]"
 
 has_time_started: 1207-01-01 
 aliases:
@@ -36,7 +36,7 @@ twinned_administrative_body:
   - '[[_Standards/WikiData/WD~Rotterdam,34370]]'
   - '[[_Standards/WikiData/WD~Rosario,52535]]'
 described_by_source:
-  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
   - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
   - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'

@@ -14,11 +14,11 @@ tags:
 SpocWebEntityId: 29028
 isDeleted: false
 confidential: public
-dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_is_a_: "[[../../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.48
 dv_has_place_latitude: 53.88
 dv_has_name: Barnsley
-dv_Country: "[[../../../../../../../UK]]"
+dv_Country: "[[../../../../../../../..]]"
 ---
 #is_a_/Place  
 is_a_ = `=this.dv_is_a_`
